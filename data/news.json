@@ -1,5 +1,117 @@
 [
   {
+    "title": "Mitsubishi Motors revives Pajero SUV; first sales set for Thailand",
+    "link": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-revives-pajero-suv-first-sales-set-for-thailand",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:30"
+  },
+  {
+    "title": "Vietnam launches infrastructure spree to mark independence",
+    "link": "https://asia.nikkei.com/economy/vietnam-launches-infrastructure-spree-to-mark-independence",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:30"
+  },
+  {
+    "title": "China threatens boycott of South Korean art exhibition over Taiwan",
+    "link": "https://asia.nikkei.com/politics/international-relations/china-threatens-boycott-of-south-korean-art-exhibition-over-taiwan",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:30"
+  },
+  {
+    "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
+    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:30"
+  },
+  {
+    "title": "From yoga to Hyrox, Lululemon taps Asian trends with new Tokyo store",
+    "link": "https://asia.nikkei.com/business/retail/from-yoga-to-hyrox-lululemon-taps-asian-trends-with-new-tokyo-store",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:30"
+  },
+  {
+    "title": "DSGCP, Saket Gore buy bback to build a broader Asian recovery brand",
+    "link": "https://e27.co/dsgcp-saket-gore-buy-bback-to-build-a-broader-asian-recovery-brand-20260902/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 07:56"
+  },
+  {
+    "title": "Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads",
+    "link": "https://www.scmp.com/business/china-evs/article/3366071/chinese-carmakers-eye-full-hybrid-market-byd-posts-us12-billion-profit-7-ev-reads?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-02 07:30"
+  },
+  {
+    "title": "Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366078/philippine-fast-food-giant-jollibee-picks-hong-kong-over-new-york-spin-listing?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-02 07:03"
+  },
+  {
+    "title": "Hashed-backed ShardLab invests in StoreHub to build new merchant rewards products",
+    "link": "https://e27.co/hashed-backed-shardlab-invests-in-storehub-to-build-new-merchant-rewards-products-20260902/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 07:00"
+  },
+  {
+    "title": "China widens access to overseas stocks, handing out nearly US$7b in QDII quotas",
+    "link": "https://www.scmp.com/business/china-business/article/3366063/china-widens-access-overseas-stocks-handing-out-nearly-us7b-qdii-quotas?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-02 06:00"
+  },
+  {
+    "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+    "link": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 05:00"
+  },
+  {
+    "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
+    "link": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 04:28"
+  },
+  {
+    "title": "Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?",
+    "link": "https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 04:24"
+  },
+  {
+    "title": "China’s pension fund doubles offshore investments to new high in quest for higher returns",
+    "link": "https://www.scmp.com/business/china-business/article/3366050/chinas-pension-fund-doubles-offshore-investments-us86b-quest-higher-returns?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-02 04:01"
+  },
+  {
     "title": "India, X in censorship row; curbs 'every 68 seconds,' says activist",
     "link": "https://asia.nikkei.com/business/technology/india-x-in-censorship-row-curbs-every-68-seconds-says-activist",
     "source": "Nikkei Asia - Tech",
