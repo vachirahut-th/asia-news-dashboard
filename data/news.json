@@ -1,5 +1,221 @@
 [
   {
+    "title": "High Court rejects US$5m claim against Babel Finance co-founder over crypto fund collapse",
+    "link": "https://www.straitstimes.com/business/high-court-rejects-us5m-claim-against-babel-finance-co-founder-over-crypto-fund-collapse",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 12:00"
+  },
+  {
+    "title": "ByteDance gets $37.6b loan, Asia’s second-largest in 2026",
+    "link": "https://www.straitstimes.com/business/bytedance-gets-37-6b-loan-asias-second-largest-in-2026",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 11:56"
+  },
+  {
+    "title": "Thomson Reuters detects cybersecurity incident, says unauthorized party accessed files",
+    "link": "https://www.channelnewsasia.com/business/thomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-files-6359396",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 11:07"
+  },
+  {
+    "title": "Notice of the \"Meeting on Market Operations\"",
+    "link": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 11:00"
+  },
+  {
+    "title": "ByteDance gets $30 billion loan, Bloomberg News reports",
+    "link": "https://www.channelnewsasia.com/business/bytedance-gets-30-billion-loan-bloomberg-news-reports-6359356",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 10:58"
+  },
+  {
+    "title": "Shares, bonds rally as markets await signals for Fed rates",
+    "link": "https://www.straitstimes.com/business/shares-bonds-rally-as-markets-await-signals-for-fed-rates",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 10:42"
+  },
+  {
+    "title": "Shares, bonds rally as markets await signals for Fed rates",
+    "link": "https://www.channelnewsasia.com/business/shares-bonds-rally-markets-await-signals-fed-rates-6359216",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 10:02"
+  },
+  {
+    "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
+    "link": "https://www.channelnewsasia.com/business/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-power-paper-says-6359151",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 09:28"
+  },
+  {
+    "title": "Dollar debasement is favouring Singapore’s currency, analysts say",
+    "link": "https://www.straitstimes.com/business/dollar-debasement-is-favouring-singapores-currency-analysts-say",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 08:58"
+  },
+  {
+    "title": "Sources of Changes in Current Account Balances (Projections for Sept.)",
+    "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 08:50"
+  },
+  {
+    "title": "Oil edges down as investors weigh uncertainty over US-Iran strikes",
+    "link": "https://www.channelnewsasia.com/business/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-6359096",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 08:49"
+  },
+  {
+    "title": "Japan services growth hits five-month high, PMI shows",
+    "link": "https://www.channelnewsasia.com/business/japan-services-growth-hits-five-month-high-pmi-shows-6359076",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 08:33"
+  },
+  {
+    "title": "US Fed says ‘positive’ economic outlook facing heightened uncertainty",
+    "link": "https://www.straitstimes.com/business/us-fed-says-positive-economic-outlook-facing-heightened-uncertainty",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 08:26"
+  },
+  {
+    "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
+    "link": "https://www.straitstimes.com/business/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 07:50"
+  },
+  {
+    "title": "Samsung insurers plan to buy Canopius for $1.5 billion, newspaper says",
+    "link": "https://www.channelnewsasia.com/business/samsung-insurers-plan-buy-canopius-15-billion-newspaper-says-6358986",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 07:26"
+  },
+  {
+    "title": "Uber and AI-firm Wayve launch London's first robotaxis",
+    "link": "https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941",
+    "source": "CNA (Business & Economy)",
+    "category": "Economy",
+    "region": "Asia-Pacific",
+    "published_at": "2026-09-03 07:02"
+  },
+  {
+    "title": "Meet the humans behind ‘Wendy and Wayne’, OCBC’s wealth avatars",
+    "link": "https://www.straitstimes.com/business/meet-the-humans-behind-wendy-and-wayne-ocbcs-virtual-wealth-avatars",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 06:00"
+  },
+  {
+    "title": "Wall Street ends higher as stocks reclaim some shine",
+    "link": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-stocks-reclaim-some-shine",
+    "source": "The Straits Times (Business)",
+    "category": "Economy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:05"
+  },
+  {
+    "title": "What do 3% yields mean for Japan's businesses, Takaichi's spending plans?",
+    "link": "https://asia.nikkei.com/economy/what-do-3-yields-mean-for-japan-s-businesses-takaichi-s-spending-plans",
+    "source": "Nikkei Asia",
+    "category": "Economy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:10"
+  },
+  {
+    "title": "Japan's corporate pensions return to domestic bonds as long-term rates rise",
+    "link": "https://asia.nikkei.com/business/finance/japan-s-corporate-pensions-return-to-domestic-bonds-as-long-term-rates-rise",
+    "source": "Nikkei Asia",
+    "category": "Economy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:10"
+  },
+  {
+    "title": "Mideast oil-producing nations scramble for pipeline alternatives to Hormuz",
+    "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/mideast-oil-producing-nations-scramble-for-pipeline-alternatives-to-hormuz",
+    "source": "Nikkei Asia",
+    "category": "Economy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:10"
+  },
+  {
+    "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
+    "link": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
+    "source": "Nikkei Asia",
+    "category": "Economy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:10"
+  },
+  {
+    "title": "Japan's JFE Engineering to use Nobel-winning material for carbon capture",
+    "link": "https://asia.nikkei.com/business/technology/japan-s-jfe-engineering-to-use-nobel-winning-material-for-carbon-capture",
+    "source": "Nikkei Asia",
+    "category": "Economy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:10"
+  },
+  {
+    "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
+    "link": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:55"
+  },
+  {
+    "title": "Laters.com raises US$1.5M to expand flexible flight payments",
+    "link": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 03:49"
+  },
+  {
+    "title": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue",
+    "link": "https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:43"
+  },
+  {
+    "title": "The travel eSIM market is moving beyond price per GB",
+    "link": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 03:30"
+  },
+  {
     "title": "Top British state school opens branch near Delhi and in Dubai",
     "link": "https://asia.nikkei.com/business/education/top-british-state-school-opens-branch-near-delhi-and-in-dubai",
     "source": "Nikkei Asia - Tech",
@@ -40,6 +256,14 @@
     "published_at": "2026-09-03 03:24"
   },
   {
+    "title": "Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools",
+    "link": "https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:21"
+  },
+  {
     "title": "Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials",
     "link": "https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -48,12 +272,52 @@
     "published_at": "2026-09-03 03:20"
   },
   {
+    "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
+    "link": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:11"
+  },
+  {
     "title": "Staying secure in the AI era: The habits we need to rethink",
     "link": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
     "source": "e27",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 03:00"
+  },
+  {
+    "title": "Solomon leverages AI vision and optical tech to tap semiconductor inspection market",
+    "link": "https://www.digitimes.com/news/a20260902PD246/solomon-3d-vision-wafer-inspection-semicon-taiwan.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 02:57"
+  },
+  {
+    "title": "TSMC doubles down on equipment purchase as AI demand is outpacing semiconductor supply chain planning",
+    "link": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 02:50"
+  },
+  {
+    "title": "SK Hynix weighs Kioxia production tie-up in Japan",
+    "link": "https://www.digitimes.com/news/a20260903VL212/sk-hynix-kioxia-nand-production.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 02:38"
+  },
+  {
+    "title": "Intel pre-funds EMIB-T and CPU capacity, will address DRAM through partners rather than fabs",
+    "link": "https://www.digitimes.com/news/a20260903VL211/intel-emib-cpu-dram-capacity-2028.html",
+    "source": "Digitimes (Semiconductor/Tech)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 02:21"
   },
   {
     "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
@@ -232,6 +496,22 @@
     "published_at": "2026-09-02 22:26"
   },
   {
+    "title": "Japanese Government Bonds Held by the Bank of Japan",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-02 17:00"
+  },
+  {
+    "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-02 17:00"
+  },
+  {
     "title": "Toyota postpones launch of first US-made EV to at least 2027",
     "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-postpones-launch-of-first-us-made-ev-to-at-least-2027",
     "source": "Nikkei Asia - Tech",
@@ -296,6 +576,22 @@
     "published_at": "2026-09-02 16:08"
   },
   {
+    "title": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
+    "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-02 10:30"
+  },
+  {
+    "title": "Bank of Japan Accounts (August 31)",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260831.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-02 10:00"
+  },
+  {
     "title": "Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million",
     "link": "https://www.scmp.com/business/companies/article/3366091/walmarts-sams-club-accelerates-expansion-china-membership-passes-107-million?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -318,6 +614,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-02 09:15"
+  },
+  {
+    "title": "Monetary Base (Aug.)",
+    "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-02 08:50"
   },
   {
     "title": "Mitsubishi Motors revives Pajero SUV; first sales set for Thailand",
@@ -632,6 +936,14 @@
     "published_at": "2026-09-01 23:53"
   },
   {
+    "title": "Bond Market Survey (August 2026)",
+    "link": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-01 16:00"
+  },
+  {
     "title": "Volkswagen launches inquiry into Changzhou supplier following mass graduate lay-offs",
     "link": "https://www.scmp.com/economy/china-economy/article/3366007/volkswagen-launches-inquiry-changzhou-supplier-following-mass-graduate-lay-offs?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -784,11 +1096,123 @@
     "published_at": "2026-09-01 02:00"
   },
   {
+    "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+    "link": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:55"
+  },
+  {
+    "title": "India is showing the world what AI will do to jobs and education",
+    "link": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:30"
+  },
+  {
+    "title": "“Not a bank, not a gamble”: Chocolate Finance wants your business’s spare cash",
+    "link": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:30"
+  },
+  {
+    "title": "Southeast Asia’s quiet FDI manufacturing redistribution",
+    "link": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:30"
+  },
+  {
+    "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
+    "link": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:00"
+  },
+  {
+    "title": "The AI marketing backlash story doesn’t actually fit Southeast Asia",
+    "link": "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/",
+    "source": "e27 (Tech & Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-01 01:00"
+  },
+  {
     "title": "Shein shares recover after 10% drop on Hong Kong debut",
     "link": "https://www.scmp.com/business/banking-finance/article/3365886/shein-shares-plunge-28-grey-market-ahead-hong-kong-debut?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-01 00:00"
+  },
+  {
+    "title": "Foreign investors boost Chinese stock holdings as AI hardware, green energy lure inflows",
+    "link": "https://www.scmp.com/business/china-business/article/3365828/foreign-investors-boost-chinese-stock-holdings-ai-hardware-green-energy-lure-inflows?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 23:00"
+  },
+  {
+    "title": "France takes aim at ultra-fast fashion with fee per garment",
+    "link": "https://www.scmp.com/news/world/europe/article/3365889/france-takes-aim-ultra-fast-fashion-new-levy-targeting-asian-e-commerce-platforms?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 16:52"
+  },
+  {
+    "title": "Former top European official adopts bullish tone on China-EU trade talks as deadline nears",
+    "link": "https://www.scmp.com/economy/china-economy/article/3365867/former-top-european-official-adopts-bullish-tone-china-eu-trade-talks-deadline-nears?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 12:30"
+  },
+  {
+    "title": "China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains",
+    "link": "https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 11:43"
+  },
+  {
+    "title": "PetroChina’s first-half profit jumps 22% as higher oil prices offset Iran war supply hit",
+    "link": "https://www.scmp.com/business/china-business/article/3365866/petrochinas-first-half-profit-jumps-22-higher-oil-prices-offset-iran-war-supply-hit?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 11:23"
+  },
+  {
+    "title": "Hong Kong emerges as Asia’s top hub for start-up potential, ranks fifth worldwide: study",
+    "link": "https://www.scmp.com/business/article/3365861/hong-kong-emerges-asias-top-hub-start-potential-ranks-fifth-worldwide-study?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 10:36"
+  },
+  {
+    "title": "Hot property: Big banks, fashion stores seek ‘cheaper’, eye-catching Hong Kong retail",
+    "link": "https://www.scmp.com/business/article/3365813/hot-property-big-banks-fashion-stores-seek-cheaper-eye-catching-hong-kong-retail?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 09:00"
+  },
+  {
+    "title": "China’s 6 biggest state banks post rare shared growth as margins show tentative rebound",
+    "link": "https://www.scmp.com/business/banking-finance/article/3365800/chinas-six-biggest-state-banks-post-rare-shared-growth-margins-show-tentative-rebound?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-31 07:00"
   }
 ]
