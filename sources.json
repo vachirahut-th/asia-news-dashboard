@@ -1,0 +1,65 @@
+[
+  {
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "url": "https://www.bot.or.th/en/news-and-media/news.rss",
+    "type": "rss"
+  },
+  {
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
+    "type": "rss"
+  },
+  {
+    "source": "Asian Development Bank (ADB)",
+    "category": "Official Stats/Policy",
+    "region": "Asia-Pacific",
+    "url": "https://www.adb.org/rss/news.xml",
+    "type": "rss"
+  },
+  {
+    "source": "Ministry of Finance (Japan)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "url": "https://www.mof.go.jp/english/press_release.xml",
+    "type": "rss"
+  },
+  {
+    "source": "Singapore EDB (Economic Board)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "url": "https://www.edb.gov.sg/en/about-edb/media-releases-and-resources/news-and-events.html",
+    "type": "html"
+  },
+  {
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "url": "https://www.scmp.com/rss/92/feed",
+    "type": "rss"
+  },
+  {
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "url": "https://www.digitimes.com/rss/daily.xml",
+    "type": "rss"
+  },
+  {
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "url": "https://www.techinasia.com/feed",
+    "type": "rss"
+  },
+  {
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "url": "https://e27.co/feed/",
+    "type": "rss"
+  }
+]
