@@ -1,100 +1,24 @@
-import feedparser
 import json
 import os
-import urllib.request
 from datetime import datetime
+from urllib.parse import urljoin
+import requests
+import feedparser
+from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
-# แหล่งข้อมูล: ผสมผสานระหว่างหน่วยงานเศรษฐกิจระดับทางการ (Central Banks/Stats) 
-# และสำนักข่าวเทคโนโลยี/เศรษฐกิจระดับภูมิภาค
-FEEDS = [
-    # --- หน่วยงานทางการ / สถิติและนโยบายเศรษฐกิจ (Official Economy & Stats) ---
-    {
-        "source": "Bank of Japan (BOJ)",
-        "category": "Official Stats/Policy",
-        "region": "East Asia",
-        "url": "https://www.boj.or.jp/en/rss/whatsnew.xml"
-    },
-    {
-        "source": "Ministry of Finance (Japan)",
-        "category": "Official Stats/Policy",
-        "region": "East Asia",
-        "url": "https://www.mof.go.jp/english/press_release.xml"
-    },
-    {
-        "source": "Asian Development Bank (ADB)",
-        "category": "Official Stats/Policy",
-        "region": "Asia-Pacific",
-        "url": "https://www.adb.org/rss/news.xml"
-    },
-    {
-        "source": "Bank of Thailand (BOT)",
-        "category": "Official Stats/Policy",
-        "region": "Southeast Asia",
-        "url": "https://www.bot.or.th/en/news-and-media/news.rss"
-    },
-
-    # --- สื่อเศรษฐกิจและการเงินชั้นนำ (Macro & Regional Economy) ---
-    {
-        "source": "SCMP - Economy",
-        "category": "Economy",
-        "region": "China/East Asia",
-        "url": "https://www.scmp.com/rss/92/feed"
-    },
-    {
-        "source": "The Straits Times (Business)",
-        "category": "Economy",
-        "region": "Southeast Asia",
-        "url": "https://www.straitstimes.com/news/business/rss.xml"
-    },
-    {
-        "source": "CNA (Business & Economy)",
-        "category": "Economy",
-        "region": "Asia-Pacific",
-        "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936"
-    },
-    {
-        "source": "Nikkei Asia",
-        "category": "Economy",
-        "region": "East Asia",
-        "url": "https://asia.nikkei.com/rss/feed/nar"
-    },
-
-    # --- สื่อเทคโนโลยีและนวัตกรรม (Technology & Innovation) ---
-    {
-        "source": "e27 (Tech & Startups)",
-        "category": "Technology",
-        "region": "Southeast Asia",
-        "url": "https://e27.co/feed/"
-    },
-    {
-        "source": "Digitimes (Semiconductor/Tech)",
-        "category": "Technology",
-        "region": "East Asia",
-        "url": "https://www.digitimes.com/rss/daily.xml"
-    },
-    {
-        "source": "KrASIA (Tech & Digital Economy)",
-        "category": "Technology",
-        "region": "Asia-Pacific",
-        "url": "https://kr-asia.com/feed"
-    }
-]
-
 DATA_FILE = "data/news.json"
+SOURCES_FILE = "sources.json"
 
-def fetch_feed_data(url):
-    """ส่ง Request พร้อม Custom User-Agent ป้องกันไม่ให้สำนักข่าวบล็อก"""
-    try:
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        )
-        with urllib.request.urlopen(req, timeout=15) as response:
-            return response.read()
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return None
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+def load_sources():
+    if os.path.exists(SOURCES_FILE):
+        with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
 
 def load_existing_data():
     if os.path.exists(DATA_FILE):
@@ -105,28 +29,18 @@ def load_existing_data():
             return []
     return []
 
-def main():
-    existing_news = load_existing_data()
-    seen_links = {item["link"] for item in existing_news}
-    new_entries = []
-
-    for feed_info in FEEDS:
-        print(f"Fetching: {feed_info['source']}...")
-        xml_content = fetch_feed_data(feed_info["url"])
-        if not xml_content:
-            continue
-
-        parsed = feedparser.parse(xml_content)
-        
-        # จำกัดไม่เกิน 8 ข่าวต่อสำนักข่าว เพื่อเฉลี่ยสัดส่วนไม่ให้สำนักข่าวใดครอบงำแดชบอร์ด
+def parse_rss_feed(feed_info, seen_links):
+    """ดึงข้อมูลจาก RSS / XML"""
+    entries = []
+    try:
+        res = requests.get(feed_info["url"], headers=HEADERS, timeout=15)
+        parsed = feedparser.parse(res.content)
         count = 0
         for entry in parsed.entries:
             if count >= 8:
                 break
-
             link = entry.get("link", "").strip()
             title = entry.get("title", "").strip()
-            
             if not link or not title or link in seen_links:
                 continue
 
@@ -137,7 +51,7 @@ def main():
             except Exception:
                 date_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
 
-            new_entries.append({
+            entries.append({
                 "title": title,
                 "link": link,
                 "source": feed_info["source"],
@@ -147,8 +61,74 @@ def main():
             })
             seen_links.add(link)
             count += 1
+    except Exception as e:
+        print(f"Error parsing RSS {feed_info['source']}: {e}")
+    return entries
 
-    # รวมข่าวเดิมและใหม่ แล้วเรียงตามวันที่ล่าสุด
+def parse_html_page(feed_info, seen_links):
+    """ดึงข้อมูลจากหน้าเว็บ HTML ทั่วไปที่ไม่ใช่ RSS โดยค้นหาหัวข้อและลิงก์อัตโนมัติ"""
+    entries = []
+    try:
+        res = requests.get(feed_info["url"], headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(res.text, "html.parser")
+        
+        # ค้นหา article หรือกล่องข่าวทั่วไป
+        candidates = soup.find_all(["article", "li", "div"], limit=50)
+        count = 0
+        now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+
+        for item in candidates:
+            if count >= 8:
+                break
+            
+            # หาแท็ก <a> ที่มีข้อความยาวพอจะเป็นหัวข้อข่าว (เกิน 25 ตัวอักษร)
+            link_tag = item.find("a", href=True)
+            if not link_tag:
+                continue
+
+            title = link_tag.get_text(strip=True)
+            # ข้ามเมนูหรือข้อความสั้นๆ
+            if len(title) < 25:
+                # ลองดูแท็ก h1, h2, h3 ภายในกล่อง
+                heading = item.find(["h1", "h2", "h3", "h4"])
+                if heading:
+                    title = heading.get_text(strip=True)
+
+            if len(title) < 25:
+                continue
+
+            link = urljoin(feed_info["url"], link_tag["href"])
+            if link in seen_links:
+                continue
+
+            entries.append({
+                "title": title,
+                "link": link,
+                "source": feed_info["source"],
+                "category": feed_info["category"],
+                "region": feed_info["region"],
+                "published_at": now_str
+            })
+            seen_links.add(link)
+            count += 1
+    except Exception as e:
+        print(f"Error parsing HTML {feed_info['source']}: {e}")
+    return entries
+
+def main():
+    sources = load_sources()
+    existing_news = load_existing_data()
+    seen_links = {item["link"] for item in existing_news}
+    new_entries = []
+
+    for src in sources:
+        print(f"Fetching: {src['source']} ({src.get('type', 'rss').upper()})...")
+        if src.get("type") == "html":
+            items = parse_html_page(src, seen_links)
+        else:
+            items = parse_rss_feed(src, seen_links)
+        new_entries.extend(items)
+
     all_news = new_entries + existing_news
     all_news.sort(key=lambda x: x["published_at"], reverse=True)
     all_news = all_news[:600]
