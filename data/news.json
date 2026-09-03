@@ -104,12 +104,28 @@
     "published_at": "2026-09-03 08:26"
   },
   {
+    "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
+    "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 08:00"
+  },
+  {
     "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
     "link": "https://www.straitstimes.com/business/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift",
     "source": "The Straits Times (Business)",
     "category": "Economy",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 07:50"
+  },
+  {
+    "title": "Mitsubishi Heavy Industries and NEC form alliance to advance defense tech, AI sovereignty",
+    "link": "https://www.digitimes.com/news/a20260903PR203/mitsubishi-heavy-nec-industrial-defense-alliance-partnership.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 07:35"
   },
   {
     "title": "Samsung insurers plan to buy Canopius for $1.5 billion, newspaper says",
@@ -120,12 +136,76 @@
     "published_at": "2026-09-03 07:26"
   },
   {
+    "title": "Turing Drive highlights overseas expansion, extends invitation to global automakers",
+    "link": "https://www.digitimes.com/news/a20260901PD235/autonomous-driving-automakers-startup-vehicle-taipei.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 07:25"
+  },
+  {
+    "title": "China chip tool makers expand beyond import substitution at CSEAC 2026",
+    "link": "https://www.digitimes.com/news/a20260903VL210/equipment-thin-film-metrology-silicon-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 07:15"
+  },
+  {
+    "title": "KEPCO seeks US$18 billion from Samsung, SK Hynix to fund Korea's power grid",
+    "link": "https://www.digitimes.com/news/a20260903VL218/sk-hynix-samsung-electricity-infrastructure-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 07:04"
+  },
+  {
     "title": "Uber and AI-firm Wayve launch London's first robotaxis",
     "link": "https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941",
     "source": "CNA (Business & Economy)",
     "category": "Economy",
     "region": "Asia-Pacific",
     "published_at": "2026-09-03 07:02"
+  },
+  {
+    "title": "AI tool spots red flags in dating profiles and job offers",
+    "link": "https://www.techinasia.com/ai-tool-spots-red-flags-in-dating-profiles-and-job-offers",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 07:00"
+  },
+  {
+    "title": "50 rising startups in Indonesia",
+    "link": "https://www.techinasia.com/50-rising-startups-indonesia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 07:00"
+  },
+  {
+    "title": "Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics",
+    "link": "https://www.digitimes.com/news/a20260903VL213/atlas-3d-robotics-startup-camera.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 06:28"
+  },
+  {
+    "title": "Niching validates 500-ton press for large heat spreaders",
+    "link": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 06:20"
+  },
+  {
+    "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
+    "link": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 06:15"
   },
   {
     "title": "Meet the humans behind ‘Wendy and Wayne’, OCBC’s wealth avatars",
@@ -136,12 +216,68 @@
     "published_at": "2026-09-03 06:00"
   },
   {
+    "title": "For Southeast Asian startups, distress may show up before the cash runs out",
+    "link": "https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:49"
+  },
+  {
+    "title": "Amid global risks, younger investors favour tangible bars as paper gold loses shine",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366187/amid-global-risks-younger-investors-favour-tangible-bars-paper-gold-loses-shine?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 05:35"
+  },
+  {
+    "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
+    "link": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:35"
+  },
+  {
+    "title": "BYD opens Indonesia EV plant with 150,000 capacity",
+    "link": "https://www.techinasia.com/byd-denies-environmental-breaches-at-first-eu-plant",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:31"
+  },
+  {
+    "title": "Bots, bills, and data scraping: Inside Cloudflare’s AI plan",
+    "link": "https://www.techinasia.com/bots-bills-data-scraping-cloudflare-plan-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:30"
+  },
+  {
+    "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+    "link": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 05:09"
+  },
+  {
     "title": "Wall Street ends higher as stocks reclaim some shine",
     "link": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-stocks-reclaim-some-shine",
     "source": "The Straits Times (Business)",
     "category": "Economy",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 05:05"
+  },
+  {
+    "title": "Broadcom says CPO fits scale-out better than scale-up",
+    "link": "https://www.digitimes.com/news/a20260903PD228/broadcom-cpo-copper-technology-optics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:43"
   },
   {
     "title": "NewsLatest news from the BOT",
@@ -744,6 +880,14 @@
     "published_at": "2026-09-03 00:00"
   },
   {
+    "title": "Meta releases Muse Spark 1.3 with coding upgrades",
+    "link": "https://www.techinasia.com/meta-unveils-muse-glimmer-singlegpu",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 23:54"
+  },
+  {
     "title": "China’s new home finance rules reduce buyer risks but may not revive the market: analysts",
     "link": "https://www.scmp.com/business/article/3366121/chinas-new-home-finance-rules-reduce-buyer-risks-may-not-revive-market-analysts?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -944,6 +1088,14 @@
     "published_at": "2026-09-02 16:08"
   },
   {
+    "title": "50 rising startups in Malaysia",
+    "link": "https://www.techinasia.com/50-rising-startups-malaysia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 11:00"
+  },
+  {
     "title": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
     "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
     "source": "Bank of Japan (BOJ)",
@@ -984,12 +1136,28 @@
     "published_at": "2026-09-02 09:15"
   },
   {
+    "title": "Meet the 50 top-funded startups and tech companies in Singapore",
+    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-singapore",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 09:00"
+  },
+  {
     "title": "Monetary Base (Aug.)",
     "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
     "source": "Bank of Japan (BOJ)",
     "category": "Official Stats/Policy",
     "region": "East Asia",
     "published_at": "2026-09-02 08:50"
+  },
+  {
+    "title": "GMI Cloud draws $947m in loan commitments",
+    "link": "https://www.techinasia.com/whos-solving-ais-data-center-energy-crisis-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-02 08:45"
   },
   {
     "title": "Mitsubishi Motors revives Pajero SUV; first sales set for Thailand",
