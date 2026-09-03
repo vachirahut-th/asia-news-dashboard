@@ -10,8 +10,8 @@
     "source": "Bank of Japan (BOJ)",
     "category": "Official Stats/Policy",
     "region": "East Asia",
-    "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
-    "type": "rss"
+    "url": "https://www.boj.or.jp/en/index.htm",
+    "type": "html"
   },
   {
     "source": "Asian Development Bank (ADB)",
