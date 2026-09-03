@@ -3,8 +3,8 @@
     "source": "Bank of Thailand (BOT)",
     "category": "Official Stats/Policy",
     "region": "Southeast Asia",
-    "url": "https://www.bot.or.th/en/news-and-media/news.rss",
-    "type": "rss"
+    "url": "https://www.bot.or.th/en/news-and-media.html",
+    "type": "html"
   },
   {
     "source": "Bank of Japan (BOJ)",
