@@ -1,5 +1,125 @@
 [
   {
+    "title": "Top British state school opens branch near Delhi and in Dubai",
+    "link": "https://asia.nikkei.com/business/education/top-british-state-school-opens-branch-near-delhi-and-in-dubai",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:24"
+  },
+  {
+    "title": "Berkshire eyes bigger stakes in Japan trading houses: CEO Abel",
+    "link": "https://asia.nikkei.com/editor-s-picks/interview/berkshire-eyes-bigger-stakes-in-japan-trading-houses-ceo-abel",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:24"
+  },
+  {
+    "title": "Malaysia draws global critical minerals interest as China curbs loom",
+    "link": "https://asia.nikkei.com/spotlight/supply-chain/malaysia-draws-global-critical-minerals-interest-as-china-curbs-loom",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:24"
+  },
+  {
+    "title": "Stalled Thai airport rail project faces further uncertainty",
+    "link": "https://asia.nikkei.com/business/transportation/stalled-thai-airport-rail-project-faces-further-uncertainty",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:24"
+  },
+  {
+    "title": "Japan Airlines CEO says aviation alliances taking on broader role",
+    "link": "https://asia.nikkei.com/business/transportation/japan-airlines-ceo-says-aviation-alliances-taking-on-broader-role",
+    "source": "Nikkei Asia - Tech",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 03:24"
+  },
+  {
+    "title": "Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials",
+    "link": "https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 03:20"
+  },
+  {
+    "title": "Staying secure in the AI era: The habits we need to rethink",
+    "link": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 03:00"
+  },
+  {
+    "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
+    "link": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 02:15"
+  },
+  {
+    "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
+    "link": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 02:00"
+  },
+  {
+    "title": "Who’s building AI for the way Southeast Asia actually speaks?",
+    "link": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 02:00"
+  },
+  {
+    "title": "Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance",
+    "link": "https://www.scmp.com/presented/business/topics/digital-assets/article/3365951/hong-kongs-digital-asset-moment-forthright-securities-what-bitcoin-asia-signals-licensed-finance?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 02:00"
+  },
+  {
+    "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
+    "link": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 01:30"
+  },
+  {
+    "title": "You spent fifteen years building guanxi, and then nobody picked up",
+    "link": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
+    "source": "e27",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 01:00"
+  },
+  {
+    "title": "Rare large-scale MTR topside tender draws heavyweight Hong Kong developers",
+    "link": "https://www.scmp.com/property/article/3366126/rare-large-scale-mtr-topside-tender-draws-heavyweight-hong-kong-developers?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 00:00"
+  },
+  {
+    "title": "China’s new home finance rules reduce buyer risks but may not revive the market: analysts",
+    "link": "https://www.scmp.com/business/article/3366121/chinas-new-home-finance-rules-reduce-buyer-risks-may-not-revive-market-analysts?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-02 23:00"
+  },
+  {
     "title": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
     "link": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
     "source": "Nikkei Asia - Tech",
