@@ -144,6 +144,118 @@
     "published_at": "2026-09-03 05:05"
   },
   {
+    "title": "NewsLatest news from the BOT",
+    "link": "https://www.bot.or.th/en/news-and-media/news.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
+    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
+    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Monetary Policy Committee Meeting",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Monetary Policy Publications",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
+    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Head Office, Branches, and Overseas Offices",
+    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
+    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Organization of Head office, Branches and Offices",
+    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "The Bank's Organizational Core Principles",
+    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Medium-Term Strategic Plan",
+    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
+    "title": "Business Continuity Planning",
+    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-03 04:34"
+  },
+  {
     "title": "ByteDance said to line up $29.6b loan",
     "link": "https://www.techinasia.com/bytedance-in-early-talks-for-20b-offshore-loan-sources",
     "source": "Tech in Asia",
@@ -416,6 +528,22 @@
     "published_at": "2026-09-03 02:09"
   },
   {
+    "title": "Equinix unveils AI infrastructure services with Nvidia, AWS",
+    "link": "https://www.techinasia.com/chinese-ai-firms-push-hong-kong-data-center-leasing",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 02:05"
+  },
+  {
+    "title": "Glasswall: The things anonymous founders say about VCs",
+    "link": "https://www.techinasia.com/visual-story/glasswall-vc-investors-founders-reviews",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 02:00"
+  },
+  {
     "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
     "link": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
     "source": "e27",
@@ -464,6 +592,22 @@
     "published_at": "2026-09-03 01:48"
   },
   {
+    "title": "BYD Semiconductor scales 4D radar chip for L2-L4 driving, deepening its in-house automotive sensing stack",
+    "link": "https://www.digitimes.com/news/a20260902VL213/byd-semiconductor-automotive-production-vehicle-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:47"
+  },
+  {
+    "title": "TRUMPF targets advanced packaging as AI chip makers chase higher density and better cooling",
+    "link": "https://www.digitimes.com/news/a20260902PD225/cooling-packaging-chips-ai-chip-transistor.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:47"
+  },
+  {
     "title": "UniVista expands China EDA stack with AI agents, native 3DIC tools",
     "link": "https://www.digitimes.com/news/a20260902VL219/eda-shanghai-design-3d-ip.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -480,6 +624,38 @@
     "published_at": "2026-09-03 01:47"
   },
   {
+    "title": "Google to expand Taipei AI infrastructure center as Taiwan ties deepen",
+    "link": "https://www.digitimes.com/news/a20260903PR200/google-infrastructure-taiwan-taipei-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:42"
+  },
+  {
+    "title": "Broadcom puts 30GW, US$350 billion of custom AI silicon on the calendar through fiscal 2028",
+    "link": "https://www.digitimes.com/news/a20260903VL207/broadcom-2028-2026-earnings-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:42"
+  },
+  {
+    "title": "Delivery Hero boards back Uber’s $15b takeover offer",
+    "link": "https://www.techinasia.com/uber-explores-delivery-hero-asset-sales-takeover",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 01:39"
+  },
+  {
+    "title": "China optical module makers ride AI boom as 800G, 1.6T orders stretch into 2027",
+    "link": "https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:35"
+  },
+  {
     "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
     "link": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
     "source": "e27",
@@ -488,12 +664,76 @@
     "published_at": "2026-09-03 01:30"
   },
   {
+    "title": "HPE has already bought the supply behind its raised fiscal 2027 plan",
+    "link": "https://www.digitimes.com/news/a20260903VL206/hpe-2027-earnings-juniper-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:25"
+  },
+  {
+    "title": "TSMC nearly doubles tool spending forecast for AI",
+    "link": "https://www.techinasia.com/tsmc-build-3-packaging-plants-chiayi",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 01:20"
+  },
+  {
+    "title": "HPE's constraint has shifted from demand to memory",
+    "link": "https://www.digitimes.com/news/a20260903VL205/demand-hpe-revenue-cost-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:16"
+  },
+  {
+    "title": "Lutnick confirms chip tariffs are coming, with relief tied to manufacturing in America",
+    "link": "https://www.digitimes.com/news/a20260903VL203/taiwan-investment-production-legal.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-03 01:10"
+  },
+  {
     "title": "You spent fifteen years building guanxi, and then nobody picked up",
     "link": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
     "source": "e27",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 01:00"
+  },
+  {
+    "title": "Why investors can’t quit quick commerce",
+    "link": "https://www.techinasia.com/why-investors-cant-quit-quick-commerce",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 00:30"
+  },
+  {
+    "title": "Google launches Gemini 3.8 Flash, Flash Cyber",
+    "link": "https://www.techinasia.com/googles-gemini-35-pro-delayed-improve-coding",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 00:07"
+  },
+  {
+    "title": "Waymo nears first debt deal for over $3b: sources",
+    "link": "https://www.techinasia.com/waymo-raises-16b-126b-valuation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 00:04"
+  },
+  {
+    "title": "Southeast Asia tech ecosystem report",
+    "link": "https://www.techinasia.com/visual-story/sea-tech-ecosystem-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-03 00:00"
   },
   {
     "title": "Rare large-scale MTR topside tender draws heavyweight Hong Kong developers",
@@ -1456,12 +1696,52 @@
     "published_at": "2026-08-31 03:30"
   },
   {
+    "title": "Building burnout-resistant teams",
+    "link": "https://e27.co/building-burnout-resistant-teams-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-31 03:00"
+  },
+  {
     "title": "China, US bond markets diverge as Warsh strikes hawkish tone at Jackson Hole",
     "link": "https://www.scmp.com/business/china-business/article/3365689/china-bond-market-diverges-us-warsh-strikes-hawkish-tone-jackson-hole?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-08-31 03:00"
+  },
+  {
+    "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+    "link": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-31 02:30"
+  },
+  {
+    "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+    "link": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-31 02:00"
+  },
+  {
+    "title": "SWOT is not boring; you are just using it too late",
+    "link": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-31 01:15"
+  },
+  {
+    "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+    "link": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-31 01:00"
   },
   {
     "title": "Golden hour: why Hong Kong may finally succeed in becoming precious metal’s trading hub",
@@ -1512,12 +1792,100 @@
     "published_at": "2026-08-29 02:00"
   },
   {
+    "title": "BYD posts US$1.2 billion profit in second quarter on surging global demand",
+    "link": "https://www.scmp.com/business/china-evs/article/3365652/byd-posts-us12-billion-profit-second-quarter-surging-global-demand?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 14:11"
+  },
+  {
     "title": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
     "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e11.htm",
     "source": "Bank of Japan (BOJ)",
     "category": "Official Stats/Policy",
     "region": "East Asia",
     "published_at": "2026-08-28 14:00"
+  },
+  {
+    "title": "HKEX Tech 100 adds Pony AI, WeRide in index revamp targeting AI stocks",
+    "link": "https://www.scmp.com/business/banking-finance/article/3365637/hkex-tech-100-adds-pony-ai-weride-index-revamp-targeting-ai-stocks?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 12:19"
+  },
+  {
+    "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
+    "link": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 11:06"
+  },
+  {
+    "title": "BOCHK posts higher profit as lower credit costs offset margin pressure",
+    "link": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 10:36"
+  },
+  {
+    "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
+    "link": "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-28 09:47"
+  },
+  {
+    "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
+    "link": "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-28 08:45"
+  },
+  {
+    "title": "Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal",
+    "link": "https://www.scmp.com/business/companies/article/3365579/macau-tycoon-lawrence-hos-family-office-expands-space-sector-de-spac-deal?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 08:01"
+  },
+  {
+    "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
+    "link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 08:00"
+  },
+  {
+    "title": "Bitcoin rally and Alibaba share purchases: the numbers moving markets",
+    "link": "https://www.scmp.com/business/china-business/article/3365540/bitcoin-rally-and-alibaba-share-purchases-numbers-moving-markets?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 07:00"
+  },
+  {
+    "title": "China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech",
+    "link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-08-28 06:00"
+  },
+  {
+    "title": "fileAI expands in Japan with new backing from SMBC and Singtel Innov8",
+    "link": "https://e27.co/fileai-expands-in-japan-with-new-backing-from-smbc-and-singtel-innov8-20260828/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-08-28 06:00"
   },
   {
     "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
