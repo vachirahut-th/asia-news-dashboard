@@ -1,5 +1,173 @@
 [
   {
+    "title": "Saudi AI firm Humain unveils Arabic model built on MiniMax M3",
+    "link": "https://www.techinasia.com/saudi-arabia-bets-on-data-centers-to-support-ai-ambitions",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 03:08"
+  },
+  {
+    "title": "Processor, memory boom could push chip supply chain out of sync, says Yole",
+    "link": "https://www.digitimes.com/news/a20260903VL223/yole-demand-capacity-investment-wafer.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:56"
+  },
+  {
+    "title": "Moonshot AI reportedly files for Hong Kong IPO, targets US$3B",
+    "link": "https://www.digitimes.com/news/a20260904VL204/moonshot-startup-ipo-demand-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:49"
+  },
+  {
+    "title": "ServiceNow buys Israeli AI startup Sweep",
+    "link": "https://www.techinasia.com/firm-servicenow-buys-israeli-ai-startup-traceloop",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 02:48"
+  },
+  {
+    "title": "Why 1 million impressions won’t fix a B2B sales pipeline",
+    "link": "https://www.techinasia.com/1-million-impressions-fix-b2b-sales-pipeline",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 02:47"
+  },
+  {
+    "title": "AI boom reshapes DRAM market as Samsung regains lead and CXMT gains ground",
+    "link": "https://www.digitimes.com/news/a20260904VL205/cxmt-samsung-hbm-dram-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:46"
+  },
+  {
+    "title": "Silicon Valley overflow fuels semiconductor boom in California's Capital Region",
+    "link": "https://www.digitimes.com/news/a20260903VL228/california-industrial-silicon-valley-region-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:38"
+  },
+  {
+    "title": "Acer broadens lineup with e-paper displays and scooters, ahead of PC industry headwinds",
+    "link": "https://www.digitimes.com/news/a20260903PD232/acer-e-paper-gaming-pc-industry-ifa.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:35"
+  },
+  {
+    "title": "Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year",
+    "link": "https://www.scmp.com/business/china-business/article/3366292/boost-evs-chinese-carmaker-chery-begin-testing-solid-state-batteries-next-year?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-04 02:30"
+  },
+  {
+    "title": "Sumitomo Chemical starts mass production of 4-inch InP wafers for AI data centers",
+    "link": "https://www.digitimes.com/news/a20260904PR204/sumitomo-chemical-inp-production-data-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:27"
+  },
+  {
+    "title": "Silicon photonics testing shift could reshape how CPO suppliers win business",
+    "link": "https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 02:12"
+  },
+  {
+    "title": "Chip leaders call for end to 'silo mentality' as AI scale-up demands cross-industry collab",
+    "link": "https://www.digitimes.com/news/a20260903VL222/expansion-design-packaging-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 01:57"
+  },
+  {
+    "title": "AMD, Delhi University to train 10,000 in AI tech",
+    "link": "https://www.techinasia.com/amd-roll-helios-gpu-platform-india-h2-2026",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 01:39"
+  },
+  {
+    "title": "The Podular future: Why AI demands a new organisational architecture",
+    "link": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 01:30"
+  },
+  {
+    "title": "The AI wrapper reckoning has reached SEA’s funding tables",
+    "link": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 01:30"
+  },
+  {
+    "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
+    "link": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 01:00"
+  },
+  {
+    "title": "Moonshot AI targets Hong Kong IPO in early 2027: sources",
+    "link": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 00:59"
+  },
+  {
+    "title": "Google launches WeatherNext 3 AI model for global forecasts",
+    "link": "https://www.techinasia.com/google-deepmind-ceo-steps-down-in-alphabet-ai-reshuffle",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 00:47"
+  },
+  {
+    "title": "SEA founders need a better US pitch",
+    "link": "https://www.techinasia.com/sea-founders-need-a-better-us-pitch",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 00:30"
+  },
+  {
+    "title": "Bitget in talks with BlackRock on Asia crypto push",
+    "link": "https://www.techinasia.com/bitget-launches-visa-crypto-card-apac",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 00:28"
+  },
+  {
+    "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-03 23:00"
+  },
+  {
     "title": "China prepares next phase of national SME fund to boost tech start-ups and IPOs",
     "link": "https://www.scmp.com/economy/china-economy/article/3366269/china-prepares-next-phase-national-sme-fund-boost-tech-start-ups-and-ipos?utm_source=rss_feed",
     "source": "SCMP - Economy",
