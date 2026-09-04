@@ -1,5 +1,133 @@
 [
   {
+    "title": "Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366431/hong-kongs-silver-bonds-draw-record-480000-bids-higher-interest-rate?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-04 12:26"
+  },
+  {
+    "title": "25 rising startups in the Philippines",
+    "link": "https://www.techinasia.com/50-rising-startups-philippines",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 11:00"
+  },
+  {
+    "title": "Cisco targets zero engineers writing code by end-October",
+    "link": "https://www.digitimes.com/news/a20260904VL214/cisco-software-security-development-supply.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 10:12"
+  },
+  {
+    "title": "Bargain sale, collapsed deal reflect Hong Kong’s struggling retail property market",
+    "link": "https://www.scmp.com/business/article/3366330/bargain-sale-collapsed-deal-reflect-hong-kongs-struggling-retail-property-market?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-04 10:00"
+  },
+  {
+    "title": "Ant International wins Brazil payment license",
+    "link": "https://www.techinasia.com/ant-international-hits-2-billion-ai-driven-payments-in-2025",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 09:52"
+  },
+  {
+    "title": "OpenAI’s Astra aims to turn AI from chatbot into digital worker",
+    "link": "https://e27.co/openais-astra-aims-to-turn-ai-from-chatbot-into-digital-worker-20260904/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 09:49"
+  },
+  {
+    "title": "CPO testing shifts to mid-stage to avoid costly failures, Chroma says",
+    "link": "https://www.digitimes.com/news/a20260904VL219/cpo-testing-optics-equipment-chipmakers.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 09:45"
+  },
+  {
+    "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
+    "link": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 09:21"
+  },
+  {
+    "title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
+    "link": "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 09:19"
+  },
+  {
+    "title": "Naver, Brookfield accelerate $9b AI factory in Korea",
+    "link": "https://www.techinasia.com/naver-samsung-sds-join-south-koreas-ai-project",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 09:16"
+  },
+  {
+    "title": "Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives",
+    "link": "https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 09:06"
+  },
+  {
+    "title": "From chips to physical AI: Experts urge Taiwan-US push for trusted drone supply chains at Semicon Taiwan 2026",
+    "link": "https://www.digitimes.com/news/a20260904PD218/drone-semiconductors-government-semicon-taiwan-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 09:05"
+  },
+  {
+    "title": "Can Hong Kong outshine Singapore as central banks rethink gold custody amid global risks?",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366357/can-hong-kong-outshine-singapore-central-banks-rethink-gold-custody-amid-global-risks?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-04 09:00"
+  },
+  {
+    "title": "Meet the 100 top-funded startups and tech companies in China",
+    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-china",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-04 09:00"
+  },
+  {
+    "title": "The 'Copper Wall': inside the physical bottlenecks threatening to melt AI supercomputing boom",
+    "link": "https://www.digitimes.com/news/a20260903VL226/quanta-copper-ai-semicon-taiwan-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 08:35"
+  },
+  {
+    "title": "How agentic AI and 'AI physics' are reshaping chip design",
+    "link": "https://www.digitimes.com/news/a20260903VL227/ai-agent-eda-design-hardware-software-nvidia.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 08:20"
+  },
+  {
     "title": "China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources",
     "link": "https://www.scmp.com/business/companies/article/3366347/chinas-ai-little-giant-yunxi-technology-files-hong-kong-ipo-sources?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -142,6 +270,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-04 04:20"
+  },
+  {
+    "title": "India tablet market grows as business demand shifts toward premium devices",
+    "link": "https://www.digitimes.com/news/a20260903PR202/india-tablet-business-growth-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 04:15"
   },
   {
     "title": "Should cybersecurity be nationalised?",
