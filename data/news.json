@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meet the 50 top-funded startups and tech companies in India",
+    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 09:00"
+  },
+  {
     "title": "Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China",
     "link": "https://www.scmp.com/business/article/3366384/rich-dad-poor-dad-authors-vast-debts-spark-awe-and-some-bitterness-china?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -78,6 +86,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-05 04:32"
+  },
+  {
+    "title": "Mapping Japan’s prominent cleantech startups",
+    "link": "https://www.techinasia.com/visual-story/mapping-japans-prominent-cleantech-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 04:00"
   },
   {
     "title": "Kia India launches Sorento featuring generative AI assistant",
@@ -256,6 +272,14 @@
     "published_at": "2026-09-04 23:54"
   },
   {
+    "title": "Jmem Tek's PQC security chip nears mass production",
+    "link": "https://www.digitimes.com/news/a20260904PD206/jmem-technology-security-hardware-ic-design-startup.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:53"
+  },
+  {
     "title": "Micron looks to lock in Taiwanese construction capacity with long-term deals",
     "link": "https://www.digitimes.com/news/a20260904PD215/micron-construction-capacity-dram-manufacturing-taiwan.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -278,6 +302,30 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-04 23:53"
+  },
+  {
+    "title": "Taiwan satellite ground equipment output grows 13%, nears NT$300B",
+    "link": "https://www.digitimes.com/news/a20260904PD205/taiwan-equipment-communications-development-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:52"
+  },
+  {
+    "title": "Marketech profits hit record in 1H26 on overseas orders",
+    "link": "https://www.digitimes.com/news/a20260904PD203/marketech-international-mic-equipment-fab-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:52"
+  },
+  {
+    "title": "Adata expands AI business with TRUSTA, Industrial brands",
+    "link": "https://www.digitimes.com/news/a20260904PD202/business-ddr5-r-dimm-infrastructure-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:52"
   },
   {
     "title": "Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate",
