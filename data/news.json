@@ -1,5 +1,85 @@
 [
   {
+    "title": "Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China",
+    "link": "https://www.scmp.com/business/article/3366384/rich-dad-poor-dad-authors-vast-debts-spark-awe-and-some-bitterness-china?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-05 08:00"
+  },
+  {
+    "title": "S Korea plans February 2027 tokenized securities rollout",
+    "link": "https://www.techinasia.com/nasdaq-files-plan-for-tokenized-securities-trading-in-us",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 07:24"
+  },
+  {
+    "title": "New reality for China’s entertainment sector as AI drama goes prime time",
+    "link": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-05 07:00"
+  },
+  {
+    "title": "50 rising startups and tech companies in India",
+    "link": "https://www.techinasia.com/50-rising-startups-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 07:00"
+  },
+  {
+    "title": "Micron plans to double HBM output as AI demand grows",
+    "link": "https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 06:25"
+  },
+  {
+    "title": "Chinese chipmaker YMTC enters review for $4.6b IPO",
+    "link": "https://www.techinasia.com/chinese-chipmaker-ymtc-tops-kioxia-nand-shipments-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 05:35"
+  },
+  {
+    "title": "Krafton to invest another $250m in India beyond gaming",
+    "link": "https://www.techinasia.com/krafton-to-invest-69-7m-restructure-as-ai-first-company",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 04:57"
+  },
+  {
+    "title": "UAE, Saudi Arabia data center push continues despite war risks",
+    "link": "https://www.techinasia.com/uae-ai-firm-g42-plans-5gw-expansion-awaits-nvidia-chips",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 04:57"
+  },
+  {
+    "title": "Moonshot AI files for up to $5b Hong Kong IPO",
+    "link": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 04:56"
+  },
+  {
+    "title": "Nvidia-backed Nscale seeks $3.5b ahead of US IPO",
+    "link": "https://www.techinasia.com/nvidia-backed-uk-ai-firm-nscale-secures-2b-funding",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-05 04:32"
+  },
+  {
     "title": "Kia India launches Sorento featuring generative AI assistant",
     "link": "https://www.techinasia.com/hyundai-motor-india-sales-rise-6-6-to-58702-units",
     "source": "Tech in Asia",
@@ -134,6 +214,70 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-04 23:56"
+  },
+  {
+    "title": "Exclusive: Taiwan's first tokamak to begin plasma testing by end of 2026",
+    "link": "https://www.digitimes.com/news/a20260831PD236/design-development-nuclear-fusion-taiwan-testing-worldwide.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:55"
+  },
+  {
+    "title": "Interview: Agility Robotics CTO discusses the future of collaborative humanoid robotics",
+    "link": "https://www.digitimes.com/news/a20260831VL209/robotics-robot-commercial.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:55"
+  },
+  {
+    "title": "Samsung SDI nears solid-state battery mass production, eyes China supply chain",
+    "link": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:54"
+  },
+  {
+    "title": "SiPh, optical lens demand ignite laser race",
+    "link": "https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:54"
+  },
+  {
+    "title": "Google TPU splits training, inference as CPU becomes next focus",
+    "link": "https://www.digitimes.com/news/a20260904PD217/google-training-tpu-cpu-chips.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:54"
+  },
+  {
+    "title": "Micron looks to lock in Taiwanese construction capacity with long-term deals",
+    "link": "https://www.digitimes.com/news/a20260904PD215/micron-construction-capacity-dram-manufacturing-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:53"
+  },
+  {
+    "title": "Commentary: China builds three-pronged memory strategy around CXMT, YMTC, XMC",
+    "link": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:53"
+  },
+  {
+    "title": "Taiwan auto parts makers face exit-or-overseas dilemma",
+    "link": "https://www.digitimes.com/news/a20260904PD207/taiwan-market-south-america-2026-asia.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-04 23:53"
   },
   {
     "title": "Hong Kong’s Silver Bonds draw record 480,000 bids with higher interest rate",
