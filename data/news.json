@@ -1,5 +1,125 @@
 [
   {
+    "title": "A cheat sheet of M&As in Japan",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-japan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-06 02:00"
+  },
+  {
+    "title": "India’s TCS plans $7.4b AI data center campus",
+    "link": "https://www.techinasia.com/indias-tcs-tpg-partner-invest-2b-ai-data-centers",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-06 01:54"
+  },
+  {
+    "title": "Foxconn expects Q3 to beat forecasts on AI demand",
+    "link": "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-06 01:25"
+  },
+  {
+    "title": "Why Chelsea football shirts are making Hong Kong fans nervous about crypto laws",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-06 01:00"
+  },
+  {
+    "title": "After Evergrande, China’s new rules spark unease amid developers’ debt resolution progress",
+    "link": "https://www.scmp.com/business/article/3366070/after-evergrande-chinas-new-rules-spark-unease-amid-developers-debt-resolution-progress?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-06 01:00"
+  },
+  {
+    "title": "Time to rip up the playbook",
+    "link": "https://www.techinasia.com/time-rip-playbook",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-06 00:30"
+  },
+  {
+    "title": "A cheat sheet of M&As in Southeast Asia",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-southeast-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-06 00:00"
+  },
+  {
+    "title": "I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales",
+    "link": "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 23:46"
+  },
+  {
+    "title": "TEL sees AI-driven packaging, memory demand reshaping Taiwan strategy",
+    "link": "https://www.digitimes.com/news/a20260903PD215/tokyo-electron-taiwan-packaging-demand-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 23:46"
+  },
+  {
+    "title": "K-Safety Expo 2026: Safety gets smarter as six innovators win foreign media honors",
+    "link": "https://www.digitimes.com/news/a20260904VL209/expo-2026-technology-digitimes.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 23:18"
+  },
+  {
+    "title": "Middle East tensions, Panama Canal limits can further tighten global shipping",
+    "link": "https://www.digitimes.com/news/a20260904PD223/shipping-capacity-military-demand-market.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 22:47"
+  },
+  {
+    "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
+    "link": "https://www.digitimes.com/news/a20260904VL217/packaging-hanmi-taiwan-outsourcing-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 22:46"
+  },
+  {
+    "title": "TWM, SYSTEX debut at smart building expo",
+    "link": "https://www.digitimes.com/news/a20260903PD237/twm-management-systex-data-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 22:15"
+  },
+  {
+    "title": "Tongtai doubles semiconductor orders on AI data-center demand",
+    "link": "https://www.digitimes.com/news/a20260903PD230/demand-tongtai-equipment-expansion-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 21:19"
+  },
+  {
+    "title": "Taiwan thermal supplier I-Chiun launches AI chip cooling venture targeting US$19.2B liquid-cooling market",
+    "link": "https://www.digitimes.com/news/a20260903PD239/taiwan-cooling-i-chiun-ai-chip-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-05 21:16"
+  },
+  {
     "title": "Taiwan chip equipment maker Scientech sees orders into 2028, may turn away customers in 2027",
     "link": "https://www.digitimes.com/news/a20260903PD236/equipment-taiwan-2027-2028-demand.html",
     "source": "Digitimes (Tech/Semicon)",
