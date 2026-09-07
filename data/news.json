@@ -1,5 +1,93 @@
 [
   {
+    "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 14:39"
+  },
+  {
+    "title": "Hong Kong landlords accuse banks of deepening shop slump with reluctance to lend",
+    "link": "https://www.scmp.com/business/article/3366652/hong-kong-landlords-accuse-banks-deepening-shop-slump-reluctance-lend?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 11:00"
+  },
+  {
+    "title": "Tesla offers rare China inventory discounts to fight sliding Shanghai production sales",
+    "link": "https://www.scmp.com/business/china-business/article/3366648/tesla-offers-rare-china-inventory-discounts-fight-sliding-shanghai-production-sales?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 10:21"
+  },
+  {
+    "title": "SK Hynix reportedly ends LG eSSD talks as ASICLAND deal expands",
+    "link": "https://www.digitimes.com/news/a20260907VL218/sk-hynix-design-lg-outsourcing-lg-electronics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 09:51"
+  },
+  {
+    "title": "Will China’s US$54b capital injection be enough to ease financial strains?",
+    "link": "https://www.scmp.com/economy/china-economy/article/3366633/can-chinas-us54b-capital-injection-ease-financial-strains-analysts-say-more-needed?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 09:30"
+  },
+  {
+    "title": "DBS, Citi complete cross-border payment with tokenized deposits",
+    "link": "https://www.techinasia.com/dbs-expects-ai-to-lift-2025-revenue-by-over-768m-ceo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 09:24"
+  },
+  {
+    "title": "How UC Santa Cruz's Silicon Valley lab is reverse-engineering the human brain to solve AI's chip power crisis",
+    "link": "https://www.digitimes.com/news/a20260906VL202/ai-chip-california-electricity-hardware-silicon-valley-academia.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 09:08"
+  },
+  {
+    "title": "China’s capital injection steels banks, insurers for rough road ahead",
+    "link": "https://www.scmp.com/plus/business/banking-finance/article/3366635/chinas-capital-injection-steels-banks-insurers-rough-road-ahead?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 09:04"
+  },
+  {
+    "title": "Silicon Valley goes physical: how San Jose is building an energy-rich, tariff-mitigated capital for physical AI",
+    "link": "https://www.digitimes.com/news/a20260906VL201/silicon-valley-software-hardware-robotics-california.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 09:04"
+  },
+  {
+    "title": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging",
+    "link": "https://www.digitimes.com/news/a20260904VL221/tsmc-taiwan-packaging-design-training.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 09:04"
+  },
+  {
+    "title": "Smartphone lens shipments lift Genius Electronic Optical revenue 12% in August",
+    "link": "https://www.digitimes.com/news/a20260907PD237/gseo-revenue-lens-maker-shipments-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 09:01"
+  },
+  {
     "title": "Chinese firms’ green-tech expansion hinges on Hong Kong, senior bankers say",
     "link": "https://www.scmp.com/business/article/3366629/chinese-firms-green-tech-expansion-hinges-hong-kong-senior-bankers-say?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -14,6 +102,30 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-07 09:00"
+  },
+  {
+    "title": "South Korea secures US$2B from Air Products, Axcelis, Corning, Pacifico Energy to bolster supply chains",
+    "link": "https://www.digitimes.com/news/a20260907PD233/technology-corning-axcelis-investment-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 08:59"
+  },
+  {
+    "title": "HBM4 squeezes DRAM supply as Samsung, SK Hynix inventories fall below 10 days",
+    "link": "https://www.digitimes.com/news/a20260907VL217/samsung-sk-hynix-dram-hbm4-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 08:57"
+  },
+  {
+    "title": "Huawei Kirin 9050 Pro revives flagship chip launches with reported LogicFolding architecture in Mate XT 2",
+    "link": "https://www.digitimes.com/news/a20260907VL215/huawei-kirin-flagship-smartphone-launch-performance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 08:54"
   },
   {
     "title": "The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it",
@@ -414,6 +526,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-07 00:19"
+  },
+  {
+    "title": "SK hynix ramps up DRAM production for AI memory",
+    "link": "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 00:02"
+  },
+  {
+    "title": "50 most active investors in Southeast Asian, Indian greentech firms",
+    "link": "https://www.techinasia.com/50-active-investors-southeast-asian-indian-greentech-firms",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 00:00"
   },
   {
     "title": "Standard Chartered ‘doubling down’ on China wealth opportunities despite tax pivot",
