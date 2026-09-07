@@ -1,5 +1,213 @@
 [
   {
+    "title": "Manulife Asia, Ant Health team up on cross-border healthcare",
+    "link": "https://www.techinasia.com/peak-xv-joins-series-a-round-for-vietnamese-startup-saladin",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 03:17"
+  },
+  {
+    "title": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
+    "link": "https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 03:06"
+  },
+  {
+    "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
+    "link": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 03:00"
+  },
+  {
+    "title": "SK Hynix 1c DRAM production share to reach 34% by year-end ahead of HBM4E",
+    "link": "https://www.digitimes.com/news/a20260907VL207/sk-hynix-dram-hbm4-hbm.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 02:59"
+  },
+  {
+    "title": "Naura 3D DRAM etching breakthrough could give CXMT a new path beyond EUV",
+    "link": "https://www.digitimes.com/news/a20260907VL205/dram-3d-cxmt-euv-naura-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 02:52"
+  },
+  {
+    "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus",
+    "link": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 02:40"
+  },
+  {
+    "title": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 02:30"
+  },
+  {
+    "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+    "link": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 02:30"
+  },
+  {
+    "title": "JM-Applied sees gas equipment demand surge on AI expansion, order book exceeds NT$3 billion",
+    "link": "https://www.digitimes.com/news/a20260905PD200/semiconductors-data-demand-equipment-expansion-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 02:22"
+  },
+  {
+    "title": "Temasek co-leads $100m series C in Indian space startup Pixxel",
+    "link": "https://www.techinasia.com/indian-spacetech-firm-galaxeye-acquires-starops",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 02:13"
+  },
+  {
+    "title": "China’s ‘Tesla imitators’ have a new mission: build affordable humanoid robots for consumers",
+    "link": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 02:00"
+  },
+  {
+    "title": "India says it cannot build electronics without China and has started easing the rules to prove it",
+    "link": "https://www.digitimes.com/news/a20260904VL223/india-china-electronics-production-supply-chain-2026-taipei.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 02:00"
+  },
+  {
+    "title": "The view from inside India’s AI boom",
+    "link": "https://www.techinasia.com/view-indias-ai-boom",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 02:00"
+  },
+  {
+    "title": "A cheat sheet of M&As in Korea",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 02:00"
+  },
+  {
+    "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+    "link": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 02:00"
+  },
+  {
+    "title": "Anthropic IPO set to put AI governance under public-market scrutiny",
+    "link": "https://www.digitimes.com/news/a20260907VL204/anthropic-governance-ipo-expansion-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 01:57"
+  },
+  {
+    "title": "Huawei Kirin 2026 challenges 3D chip heat limits with Tau Scaling Law",
+    "link": "https://www.digitimes.com/news/a20260907VL203/huawei-kirin-2026-3d-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 01:45"
+  },
+  {
+    "title": "Naver Cloud’s Line Works enters Taiwan public sector",
+    "link": "https://www.techinasia.com/sk-hynix-partners-naver-cloud-ai-products",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 01:31"
+  },
+  {
+    "title": "AI has answers, experience has judgment",
+    "link": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 01:15"
+  },
+  {
+    "title": "Healthtech startups in SEA find longevity going B2B",
+    "link": "https://www.techinasia.com/healthtech-startups-sea-find-longevity-b2b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 01:05"
+  },
+  {
+    "title": "Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 01:00"
+  },
+  {
+    "title": "The real test of ethical AI is whether a frontline employee can challenge it",
+    "link": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 01:00"
+  },
+  {
+    "title": "Blue Owl considers REIT seeded with $6.5b",
+    "link": "https://www.techinasia.com/blue-owls-stack-weighs-30b-asia-data-center-sale",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 00:41"
+  },
+  {
+    "title": "WhatsApp faces lawsuit over wave of account blocks in Israel",
+    "link": "https://www.techinasia.com/whatsapp-to-ban-ai-chatbots-by-2026-hits-openai-others",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 00:19"
+  },
+  {
+    "title": "Standard Chartered ‘doubling down’ on China wealth opportunities despite tax pivot",
+    "link": "https://www.scmp.com/business/china-business/article/3366390/standard-chartered-doubling-down-china-wealth-opportunities-despite-tax-pivot?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 00:00"
+  },
+  {
+    "title": "Hong Kong broadens sustainable finance taxonomy framework to boost transition capital",
+    "link": "https://www.scmp.com/business/china-business/article/3366529/hong-kong-broadens-sustainable-finance-taxonomy-framework-boost-transition-capital?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-06 23:00"
+  },
+  {
     "title": "A Prevention Prescription for Hong Kong",
     "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3365565/prevention-prescription-hong-kong?utm_source=rss_feed",
     "source": "SCMP - Economy",
