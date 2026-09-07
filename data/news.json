@@ -1,5 +1,229 @@
 [
   {
+    "title": "Chinese firms’ green-tech expansion hinges on Hong Kong, senior bankers say",
+    "link": "https://www.scmp.com/business/article/3366629/chinese-firms-green-tech-expansion-hinges-hong-kong-senior-bankers-say?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 09:00"
+  },
+  {
+    "title": "Meet the 15 top-funded startups and tech companies in Vietnam",
+    "link": "https://www.techinasia.com/meet-15-topfunded-startups-tech-companies-vietnam",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 09:00"
+  },
+  {
+    "title": "The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it",
+    "link": "https://e27.co/the-us103k-visa-fee-is-a-gift-to-seas-talent-pool-if-the-region-actually-wants-it-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 08:47"
+  },
+  {
+    "title": "GCash operator Mynt wins SEC approval for up to US$1.63B Philippine IPO",
+    "link": "https://e27.co/gcash-operator-mynt-wins-sec-approval-for-up-to-us1-63b-philippine-ipo-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 08:26"
+  },
+  {
+    "title": "HSA registers healthtech firm Oral Link’s AI dental tool",
+    "link": "https://www.techinasia.com/openai-microsoft-sued-by-estate-in-connecticut-case",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 08:10"
+  },
+  {
+    "title": "China’s brokers expected to continue robust performance with blockbuster IPO offerings",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366611/chinas-brokers-expected-continue-robust-performance-blockbuster-ipo-offerings?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 08:00"
+  },
+  {
+    "title": "Peak XV, Filter Capital lead $50m round for Indian startup Nua",
+    "link": "https://www.techinasia.com/zealand-medtech-firm-wellumio-raises-975m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 07:56"
+  },
+  {
+    "title": "Yaho rides TSMC, Micron expansion wave to tap facility integration, equipment installation market",
+    "link": "https://www.digitimes.com/news/a20260906PD200/equipment-expansion-market-tsmc-micron.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 07:53"
+  },
+  {
+    "title": "Model fatigue, China's price pressure, and a profit horizon still years away",
+    "link": "https://www.digitimes.com/news/a20260907VL206/price-anthropic-openai-claude-2030.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 07:46"
+  },
+  {
+    "title": "Tazapay opens Bengaluru center, plans India expansion",
+    "link": "https://www.techinasia.com/players-singapores-increasingly-global-fintech-space",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 07:19"
+  },
+  {
+    "title": "China’s leading EV battery makers’ profits nearly double that of industry’s carmakers",
+    "link": "https://www.scmp.com/business/china-evs/article/3366613/chinas-leading-ev-battery-makers-profits-nearly-double-industrys-carmakers?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 07:11"
+  },
+  {
+    "title": "Inside K-Safety Expo 2026: AI is disappearing into safety &mdash; and that changes everything",
+    "link": "https://www.digitimes.com/news/a20260906VL203/south-korea-expo-ai-technology-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 07:06"
+  },
+  {
+    "title": "Ambition, loops, and TikTok: An a16z guide to scaling AI",
+    "link": "https://www.techinasia.com/ambition-loops-tiktok-a16z-guide-scaling-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 07:00"
+  },
+  {
+    "title": "50 rising startups in Vietnam",
+    "link": "https://www.techinasia.com/top-50-rising-startups-vietnam",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 07:00"
+  },
+  {
+    "title": "Can gold hit US$5,000? Wall Street turns bullish despite US job growth fuelling rate fears",
+    "link": "https://www.scmp.com/business/china-business/article/3366597/can-gold-hit-us5000-wall-street-turns-bullish-despite-us-job-growth-fuelling-rate-fears?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 06:00"
+  },
+  {
+    "title": "Exclusive: Infineon COO says chip shortage recovery will take longer",
+    "link": "https://www.digitimes.com/news/a20260907PD209/infineon-chip-shortage-manufacturing-capacity-digitimes.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 05:58"
+  },
+  {
+    "title": "Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%",
+    "link": "https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 05:53"
+  },
+  {
+    "title": "NEC reportedly ends quantum computer hardware development, shifts focus to annealing",
+    "link": "https://www.digitimes.com/news/a20260907VL213/nec-development-hardware-quantum-annealing-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 05:50"
+  },
+  {
+    "title": "China’s iFlytek launches Spark X2.5 AI model for coding and agents",
+    "link": "https://www.techinasia.com/bytedance-tops-chinas-tech-hiring-ai-jobs-surge-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 05:34"
+  },
+  {
+    "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
+    "link": "https://e27.co/why-kyoto-not-tokyo-is-japans-real-deeptech-bet-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 05:30"
+  },
+  {
+    "title": "Japan taxi app Go says rides stay strong after fare hike",
+    "link": "https://www.techinasia.com/google-buy-122b-marvell-stock-2033",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 04:52"
+  },
+  {
+    "title": "DeepSeek plans to buy 160,000 Huawei chips as China aims to wean itself off Nvidia",
+    "link": "https://www.digitimes.com/news/a20260907VL212/deepseek-huawei-chips-nvidia-bloomberg.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 04:43"
+  },
+  {
+    "title": "From US$79,300 to US$82,400: Mapping the narrow corridor that decides Bitcoin’s September",
+    "link": "https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 04:36"
+  },
+  {
+    "title": "SCB 10X Identifies Six Key Takeaways for Organizations Navigating the AI Transformation, Drawing Insights from AI-VOLUTION The Series 2026",
+    "link": "https://e27.co/scb-10x-identifies-six-key-takeaways-for-organizations-navigating-the-ai-transformation-drawing-insights-from-ai-volution-the-series-2026-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 04:28"
+  },
+  {
+    "title": "SEA funding falls from July high, but August still points to a larger rebound",
+    "link": "https://e27.co/sea-funding-falls-from-july-high-but-august-still-points-to-a-larger-rebound-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 04:14"
+  },
+  {
+    "title": "Micron scores seventh PTAB win in YMTC patent fight",
+    "link": "https://www.digitimes.com/news/a20260907VL211/micron-ymtc-patent-nand-3d.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-07 04:03"
+  },
+  {
+    "title": "HSBC-backed platform drives green transition capital to emerging markets amid global risks",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366545/hsbc-backed-platform-drives-green-transition-capital-emerging-markets-amid-global-risks?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 04:00"
+  },
+  {
+    "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+    "link": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-07 03:25"
+  },
+  {
     "title": "Manulife Asia, Ant Health team up on cross-border healthcare",
     "link": "https://www.techinasia.com/peak-xv-joins-series-a-round-for-vietnamese-startup-saladin",
     "source": "Tech in Asia",
