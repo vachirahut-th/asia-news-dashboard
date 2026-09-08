@@ -1,5 +1,165 @@
 [
   {
+    "title": "Mistral AI raises $3.5b at $24b valuation",
+    "link": "https://www.techinasia.com/mistral-raises-830m-debt-for-europe-ai-data-center",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 08:35"
+  },
+  {
+    "title": "Tencent Cloud backs Bookme’s Saudi expansion",
+    "link": "https://www.techinasia.com/tencent-cloud-taps-hong-kong-as-global-expansion-hub",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 08:02"
+  },
+  {
+    "title": "What to expect at CIOE, Shenzhen's optoelectronics mega-expo",
+    "link": "https://www.digitimes.com/news/a20260908VL213/shenzhen-optoelectronics-digitimes-hardware-electricity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:47"
+  },
+  {
+    "title": "Startup uses software-controlled lights to cut farming costs",
+    "link": "https://www.techinasia.com/startup-softwarecontrolled-lights-cut-farming-costs",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 07:30"
+  },
+  {
+    "title": "US chip investment push puts ownership at center of Korea's $200 billion deal",
+    "link": "https://www.digitimes.com/news/a20260908VL209/samsung-sk-hynix-manufacturing-investment-funding-usa.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:15"
+  },
+  {
+    "title": "Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces",
+    "link": "https://www.scmp.com/business/china-business/article/3366744/eager-capital-prompts-ipo-plans-more-chinese-makers-brain-computer-interfaces?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 07:13"
+  },
+  {
+    "title": "Samsung speeds silicon photonics test plan with TSMC-vetted probe vendors",
+    "link": "https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:06"
+  },
+  {
+    "title": "CXMT sees tight DRAM supply through 2H26, accelerates server memory and China-made tool validation",
+    "link": "https://www.digitimes.com/news/a20260908VL204/cxmt-dram-demand-capacity-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:01"
+  },
+  {
+    "title": "Samsung boosts Galaxy A series output as rivals cut lower-end phones",
+    "link": "https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:00"
+  },
+  {
+    "title": "50 rising startups in Korea",
+    "link": "https://www.techinasia.com/top-50-rising-startups-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 07:00"
+  },
+  {
+    "title": "OpenAI, Tenable unveil AI agent security review",
+    "link": "https://www.techinasia.com/cybersecurity-stocks-fall-anthropic-tool-sparks-ai-fears",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 06:39"
+  },
+  {
+    "title": "Expand Hong Kong’s MPF investment choices, lure mainland pension funds: financial council",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366722/expand-hong-kongs-mpf-investment-choices-lure-mainland-pension-funds-financial-council?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 06:30"
+  },
+  {
+    "title": "India’s Udaan to acquire Swiggy-owned LYNK for $53m",
+    "link": "https://www.techinasia.com/spare-parts-faster-pizza-indias-b2b-quick-commerce",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 06:29"
+  },
+  {
+    "title": "ChenFull Precision expands from defense and semiconductor equipment into quantum computing",
+    "link": "https://www.digitimes.com/news/a20260908PD219/equipment-quantum-computing-business-revenue-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 06:28"
+  },
+  {
+    "title": "Hong Kong stocks face double threat: US inflation and yen carry-trade risks",
+    "link": "https://www.scmp.com/business/china-business/article/3366736/hong-kong-stocks-face-double-threat-us-inflation-and-yen-carry-trade-risks?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 06:19"
+  },
+  {
+    "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks &mdash; TSMC alone sets a timeline",
+    "link": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 06:16"
+  },
+  {
+    "title": "Xiaomi debuts Xiaomi 18 Fold and mid-to-high-end lineup to defend 100M shipment target amid rising memory costs",
+    "link": "https://www.digitimes.com/news/a20260908PD209/xiaomi-foldable-smartphone-shipments-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 06:07"
+  },
+  {
+    "title": "NTT Data expands AI platform for global infrastructure",
+    "link": "https://www.techinasia.com/ntt-data-ericsson-partner-expand-private-5g-physical-ai-apac",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 05:51"
+  },
+  {
+    "title": "Southeast Asia’s live commerce boom enters its harder second act",
+    "link": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 05:44"
+  },
+  {
+    "title": "Trust Bank launches AI tool to track card spending",
+    "link": "https://www.techinasia.com/fraud-claims-involving-digital-banks-rise-in-sg-reaching-1-9m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 05:24"
+  },
+  {
     "title": "Why safe banks can produce fragile economies",
     "link": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/",
     "source": "e27 (Startups)",
