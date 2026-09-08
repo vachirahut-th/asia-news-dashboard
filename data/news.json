@@ -152,6 +152,14 @@
     "published_at": "2026-09-08 08:01"
   },
   {
+    "title": "Xiaomi debuts 18 fold to challenge Huawei and Samsung in wide-screen foldable race",
+    "link": "https://www.digitimes.com/news/a20260908VL214/foldable-xiaomi-flagship-huawei-samsung.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 07:51"
+  },
+  {
     "title": "What to expect at CIOE, Shenzhen's optoelectronics mega-expo",
     "link": "https://www.digitimes.com/news/a20260908VL213/shenzhen-optoelectronics-digitimes-hardware-electricity.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -272,6 +280,22 @@
     "published_at": "2026-09-08 06:07"
   },
   {
+    "title": "Ennoconn reports August growth as Kontron stake rises to 48.36%",
+    "link": "https://www.digitimes.com/news/a20260908PD223/ennoconn-growth-kontron-revenue-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 06:05"
+  },
+  {
+    "title": "CPO testing faces hurdles from Insertion 1 to 4, with '100% testing' expected to accelerate in 2027",
+    "link": "https://www.digitimes.com/news/a20260908PD215/cpo-testing-optics-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 05:57"
+  },
+  {
     "title": "NTT Data expands AI platform for global infrastructure",
     "link": "https://www.techinasia.com/ntt-data-ericsson-partner-expand-private-5g-physical-ai-apac",
     "source": "Tech in Asia",
@@ -286,6 +310,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 05:44"
+  },
+  {
+    "title": "Advantech to open North America HQ and expand US manufacturing",
+    "link": "https://www.digitimes.com/news/a20260908PD203/advantech-north-america-manufacturing-growth-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 05:35"
   },
   {
     "title": "Trust Bank launches AI tool to track card spending",
@@ -312,6 +344,14 @@
     "published_at": "2026-09-08 05:00"
   },
   {
+    "title": "Nvidia reportedly shifts Rubin Ultra toward 8-high HBM as memory costs rise",
+    "link": "https://www.digitimes.com/news/a20260908VL207/nvidia-rubin-hbm-capacity-bandwidth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 04:50"
+  },
+  {
     "title": "Xendit promotes CFO Nazim Ali to president as it expands globally",
     "link": "https://www.techinasia.com/indonesia-court-clears-way-for-alt-payments-on-google-play",
     "source": "Tech in Asia",
@@ -328,12 +368,76 @@
     "published_at": "2026-09-08 04:46"
   },
   {
+    "title": "Huawei shifts AI battle to HarmonyOS 7, turning Celia into system-level agent",
+    "link": "https://www.digitimes.com/news/a20260908VL203/huawei-kirin-harmonyos-smartphone-launch.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 04:30"
+  },
+  {
     "title": "Chinese memory chipmaker Longsys raises $903m in HK debut",
     "link": "https://www.techinasia.com/chinese-memory-chipmaker-longsys-seeks-801m-hk-ipo",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 04:25"
+  },
+  {
+    "title": "Anthropic drops pursuit of $6b Decart AI deal",
+    "link": "https://www.techinasia.com/anthropic-eyes-6b-israeli-ai-startup-decart-sources",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 04:24"
+  },
+  {
+    "title": "Kinko revenue climbs monthly, August sales jump 107%",
+    "link": "https://www.digitimes.com/news/a20260908PD220/revenue-2026-2025-sales-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 04:14"
+  },
+  {
+    "title": "Intel CPU prices reportedly rising 10% again as Qualcomm and MediaTek target IPC and IoT gaps",
+    "link": "https://www.digitimes.com/news/a20260908PD210/intel-cpu-pc-ipc-iot.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 04:13"
+  },
+  {
+    "title": "A list of fundraising startups from Asia and beyond (Updated)",
+    "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 04:00"
+  },
+  {
+    "title": "Samsung SDS expands OpenAI, Anthropic partnerships for AI push",
+    "link": "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:59"
+  },
+  {
+    "title": "OpenAI to contract AI compute from Firmus’ Malaysia sites",
+    "link": "https://www.techinasia.com/nvidia-backed-australian-ai-firm-firmus-eyes-ipo-after-gpu-deal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:58"
+  },
+  {
+    "title": "ByteDance eyes real-time spatial AI model launch next month",
+    "link": "https://www.techinasia.com/bytedance-releases-seedance-25-multiinput-ai-video",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:35"
   },
   {
     "title": "Why safe banks can produce fragile economies",
@@ -502,6 +606,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 02:00"
+  },
+  {
+    "title": "Dubai’s Talabat, QuikBot partner to test high-rise delivery robots",
+    "link": "https://www.techinasia.com/uae-autonomous-delivery-startup-cargox-raises-250m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 01:32"
   },
   {
     "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
@@ -4686,101 +4798,5 @@
     "category": "Official Stats/Policy",
     "region": "East Asia",
     "published_at": "2026-08-28 14:00"
-  },
-  {
-    "title": "HKEX Tech 100 adds Pony AI, WeRide in index revamp targeting AI stocks",
-    "link": "https://www.scmp.com/business/banking-finance/article/3365637/hkex-tech-100-adds-pony-ai-weride-index-revamp-targeting-ai-stocks?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 12:19"
-  },
-  {
-    "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
-    "link": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 11:06"
-  },
-  {
-    "title": "BOCHK posts higher profit as lower credit costs offset margin pressure",
-    "link": "https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 10:36"
-  },
-  {
-    "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
-    "link": "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-08-28 09:47"
-  },
-  {
-    "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
-    "link": "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-08-28 08:45"
-  },
-  {
-    "title": "Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal",
-    "link": "https://www.scmp.com/business/companies/article/3365579/macau-tycoon-lawrence-hos-family-office-expands-space-sector-de-spac-deal?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 08:01"
-  },
-  {
-    "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
-    "link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 08:00"
-  },
-  {
-    "title": "Bitcoin rally and Alibaba share purchases: the numbers moving markets",
-    "link": "https://www.scmp.com/business/china-business/article/3365540/bitcoin-rally-and-alibaba-share-purchases-numbers-moving-markets?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 07:00"
-  },
-  {
-    "title": "China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech",
-    "link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-08-28 06:00"
-  },
-  {
-    "title": "fileAI expands in Japan with new backing from SMBC and Singtel Innov8",
-    "link": "https://e27.co/fileai-expands-in-japan-with-new-backing-from-smbc-and-singtel-innov8-20260828/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-08-28 06:00"
-  },
-  {
-    "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
-    "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-08-27 10:35"
-  },
-  {
-    "title": "Services Producer Price Index (July)",
-    "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2607.pdf",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-08-26 08:50"
   }
 ]
