@@ -1,5 +1,213 @@
 [
   {
+    "title": "Why safe banks can produce fragile economies",
+    "link": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:30"
+  },
+  {
+    "title": "Carousell Autos launches consumer car auction in Singapore",
+    "link": "https://www.techinasia.com/secondhand-sales-surge-pushes-carousell-ebitda-profit-2025",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:29"
+  },
+  {
+    "title": "Chinese robotics startup Simple AI completes pre-A+ round",
+    "link": "https://www.techinasia.com/google-vp-warns-ai-wrapper-startups-struggle-survive",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:16"
+  },
+  {
+    "title": "20 fresh tech and startup jobs in Asia this week",
+    "link": "https://www.techinasia.com/fresh-tech-startup-jobs-list-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:07"
+  },
+  {
+    "title": "ViTrox rides AI demand, expands Taiwan push as Malaysia semiconductor base grows",
+    "link": "https://www.digitimes.com/news/a20260907VL216/taiwan-demand-inspection-equipment-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 03:05"
+  },
+  {
+    "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
+    "link": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:00"
+  },
+  {
+    "title": "Why a strong jobs report hit Bitcoin and Ethereum harder than the stock market",
+    "link": "https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 03:00"
+  },
+  {
+    "title": "Gojek Singapore launches $7.8 short-trip ride option",
+    "link": "https://www.techinasia.com/exgojek-execs-founders-react-nadiem-makarim-corruption-case",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:43"
+  },
+  {
+    "title": "Sercomm revenue surges past 3Q25 on North America upgrades",
+    "link": "https://www.digitimes.com/news/a20260908PD204/revenue-sercomm-2025-2026-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:41"
+  },
+  {
+    "title": "Xpeng commissions humanoid robot lines in China",
+    "link": "https://www.techinasia.com/xpeng-targets-flying-car-deliveries-by-2027",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:35"
+  },
+  {
+    "title": "Taiwan panel capacity shifts push TV brands to stock up as LCD price declines slow",
+    "link": "https://www.digitimes.com/news/a20260908PD214/panel-tv-price-lcd-tv-panel-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:33"
+  },
+  {
+    "title": "AI, quantum computing and the future of cyber threats",
+    "link": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:30"
+  },
+  {
+    "title": "Analysis: Imec's EUV edge raises question over how far Taiwan should replicate research fab model",
+    "link": "https://www.digitimes.com/news/a20260908PD206/imec-euv-fab-itri-government-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:27"
+  },
+  {
+    "title": "Chinese smartphone price hikes squeeze Southeast Asia: shipments fall 23%, low-end demand retreats",
+    "link": "https://www.digitimes.com/news/a20260908PD213/smartphone-price-asia-shipments-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:27"
+  },
+  {
+    "title": "Japanese AI chip firm Preferred Networks considers IPO",
+    "link": "https://www.techinasia.com/softbank-acquire-digitalbridge-4b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:24"
+  },
+  {
+    "title": "Samsung to debut its own humanoid robot in January 2027",
+    "link": "https://www.techinasia.com/samsung-unveils-nextgen-ai-memory-tech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:23"
+  },
+  {
+    "title": "Huawei Mate XT 2 debuts Kirin 9050 Pro at unchanged price",
+    "link": "https://www.digitimes.com/news/a20260908PD202/huawei-kirin-harmonyos-launch-performance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:16"
+  },
+  {
+    "title": "Huawei Kirin 9050 Pro puts LogicFolding to the test with 55% density gain, 66% lower NPU power",
+    "link": "https://www.digitimes.com/news/a20260908VL200/huawei-kirin-npu-transistor-performance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:05"
+  },
+  {
+    "title": "Privacy displays become a premium smartphone battleground as Huawei brings one to a foldable",
+    "link": "https://www.digitimes.com/news/a20260908VL201/huawei-samsung-display-design-foldable.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 02:00"
+  },
+  {
+    "title": "A cheat sheet of M&As in China",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-china",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:00"
+  },
+  {
+    "title": "The SMS looks real and that’s exactly why you should be careful",
+    "link": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 02:00"
+  },
+  {
+    "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
+    "link": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 01:30"
+  },
+  {
+    "title": "Hong Kong celebrity Jeffrey Ngai splashes out on US$16,000 rental home",
+    "link": "https://www.scmp.com/business/article/3366673/hong-kong-celebrity-jeffrey-ngai-splashes-out-us16000-rental-home?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 01:00"
+  },
+  {
+    "title": "Foreign, mainland students flock to Hong Kong sparking property demand in education sector",
+    "link": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 00:00"
+  },
+  {
+    "title": "Labubu meets LVMH: Pop Mart to open flagship store in Paris amid cooling overseas sales",
+    "link": "https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 23:00"
+  },
+  {
+    "title": "From sports courts to street corners: Galbot brings autonomous humanoid retail to the city",
+    "link": "https://www.scmp.com/presented/business/topics/technology-business-robot-hk/article/3366578/sports-courts-street-corners-galbot-brings-autonomous-humanoid-retail-city?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-07 16:00"
+  },
+  {
     "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
     "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
     "source": "SCMP - Economy",
