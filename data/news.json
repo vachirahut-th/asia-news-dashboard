@@ -1,5 +1,109 @@
 [
   {
+    "title": "HKU launches wealth management academy to boost city’s role as hub for ‘new money’",
+    "link": "https://www.scmp.com/business/china-business/article/3366810/hku-launches-wealth-management-academy-boost-citys-role-hub-new-money?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 12:02"
+  },
+  {
+    "title": "Meet the 25 top-funded startups and tech companies in Malaysia",
+    "link": "https://www.techinasia.com/meet-25-topfunded-startups-tech-companies-malaysia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 11:00"
+  },
+  {
+    "title": "Ecosystem Roundup: GCash operator Mynt clears SEC hurdle for up to US$1.63B IPO",
+    "link": "https://e27.co/ecosystem-roundup-gcash-operator-mynt-clears-sec-hurdle-for-up-to-us1-63b-ipo-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 10:56"
+  },
+  {
+    "title": "Record US$1.3 trillion pours into Hong Kong investment products",
+    "link": "https://www.scmp.com/business/banking-finance/article/3366789/investors-pour-record-us13-trillion-hong-kong-investment-products?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 10:19"
+  },
+  {
+    "title": "Tevo secures US$10M from PvX to scale its consumer AI apps without selling equity",
+    "link": "https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 09:32"
+  },
+  {
+    "title": "Hong Kong gaining lustre as bridge to China’s tech sector: HKEX CEO",
+    "link": "https://www.scmp.com/business/china-business/article/3366780/hong-kong-gaining-lustre-bridge-chinas-tech-sector-hkex-ceo?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-08 09:20"
+  },
+  {
+    "title": "Bitget launches crypto perpetuals tied to AI compute costs",
+    "link": "https://www.techinasia.com/bitget-reports-86-rise-in-bitcoin-holdings",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 09:16"
+  },
+  {
+    "title": "Kian Shen eyes stronger 3Q26 on chassis, lightweight frames, Lean3",
+    "link": "https://www.digitimes.com/news/a20260907PD210/taiwan-chassis-production-growth-electric-bus.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 09:00"
+  },
+  {
+    "title": "Meet the 50 top-funded startups and tech companies in Korea",
+    "link": "https://www.techinasia.com/meet-50-topfunded-startups-tech-companies-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 09:00"
+  },
+  {
+    "title": "FIT wins Amphenol patent license, expands AI interconnect push",
+    "link": "https://www.digitimes.com/news/a20260907PD228/fit-patent-amphenol-2026-connector.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:55"
+  },
+  {
+    "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
+    "link": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 08:43"
+  },
+  {
+    "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+    "link": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:37"
+  },
+  {
+    "title": "AIDC wins 20-year Bombardier contract to expand business jet work",
+    "link": "https://www.digitimes.com/news/a20260907PD236/aidc-business-taiwan-award.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:37"
+  },
+  {
     "title": "Mistral AI raises $3.5b at $24b valuation",
     "link": "https://www.techinasia.com/mistral-raises-830m-debt-for-europe-ai-data-center",
     "source": "Tech in Asia",
@@ -8,12 +112,44 @@
     "published_at": "2026-09-08 08:35"
   },
   {
+    "title": "SmallSat 2026: Two bottlenecks and four trends reshaping satellite industry",
+    "link": "https://www.digitimes.com/news/a20260907PD221/satellite-communications-capacity-launch-trends-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:30"
+  },
+  {
+    "title": "LG's robot actuator push turns appliance know-how into a physical AI supply-chain bet",
+    "link": "https://www.digitimes.com/news/a20260907VL219/robot-lg-commercial-cost-robotics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:30"
+  },
+  {
+    "title": "US chip tariffs raise stakes for Samsung, SK Hynix's US memory plans",
+    "link": "https://www.digitimes.com/news/a20260907VL214/samsung-investment-sk-hynix-production-policy.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:30"
+  },
+  {
     "title": "Tencent Cloud backs Bookme’s Saudi expansion",
     "link": "https://www.techinasia.com/tencent-cloud-taps-hong-kong-as-global-expansion-hub",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 08:02"
+  },
+  {
+    "title": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module demand",
+    "link": "https://www.digitimes.com/news/a20260908PD224/pcb-zhen-ding-revenue-demand-ai-server.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-08 08:01"
   },
   {
     "title": "What to expect at CIOE, Shenzhen's optoelectronics mega-expo",
@@ -158,6 +294,46 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 05:24"
+  },
+  {
+    "title": "Indian state-run lender REC raises $53m through tokenized bond",
+    "link": "https://www.techinasia.com/indonesia-receives-hundreds-of-personal-data-protection-complaints",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 05:10"
+  },
+  {
+    "title": "PayPal engineer on AI commerce: when it works, how it pays",
+    "link": "https://www.techinasia.com/paypal-engineer-ai-commerce-works-pays",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 05:00"
+  },
+  {
+    "title": "Xendit promotes CFO Nazim Ali to president as it expands globally",
+    "link": "https://www.techinasia.com/indonesia-court-clears-way-for-alt-payments-on-google-play",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 04:47"
+  },
+  {
+    "title": "Mitsubishi Elevator, QuikBot plan robot integration",
+    "link": "https://www.techinasia.com/chinese-autonomous-firm-neolix-partners-quikbot-singapore",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 04:46"
+  },
+  {
+    "title": "Chinese memory chipmaker Longsys raises $903m in HK debut",
+    "link": "https://www.techinasia.com/chinese-memory-chipmaker-longsys-seeks-801m-hk-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-08 04:25"
   },
   {
     "title": "Why safe banks can produce fragile economies",
