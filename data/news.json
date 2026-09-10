@@ -1,5 +1,189 @@
 [
   {
+    "title": "Bertelsmann leads $24m round in Indian food delivery startup",
+    "link": "https://www.techinasia.com/automating-messy-world-pharma-distribution",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 08:26"
+  },
+  {
+    "title": "UBS pulls plug on fund sales on a wealth platform in China amid stiff competition",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367034/ubs-pulls-plug-fund-sales-wealth-platform-china-amid-stiff-competition?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-10 08:12"
+  },
+  {
+    "title": "Kyndryl, Krungsri renew 5-year core banking pact",
+    "link": "https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 07:58"
+  },
+  {
+    "title": "Billease doubles RCBC credit facility to $16m",
+    "link": "https://www.techinasia.com/players-spearheading-southeast-asias-bnpl-revival",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 07:56"
+  },
+  {
+    "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
+    "link": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 07:44"
+  },
+  {
+    "title": "ASE August revenue tops NT$80 billion record as AI packaging capacity stays sold out",
+    "link": "https://www.digitimes.com/news/a20260910PD228/ase-revenue-packaging-capacity-testing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 07:41"
+  },
+  {
+    "title": "Navigating economies of scale: how South Korea and China are reshaping the OLED market",
+    "link": "https://www.digitimes.com/news/a20260910VL216/oled-panel-cost-display-infrastructure-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 07:02"
+  },
+  {
+    "title": "Mainland Chinese shoppers lose trusted Hong Kong veggie tag as customs revamp hits shelves",
+    "link": "https://www.scmp.com/business/china-business/article/3367006/mainland-chinese-shoppers-lose-trusted-hong-kong-veggie-tag-customs-revamp-hits-shelves?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-10 07:00"
+  },
+  {
+    "title": "Southeast Asia’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/southeast-asias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 07:00"
+  },
+  {
+    "title": "Foxsemicon hits record 2Q26 revenue on Thailand ramp-up",
+    "link": "https://www.digitimes.com/news/a20260910PD201/revenue-foxsemicon-2026-equipment-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:51"
+  },
+  {
+    "title": "Shinkong Synthetic Fibers partners with Earthbook, Jedsy to tap Taiwan's medical drone logistics market",
+    "link": "https://www.digitimes.com/news/a20260909PD223/ssfc-medical-drone-logistics-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:51"
+  },
+  {
+    "title": "Jeter August revenue rises on AI server shipments",
+    "link": "https://www.digitimes.com/news/a20260909PD228/revenue-logistics-shipments-2026-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:51"
+  },
+  {
+    "title": "Gem Terminal rides China plug rule shift for 8.8% sales growth",
+    "link": "https://www.digitimes.com/news/a20260909PD229/growth-revenue-copper-2026-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:50"
+  },
+  {
+    "title": "AUO matching glass substrate size stokes TSMC collab speculation",
+    "link": "https://www.digitimes.com/news/a20260910PD226/auo-tsmc-glass-substrate-packaging-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:49"
+  },
+  {
+    "title": "Apple added flat US$100 to every iPhone and rebuilt A20 Pro around memory",
+    "link": "https://www.digitimes.com/news/a20260910VL213/apple-iphone-dram-price-launch.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 06:46"
+  },
+  {
+    "title": "Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins",
+    "link": "https://www.scmp.com/economy/china-economy/article/3367009/jewellery-shops-shut-down-chinese-consumers-switch-focus-gold-bars-and-coins?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-10 05:44"
+  },
+  {
+    "title": "Nvidia targets up to 2 GW AI capacity in Australia",
+    "link": "https://www.techinasia.com/nvidiabacked-lambda-talks-raise-3b-sources",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 05:10"
+  },
+  {
+    "title": "Can Hong Kong stocks contend with wild swings without help from state hands?",
+    "link": "https://www.scmp.com/business/china-business/article/3366991/can-hong-kong-stocks-contend-wild-swings-without-help-state-hands?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-10 05:00"
+  },
+  {
+    "title": "Mastercard launches Wallet Pay in Singapore",
+    "link": "https://www.techinasia.com/mastercard-appoints-singapore-country-manager",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 04:53"
+  },
+  {
+    "title": "TikTok deepens Vietnam commerce bet with US$980M logistics project in Ho Chi Minh City",
+    "link": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 04:43"
+  },
+  {
+    "title": "Will Bitcoin hold US$77,000 or drag the market to US$2.51T? The September 10 answer",
+    "link": "https://e27.co/will-bitcoin-hold-us77000-or-drag-the-market-to-us2-51t-the-september-10-answer-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 04:27"
+  },
+  {
+    "title": "Alibaba’s AI capex spike isn’t the story investors think",
+    "link": "https://www.techinasia.com/alibabas-capex-spike-story-investors",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 04:00"
+  },
+  {
+    "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
+    "link": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 03:34"
+  },
+  {
     "title": "OpenAI appoints AI safety expert to Foundation board",
     "link": "https://www.techinasia.com/openai-limit-astras-advanced-cybersecurity-features",
     "source": "Tech in Asia",
@@ -190,6 +374,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-10 01:00"
+  },
+  {
+    "title": "What stays yours when you buy tech?",
+    "link": "https://www.techinasia.com/what-stays-yours-when-you-buy-tech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-10 00:30"
   },
   {
     "title": "Susquehanna latest to pick up larger office space in Hong Kong’s Central, sources say",
@@ -4606,197 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-02 23:29"
-  },
-  {
-    "title": "Samsung to add 1,612 new equipment units at Vietnam chip plant",
-    "link": "https://www.digitimes.com/news/a20260902PD203/samsung-equipment-production.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 23:29"
-  },
-  {
-    "title": "LCY Advanced Materials launches wet chemicals for AI chip packaging",
-    "link": "https://www.digitimes.com/news/a20260902PD201/lcy-packaging-manufacturing-2026-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 23:29"
-  },
-  {
-    "title": "Macronix boosts sustainability spending to NT$780 million",
-    "link": "https://www.digitimes.com/news/a20260902PD200/2025-macronix-international-water-2024-fab.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 23:28"
-  },
-  {
-    "title": "China’s new home finance rules reduce buyer risks but may not revive the market: analysts",
-    "link": "https://www.scmp.com/business/article/3366121/chinas-new-home-finance-rules-reduce-buyer-risks-may-not-revive-market-analysts?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-02 23:00"
-  },
-  {
-    "title": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
-    "link": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Fujitsu unlikely to keep making commodity-grade products, CFO says",
-    "link": "https://asia.nikkei.com/editor-s-picks/interview/fujitsu-unlikely-to-keep-making-commodity-grade-products-cfo-says",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Blue Yonder still chasing profitability 5 years after Panasonic acquisition",
-    "link": "https://asia.nikkei.com/business/companies/blue-yonder-still-chasing-profitability-5-years-after-panasonic-acquisition",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "SoftBank tests stratospheric aerial base station in Japan 1st",
-    "link": "https://asia.nikkei.com/business/companies/softbank-tests-stratospheric-aerial-base-station-in-japan-1st",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "'Cyborg' rescue roaches take another leap forward with AI",
-    "link": "https://asia.nikkei.com/business/technology/cyborg-rescue-roaches-take-another-leap-forward-with-ai",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Forget 2027. East Asia should brace for 2028",
-    "link": "https://asia.nikkei.com/opinion/forget-2027.-east-asia-should-brace-for-2028",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Analysis: Xi Jinping purges his 'spy' in the military",
-    "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-purges-his-spy-in-the-military",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Yen surges to briefly touch low 158 level as intervention concerns linger",
-    "link": "https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Japan's rising yields are impacting US market: senior Treasury official",
-    "link": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-rising-yields-are-impacting-us-market-senior-treasury-official",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "With opposition split, Japan's LDP eyes cooperation with ex-partner Komeito",
-    "link": "https://asia.nikkei.com/politics/with-opposition-split-japan-s-ldp-eyes-cooperation-with-ex-partner-komeito",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Rising interest rates spur Japanese banks to rethink mortgages",
-    "link": "https://asia.nikkei.com/business/finance/rising-interest-rates-spur-japanese-banks-to-rethink-mortgages",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Marubeni should focus on long-term needs, not chase chip trends: CEO",
-    "link": "https://asia.nikkei.com/editor-s-picks/interview/marubeni-should-focus-on-long-term-needs-not-chase-chip-trends-ceo",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Nvidia underpins expected $50bn IPO valuation for SoftBank's SB Energy",
-    "link": "https://asia.nikkei.com/business/markets/ipo/nvidia-underpins-expected-50bn-ipo-valuation-for-softbank-s-sb-energy",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Toyota delays launch of Highlander EV, its first US-made electric",
-    "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-delays-launch-of-highlander-ev-its-first-us-made-electric",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 22:26"
-  },
-  {
-    "title": "Japanese Government Bonds Held by the Bank of Japan",
-    "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-02 17:00"
-  },
-  {
-    "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
-    "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-02 17:00"
-  },
-  {
-    "title": "Toyota postpones launch of first US-made EV to at least 2027",
-    "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-postpones-launch-of-first-us-made-ev-to-at-least-2027",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 16:08"
-  },
-  {
-    "title": "Japan's Mitsubishi Heavy and NEC team on defense drones",
-    "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-mitsubishi-heavy-and-nec-team-on-defense-drones",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 16:08"
-  },
-  {
-    "title": "New US space telescope hunts for exoplanets with crucial Japanese parts",
-    "link": "https://asia.nikkei.com/business/aerospace-defense-industries/new-us-space-telescope-hunts-for-exoplanets-with-crucial-japanese-parts",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 16:08"
-  },
-  {
-    "title": "Japan's NEC open to manufacturer acquisitions in physical AI, aerospace",
-    "link": "https://asia.nikkei.com/business/technology/japan-s-nec-open-to-manufacturer-acquisitions-in-physical-ai-aerospace",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-02 16:08"
   }
 ]
