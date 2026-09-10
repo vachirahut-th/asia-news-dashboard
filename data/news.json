@@ -1,5 +1,69 @@
 [
   {
+    "title": "Rayzher rides semiconductor fab buildout to record revenue",
+    "link": "https://www.digitimes.com/news/a20260910PD200/rayzher-revenue-2026-fab-management.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:07"
+  },
+  {
+    "title": "Taiwan startup taps CMOS infrared chips to give robots an electronic 'nose'",
+    "link": "https://www.digitimes.com/news/a20260910PD225/cmos-iii-v-startup-taiwan-chips.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:07"
+  },
+  {
+    "title": "China's Shenzhen Kaifa plans CNY1.85 billion expansion for high-end memory packaging and testing",
+    "link": "https://www.digitimes.com/news/a20260910VL223/shenzhen-packaging-high-end-testing-electronics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:04"
+  },
+  {
+    "title": "GPU economics face pressure as token prices fall, d-Matrix says",
+    "link": "https://www.digitimes.com/news/a20260910VL222/gpu-ai-inference-nvidia-dram-data-center.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:03"
+  },
+  {
+    "title": "Samsung 2nm push gains momentum as Synopsys cuts NPU die area by 22%",
+    "link": "https://www.digitimes.com/news/a20260910VL218/synopsys-samsung-npu-2nm-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:02"
+  },
+  {
+    "title": "ProLogium deepens partnership with Kyushu Electric Power through strategic investment",
+    "link": "https://www.digitimes.com/news/a20260910PR202/prologium-investment-partnership-industrial-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 22:01"
+  },
+  {
+    "title": "Global IC substrate market to surge 32% to US$19.5 billion in 2026 as Taiwan, Korea lead ABF, BT",
+    "link": "https://www.digitimes.com/news/a20260910PD239/demand-ic-substrate-market-taiwan-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 21:56"
+  },
+  {
+    "title": "Samsung, SK Hynix eye 2028 High-NA DRAM rollout",
+    "link": "https://www.digitimes.com/news/a20260910VL220/sk-hynix-high-na-dram-2028-samsung.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-10 21:56"
+  },
+  {
     "title": "Record China-US gap in bond yields unlikely to trigger capital flight: Marsh Investment",
     "link": "https://www.scmp.com/business/banking-finance/article/3367096/record-china-us-gap-bond-yields-unlikely-trigger-capital-flight-marsh-investment?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -4734,69 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 02:00"
-  },
-  {
-    "title": "Who’s building AI for the way Southeast Asia actually speaks?",
-    "link": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
-    "source": "e27",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:00"
-  },
-  {
-    "title": "Hong Kong's Digital Asset Moment: Forthright Securities on What Bitcoin Asia Signals for Licensed Finance",
-    "link": "https://www.scmp.com/presented/business/topics/digital-assets/article/3365951/hong-kongs-digital-asset-moment-forthright-securities-what-bitcoin-asia-signals-licensed-finance?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 02:00"
-  },
-  {
-    "title": "China packaging specialist SJSemi reaches 3.3-reticle 2.5D scale for AI, HBM integration",
-    "link": "https://www.digitimes.com/news/a20260903PD214/packaging-hbm-chips-silicon-hpc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:54"
-  },
-  {
-    "title": "AI substrate shortages widen as Unimicron signals capacity support through 2029",
-    "link": "https://www.digitimes.com/news/a20260903PD222/unimicron-substrate-capacity-demand-semicon-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:51"
-  },
-  {
-    "title": "Win Semiconductors unveils 0.1&mu;m GaN for AI, satellite links",
-    "link": "https://www.digitimes.com/news/a20260902PD242/gan-technology-transmission-semiconductors-satellite-communications.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:48"
-  },
-  {
-    "title": "CXMT's 'Hefei Project' exposed in Samsung DRAM theft case",
-    "link": "https://www.digitimes.com/news/a20260901PD232/2016-cxmt-dram-investigation-samsung-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:47"
-  },
-  {
-    "title": "BYD Semiconductor scales 4D radar chip for L2-L4 driving, deepening its in-house automotive sensing stack",
-    "link": "https://www.digitimes.com/news/a20260902VL213/byd-semiconductor-automotive-production-vehicle-design.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:47"
-  },
-  {
-    "title": "TRUMPF targets advanced packaging as AI chip makers chase higher density and better cooling",
-    "link": "https://www.digitimes.com/news/a20260902PD225/cooling-packaging-chips-ai-chip-transistor.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 01:47"
   }
 ]
