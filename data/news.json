@@ -1,5 +1,77 @@
 [
   {
+    "title": "NewsLatest news from the BOT",
+    "link": "https://www.bot.or.th/en/news-and-media/news.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
+    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
+    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "Monetary Policy Committee Meeting",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 22:18"
+  },
+  {
+    "title": "Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line",
+    "link": "https://www.digitimes.com/news/a20260909PD233/resonac-materials-packaging-equipment-coating.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 21:45"
+  },
+  {
+    "title": "Luxshare eyes AR glasses breakthrough through car HUD model",
+    "link": "https://www.digitimes.com/news/a20260911PD228/luxshare-ar-glasses-lens-module-2026-display.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 18:48"
+  },
+  {
+    "title": "Charts: Taiwan's AI supply chain growth moves from cooling to rack hardware",
+    "link": "https://www.digitimes.com/news/a20260911VL228/growth-revenue-king-slide-supply-chain-2025.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:05"
+  },
+  {
     "title": "Monetary Policy Publications",
     "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
     "source": "Bank of Thailand (BOT)",
@@ -200,6 +272,38 @@
     "published_at": "2026-09-11 08:31"
   },
   {
+    "title": "Memory makers gain the upper hand as Apple's iPhones pay the price",
+    "link": "https://www.digitimes.com/news/a20260911PD217/apple-iphone-qlc-price-nand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:26"
+  },
+  {
+    "title": "Enflame enters public markets with Nvidia alternatives in its sights",
+    "link": "https://www.digitimes.com/news/a20260911VL224/nvidia-shanghai-market-accelerator-ipo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:17"
+  },
+  {
+    "title": "Huawei stakes out the AI optics rulebook with 7.2Tbps NPO",
+    "link": "https://www.digitimes.com/news/a20260911VL208/huawei-optics-bandwidth-manufacturing-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:15"
+  },
+  {
+    "title": "AUO, Innolux accelerate shift from displays to AI, CPO, advanced packaging",
+    "link": "https://www.digitimes.com/news/a20260911PD222/panel-auo-innolux-taiwan-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:09"
+  },
+  {
     "title": "Alipay to launch wallet agent for AI payments",
     "link": "https://www.techinasia.com/alipay-expands-ai-payment-tools-for-businesses-users",
     "source": "Tech in Asia",
@@ -238,6 +342,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-11 07:30"
+  },
+  {
+    "title": "Beyond Earth's orbit: how Besxar, Space Forge, Varda, BioOrbit, Voyager are industrializing space",
+    "link": "https://www.digitimes.com/news/a20260911VL221/manufacturing-semiconductors-commercial-technology-cleanroom.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 07:27"
   },
   {
     "title": "Innolux factory shift could reshape InnoCare's supply chain and growth mix",
@@ -598,6 +710,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-11 00:30"
+  },
+  {
+    "title": "Nvidia, Palantir work on supply-chain AI software",
+    "link": "https://www.techinasia.com/palantir-posts-12b-q3-revenue-strong-ai-demand",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 00:25"
+  },
+  {
+    "title": "Nasdaq invests $100m in Kraken parent for tokenized stocks",
+    "link": "https://www.techinasia.com/nouriel-roubini-cowrites-white-paper-usafi",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 00:23"
   },
   {
     "title": "Hong Kong home prices headed for 15% gain this year, Midland forecast says",
@@ -4670,133 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 09:41"
-  },
-  {
-    "title": "CHPT spans wafer to system-level testing",
-    "link": "https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 09:35"
-  },
-  {
-    "title": "SanDisk pushes HBF ecosystem as AI inference reshapes token economics",
-    "link": "https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 09:34"
-  },
-  {
-    "title": "About 4 in 5 young, affluent investors in mainland China turn to offshore assets: study",
-    "link": "https://www.scmp.com/business/china-business/article/3366245/about-4-5-young-affluent-investors-mainland-china-turn-offshore-assets-study?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 09:33"
-  },
-  {
-    "title": "Carsome posts record Q2 EBITDA of $8.2m",
-    "link": "https://www.techinasia.com/malaysias-highestfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:32"
-  },
-  {
-    "title": "Uber to cut 10% of workforce in major restructuring",
-    "link": "https://www.techinasia.com/uber-agrees-buy-delivery-hero-148b-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:28"
-  },
-  {
-    "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
-    "link": "https://www.channelnewsasia.com/business/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-power-paper-says-6359151",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 09:28"
-  },
-  {
-    "title": "China’s XTransfer gets UAE approval for payment license",
-    "link": "https://www.techinasia.com/airwallex-approval-full-launch-malaysia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:27"
-  },
-  {
-    "title": "500 Global says it is not winding down in SEA",
-    "link": "https://www.techinasia.com/cortex-ai-nets-6m-build-realworld-data-robots",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:20"
-  },
-  {
-    "title": "Infineon sees AI data centers, physical AI as growth drivers",
-    "link": "https://www.digitimes.com/news/a20260903PD220/infineon-ai-data-center-growth-infrastructure.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 09:15"
-  },
-  {
-    "title": "Court upholds 3-year term in TaniHub corruption case",
-    "link": "https://www.techinasia.com/4-vc-execs-sentenced-prison-tanihub-corruption-case",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:11"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in Indonesia",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-indonesia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:00"
-  },
-  {
-    "title": "Dollar debasement is favouring Singapore’s currency, analysts say",
-    "link": "https://www.straitstimes.com/business/dollar-debasement-is-favouring-singapores-currency-analysts-say",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 08:58"
-  },
-  {
-    "title": "Sources of Changes in Current Account Balances (Projections for Sept.)",
-    "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 08:50"
-  },
-  {
-    "title": "Oil edges down as investors weigh uncertainty over US-Iran strikes",
-    "link": "https://www.channelnewsasia.com/business/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-6359096",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 08:49"
-  },
-  {
-    "title": "Exclusive: China 6-inch SiC substrate supply tightens, prices set to rise",
-    "link": "https://www.digitimes.com/news/a20260903PD235/china-6-inch-sic-substrate-demand-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 08:33"
-  },
-  {
-    "title": "Japan services growth hits five-month high, PMI shows",
-    "link": "https://www.channelnewsasia.com/business/japan-services-growth-hits-five-month-high-pmi-shows-6359076",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 08:33"
   }
 ]
