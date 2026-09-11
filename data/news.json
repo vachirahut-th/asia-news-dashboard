@@ -1,5 +1,197 @@
 [
   {
+    "title": "Indian audio startup Pocket FM hits $500m revenue run rate",
+    "link": "https://www.techinasia.com/granite-asia-leads-85m-series-indian-mobile-content-app-kuku",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 03:17"
+  },
+  {
+    "title": "Yuen Kee Food enters final stage of Hong Kong IPO after HKEX approval, sources say",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367133/yuen-kee-food-enters-final-stage-hong-kong-ipo-after-hkex-approval-sources-say?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 03:12"
+  },
+  {
+    "title": "I used to think the hard part of employee advocacy was getting people to post",
+    "link": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 03:00"
+  },
+  {
+    "title": "AI server tracker: Taiwan's rack supply chain reveals where the AI buildout is accelerating",
+    "link": "https://www.digitimes.com/news/a20260911VL207/supply-chain-ai-server-taiwan-revenue-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 02:55"
+  },
+  {
+    "title": "AirTrunk seeks $1.5b loan ahead of Singapore REIT IPO",
+    "link": "https://www.techinasia.com/airtrunk-secures-12b-green-loan-japan-data-center",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 02:55"
+  },
+  {
+    "title": "Anthropic disrupts Chinese AI firms' attempts to extract Claude capabilities",
+    "link": "https://www.digitimes.com/news/a20260911VL206/anthropic-claude-deepseek-moonshot-alibaba.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 02:37"
+  },
+  {
+    "title": "How to turn your founder’s opinions into media-ready narratives",
+    "link": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 02:30"
+  },
+  {
+    "title": "Adobe beats Q3 estimates as AI product demand rises",
+    "link": "https://www.techinasia.com/adobe-launches-ai-suite-for-enterprises-marketing",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 02:29"
+  },
+  {
+    "title": "Pentagon reportedly weighs US$5B loan to AI infrastructure startup Fluidstack",
+    "link": "https://www.digitimes.com/news/a20260911VL205/infrastructure-loan-financing-startup-google.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 02:25"
+  },
+  {
+    "title": "Jensen Huang bets Nvidia's next leg of growth on turning AI compute into an investable asset",
+    "link": "https://www.digitimes.com/news/a20260911VL203/jensen-huang-nvidia-goldman-sachs-growth-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 02:16"
+  },
+  {
+    "title": "OpenAI pauses $200 Pro subscriptions after Astra demand surge",
+    "link": "https://www.techinasia.com/openai-launches-gpt6-astra-critical-cyber-capability",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 02:16"
+  },
+  {
+    "title": "I built an AI that keeps receipts. The mistakes became the useful part",
+    "link": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 02:00"
+  },
+  {
+    "title": "Nvidia's US$13 billion Hugging Face deal bets physical AI can start at US$400, not US$40,000",
+    "link": "https://www.digitimes.com/news/a20260910VL221/robotics-nvidia-software-cost-robot.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 01:58"
+  },
+  {
+    "title": "Oracle's AI cloud build-out is now rewriting its cost structure",
+    "link": "https://www.digitimes.com/news/a20260911VL200/oracle-revenue-cost-infrastructure-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 01:57"
+  },
+  {
+    "title": "Oracle turns its AI build-out into a delivery number, and the cost lands where management said it would",
+    "link": "https://www.digitimes.com/news/a20260911VL201/oracle-2027-earnings-revenue-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 01:57"
+  },
+  {
+    "title": "Vietnam Grab drivers call for two-day boycott over pay",
+    "link": "https://www.techinasia.com/grab-aims-triple-indonesia-ev-fleet-end2026",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:57"
+  },
+  {
+    "title": "India’s Wipro says AI boosted productivity by 20,000 workers",
+    "link": "https://www.techinasia.com/india-it-firms-see-ai-demand-rise-as-spending-slows",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:55"
+  },
+  {
+    "title": "AI server tracker: Taiwan's August filings say demand is still accelerating",
+    "link": "https://www.digitimes.com/news/a20260911VL204/ai-server-revenue-taipei-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 01:54"
+  },
+  {
+    "title": "Foreign carmakers offer steep discounts on petrol-powered cars in cutthroat Chinese market",
+    "link": "https://www.scmp.com/business/china-business/article/3367123/foreign-carmakers-offer-steep-discounts-petrol-powered-cars-cutthroat-chinese-market?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 01:45"
+  },
+  {
+    "title": "TSMC August revenue hits $16.3b, up 53.3%",
+    "link": "https://www.techinasia.com/tsmc-june-revenue-jumps-68-year",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:32"
+  },
+  {
+    "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
+    "link": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:30"
+  },
+  {
+    "title": "Prediction market Polymarket names new CFO",
+    "link": "https://www.techinasia.com/kalshi-polymarket-in-talks-that-could-value-them-at-20b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:23"
+  },
+  {
+    "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
+    "link": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:00"
+  },
+  {
+    "title": "Hong Kong home prices headed for 15% gain this year, Midland forecast says",
+    "link": "https://www.scmp.com/business/article/3367086/hong-kong-home-prices-headed-15-gain-year-midland-forecast-says?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-10 23:00"
+  },
+  {
     "title": "Rayzher rides semiconductor fab buildout to record revenue",
     "link": "https://www.digitimes.com/news/a20260910PD200/rayzher-revenue-2026-fab-management.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -4606,197 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-03 03:24"
-  },
-  {
-    "title": "Berkshire eyes bigger stakes in Japan trading houses: CEO Abel",
-    "link": "https://asia.nikkei.com/editor-s-picks/interview/berkshire-eyes-bigger-stakes-in-japan-trading-houses-ceo-abel",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:24"
-  },
-  {
-    "title": "Malaysia draws global critical minerals interest as China curbs loom",
-    "link": "https://asia.nikkei.com/spotlight/supply-chain/malaysia-draws-global-critical-minerals-interest-as-china-curbs-loom",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:24"
-  },
-  {
-    "title": "Stalled Thai airport rail project faces further uncertainty",
-    "link": "https://asia.nikkei.com/business/transportation/stalled-thai-airport-rail-project-faces-further-uncertainty",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:24"
-  },
-  {
-    "title": "Japan Airlines CEO says aviation alliances taking on broader role",
-    "link": "https://asia.nikkei.com/business/transportation/japan-airlines-ceo-says-aviation-alliances-taking-on-broader-role",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:24"
-  },
-  {
-    "title": "Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools",
-    "link": "https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:21"
-  },
-  {
-    "title": "Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials",
-    "link": "https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 03:20"
-  },
-  {
-    "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
-    "link": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:11"
-  },
-  {
-    "title": "Tencent Cloud partners with Simpaisa for Saudi push",
-    "link": "https://www.techinasia.com/tencent-cloud-powers-ryt-banks-ai-banking-service",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:00"
-  },
-  {
-    "title": "Staying secure in the AI era: The habits we need to rethink",
-    "link": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
-    "source": "e27",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:00"
-  },
-  {
-    "title": "Solomon leverages AI vision and optical tech to tap semiconductor inspection market",
-    "link": "https://www.digitimes.com/news/a20260902PD246/solomon-3d-vision-wafer-inspection-semicon-taiwan.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:57"
-  },
-  {
-    "title": "TSMC doubles down on equipment purchase as AI demand is outpacing semiconductor supply chain planning",
-    "link": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:50"
-  },
-  {
-    "title": "Yubico expands OpenAI security key bundle to more markets",
-    "link": "https://www.techinasia.com/openai-tests-safety-system-detect-risky-ai-behavior",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:41"
-  },
-  {
-    "title": "SK Hynix weighs Kioxia production tie-up in Japan",
-    "link": "https://www.digitimes.com/news/a20260903VL212/sk-hynix-kioxia-nand-production.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:38"
-  },
-  {
-    "title": "Palo Alto Networks buys AI startup Console: sources",
-    "link": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:31"
-  },
-  {
-    "title": "Singapore startup launches AI platform for corporate taxes",
-    "link": "https://www.techinasia.com/3-biggest-mistakes-founders-business-finance-tool",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:23"
-  },
-  {
-    "title": "Intel pre-funds EMIB-T and CPU capacity, will address DRAM through partners rather than fabs",
-    "link": "https://www.digitimes.com/news/a20260903VL211/intel-emib-cpu-dram-capacity-2028.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:21"
-  },
-  {
-    "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
-    "link": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
-    "source": "e27",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:15"
-  },
-  {
-    "title": "Taiwan's supply chain is 'one of a kind,' MediaTek CEO says",
-    "link": "https://www.digitimes.com/news/a20260903PD224/mediatek-taiwan-ceo-taiwan-supply-chain-capacity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:11"
-  },
-  {
-    "title": "Apple, Xiaomi and Nvidia chase terabyte-class bandwidth for AI chips",
-    "link": "https://www.digitimes.com/news/a20260903PD223/memory-chips-bandwidth-xiaomi-apple-nvidia.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:11"
-  },
-  {
-    "title": "AUO unit eyes TSMC ecosystem as merger benefits emerge",
-    "link": "https://www.digitimes.com/news/a20260903PD219/auo-equipment-sustainability-tsmc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:09"
-  },
-  {
-    "title": "AUO unit eyes TSMC ecosystem as merger benefits emerge",
-    "link": "https://www.digitimes.com/news/a20260903PD219/auo-ample-electronic-merger-tsmc-equipment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 02:09"
-  },
-  {
-    "title": "Equinix unveils AI infrastructure services with Nvidia, AWS",
-    "link": "https://www.techinasia.com/chinese-ai-firms-push-hong-kong-data-center-leasing",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:05"
-  },
-  {
-    "title": "Glasswall: The things anonymous founders say about VCs",
-    "link": "https://www.techinasia.com/visual-story/glasswall-vc-investors-founders-reviews",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:00"
-  },
-  {
-    "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
-    "link": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
-    "source": "e27",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 02:00"
   }
 ]
