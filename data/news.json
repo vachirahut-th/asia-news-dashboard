@@ -1,5 +1,189 @@
 [
   {
+    "title": "Ecosystem Roundup: What failed startups reveal about SEA’s next tech cycle",
+    "link": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 08:37"
+  },
+  {
+    "title": "ASEAN backs AI training for 1.7 million people by 2028",
+    "link": "https://www.techinasia.com/singapore-pushes-new-global-ai-testing-standard",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 08:31"
+  },
+  {
+    "title": "Alipay to launch wallet agent for AI payments",
+    "link": "https://www.techinasia.com/alipay-expands-ai-payment-tools-for-businesses-users",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 08:08"
+  },
+  {
+    "title": "Hang Seng rolls out five wealth management strategies",
+    "link": "https://www.scmp.com/presented/business/banking-finance/topics/five-wealth-strategies-families/article/3366892/hang-seng-rolls-out-five-wealth-management-strategies?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 08:00"
+  },
+  {
+    "title": "CPO startup Ayar Labs raises 2026 funding to US$650 million, adds Wiwynn as investor",
+    "link": "https://www.digitimes.com/news/a20260911VL222/cpo-startup-wiwynn-funding-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 07:52"
+  },
+  {
+    "title": "Gen Z founders rethink social media with private virtual homes",
+    "link": "https://www.techinasia.com/gen-founders-rethink-social-media-private-virtual-homes",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 07:30"
+  },
+  {
+    "title": "Innolux factory shift could reshape InnoCare's supply chain and growth mix",
+    "link": "https://www.digitimes.com/news/a20260911PD212/innolux-growth-inspection-inventory-relocation.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 07:14"
+  },
+  {
+    "title": "China's DRAM supply chain clears another materials hurdle",
+    "link": "https://www.digitimes.com/news/a20260911VL219/quartz-materials-dram-equipment-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 07:12"
+  },
+  {
+    "title": "US Treasury yield hits 19-year high, Japanese yen strengthens: the numbers moving markets",
+    "link": "https://www.scmp.com/business/china-business/article/3367158/us-treasury-yield-hits-19-year-high-japanese-yen-strengthens-numbers-moving-markets?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 07:00"
+  },
+  {
+    "title": "Singapore’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/singapores-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 07:00"
+  },
+  {
+    "title": "Salesforce introduces Enterprise AI Harness foundation",
+    "link": "https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 06:51"
+  },
+  {
+    "title": "CIOE: Hitachi relies on partnerships, not proprietary tech, to ride China's optical boom",
+    "link": "https://www.digitimes.com/news/a20260911VL218/hitachi-optoelectronics-photonics-flagship-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 06:40"
+  },
+  {
+    "title": "Samsung's Exynos gains ground as Galaxy S26 lifts share to 9%",
+    "link": "https://www.digitimes.com/news/a20260911VL215/samsung-exynos-galaxy-processor-flagship.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 06:18"
+  },
+  {
+    "title": "Taiwan govt boosts EDA R&amp;D to target global gaps",
+    "link": "https://www.digitimes.com/news/a20260911PD221/taiwan-eda-government-nstc-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 06:04"
+  },
+  {
+    "title": "Haidilao’s stock rout exposes funding risk from Beijing’s taxation crackdown as payments loom",
+    "link": "https://www.scmp.com/business/china-business/article/3367159/haidilaos-stock-rout-exposes-risk-beijings-taxation-crackdown-payment-day-looms?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 06:00"
+  },
+  {
+    "title": "Flipkart Minutes expands to 1,200 fulfillment centers in India",
+    "link": "https://www.techinasia.com/flipkart-amazon-expand-dark-stores-quick-commerce-profits-slow",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 05:56"
+  },
+  {
+    "title": "CIOE 2026: Automotive optical-module demand could rival FTTx shipments by 2030",
+    "link": "https://www.digitimes.com/news/a20260911PD223/demand-fttx-2030-automotive-shipments.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 05:45"
+  },
+  {
+    "title": "China's energy storage capacity surges 50-fold in five years, sparking crackdown on lithium battery expansion",
+    "link": "https://www.digitimes.com/news/a20260911PD220/capacity-lithium-battery-expansion-government-launch.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 05:40"
+  },
+  {
+    "title": "Indian fashion brand Theater raises $7.9m in series A",
+    "link": "https://www.techinasia.com/indian-defense-ai-startup-tsecond-ai-raises-21-5m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 05:30"
+  },
+  {
+    "title": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap",
+    "link": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 05:10"
+  },
+  {
+    "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
+    "link": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 04:44"
+  },
+  {
+    "title": "Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software",
+    "link": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 04:16"
+  },
+  {
+    "title": "Mapping the startups setting the pace in Korea’s AI sector",
+    "link": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 04:00"
+  },
+  {
     "title": "Indian audio startup Pocket FM hits $500m revenue run rate",
     "link": "https://www.techinasia.com/granite-asia-leads-85m-series-indian-mobile-content-app-kuku",
     "source": "Tech in Asia",
@@ -4614,189 +4798,5 @@
     "category": "Official Stats/Policy",
     "region": "Southeast Asia",
     "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Monetary Policy Publications",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
-    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Head Office, Branches, and Overseas Offices",
-    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
-    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Organization of Head office, Branches and Offices",
-    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "The Bank's Organizational Core Principles",
-    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Medium-Term Strategic Plan",
-    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Business Continuity Planning",
-    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Microsoft unveils two-segment reporting structure, standalone Azure financials",
-    "link": "https://www.digitimes.com/news/a20260903VL214/microsoft-azure-revenue-business-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:13"
-  },
-  {
-    "title": "ByteDance said to line up $29.6b loan",
-    "link": "https://www.techinasia.com/bytedance-in-early-talks-for-20b-offshore-loan-sources",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "What do 3% yields mean for Japan's businesses, Takaichi's spending plans?",
-    "link": "https://asia.nikkei.com/economy/what-do-3-yields-mean-for-japan-s-businesses-takaichi-s-spending-plans",
-    "source": "Nikkei Asia",
-    "category": "Economy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "Japan's corporate pensions return to domestic bonds as long-term rates rise",
-    "link": "https://asia.nikkei.com/business/finance/japan-s-corporate-pensions-return-to-domestic-bonds-as-long-term-rates-rise",
-    "source": "Nikkei Asia",
-    "category": "Economy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "Mideast oil-producing nations scramble for pipeline alternatives to Hormuz",
-    "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/mideast-oil-producing-nations-scramble-for-pipeline-alternatives-to-hormuz",
-    "source": "Nikkei Asia",
-    "category": "Economy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
-    "link": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
-    "source": "Nikkei Asia",
-    "category": "Economy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "Japan's JFE Engineering to use Nobel-winning material for carbon capture",
-    "link": "https://asia.nikkei.com/business/technology/japan-s-jfe-engineering-to-use-nobel-winning-material-for-carbon-capture",
-    "source": "Nikkei Asia",
-    "category": "Economy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:10"
-  },
-  {
-    "title": "What SEA founders get wrong about expanding to the US",
-    "link": "https://www.techinasia.com/sea-founders-wrong-expanding",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:00"
-  },
-  {
-    "title": "Chinese robotics firm UBTech completes $13.9m round",
-    "link": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:56"
-  },
-  {
-    "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
-    "link": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:55"
-  },
-  {
-    "title": "Laters.com raises US$1.5M to expand flexible flight payments",
-    "link": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
-    "source": "e27 (Tech & Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:49"
-  },
-  {
-    "title": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue",
-    "link": "https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html",
-    "source": "Digitimes (Semiconductor/Tech)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:43"
-  },
-  {
-    "title": "The travel eSIM market is moving beyond price per GB",
-    "link": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
-    "source": "e27 (Tech & Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:30"
-  },
-  {
-    "title": "Australian AI firm Firmus bets $300m on trans-Pacific cable",
-    "link": "https://www.techinasia.com/nvidia-backed-ai-infra-startup-firmus-hits-3-9b-valuation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 03:25"
-  },
-  {
-    "title": "Top British state school opens branch near Delhi and in Dubai",
-    "link": "https://asia.nikkei.com/business/education/top-british-state-school-opens-branch-near-delhi-and-in-dubai",
-    "source": "Nikkei Asia - Tech",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 03:24"
   }
 ]
