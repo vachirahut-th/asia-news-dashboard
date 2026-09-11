@@ -1,5 +1,189 @@
 [
   {
+    "title": "Monetary Policy Publications",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
+    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Head Office, Branches, and Overseas Offices",
+    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
+    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Organization of Head office, Branches and Offices",
+    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "The Bank's Organizational Core Principles",
+    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Medium-Term Strategic Plan",
+    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Business Continuity Planning",
+    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-09-11 16:02"
+  },
+  {
+    "title": "Why Chinese automakers' aggressive push only further tightens CATL's grip",
+    "link": "https://www.digitimes.com/news/a20260911VL227/automakers-catl-supply-manufacturing-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 14:48"
+  },
+  {
+    "title": "‘Key pillar’: the 5-year powerhouse plan for China’s car industry",
+    "link": "https://www.scmp.com/economy/china-economy/article/3367214/key-pillar-5-year-powerhouse-plan-chinas-car-industry?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 13:00"
+  },
+  {
+    "title": "Beijing freezes plant approvals for energy-storage  batteries amid overcapacity fears",
+    "link": "https://www.scmp.com/business/china-business/article/3367241/beijing-freezes-plant-approvals-energy-storage-batteries-amid-overcapacity-fears?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 11:43"
+  },
+  {
+    "title": "China’s young investors embrace risk. Why are their portfolios so safe?",
+    "link": "https://www.scmp.com/business/china-business/article/3367220/chinas-young-investors-embrace-risk-so-why-are-their-portfolios-so-safe?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 10:05"
+  },
+  {
+    "title": "ASE to buy AOI, AVI equipment from Machvision for NT$334M",
+    "link": "https://www.digitimes.com/news/a20260911PD236/ase-equipment-machvision-aoi-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 09:52"
+  },
+  {
+    "title": "A16z on AI scale: Why big funding builds moats",
+    "link": "https://www.techinasia.com/a16z-ai-scale-big-funding-builds-moats",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 09:40"
+  },
+  {
+    "title": "Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay",
+    "link": "https://www.scmp.com/tech/big-tech/article/3367183/ant-international-let-ai-agents-shop-across-alipayhk-starryblu-kakaopay-and-toss?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 09:30"
+  },
+  {
+    "title": "Kioxia eyes US listing amid NAND profit rebound",
+    "link": "https://www.digitimes.com/news/a20260911VL229/kioxia-nand-demand-ssd-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 09:25"
+  },
+  {
+    "title": "Apple phones drive premium upgrade wave for carriers",
+    "link": "https://www.digitimes.com/news/a20260911PD205/apple-iphone-foldable-twm-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 09:21"
+  },
+  {
+    "title": "Taiwan unfazed by Trump's renewed chip tariff threat as MOU already locks in preferential US treatment",
+    "link": "https://www.digitimes.com/news/a20260910PD246/taiwan-xi-jinping-donald-trump-manufacturing-semiconductors.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 09:20"
+  },
+  {
+    "title": "ficonTEC breaks CPO test bottleneck, teams with Hermes Testing",
+    "link": "https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 09:19"
+  },
+  {
+    "title": "Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367190/mainland-chinese-investors-drive-hong-kong-wealth-boom-despite-new-tax-rules-report?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 09:00"
+  },
+  {
+    "title": "Meet the 20 top-funded startups and tech companies in Hong Kong",
+    "link": "https://www.techinasia.com/meet-20-topfunded-startups-tech-companies-hong-kong",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 09:00"
+  },
+  {
+    "title": "Chipmaking equipment spending could hit US$270 billion by 2030, Futurum says",
+    "link": "https://www.digitimes.com/news/a20260911VL225/equipment-2030-wafer-fab-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:59"
+  },
+  {
+    "title": "Samsung Electro-Mechanics, LG Innotek vie in AI package substrates",
+    "link": "https://www.digitimes.com/news/a20260911PD229/semco-lg-innotek-2026-substrate-technology.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 08:41"
+  },
+  {
     "title": "Ecosystem Roundup: What failed startups reveal about SEA’s next tech cycle",
     "link": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/",
     "source": "e27 (Startups)",
@@ -38,6 +222,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-11 07:52"
+  },
+  {
+    "title": "Nvidia, D-Matrix team up on next-gen AI inference chips",
+    "link": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 07:49"
   },
   {
     "title": "Gen Z founders rethink social media with private virtual homes",
@@ -360,12 +552,52 @@
     "published_at": "2026-09-11 01:23"
   },
   {
+    "title": "Huawei unveils 7.2 Tbps optics module for AI",
+    "link": "https://www.techinasia.com/huawei-kirin-2026-boosts-density-55-node",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:20"
+  },
+  {
+    "title": "MediaTek August revenue jumps 44% on AI chip business",
+    "link": "https://www.techinasia.com/mediatek-shares-hit-record-high-on-google-ai-chip-deal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 01:05"
+  },
+  {
     "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
     "link": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-11 01:00"
+  },
+  {
+    "title": "Google launches Gemini app for Windows",
+    "link": "https://www.techinasia.com/google-releases-gemini-37-flash-spark",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 00:59"
+  },
+  {
+    "title": "Tencent repurchases $12.7m in shares, extends buyback streak",
+    "link": "https://www.techinasia.com/tencent-expands-ai-push-with-global-adp-4-0-launch",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 00:55"
+  },
+  {
+    "title": "Alibaba’s capex isn’t the full story",
+    "link": "https://www.techinasia.com/alibabas-capex-full-story",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-11 00:30"
   },
   {
     "title": "Hong Kong home prices headed for 15% gain this year, Midland forecast says",
@@ -4566,237 +4798,5 @@
     "category": "Economy",
     "region": "Asia-Pacific",
     "published_at": "2026-09-03 08:33"
-  },
-  {
-    "title": "US Fed says ‘positive’ economic outlook facing heightened uncertainty",
-    "link": "https://www.straitstimes.com/business/us-fed-says-positive-economic-outlook-facing-heightened-uncertainty",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 08:26"
-  },
-  {
-    "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
-    "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 08:00"
-  },
-  {
-    "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
-    "link": "https://www.straitstimes.com/business/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 07:50"
-  },
-  {
-    "title": "Mitsubishi Heavy Industries and NEC form alliance to advance defense tech, AI sovereignty",
-    "link": "https://www.digitimes.com/news/a20260903PR203/mitsubishi-heavy-nec-industrial-defense-alliance-partnership.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 07:35"
-  },
-  {
-    "title": "Samsung insurers plan to buy Canopius for $1.5 billion, newspaper says",
-    "link": "https://www.channelnewsasia.com/business/samsung-insurers-plan-buy-canopius-15-billion-newspaper-says-6358986",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 07:26"
-  },
-  {
-    "title": "Turing Drive highlights overseas expansion, extends invitation to global automakers",
-    "link": "https://www.digitimes.com/news/a20260901PD235/autonomous-driving-automakers-startup-vehicle-taipei.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 07:25"
-  },
-  {
-    "title": "China chip tool makers expand beyond import substitution at CSEAC 2026",
-    "link": "https://www.digitimes.com/news/a20260903VL210/equipment-thin-film-metrology-silicon-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 07:15"
-  },
-  {
-    "title": "KEPCO seeks US$18 billion from Samsung, SK Hynix to fund Korea's power grid",
-    "link": "https://www.digitimes.com/news/a20260903VL218/sk-hynix-samsung-electricity-infrastructure-investment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 07:04"
-  },
-  {
-    "title": "Uber and AI-firm Wayve launch London's first robotaxis",
-    "link": "https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 07:02"
-  },
-  {
-    "title": "AI tool spots red flags in dating profiles and job offers",
-    "link": "https://www.techinasia.com/ai-tool-spots-red-flags-in-dating-profiles-and-job-offers",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 07:00"
-  },
-  {
-    "title": "50 rising startups in Indonesia",
-    "link": "https://www.techinasia.com/50-rising-startups-indonesia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 07:00"
-  },
-  {
-    "title": "Fei-Fei Li's World Labs unveils Atlas world model for 3D AI and robotics",
-    "link": "https://www.digitimes.com/news/a20260903VL213/atlas-3d-robotics-startup-camera.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 06:28"
-  },
-  {
-    "title": "Niching validates 500-ton press for large heat spreaders",
-    "link": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 06:20"
-  },
-  {
-    "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
-    "link": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 06:15"
-  },
-  {
-    "title": "Meet the humans behind ‘Wendy and Wayne’, OCBC’s wealth avatars",
-    "link": "https://www.straitstimes.com/business/meet-the-humans-behind-wendy-and-wayne-ocbcs-virtual-wealth-avatars",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 06:00"
-  },
-  {
-    "title": "For Southeast Asian startups, distress may show up before the cash runs out",
-    "link": "https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:49"
-  },
-  {
-    "title": "Amid global risks, younger investors favour tangible bars as paper gold loses shine",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366187/amid-global-risks-younger-investors-favour-tangible-bars-paper-gold-loses-shine?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 05:35"
-  },
-  {
-    "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
-    "link": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:35"
-  },
-  {
-    "title": "BYD opens Indonesia EV plant with 150,000 capacity",
-    "link": "https://www.techinasia.com/byd-denies-environmental-breaches-at-first-eu-plant",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:31"
-  },
-  {
-    "title": "Bots, bills, and data scraping: Inside Cloudflare’s AI plan",
-    "link": "https://www.techinasia.com/bots-bills-data-scraping-cloudflare-plan-ai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:30"
-  },
-  {
-    "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
-    "link": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:09"
-  },
-  {
-    "title": "Wall Street ends higher as stocks reclaim some shine",
-    "link": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-stocks-reclaim-some-shine",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 05:05"
-  },
-  {
-    "title": "Broadcom says CPO fits scale-out better than scale-up",
-    "link": "https://www.digitimes.com/news/a20260903PD228/broadcom-cpo-copper-technology-optics.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-03 04:43"
-  },
-  {
-    "title": "NewsLatest news from the BOT",
-    "link": "https://www.bot.or.th/en/news-and-media/news.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
-    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
-    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
-    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
-  },
-  {
-    "title": "Monetary Policy Committee Meeting",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 04:34"
   }
 ]
