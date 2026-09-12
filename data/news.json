@@ -1,5 +1,69 @@
 [
   {
+    "title": "How AI tools are reshaping stock trading, investment research in China",
+    "link": "https://www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-12 08:00"
+  },
+  {
+    "title": "Indonesia’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/indonesias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 07:00"
+  },
+  {
+    "title": "UAE rethinks 5GW AI data center project after Iran war",
+    "link": "https://www.techinasia.com/uae-saudi-arabia-data-center-push-continues-war-risks",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 06:58"
+  },
+  {
+    "title": "Nvidia in talks to invest $10b in Anthropic IPO: sources",
+    "link": "https://www.techinasia.com/anthropic-eyes-10bplus-credit-line-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 04:40"
+  },
+  {
+    "title": "Moonshot AI targets $2b in annualized sales by year-end",
+    "link": "https://www.techinasia.com/moonshot-ai-raises-35b-series-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 04:26"
+  },
+  {
+    "title": "Sequoia leads Mecka AI round at nearly $500m valuation",
+    "link": "https://www.techinasia.com/simulating-humanrobot-decision-making-embodied-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 04:05"
+  },
+  {
+    "title": "South Korea’s startup funding, as explained in charts",
+    "link": "https://www.techinasia.com/visual-story/capital-south-korea-south-koreas-funding-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 04:00"
+  },
+  {
+    "title": "Roblox expands AI game creation tools beyond its platform",
+    "link": "https://www.techinasia.com/roblox-demos-ai-tool-to-build-virtual-worlds-with-text-prompts",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 03:42"
+  },
+  {
     "title": "Oracle adds $700m to restructuring costs as AI spending rises",
     "link": "https://www.techinasia.com/oracle-shares-sink-19-ai-spending-debt-worries",
     "source": "Tech in Asia",
@@ -72,6 +136,30 @@
     "published_at": "2026-09-12 01:14"
   },
   {
+    "title": "Taiwan sees AI-era power upgrade openings in France",
+    "link": "https://www.digitimes.com/news/a20260911PD231/taiwan-france-europe-president-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:13"
+  },
+  {
+    "title": "Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift",
+    "link": "https://www.digitimes.com/news/a20260911PD230/pegatron-revenue-apple-2026-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:13"
+  },
+  {
+    "title": "Commentary: Apple sends off Cook with a foldable flourish, but Ternus's trial is still ahead",
+    "link": "https://www.digitimes.com/news/a20260911PD227/apple-iphone-foldable-ceo-tim-cook.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:13"
+  },
+  {
     "title": "Murata targets mass production of its AI power substrate next year",
     "link": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -102,6 +190,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-12 00:00"
+  },
+  {
+    "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
+    "link": "https://www.digitimes.com/news/a20260911VL230/inspection-packaging-production-equipment-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-11 23:05"
   },
   {
     "title": "Private equity’s Fang Fenglei on investing in China, capital market reforms",
@@ -4702,101 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-04 01:57"
-  },
-  {
-    "title": "India's refurbished smartphone market gains as prices push buyers toward premium used devices",
-    "link": "https://www.digitimes.com/news/a20260904PR205/refurbished-smartphone-market-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 01:51"
-  },
-  {
-    "title": "Acer bets on RTX, GoogleBook as on-site AI demand grows",
-    "link": "https://www.digitimes.com/news/a20260904PD210/acer-rtx-demand-chairman-jason-chen.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 01:50"
-  },
-  {
-    "title": "AMD, Delhi University to train 10,000 in AI tech",
-    "link": "https://www.techinasia.com/amd-roll-helios-gpu-platform-india-h2-2026",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 01:39"
-  },
-  {
-    "title": "The Podular future: Why AI demands a new organisational architecture",
-    "link": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 01:30"
-  },
-  {
-    "title": "The AI wrapper reckoning has reached SEA’s funding tables",
-    "link": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 01:30"
-  },
-  {
-    "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-    "link": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 01:00"
-  },
-  {
-    "title": "Moonshot AI targets Hong Kong IPO in early 2027: sources",
-    "link": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:59"
-  },
-  {
-    "title": "Google launches WeatherNext 3 AI model for global forecasts",
-    "link": "https://www.techinasia.com/google-deepmind-ceo-steps-down-in-alphabet-ai-reshuffle",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:47"
-  },
-  {
-    "title": "SEA founders need a better US pitch",
-    "link": "https://www.techinasia.com/sea-founders-need-a-better-us-pitch",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:30"
-  },
-  {
-    "title": "Bitget in talks with BlackRock on Asia crypto push",
-    "link": "https://www.techinasia.com/bitget-launches-visa-crypto-card-apac",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:28"
-  },
-  {
-    "title": "Nvidia agrees to buy Hugging Face for $13b",
-    "link": "https://www.techinasia.com/nvidia-talks-invest-perplexity-30b-valuation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:07"
-  },
-  {
-    "title": "Mapping SEA’s leading cleantech players",
-    "link": "https://www.techinasia.com/visual-story/mapping-sea-cleantech",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 00:00"
   }
 ]
