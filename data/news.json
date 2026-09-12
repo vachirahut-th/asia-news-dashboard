@@ -1,5 +1,117 @@
 [
   {
+    "title": "Oracle adds $700m to restructuring costs as AI spending rises",
+    "link": "https://www.techinasia.com/oracle-shares-sink-19-ai-spending-debt-worries",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 02:10"
+  },
+  {
+    "title": "Insight Partners leads $13.3m round for pharma startup Graph AI",
+    "link": "https://www.techinasia.com/ai-agents-surge-enterprises-94-flag-sprawl-risks-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 02:05"
+  },
+  {
+    "title": "Europe buys time in the LEO race as Eutelsat extends OneWeb toward the IRIS&sup2; era",
+    "link": "https://www.digitimes.com/news/a20260911VL211/leo-starlink-oneweb-europe-communications.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:29"
+  },
+  {
+    "title": "Renault sets 2-year car development quality line",
+    "link": "https://www.digitimes.com/news/a20260911PD204/automakers-development-renault-launch-market-share.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:28"
+  },
+  {
+    "title": "Rethinking defense perimeters, supply chain resilience in the AI era",
+    "link": "https://www.digitimes.com/news/a20260911PD226/supply-chain-cybersecurity-software-technology-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:27"
+  },
+  {
+    "title": "Analysis: Speed built Colossus, yet redundancy may decide whether SpaceX can scale it",
+    "link": "https://www.digitimes.com/news/a20260911VL217/infrastructure-spacex-xai-cooling-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:26"
+  },
+  {
+    "title": "Apple foldable plans drive new demand for Japanese smartphone parts makers",
+    "link": "https://www.digitimes.com/news/a20260911PD234/apple-foldable-smartphone-business-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:20"
+  },
+  {
+    "title": "Exclusive: ASUS xHIS aims to become digital backbone for AI-ready healthcare",
+    "link": "https://www.digitimes.com/news/a20260911PD213/healthcare-asus-data-smart-healthcare-medical.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:14"
+  },
+  {
+    "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
+    "link": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:14"
+  },
+  {
+    "title": "Murata targets mass production of its AI power substrate next year",
+    "link": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-12 01:13"
+  },
+  {
+    "title": "Taobao’s ‘ugly’ goods find a growing market among China’s young consumers",
+    "link": "https://www.scmp.com/business/china-business/article/3367218/taobaos-ugly-goods-find-growing-market-among-chinas-young-consumers?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-12 01:00"
+  },
+  {
+    "title": "Sugar, spice, and sprinkles of AI",
+    "link": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 00:30"
+  },
+  {
+    "title": "New and returning investors betting on SEA",
+    "link": "https://www.techinasia.com/returning-investors-betting-sea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-12 00:00"
+  },
+  {
+    "title": "Private equity’s Fang Fenglei on investing in China, capital market reforms",
+    "link": "https://www.scmp.com/plus/economy/china-economy/article/3367236/private-equitys-fang-fenglei-investing-china-capital-market-reforms?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-11 23:01"
+  },
+  {
     "title": "NewsLatest news from the BOT",
     "link": "https://www.bot.or.th/en/news-and-media/news.html",
     "source": "Bank of Thailand (BOT)",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-04 00:00"
-  },
-  {
-    "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 23:00"
-  },
-  {
-    "title": "China prepares next phase of national SME fund to boost tech start-ups and IPOs",
-    "link": "https://www.scmp.com/economy/china-economy/article/3366269/china-prepares-next-phase-national-sme-fund-boost-tech-start-ups-and-ipos?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 12:37"
-  },
-  {
-    "title": "High Court rejects US$5m claim against Babel Finance co-founder over crypto fund collapse",
-    "link": "https://www.straitstimes.com/business/high-court-rejects-us5m-claim-against-babel-finance-co-founder-over-crypto-fund-collapse",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 12:00"
-  },
-  {
-    "title": "ByteDance gets $37.6b loan, Asia’s second-largest in 2026",
-    "link": "https://www.straitstimes.com/business/bytedance-gets-37-6b-loan-asias-second-largest-in-2026",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 11:56"
-  },
-  {
-    "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
-    "link": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 11:33"
-  },
-  {
-    "title": "Hong Kong regulator reclassifies certain funds with exposure to private markets",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366260/hong-kong-regulator-reclassifies-certain-funds-exposure-private-markets?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 11:12"
-  },
-  {
-    "title": "Thomson Reuters detects cybersecurity incident, says unauthorized party accessed files",
-    "link": "https://www.channelnewsasia.com/business/thomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-files-6359396",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 11:07"
-  },
-  {
-    "title": "25 rising startups in Thailand",
-    "link": "https://www.techinasia.com/50-rising-startups-thailand",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 11:00"
-  },
-  {
-    "title": "Notice of the \"Meeting on Market Operations\"",
-    "link": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-09-03 11:00"
-  },
-  {
-    "title": "ByteDance gets $30 billion loan, Bloomberg News reports",
-    "link": "https://www.channelnewsasia.com/business/bytedance-gets-30-billion-loan-bloomberg-news-reports-6359356",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 10:58"
-  },
-  {
-    "title": "Shares, bonds rally as markets await signals for Fed rates",
-    "link": "https://www.straitstimes.com/business/shares-bonds-rally-as-markets-await-signals-for-fed-rates",
-    "source": "The Straits Times (Business)",
-    "category": "Economy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 10:42"
-  },
-  {
-    "title": "Shares, bonds rally as markets await signals for Fed rates",
-    "link": "https://www.channelnewsasia.com/business/shares-bonds-rally-markets-await-signals-fed-rates-6359216",
-    "source": "CNA (Business & Economy)",
-    "category": "Economy",
-    "region": "Asia-Pacific",
-    "published_at": "2026-09-03 10:02"
-  },
-  {
-    "title": "As hordes head to Shenzhen, Hong Kong bars, restaurants sign up for more floor space",
-    "link": "https://www.scmp.com/business/article/3366205/hordes-head-shenzhen-hong-kong-bars-restaurants-sign-more-floor-space?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-03 10:00"
-  },
-  {
-    "title": "SEA blockchain funding hits $6.2b: reports",
-    "link": "https://www.techinasia.com/vietnambased-ewa-firm-ekko-bags-42m-industry-tumbles",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-03 09:41"
   }
 ]
