@@ -1,5 +1,53 @@
 [
   {
+    "title": "These are the most active investors in Malaysia’s startups",
+    "link": "https://www.techinasia.com/active-investors-malaysias-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 11:00"
+  },
+  {
+    "title": "20 largest exits in Indonesia",
+    "link": "https://www.techinasia.com/20-largest-exits-indonesia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 09:00"
+  },
+  {
+    "title": "Why Chinese shoppers are ditching supermarkets for small ‘community stores’",
+    "link": "https://www.scmp.com/economy/china-economy/article/3367228/why-chinese-shoppers-are-ditching-supermarkets-small-community-stores?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-13 08:00"
+  },
+  {
+    "title": "Rise and fall of Hong Kong’s ‘shop kings’: how plunging rents, debt crushed their empires",
+    "link": "https://www.scmp.com/business/article/3367224/rise-and-fall-hong-kongs-shop-kings-how-plunging-rents-debt-crushed-their-empires?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-13 08:00"
+  },
+  {
+    "title": "China’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/chinas-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 07:00"
+  },
+  {
+    "title": "Mapping the players dominating China’s cleantech space",
+    "link": "https://www.techinasia.com/visual-story/mapping-chinas-leading-cleantech-players",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 04:00"
+  },
+  {
     "title": "Hyundai delays in-house driver assist launch to late 2029",
     "link": "https://www.techinasia.com/hyundai-maps-robotics-ai-push-beyond-cars",
     "source": "Tech in Asia",
@@ -72,6 +120,14 @@
     "published_at": "2026-09-13 00:45"
   },
   {
+    "title": "The risk of not taking risks",
+    "link": "https://www.techinasia.com/risk-risks",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 00:30"
+  },
+  {
     "title": "China's robot champions can run; now they have to prove they can earn",
     "link": "https://www.digitimes.com/news/a20260911VL212/robot-revenue-robotics-ipo-funding.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -134,6 +190,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-13 00:20"
+  },
+  {
+    "title": "The hidden alliances between India’s VCs, uncovered",
+    "link": "https://www.techinasia.com/visual-story/hidden-alliances-indias-vcs-uncovered",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 00:00"
   },
   {
     "title": "20 largest exits in India",
@@ -4734,69 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-04 03:58"
-  },
-  {
-    "title": "CPO high-density optical interconnects drive E&amp;R's submicron 2D FAU breakthrough",
-    "link": "https://www.digitimes.com/news/a20260903PD242/cpo-demand-laser-silicon-probe.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:56"
-  },
-  {
-    "title": "Taiwan to expand AI compute capacity as supercomputer at research institute hits full load",
-    "link": "https://www.digitimes.com/news/a20260904PD213/taiwan-capacity-supercomputer-infrastructure-investment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:55"
-  },
-  {
-    "title": "The decision discipline: How to turn insights into action",
-    "link": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 03:55"
-  },
-  {
-    "title": "Ennostar accelerates AI optical communications with micro LED",
-    "link": "https://www.digitimes.com/news/a20260904PD219/ennostar-communications-taiwan-vcsel-commercial.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:52"
-  },
-  {
-    "title": "Kyocera completes Nagasaki plant for semiconductor ceramics and packages",
-    "link": "https://www.digitimes.com/news/a20260904PR203/kyocera-plant-growth-manufacturing-equipment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:51"
-  },
-  {
-    "title": "AI and human creativity: How ChatGPT Canvas bridges the gap",
-    "link": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 03:45"
-  },
-  {
-    "title": "Fujitsu says useful quantum computers may need far fewer qubits than expected",
-    "link": "https://www.digitimes.com/news/a20260903VL224/fujitsu-quantum-computing-finance-semicon-taiwan-taipei.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:35"
-  },
-  {
-    "title": "China's EUV gap may stretch 10&ndash;15 years, but DUV gains test Western export controls",
-    "link": "https://www.digitimes.com/news/a20260903VL217/euv-duv-equipment-technology-asml.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:35"
   }
 ]
