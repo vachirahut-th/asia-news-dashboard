@@ -1,5 +1,141 @@
 [
   {
+    "title": "Hyundai delays in-house driver assist launch to late 2029",
+    "link": "https://www.techinasia.com/hyundai-maps-robotics-ai-push-beyond-cars",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 03:16"
+  },
+  {
+    "title": "SpaceX weighting in Nasdaq 100 set to rise after rebalance",
+    "link": "https://www.techinasia.com/spacex-nears-116b-share-unlock-june-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 03:02"
+  },
+  {
+    "title": "Next-gen wealthy Hongkongers drop property for higher returns in deposits and hedge funds",
+    "link": "https://www.scmp.com/business/article/3367061/next-gen-wealthy-hongkongers-drop-property-higher-returns-deposits-and-hedge-funds?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-13 02:00"
+  },
+  {
+    "title": "Mapping the AI startups making waves in Japan",
+    "link": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 02:00"
+  },
+  {
+    "title": "Anthropic CEO urges AI firms to slow model development",
+    "link": "https://www.techinasia.com/anthropic-plans-more-enterprise-control-over-ai-data",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 01:52"
+  },
+  {
+    "title": "Bank of China joins $45b computing-power finance initiative",
+    "link": "https://www.techinasia.com/chinese-vc-firm-buys-bytedance-shares-at-480b-valuation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 01:51"
+  },
+  {
+    "title": "Oracle chairman Larry Ellison drops plan to sell shares",
+    "link": "https://www.techinasia.com/oracle-targets-40b-funding-ai-expansion",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 01:23"
+  },
+  {
+    "title": "OpenAI rules out 2026 IPO as Altman cites safety work",
+    "link": "https://www.techinasia.com/openai-wiki-incident-shows-ai-transparency",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 00:54"
+  },
+  {
+    "title": "Samsung, Qualcomm discuss broader 2nm chipmaking deal",
+    "link": "https://www.techinasia.com/samsung-electronics-shares-jump-union-suspends-strike",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-13 00:45"
+  },
+  {
+    "title": "China's robot champions can run; now they have to prove they can earn",
+    "link": "https://www.digitimes.com/news/a20260911VL212/robot-revenue-robotics-ipo-funding.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:23"
+  },
+  {
+    "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+    "link": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:23"
+  },
+  {
+    "title": "Column: What is SLAM? The first step in Physical AI",
+    "link": "https://www.digitimes.com/news/a20260909PD215/automation-3d.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:23"
+  },
+  {
+    "title": "China auto exports hold above 1 million as new energy shipments surge",
+    "link": "https://www.digitimes.com/news/a20260910PD240/exports-shipments-automobile-vehicle-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:23"
+  },
+  {
+    "title": "AI server exports to US slow; electronics parts jump 1.5 times in August",
+    "link": "https://www.digitimes.com/news/a20260910PD202/exports-taiwan-electronics-2025-ai-server.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:23"
+  },
+  {
+    "title": "AI server tracker: Taiwan optics race beyond 1.6T",
+    "link": "https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:22"
+  },
+  {
+    "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
+    "link": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:21"
+  },
+  {
+    "title": "HannStar to halve panel output as layoffs and a management exit fuel closure talk",
+    "link": "https://www.digitimes.com/news/a20260913PD200/hannstar-panel-management-fab-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-13 00:20"
+  },
+  {
     "title": "20 largest exits in India",
     "link": "https://www.techinasia.com/20-largest-exits-india",
     "source": "Tech in Asia",
@@ -4662,141 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-04 03:35"
-  },
-  {
-    "title": "Taiwan automation specialist Kenmec targets semiconductor packaging plants with low-clearance OHT, AI digital twins",
-    "link": "https://www.digitimes.com/news/a20260902PD236/packaging-testing-oht-kenmec-automation.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:30"
-  },
-  {
-    "title": "Taisic unveils p-type SiC substrate for ultra-high-voltage grid, rail applications",
-    "link": "https://www.digitimes.com/news/a20260902PD238/sic-taisic-substrate-kenmec-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:30"
-  },
-  {
-    "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
-    "link": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 03:26"
-  },
-  {
-    "title": "China Motor unit Greentrans launches Taiwan-made quadruped robots",
-    "link": "https://www.digitimes.com/news/a20260902PD239/cmc-subsidiary-taiwan-automotive-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:25"
-  },
-  {
-    "title": "Saudi AI firm Humain unveils Arabic model built on MiniMax M3",
-    "link": "https://www.techinasia.com/saudi-arabia-bets-on-data-centers-to-support-ai-ambitions",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 03:08"
-  },
-  {
-    "title": "Analysis: Physical AI upgrades autonomous driving and lifts Taiwan supply chains",
-    "link": "https://www.digitimes.com/news/a20260903PD240/taiwan-autonomous-driving-soc-efficiency.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:05"
-  },
-  {
-    "title": "Xiaomi Auto maps 2027 Europe entry with German dealer network and four-country vehicle testing",
-    "link": "https://www.digitimes.com/news/a20260904PD216/xiaomi-europe-germany-vehicle-testing-sales-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 03:00"
-  },
-  {
-    "title": "Processor, memory boom could push chip supply chain out of sync, says Yole",
-    "link": "https://www.digitimes.com/news/a20260903VL223/yole-demand-capacity-investment-wafer.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:56"
-  },
-  {
-    "title": "Moonshot AI reportedly files for Hong Kong IPO, targets US$3B",
-    "link": "https://www.digitimes.com/news/a20260904VL204/moonshot-startup-ipo-demand-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:49"
-  },
-  {
-    "title": "ServiceNow buys Israeli AI startup Sweep",
-    "link": "https://www.techinasia.com/firm-servicenow-buys-israeli-ai-startup-traceloop",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 02:48"
-  },
-  {
-    "title": "Why 1 million impressions won’t fix a B2B sales pipeline",
-    "link": "https://www.techinasia.com/1-million-impressions-fix-b2b-sales-pipeline",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 02:47"
-  },
-  {
-    "title": "AI boom reshapes DRAM market as Samsung regains lead and CXMT gains ground",
-    "link": "https://www.digitimes.com/news/a20260904VL205/cxmt-samsung-hbm-dram-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:46"
-  },
-  {
-    "title": "Silicon Valley overflow fuels semiconductor boom in California's Capital Region",
-    "link": "https://www.digitimes.com/news/a20260903VL228/california-industrial-silicon-valley-region-silicon.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:38"
-  },
-  {
-    "title": "Acer broadens lineup with e-paper displays and scooters, ahead of PC industry headwinds",
-    "link": "https://www.digitimes.com/news/a20260903PD232/acer-e-paper-gaming-pc-industry-ifa.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:35"
-  },
-  {
-    "title": "Boost for EVs: Chinese carmaker Chery to begin testing solid-state batteries next year",
-    "link": "https://www.scmp.com/business/china-business/article/3366292/boost-evs-chinese-carmaker-chery-begin-testing-solid-state-batteries-next-year?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-04 02:30"
-  },
-  {
-    "title": "Sumitomo Chemical starts mass production of 4-inch InP wafers for AI data centers",
-    "link": "https://www.digitimes.com/news/a20260904PR204/sumitomo-chemical-inp-production-data-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:27"
-  },
-  {
-    "title": "Silicon photonics testing shift could reshape how CPO suppliers win business",
-    "link": "https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 02:12"
   }
 ]
