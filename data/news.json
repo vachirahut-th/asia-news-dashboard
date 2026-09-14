@@ -1,5 +1,133 @@
 [
   {
+    "title": "à¹à¸£à¸µà¸¢à¸à¸à¸¹à¸­à¸±à¸à¸£à¸²à¹à¸¥à¸à¹à¸à¸¥à¸µà¹à¸¢à¸ (Exchange Rate)",
+    "link": "http://www.thaifxrates.net/",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 17:51"
+  },
+  {
+    "title": "The 1,000-watt problem: a TSMC veteran on the brute force forging Nvidia's AI chips",
+    "link": "https://www.digitimes.com/news/a20260911VL226/nvidia-tsmc-chips-ceo-jensen-huang.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 16:09"
+  },
+  {
+    "title": "Amilo acquires SG Link to widen cross-border shipping for SEA sellers",
+    "link": "https://e27.co/amilo-acquires-sg-link-to-widen-cross-border-shipping-for-sea-sellers-20260914/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 16:01"
+  },
+  {
+    "title": "Australia sets LNG reserve rules to protect domestic supply and cap prices",
+    "link": "https://www.digitimes.com/news/a20260914PD246/australia-market-policy-government-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 14:29"
+  },
+  {
+    "title": "Kokusai Electric gains from Hitachi split as AI memory demand surges",
+    "link": "https://www.digitimes.com/news/a20260914PD245/kokusai-hitachi-demand-equipment-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 13:27"
+  },
+  {
+    "title": "LG sells 15 US image patents to Honor as IP monetization expands",
+    "link": "https://www.digitimes.com/news/a20260914PD243/lg-lg-electronics-honor-patent-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 12:24"
+  },
+  {
+    "title": "UAE commits EUR40B to expand Germany ties in AI, energy and defense",
+    "link": "https://www.digitimes.com/news/a20260914PD244/germany-uae-europe-investment-france.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 11:26"
+  },
+  {
+    "title": "Hong Kong malls see ‘gradual recovery’ with new stores and events: Hang Lung CEO",
+    "link": "https://www.scmp.com/business/article/3367469/hong-kong-malls-see-gradual-recovery-new-stores-and-events-hang-lung-ceo?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-14 11:00"
+  },
+  {
+    "title": "China’s inbound tourism revenue projected to reach US$470 billion by 2040: UBS",
+    "link": "https://www.scmp.com/economy/china-economy/article/3367459/chinas-inbound-tourism-revenue-projected-reach-us470-billion-2040-ubs?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-14 11:00"
+  },
+  {
+    "title": "These are the most active investors in Thailand’s startups",
+    "link": "https://www.techinasia.com/active-investors-thailands-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 11:00"
+  },
+  {
+    "title": "MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia",
+    "link": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 10:03"
+  },
+  {
+    "title": "Forms Syntron draws Hong Kong’s next-gen tycoons in HK$940 million IPO",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367464/forms-syntron-draws-hong-kongs-next-gen-tycoons-hk940-million-ipo?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-14 09:51"
+  },
+  {
+    "title": "Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms",
+    "link": "https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 09:40"
+  },
+  {
+    "title": "Taiwan drone maker Twoway breaks into US defense supply chain with Oklahoma procurement deal",
+    "link": "https://www.digitimes.com/news/a20260914PD240/security-demand-2026-revenue-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 09:24"
+  },
+  {
+    "title": "Yole Group takes outside capital for the first time, selling minority stake to new French fund",
+    "link": "https://www.digitimes.com/news/a20260914VL220/yole-electronics-photonics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 09:22"
+  },
+  {
+    "title": "Fujitsu's Monaka targets 2027 mass production with TSMC 2nm boost",
+    "link": "https://www.digitimes.com/news/a20260914PD237/fujitsu-production-2027-tsmc-2nm.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 09:04"
+  },
+  {
     "title": "20 largest exits in Japan",
     "link": "https://www.techinasia.com/20-largest-exits-japan",
     "source": "Tech in Asia",
@@ -62,6 +190,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-14 08:08"
+  },
+  {
+    "title": "China’s startup funding, as explained in charts",
+    "link": "https://www.techinasia.com/visual-story/capital-china-chinas-funding-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 08:00"
   },
   {
     "title": "Taiwan eases investment rules for AI center infrastructure projects",
@@ -168,6 +304,14 @@
     "published_at": "2026-09-14 04:22"
   },
   {
+    "title": "Why ‘cheaper’ no longer wins dev deals for Vietnam",
+    "link": "https://www.techinasia.com/cheaper-longer-wins-vietnam-dev-deals",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 04:00"
+  },
+  {
     "title": "How one company’s choice – resignation or the factory – left China’s young workers floored",
     "link": "https://www.scmp.com/business/companies/article/3367249/how-one-companys-choice-resignation-or-factory-left-chinas-young-workers-floored?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -182,6 +326,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-14 04:00"
+  },
+  {
+    "title": "SoftBank secures $11.9b loan for OpenAI investment",
+    "link": "https://www.techinasia.com/softbank-nears-40b-loan-syndication-for-openai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-14 03:54"
   },
   {
     "title": "Everyone has adopted AI. Almost nobody is ready for it",
@@ -4646,157 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-05 00:03"
-  },
-  {
-    "title": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pressure",
-    "link": "https://www.digitimes.com/news/a20260904PD232/samsung-investment-nvidia-sk-group-sk-hynix.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 00:03"
-  },
-  {
-    "title": "NYCU wins Nobel laureate for Taiwan job card",
-    "link": "https://www.digitimes.com/news/a20260904PD231/taiwan-2013-2026-california.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 00:00"
-  },
-  {
-    "title": "Mapping India’s key education startups",
-    "link": "https://www.techinasia.com/visual-story/india-education-landscape-map",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 00:00"
-  },
-  {
-    "title": "Semicon Taiwan 2026: A windmill in the die bonder, and a Dutch bet on photonics",
-    "link": "https://www.digitimes.com/news/a20260904VL220/dutch-wafer-packaging-photonics-semicon-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:58"
-  },
-  {
-    "title": "Taiwan semiconductor output targets NT$8 trillion",
-    "link": "https://www.digitimes.com/news/a20260904PD237/taiwan-semiconductors-equipment-development-moea-taipei.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:57"
-  },
-  {
-    "title": "Topco targets optical comms, cooling as copper gives way",
-    "link": "https://www.digitimes.com/news/a20260904PD235/topco-copper-cooling-ai-chip-transmission.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:57"
-  },
-  {
-    "title": "TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain",
-    "link": "https://www.digitimes.com/news/a20260903VL229/tsmc-roadmap-silicon-packaging-cowos.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:56"
-  },
-  {
-    "title": "Interview: China Tier 1 supplier Jingwei Hirain shares lessons from EV race",
-    "link": "https://www.digitimes.com/news/a20260831PD211/supplier-tier-1-automakers-development-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:56"
-  },
-  {
-    "title": "GCash parent Mynt cleared for $1.47b IPO",
-    "link": "https://www.techinasia.com/gcash-parent-mynt-gets-approval-to-pursue-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-04 23:56"
-  },
-  {
-    "title": "Exclusive: Taiwan's first tokamak to begin plasma testing by end of 2026",
-    "link": "https://www.digitimes.com/news/a20260831PD236/design-development-nuclear-fusion-taiwan-testing-worldwide.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:55"
-  },
-  {
-    "title": "Interview: Agility Robotics CTO discusses the future of collaborative humanoid robotics",
-    "link": "https://www.digitimes.com/news/a20260831VL209/robotics-robot-commercial.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:55"
-  },
-  {
-    "title": "Samsung SDI nears solid-state battery mass production, eyes China supply chain",
-    "link": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:54"
-  },
-  {
-    "title": "SiPh, optical lens demand ignite laser race",
-    "link": "https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:54"
-  },
-  {
-    "title": "Google TPU splits training, inference as CPU becomes next focus",
-    "link": "https://www.digitimes.com/news/a20260904PD217/google-training-tpu-cpu-chips.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:54"
-  },
-  {
-    "title": "Jmem Tek's PQC security chip nears mass production",
-    "link": "https://www.digitimes.com/news/a20260904PD206/jmem-technology-security-hardware-ic-design-startup.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:53"
-  },
-  {
-    "title": "Micron looks to lock in Taiwanese construction capacity with long-term deals",
-    "link": "https://www.digitimes.com/news/a20260904PD215/micron-construction-capacity-dram-manufacturing-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:53"
-  },
-  {
-    "title": "Commentary: China builds three-pronged memory strategy around CXMT, YMTC, XMC",
-    "link": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:53"
-  },
-  {
-    "title": "Taiwan auto parts makers face exit-or-overseas dilemma",
-    "link": "https://www.digitimes.com/news/a20260904PD207/taiwan-market-south-america-2026-asia.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:53"
-  },
-  {
-    "title": "Taiwan satellite ground equipment output grows 13%, nears NT$300B",
-    "link": "https://www.digitimes.com/news/a20260904PD205/taiwan-equipment-communications-development-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-04 23:52"
   }
 ]
