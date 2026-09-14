@@ -1,5 +1,13 @@
 [
   {
+    "title": "NYC’s wealthy Chinese grapple with Beijing’s tax rules as enforcement deadline nears",
+    "link": "https://www.scmp.com/business/money/wealth/article/3367437/nycs-wealthy-chinese-grapple-beijings-tax-rules-enforcement-deadline-nears?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-14 22:00"
+  },
+  {
     "title": "à¹à¸£à¸µà¸¢à¸à¸à¸¹à¸­à¸±à¸à¸£à¸²à¹à¸¥à¸à¹à¸à¸¥à¸µà¹à¸¢à¸ (Exchange Rate)",
     "link": "http://www.thaifxrates.net/",
     "source": "Bank of Thailand (BOT)",
@@ -126,6 +134,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-14 09:04"
+  },
+  {
+    "title": "AI power demand pushes Taiwan to overhaul energy rules",
+    "link": "https://www.digitimes.com/news/a20260914PD239/demand-data-taiwan-equipment-energy-management.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 09:00"
   },
   {
     "title": "20 largest exits in Japan",
@@ -264,6 +280,14 @@
     "published_at": "2026-09-14 06:37"
   },
   {
+    "title": "Notebook shipment update, July 2026",
+    "link": "https://www.digitimes.com/news/a20260914RS400/notebook-shipments-2026-acer-asus-dell-hp-lenovo.html?chid=2",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 06:34"
+  },
+  {
     "title": "Handshake or arm-wrestling match? What China’s stock traders expect from Xi-Trump meeting",
     "link": "https://www.scmp.com/business/china-business/article/3367417/handshake-or-arm-wrestling-match-what-chinas-stock-traders-expect-xi-trump-meeting?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -280,12 +304,28 @@
     "published_at": "2026-09-14 06:00"
   },
   {
+    "title": "China accelerates e-SIM's leap from wearables to smartphones",
+    "link": "https://www.digitimes.com/news/a20260914PD211/hisilicon-smartphone-chips-market-telecom.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 05:45"
+  },
+  {
     "title": "Data from Greater Bay Area’s 88 million residents to help improve healthcare policy: GSK",
     "link": "https://www.scmp.com/business/companies/article/3367404/data-greater-bay-areas-88-million-residents-help-improve-healthcare-policy-gsk?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-14 04:59"
+  },
+  {
+    "title": "Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment",
+    "link": "https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 04:55"
   },
   {
     "title": "SoftBank shares fell 13% as OpenAI, Anthropic urge caution",
@@ -296,12 +336,36 @@
     "published_at": "2026-09-14 04:44"
   },
   {
+    "title": "DIGITIMES Insight: China's GaN challengers are no longer playing catch-up",
+    "link": "https://www.digitimes.com/news/a20260914PD223/china-gan-technology-innoscience-onsemi.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 04:42"
+  },
+  {
     "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
     "link": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-14 04:22"
+  },
+  {
+    "title": "Beijing municipality bans civilian drones starting mid-November",
+    "link": "https://www.digitimes.com/news/a20260914PD231/beijing-2026-equipment-security.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 04:21"
+  },
+  {
+    "title": "Sandisk recruits engineers in Korea as memory talent race heats up",
+    "link": "https://www.digitimes.com/news/a20260914VL214/talent-nand-hbm-design-flash.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 04:20"
   },
   {
     "title": "Why ‘cheaper’ no longer wins dev deals for Vietnam",
@@ -326,6 +390,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-14 04:00"
+  },
+  {
+    "title": "South Korea broadens espionage law to counter rising tech leaks",
+    "link": "https://www.digitimes.com/news/a20260914VL210/technology-samsung-north-korea-cxmt.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-14 03:54"
   },
   {
     "title": "SoftBank secures $11.9b loan for OpenAI investment",
@@ -4726,77 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-05 04:32"
-  },
-  {
-    "title": "Mapping Japan’s prominent cleantech startups",
-    "link": "https://www.techinasia.com/visual-story/mapping-japans-prominent-cleantech-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 04:00"
-  },
-  {
-    "title": "Kia India launches Sorento featuring generative AI assistant",
-    "link": "https://www.techinasia.com/hyundai-motor-india-sales-rise-6-6-to-58702-units",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 02:30"
-  },
-  {
-    "title": "Inside Hong Kong’s red-hot Pokemon card market, where Pikachus sell like stocks",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366398/inside-hong-kongs-red-hot-pokemon-card-market-where-pikachus-sell-stocks?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-05 02:00"
-  },
-  {
-    "title": "Mapping Japan’s notable fintech startups",
-    "link": "https://www.techinasia.com/visual-story/japan-fintech-map",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 02:00"
-  },
-  {
-    "title": "Thailand suspends 49 data center builds over power use",
-    "link": "https://www.techinasia.com/ph-data-center-hub-sea-handle-heat",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 01:47"
-  },
-  {
-    "title": "A16z leads $300m round for AI infrastructure startup Gimlet",
-    "link": "https://www.techinasia.com/microsoftbacked-dmatrix-starts-shipping-ai-chip",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 01:34"
-  },
-  {
-    "title": "Anthropic eyes mid-October IPO launch: sources",
-    "link": "https://www.techinasia.com/anthropic-q2-revenue-topped-115b-14x",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 01:26"
-  },
-  {
-    "title": "It’s a long game",
-    "link": "https://www.techinasia.com/long-game",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 00:30"
-  },
-  {
-    "title": "Exclusive: South Korea's safety AI boom is being built from the top down, BEXCO says",
-    "link": "https://www.digitimes.com/news/a20260904VL208/government-expo-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 00:03"
   }
 ]
