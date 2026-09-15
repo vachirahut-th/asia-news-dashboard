@@ -1,5 +1,69 @@
 [
   {
+    "title": "AR glasses target 2 billion myopia users as China supply chain eyes doubling shipments",
+    "link": "https://www.digitimes.com/news/a20260915PD231/ar-glasses-supply-chain-shipments-market-smart-glasses.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 20:31"
+  },
+  {
+    "title": "Chip revenue heads to US$2.4 trillion on price, not volume, Yole says",
+    "link": "https://www.digitimes.com/news/a20260915VL208/yole-revenue-shipping-silicon-hbm.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 17:34"
+  },
+  {
+    "title": "AI data centers give idle EV battery capacity a second life",
+    "link": "https://www.digitimes.com/news/a20260914PD233/north-america-capacity-data-growth-automakers.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 17:32"
+  },
+  {
+    "title": "Research Insight: Google scales TPU systems to 1 million chips as power becomes the bottleneck",
+    "link": "https://www.digitimes.com/news/a20260915PD216/google-tpu-taiwan-2026-chips.html?chid=12",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 16:55"
+  },
+  {
+    "title": "Amodei's AI slowdown call is unlikely to dent chip demand, industry sources say",
+    "link": "https://www.digitimes.com/news/a20260915PD219/ceo-demand-anthropic-development-sam-altman.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 16:50"
+  },
+  {
+    "title": "iPhone Duo's identity shapes Apple's foldable strategy",
+    "link": "https://www.digitimes.com/news/a20260915PD203/foldable-apple-iphone-sales-mobile.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 16:30"
+  },
+  {
+    "title": "Charts: Memory has held six of the ten fastest-growing spots in Taiwan's chip sector for seven straight months",
+    "link": "https://www.digitimes.com/news/a20260915VL221/digitimes-2026-2021-asic-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 16:15"
+  },
+  {
+    "title": "DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies",
+    "link": "https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 16:15"
+  },
+  {
     "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
     "link": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
     "source": "e27 (Startups)",
@@ -352,6 +416,14 @@
     "published_at": "2026-09-15 04:59"
   },
   {
+    "title": "Tencent Cloud, U Mobile team up on 5G, AI in Malaysia",
+    "link": "https://www.techinasia.com/tencent-cloud-unveils-ai-tools-for-southeast-asia-firms",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 04:37"
+  },
+  {
     "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
     "link": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
     "source": "e27 (Startups)",
@@ -368,6 +440,30 @@
     "published_at": "2026-09-15 04:19"
   },
   {
+    "title": "ASML says AI demand fills EUV tool orders through 2027",
+    "link": "https://www.techinasia.com/asml-highna-chips-due-months",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 03:59"
+  },
+  {
+    "title": "TrueMoney, Fireblocks work on blockchain payments in Thailand",
+    "link": "https://www.techinasia.com/mastercard-launches-wallet-pay-singapore",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 03:29"
+  },
+  {
+    "title": "SoftBank-backed SB Energy plans up to $500m Japan sale",
+    "link": "https://www.techinasia.com/nvidia-openai-ohio-data-center-15b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 03:00"
+  },
+  {
     "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
     "link": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
     "source": "e27 (Startups)",
@@ -382,6 +478,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-15 02:56"
+  },
+  {
+    "title": "Grab plans 5x expansion of autonomous fleet in Singapore",
+    "link": "https://www.techinasia.com/grab-adds-redbus-ticketing-booking-in-malaysia-app",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 02:33"
   },
   {
     "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
@@ -440,6 +544,14 @@
     "published_at": "2026-09-15 02:23"
   },
   {
+    "title": "JD.com partners with FundPark to offer merchant financing",
+    "link": "https://www.techinasia.com/jd-com-reports-record-orders-during-618-shopping-festival",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 02:15"
+  },
+  {
     "title": "OpenAI reportedly acquires AI camera startup Glass Imaging for more than US$300M",
     "link": "https://www.digitimes.com/news/a20260915VL203/openai-camera-startup-acquisition.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -456,12 +568,28 @@
     "published_at": "2026-09-15 02:00"
   },
   {
+    "title": "UAE fintech firm Tabby raises $233m at $6.5b valuation",
+    "link": "https://www.techinasia.com/peak-xv-leads-ringg-ais-15m-series-extension",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 01:40"
+  },
+  {
     "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
     "link": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-15 01:30"
+  },
+  {
+    "title": "Nvidia expands CUDA-Q platform with new quantum computing tools",
+    "link": "https://www.techinasia.com/nvidia-invest-35b-mediatek-bonds",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 01:11"
   },
   {
     "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
@@ -4670,133 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-07 04:03"
-  },
-  {
-    "title": "China smart driving chips hit bottlenecks in mass production, cost, in-house auto R&amp;D",
-    "link": "https://www.digitimes.com/news/a20260907PD212/production-market-chips-cost-design.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 04:02"
-  },
-  {
-    "title": "HSBC-backed platform drives green transition capital to emerging markets amid global risks",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366545/hsbc-backed-platform-drives-green-transition-capital-emerging-markets-amid-global-risks?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-07 04:00"
-  },
-  {
-    "title": "China's power battery sector maintains strong growth momentum as global market presence expands",
-    "link": "https://www.digitimes.com/news/a20260907VL210/power-battery-growth-market-2026-byd.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 03:54"
-  },
-  {
-    "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
-    "link": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 03:25"
-  },
-  {
-    "title": "Manulife Asia, Ant Health team up on cross-border healthcare",
-    "link": "https://www.techinasia.com/peak-xv-joins-series-a-round-for-vietnamese-startup-saladin",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 03:17"
-  },
-  {
-    "title": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
-    "link": "https://www.digitimes.com/news/a20260907PD205/taiwan-investment-europe-supply-chain-taipei.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 03:06"
-  },
-  {
-    "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
-    "link": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 03:00"
-  },
-  {
-    "title": "SK Hynix 1c DRAM production share to reach 34% by year-end ahead of HBM4E",
-    "link": "https://www.digitimes.com/news/a20260907VL207/sk-hynix-dram-hbm4-hbm.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 02:59"
-  },
-  {
-    "title": "Naura 3D DRAM etching breakthrough could give CXMT a new path beyond EUV",
-    "link": "https://www.digitimes.com/news/a20260907VL205/dram-3d-cxmt-euv-naura-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 02:52"
-  },
-  {
-    "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI data center campus",
-    "link": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 02:40"
-  },
-  {
-    "title": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-07 02:30"
-  },
-  {
-    "title": "The ecosystem map: How to stay agile in the US-China AI battle",
-    "link": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 02:30"
-  },
-  {
-    "title": "JM-Applied sees gas equipment demand surge on AI expansion, order book exceeds NT$3 billion",
-    "link": "https://www.digitimes.com/news/a20260905PD200/semiconductors-data-demand-equipment-expansion-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 02:22"
-  },
-  {
-    "title": "Temasek co-leads $100m series C in Indian space startup Pixxel",
-    "link": "https://www.techinasia.com/indian-spacetech-firm-galaxeye-acquires-starops",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 02:13"
-  },
-  {
-    "title": "China’s ‘Tesla imitators’ have a new mission: build affordable humanoid robots for consumers",
-    "link": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-07 02:00"
-  },
-  {
-    "title": "India says it cannot build electronics without China and has started easing the rules to prove it",
-    "link": "https://www.digitimes.com/news/a20260904VL223/india-china-electronics-production-supply-chain-2026-taipei.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 02:00"
   }
 ]
