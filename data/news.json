@@ -1,5 +1,117 @@
 [
   {
+    "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
+    "link": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 03:00"
+  },
+  {
+    "title": "Taiwan's Ministry of Economic Affairs builds flagship Taiwan pavilions at international expos to boost auto parts exports",
+    "link": "https://www.digitimes.com/news/a20260914PD248/taiwan-moea-automotive-flagship-germany.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:56"
+  },
+  {
+    "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
+    "link": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 02:30"
+  },
+  {
+    "title": "Chinese chip tools reach 35% of equipment installed at local fabs",
+    "link": "https://www.digitimes.com/news/a20260914VL222/equipment-2025.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:27"
+  },
+  {
+    "title": "AI's next bottleneck may be profitability, not compute, SK chair warns",
+    "link": "https://www.digitimes.com/news/a20260914VL216/infrastructure-competitiveness-investment-business-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:26"
+  },
+  {
+    "title": "Inside CIOE: takeaways from China's biggest optoelectronics show",
+    "link": "https://www.digitimes.com/news/a20260914VL223/optoelectronics-market-infrastructure-laser-shenzhen.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:26"
+  },
+  {
+    "title": "South Korean firms hold 80% of the automotive OLED market",
+    "link": "https://www.digitimes.com/news/a20260915PD210/automotive-market-panel-lcd-display.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:26"
+  },
+  {
+    "title": "XPeng's Turing chip expands beyond cars",
+    "link": "https://www.digitimes.com/news/a20260915PD212/xpeng-ai-chip-humanoid-robot-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:25"
+  },
+  {
+    "title": "Taiwan's carbon pricing enters new phase with carbon fee, ETS on parallel tracks",
+    "link": "https://www.digitimes.com/news/a20260915PD215/taiwan-price-government-market-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:23"
+  },
+  {
+    "title": "OpenAI reportedly acquires AI camera startup Glass Imaging for more than US$300M",
+    "link": "https://www.digitimes.com/news/a20260915VL203/openai-camera-startup-acquisition.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 02:11"
+  },
+  {
+    "title": "The SaaSpocalypse will be selective",
+    "link": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 02:00"
+  },
+  {
+    "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
+    "link": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 01:30"
+  },
+  {
+    "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
+    "link": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 01:00"
+  },
+  {
+    "title": "China targets offshore operations of brokerages in crackdown on pay loopholes, corruption",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367465/china-targets-offshore-operations-brokerages-crackdown-pay-loopholes-corruption?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-15 00:00"
+  },
+  {
     "title": "NYC’s wealthy Chinese grapple with Beijing’s tax rules as enforcement deadline nears",
     "link": "https://www.scmp.com/business/money/wealth/article/3367437/nycs-wealthy-chinese-grapple-beijings-tax-rules-enforcement-deadline-nears?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-05 18:16"
-  },
-  {
-    "title": "Trumpf CTO says advanced packaging reshapes semiconductor equipment race",
-    "link": "https://www.digitimes.com/news/a20260903PD238/packaging-equipment-demand-technology-semiconductor-industry.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 16:15"
-  },
-  {
-    "title": "K-Safety Expo 2026: Beyond AI, Korea re-engineers the human layer of industrial safety",
-    "link": "https://www.digitimes.com/news/a20260903VL202/expo-industrial-2026-fire-camera.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 16:14"
-  },
-  {
-    "title": "Google's quantum boss says five years; his engineer says not so fast",
-    "link": "https://www.digitimes.com/news/a20260903VL221/quantum-google-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-05 16:13"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in India",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-india",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 09:00"
-  },
-  {
-    "title": "Rich Dad, Poor Dad author’s vast debts spark awe – and some bitterness – in China",
-    "link": "https://www.scmp.com/business/article/3366384/rich-dad-poor-dad-authors-vast-debts-spark-awe-and-some-bitterness-china?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-05 08:00"
-  },
-  {
-    "title": "S Korea plans February 2027 tokenized securities rollout",
-    "link": "https://www.techinasia.com/nasdaq-files-plan-for-tokenized-securities-trading-in-us",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 07:24"
-  },
-  {
-    "title": "New reality for China’s entertainment sector as AI drama goes prime time",
-    "link": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-05 07:00"
-  },
-  {
-    "title": "50 rising startups and tech companies in India",
-    "link": "https://www.techinasia.com/50-rising-startups-india",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 07:00"
-  },
-  {
-    "title": "Micron plans to double HBM output as AI demand grows",
-    "link": "https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 06:25"
-  },
-  {
-    "title": "Chinese chipmaker YMTC enters review for $4.6b IPO",
-    "link": "https://www.techinasia.com/chinese-chipmaker-ymtc-tops-kioxia-nand-shipments-report",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 05:35"
-  },
-  {
-    "title": "Krafton to invest another $250m in India beyond gaming",
-    "link": "https://www.techinasia.com/krafton-to-invest-69-7m-restructure-as-ai-first-company",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 04:57"
-  },
-  {
-    "title": "UAE, Saudi Arabia data center push continues despite war risks",
-    "link": "https://www.techinasia.com/uae-ai-firm-g42-plans-5gw-expansion-awaits-nvidia-chips",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 04:57"
-  },
-  {
-    "title": "Moonshot AI files for up to $5b Hong Kong IPO",
-    "link": "https://www.techinasia.com/chinas-moonshot-ai-targets-50b-valuation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 04:56"
-  },
-  {
-    "title": "Nvidia-backed Nscale seeks $3.5b ahead of US IPO",
-    "link": "https://www.techinasia.com/nvidia-backed-uk-ai-firm-nscale-secures-2b-funding",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-05 04:32"
   }
 ]
