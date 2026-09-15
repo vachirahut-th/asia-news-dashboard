@@ -1,5 +1,149 @@
 [
   {
+    "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
+    "link": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 16:01"
+  },
+  {
+    "title": "Meta introduces Meta One subscription across its apps",
+    "link": "https://www.techinasia.com/meta-launches-ai-tools-small-businesses",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 15:00"
+  },
+  {
+    "title": "Astera Labs targets the KV cache bottleneck as agentic AI outgrows GPU memory",
+    "link": "https://www.digitimes.com/news/a20260915VL218/astera-labs-memory-controller-cpu-ai-inference-dram.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 13:30"
+  },
+  {
+    "title": "Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367616/tighter-scrutiny-hong-kong-ipos-could-slow-deal-flow-analysts-say?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-15 13:00"
+  },
+  {
+    "title": "Airbus weighs supplier stakes to relieve aerospace parts bottlenecks",
+    "link": "https://www.digitimes.com/news/a20260915PD242/airbus-supplier-production-plant-supply-chain.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 12:57"
+  },
+  {
+    "title": "Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit economy",
+    "link": "https://e27.co/grabs-us1-49b-atome-deal-signals-a-deeper-race-for-seas-credit-economy-20260915/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 12:11"
+  },
+  {
+    "title": "Wrise Prestige accelerates mainland China expansion with new offices, AI lab",
+    "link": "https://www.scmp.com/business/banking-finance/article/3367615/wrise-prestige-accelerates-mainland-china-expansion-new-offices-ai-lab?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-15 11:09"
+  },
+  {
+    "title": "The Boring lands US$3 billion from UAE investors, fueling Musk's underground transit dream",
+    "link": "https://www.digitimes.com/news/a20260915PD241/uae-funding-financing-2022-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 11:01"
+  },
+  {
+    "title": "These are the most active investors in Philippine startups",
+    "link": "https://www.techinasia.com/active-investors-philippines-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 11:00"
+  },
+  {
+    "title": "Grab agrees to buy 60% of Atome Financial for $1.49b",
+    "link": "https://www.techinasia.com/grabs-financial-health-charts",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 10:27"
+  },
+  {
+    "title": "Amazon Now reaches $1b annualized sales in India",
+    "link": "https://www.techinasia.com/amazon-business-reaches-60b-run-rate-q2",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 09:44"
+  },
+  {
+    "title": "‘Not trying to solve world hunger’: GoTo takes pragmatic AI path",
+    "link": "https://www.techinasia.com/solve-world-hunger-goto-takes-pragmatic-approach-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 09:43"
+  },
+  {
+    "title": "Ecosystem Roundup: Amilo’s fourth buyout in four years bets on cross-border shipping",
+    "link": "https://e27.co/ecosystem-roundup-amilos-fourth-buyout-in-four-years-bets-on-cross-border-shipping-20260915/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 09:40"
+  },
+  {
+    "title": "Tesla's rare-earth-free Cybercab challenges China's grip on EV magnets",
+    "link": "https://www.digitimes.com/news/a20260915VL223/tesla-vehicle-automakers-supply-chain-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 09:28"
+  },
+  {
+    "title": "How AI real-world deployment is rewriting IPC business models",
+    "link": "https://www.digitimes.com/news/a20260914PD238/market-business-ipc-demand-commercial.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 09:22"
+  },
+  {
+    "title": "Apple's foldable debut set to further widen Samsung Display's OLED lead",
+    "link": "https://www.digitimes.com/news/a20260915VL225/sdc-apple-foldable-panel-iphone.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 09:21"
+  },
+  {
+    "title": "High-capacity memory shortages worsen: Team Group reveals edge AI strategy amid rising price pressures",
+    "link": "https://www.digitimes.com/news/a20260914PD242/team-group-price-market-industrial-industrial-control.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 09:20"
+  },
+  {
+    "title": "Murata considers bigger MLCC expansion as AI server demand extends beyond 2028",
+    "link": "https://www.digitimes.com/news/a20260915VL213/murata-mlcc-expansion-demand-2028.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-15 09:15"
+  },
+  {
     "title": "20 largest exits in Korea",
     "link": "https://www.techinasia.com/20-largest-exits-korea",
     "source": "Tech in Asia",
@@ -160,6 +304,14 @@
     "published_at": "2026-09-15 05:41"
   },
   {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300m",
+    "link": "https://www.techinasia.com/openai-firmus-sign-multiyear-ai-compute-deal-malaysia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 05:30"
+  },
+  {
     "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
     "link": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
     "source": "e27 (Startups)",
@@ -176,12 +328,28 @@
     "published_at": "2026-09-15 05:25"
   },
   {
+    "title": "What personal AI means for the future of brand engagement",
+    "link": "https://www.techinasia.com/personal-ai-means-future-customer-service",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 05:00"
+  },
+  {
     "title": "GAC shares jump on FAW tie-up plans amid Beijing drive for car industry mergers",
     "link": "https://www.scmp.com/business/china-evs/article/3367538/gac-shares-jump-faw-tie-plans-amid-beijing-drive-car-industry-mergers?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-15 05:00"
+  },
+  {
+    "title": "Japan’s Kioxia considers $10b US listing in 2027",
+    "link": "https://www.techinasia.com/japanese-chipmaker-kioxia-plans-ipo-strong-ai-profits",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-15 04:59"
   },
   {
     "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
@@ -4630,173 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-07 02:00"
-  },
-  {
-    "title": "The view from inside India’s AI boom",
-    "link": "https://www.techinasia.com/view-indias-ai-boom",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 02:00"
-  },
-  {
-    "title": "A cheat sheet of M&As in Korea",
-    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-korea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 02:00"
-  },
-  {
-    "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
-    "link": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 02:00"
-  },
-  {
-    "title": "Anthropic IPO set to put AI governance under public-market scrutiny",
-    "link": "https://www.digitimes.com/news/a20260907VL204/anthropic-governance-ipo-expansion-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 01:57"
-  },
-  {
-    "title": "Huawei Kirin 2026 challenges 3D chip heat limits with Tau Scaling Law",
-    "link": "https://www.digitimes.com/news/a20260907VL203/huawei-kirin-2026-3d-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-07 01:45"
-  },
-  {
-    "title": "Naver Cloud’s Line Works enters Taiwan public sector",
-    "link": "https://www.techinasia.com/sk-hynix-partners-naver-cloud-ai-products",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 01:31"
-  },
-  {
-    "title": "AI has answers, experience has judgment",
-    "link": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 01:15"
-  },
-  {
-    "title": "Healthtech startups in SEA find longevity going B2B",
-    "link": "https://www.techinasia.com/healthtech-startups-sea-find-longevity-b2b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 01:05"
-  },
-  {
-    "title": "Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-07 01:00"
-  },
-  {
-    "title": "The real test of ethical AI is whether a frontline employee can challenge it",
-    "link": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 01:00"
-  },
-  {
-    "title": "Blue Owl considers REIT seeded with $6.5b",
-    "link": "https://www.techinasia.com/blue-owls-stack-weighs-30b-asia-data-center-sale",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 00:41"
-  },
-  {
-    "title": "WhatsApp faces lawsuit over wave of account blocks in Israel",
-    "link": "https://www.techinasia.com/whatsapp-to-ban-ai-chatbots-by-2026-hits-openai-others",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 00:19"
-  },
-  {
-    "title": "SK hynix ramps up DRAM production for AI memory",
-    "link": "https://www.techinasia.com/sk-hynix-eyes-record-q2-profit-ai-memory-boom",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 00:02"
-  },
-  {
-    "title": "50 most active investors in Southeast Asian, Indian greentech firms",
-    "link": "https://www.techinasia.com/50-active-investors-southeast-asian-indian-greentech-firms",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-07 00:00"
-  },
-  {
-    "title": "Standard Chartered ‘doubling down’ on China wealth opportunities despite tax pivot",
-    "link": "https://www.scmp.com/business/china-business/article/3366390/standard-chartered-doubling-down-china-wealth-opportunities-despite-tax-pivot?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-07 00:00"
-  },
-  {
-    "title": "Hong Kong broadens sustainable finance taxonomy framework to boost transition capital",
-    "link": "https://www.scmp.com/business/china-business/article/3366529/hong-kong-broadens-sustainable-finance-taxonomy-framework-boost-transition-capital?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-06 23:00"
-  },
-  {
-    "title": "A Prevention Prescription for Hong Kong",
-    "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3365565/prevention-prescription-hong-kong?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-06 21:00"
-  },
-  {
-    "title": "China rolls out massive US$54b package for insurers, banks in financial powerhouse push",
-    "link": "https://www.scmp.com/business/banking-finance/article/3366559/china-rolls-out-massive-us54b-package-insurers-banks-financial-powerhouse-push?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-06 14:00"
-  },
-  {
-    "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
-    "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-06 13:00"
-  },
-  {
-    "title": "Huawei paper shows Tau Scaling Law chip solves overheating ahead of Kirin 2026 launch",
-    "link": "https://www.scmp.com/tech/big-tech/article/3366543/huawei-paper-shows-tau-scaling-law-chip-solves-overheating-ahead-kirin-2026-launch?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-06 12:06"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in Japan",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-japan",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-06 09:00"
   }
 ]
