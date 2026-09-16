@@ -1,5 +1,69 @@
 [
   {
+    "title": "Intel CEO warns of 2027 memory crunch and tighter CPU supply",
+    "link": "https://www.digitimes.com/news/a20260916PD238/2027-intel-lip-bu-tan-memory-chips-cpu-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 19:41"
+  },
+  {
+    "title": "Charts: Taiwan's chip packaging growth runs deeper than ASE",
+    "link": "https://www.digitimes.com/news/a20260916VL219/taiwan-revenue-packaging-ase-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 18:43"
+  },
+  {
+    "title": "Samsung looks to outside suppliers as HBM boom shifts priorities",
+    "link": "https://www.digitimes.com/news/a20260916VL220/samsung-hbm-vertical-integration-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 17:54"
+  },
+  {
+    "title": "Apple's foldable phone puts thinness, weight in focus",
+    "link": "https://www.digitimes.com/news/a20260916PD208/apple-foldable-design-iphone-smartphone.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 17:49"
+  },
+  {
+    "title": "DIGITIMES Insight: SiC substrate capacity expansion continued; 6-inch substrate prices expected to rebound in 2027",
+    "link": "https://www.digitimes.com/news/a20260916PD237/sic-digitimes-substrate-6-inch-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 17:39"
+  },
+  {
+    "title": "Huawei's 3D data center redesign targets the next AI compute density wall",
+    "link": "https://www.digitimes.com/news/a20260916VL212/huawei-data-center-infrastructure-3d-cooling.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 17:38"
+  },
+  {
+    "title": "TSMC's C.C. Wei says to solve problems, put customers first",
+    "link": "https://www.digitimes.com/news/a20260916PD240/tsmc-chairman-management-advanced-process-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 16:40"
+  },
+  {
+    "title": "Jensen Huang's Galaxy Z Fold8 spotlights Nvidia-Samsung ties",
+    "link": "https://www.digitimes.com/news/a20260916PD235/samsung-galaxy-nvidia-jensen-huang-ceo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-16 16:39"
+  },
+  {
     "title": "Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities",
     "link": "https://www.scmp.com/presented/business/topics/prometheum-hashkey-mou/article/3367689/prometheum-capital-hashkey-digital-asset-group-and-velocity-capital-sign-binding-mou?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -376,12 +440,36 @@
     "published_at": "2026-09-16 05:45"
   },
   {
+    "title": "A16z joins $12m round for AI database startup Keewano",
+    "link": "https://www.techinasia.com/israeli-vc-firm-remagine-secures-25m-ai-digital-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 05:33"
+  },
+  {
+    "title": "Gates Foundation plans $1b push for broader AI access",
+    "link": "https://www.techinasia.com/bill-gates-withdraws-from-india-ai-summit-following-controversy",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 05:22"
+  },
+  {
     "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
     "link": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-16 04:51"
+  },
+  {
+    "title": "Databricks to invest $350m, double Singapore workforce",
+    "link": "https://www.techinasia.com/databricks-hires-sap-head-apac-japan-operations",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 04:49"
   },
   {
     "title": "Investors prepare for ‘super-central-bank week’ as US rate increase appears done deal",
@@ -398,6 +486,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-16 04:40"
+  },
+  {
+    "title": "Huawei launches 3D data center in China",
+    "link": "https://www.techinasia.com/huawei-launches-thailand-ai-ecosystem-initiative",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 04:34"
   },
   {
     "title": "Does the iPhone show us which industries AI will destroy?",
@@ -422,6 +518,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-16 04:01"
+  },
+  {
+    "title": "Ant International’s next payments bet: AI agents",
+    "link": "https://www.techinasia.com/ant-internationals-payments-bet-ai-agents",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 04:00"
+  },
+  {
+    "title": "Capital SEA: Southeast Asia’s funding landscape",
+    "link": "https://www.techinasia.com/visual-story/capital-sea-southeast-asias-funding-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-16 04:00"
   },
   {
     "title": "Bitcoin falls after US Senate blocks Clarity Act",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-08 05:44"
-  },
-  {
-    "title": "Advantech to open North America HQ and expand US manufacturing",
-    "link": "https://www.digitimes.com/news/a20260908PD203/advantech-north-america-manufacturing-growth-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-08 05:35"
-  },
-  {
-    "title": "Trust Bank launches AI tool to track card spending",
-    "link": "https://www.techinasia.com/fraud-claims-involving-digital-banks-rise-in-sg-reaching-1-9m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 05:24"
-  },
-  {
-    "title": "Indian state-run lender REC raises $53m through tokenized bond",
-    "link": "https://www.techinasia.com/indonesia-receives-hundreds-of-personal-data-protection-complaints",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 05:10"
-  },
-  {
-    "title": "PayPal engineer on AI commerce: when it works, how it pays",
-    "link": "https://www.techinasia.com/paypal-engineer-ai-commerce-works-pays",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 05:00"
-  },
-  {
-    "title": "Nvidia reportedly shifts Rubin Ultra toward 8-high HBM as memory costs rise",
-    "link": "https://www.digitimes.com/news/a20260908VL207/nvidia-rubin-hbm-capacity-bandwidth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-08 04:50"
-  },
-  {
-    "title": "Xendit promotes CFO Nazim Ali to president as it expands globally",
-    "link": "https://www.techinasia.com/indonesia-court-clears-way-for-alt-payments-on-google-play",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 04:47"
-  },
-  {
-    "title": "Mitsubishi Elevator, QuikBot plan robot integration",
-    "link": "https://www.techinasia.com/chinese-autonomous-firm-neolix-partners-quikbot-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 04:46"
-  },
-  {
-    "title": "Huawei shifts AI battle to HarmonyOS 7, turning Celia into system-level agent",
-    "link": "https://www.digitimes.com/news/a20260908VL203/huawei-kirin-harmonyos-smartphone-launch.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-08 04:30"
-  },
-  {
-    "title": "Chinese memory chipmaker Longsys raises $903m in HK debut",
-    "link": "https://www.techinasia.com/chinese-memory-chipmaker-longsys-seeks-801m-hk-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 04:25"
-  },
-  {
-    "title": "Anthropic drops pursuit of $6b Decart AI deal",
-    "link": "https://www.techinasia.com/anthropic-eyes-6b-israeli-ai-startup-decart-sources",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 04:24"
-  },
-  {
-    "title": "Kinko revenue climbs monthly, August sales jump 107%",
-    "link": "https://www.digitimes.com/news/a20260908PD220/revenue-2026-2025-sales-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-08 04:14"
-  },
-  {
-    "title": "Intel CPU prices reportedly rising 10% again as Qualcomm and MediaTek target IPC and IoT gaps",
-    "link": "https://www.digitimes.com/news/a20260908PD210/intel-cpu-pc-ipc-iot.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-08 04:13"
-  },
-  {
-    "title": "A list of fundraising startups from Asia and beyond (Updated)",
-    "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 04:00"
-  },
-  {
-    "title": "Samsung SDS expands OpenAI, Anthropic partnerships for AI push",
-    "link": "https://www.techinasia.com/samsung-sds-expands-chatgpt-enterprise-client-base-in-korea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-08 03:59"
   }
 ]
