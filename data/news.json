@@ -1,5 +1,21 @@
 [
   {
+    "title": "DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work",
+    "link": "https://www.digitimes.com/news/a20260917PD214/deepseek-development-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 16:10"
+  },
+  {
+    "title": "Winbond's Infineon buyout puts GigaDevice under pressure",
+    "link": "https://www.digitimes.com/news/a20260917PD221/infineon-winbond-gigadevice-acquisition-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 16:08"
+  },
+  {
     "title": "Huawei launches AI computing system amid US export controls",
     "link": "https://www.techinasia.com/huawei-isoftstone-unveil-guangxi-ai-platform",
     "source": "Tech in Asia",
@@ -288,12 +304,28 @@
     "published_at": "2026-09-17 06:00"
   },
   {
+    "title": "Huawei Connect 2026: OceanStor M900 turns PB-scale KV cache into Huawei's next AI infrastructure layer",
+    "link": "https://www.digitimes.com/news/a20260917VL217/huawei-infrastructure-2026-data-performance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 05:49"
+  },
+  {
     "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
     "link": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-17 05:25"
+  },
+  {
+    "title": "Wiwynn sees strong AI demand offsetting US data center pushback",
+    "link": "https://www.digitimes.com/news/a20260917PD207/wiwynn-demand-growth-revenue-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 05:14"
   },
   {
     "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
@@ -304,6 +336,14 @@
     "published_at": "2026-09-17 05:01"
   },
   {
+    "title": "Samsung Galaxy S27 series rumored to feature 4 models, reshaping flagship lineup with display and camera upgrades",
+    "link": "https://www.digitimes.com/news/a20260916PD239/samsung-galaxy-flagship-smartphone-camera-display.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 05:00"
+  },
+  {
     "title": "Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off",
     "link": "https://www.scmp.com/business/banking-finance/article/3367810/hong-kong-support-rocket-satellite-ipos-spacex-led-sector-takes?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -312,12 +352,36 @@
     "published_at": "2026-09-17 05:00"
   },
   {
+    "title": "China optical suppliers power smart glasses supply chain",
+    "link": "https://www.digitimes.com/news/a20260917PD216/smart-glasses-supply-chain-meta-market-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 04:45"
+  },
+  {
+    "title": "Samsung expands SRAM, IP to speed chip development",
+    "link": "https://www.digitimes.com/news/a20260917PD219/samsung-ip-development-sram-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 04:30"
+  },
+  {
     "title": "Nobody gives you time to explain. That’s the real fundraising problem",
     "link": "https://e27.co/nobody-gives-you-time-to-explain-thats-the-real-fundraising-problem-20260917/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-17 04:30"
+  },
+  {
+    "title": "AI's memory appetite is squeezing the electronics industry from the bottom up, Intel warns",
+    "link": "https://www.digitimes.com/news/a20260917VL205/production-electronics-infrastructure-demand-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-17 04:29"
   },
   {
     "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
@@ -480,6 +544,14 @@
     "published_at": "2026-09-17 01:45"
   },
   {
+    "title": "Snap partners with Salesforce, Nvidia, AWS for Specs",
+    "link": "https://www.techinasia.com/snap-forms-ar-glasses-unit-in-competition-with-meta-google",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-17 01:33"
+  },
+  {
     "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
     "link": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
     "source": "e27 (Startups)",
@@ -534,6 +606,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-17 00:26"
+  },
+  {
+    "title": "Tracking startup closures across Southeast Asia",
+    "link": "https://www.techinasia.com/visual-story/startup-failures-closures-southeast-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-17 00:00"
   },
   {
     "title": "Microsoft to bring 365 G7, Agent 365 to government cloud",
@@ -4718,85 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-09 06:00"
-  },
-  {
-    "title": "Oracle plans HPE networking rollout for AI data centers",
-    "link": "https://www.techinasia.com/oracle-nears-record-38b-loan-for-openai-data-centers",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:58"
-  },
-  {
-    "title": "Why global capital loves SEA (and how boring B2B software wins)",
-    "link": "https://www.techinasia.com/global-capital-loves-sea-boring-b2b-software-wins",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:30"
-  },
-  {
-    "title": "Verizon signs multibillion-dollar Corning fiber deal",
-    "link": "https://www.techinasia.com/cisco-launches-local-computing-device-ai-tasks",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:28"
-  },
-  {
-    "title": "Thailand’s mobility future will be decided by data, not just vehicles",
-    "link": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:20"
-  },
-  {
-    "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
-    "link": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:16"
-  },
-  {
-    "title": "GSMA finds scams weaken trust in ASEAN digital services",
-    "link": "https://www.techinasia.com/agency-revises-verizon-phone-unlocking-rules-fraud-issues",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:15"
-  },
-  {
-    "title": "Kioxia denies joint production talks with SK Hynix",
-    "link": "https://www.techinasia.com/japanese-chipmaker-kioxia-forecasts-82b-profit",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 05:04"
-  },
-  {
-    "title": "China needs monkeys: lab animal shortage could hinder biotech growth",
-    "link": "https://www.scmp.com/business/companies/article/3366870/china-needs-monkeys-lab-animal-shortage-could-hinder-biotech-growth?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-09 05:01"
-  },
-  {
-    "title": "Ant Group open-sourced finance AI model Ling-3.0",
-    "link": "https://www.techinasia.com/ant-groups-robbyant-open-sources-universal-robot-ai-model",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 04:40"
-  },
-  {
-    "title": "Synopsys, ASTAR team up on chip packaging tech",
-    "link": "https://www.techinasia.com/tsmc-uses-ai-to-boost-chip-energy-efficiency",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-09 04:38"
   }
 ]
