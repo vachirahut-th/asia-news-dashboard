@@ -1,5 +1,37 @@
 [
   {
+    "title": "Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours",
+    "link": "https://www.scmp.com/business/china-business/article/3368041/focused-ultrasound-could-be-next-big-cancer-breakthrough-hard-treat-tumours?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-19 08:00"
+  },
+  {
+    "title": "SK hynix weighs US NAND chip plant through Solidigm",
+    "link": "https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-19 07:05"
+  },
+  {
+    "title": "Israel’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/israels-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-19 07:00"
+  },
+  {
+    "title": "OpenAI expects $278b negative free cash flow by 2030",
+    "link": "https://www.techinasia.com/openai-samsung-deepen-nextgen-chip-ai-ties",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-19 03:46"
+  },
+  {
     "title": "Yahoo Finance ends Polymarket partnership",
     "link": "https://www.techinasia.com/polymarket-reviews-market-safeguards-after-rescue-bet-backlash",
     "source": "Tech in Asia",
@@ -72,6 +104,14 @@
     "published_at": "2026-09-19 00:30"
   },
   {
+    "title": "Mapping India’s leading health startups",
+    "link": "https://www.techinasia.com/visual-story/india-health-landscape-map",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-19 00:00"
+  },
+  {
     "title": "Amazon Leo clears Taiwan's NCC review, with commercial launch pointed at 2027",
     "link": "https://www.digitimes.com/news/a20260919PD200/amazon-taiwan-2027-ncc-commercial.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -134,6 +174,38 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-18 23:17"
+  },
+  {
+    "title": "Ams OSRAM takes an automotive-qualified force sensor into robotic hands",
+    "link": "https://www.digitimes.com/news/a20260918VL222/sensor-production-automotive.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-18 23:16"
+  },
+  {
+    "title": "CXL adds memory capacity, but HBM retains its bandwidth edge",
+    "link": "https://www.digitimes.com/news/a20260918VL224/cxl-hbm-capacity-bandwidth-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-18 23:15"
+  },
+  {
+    "title": "Ventec invests NT$1.5 billion in Kunshan expansion for AI, HDI orders",
+    "link": "https://www.digitimes.com/news/a20260917PD235/expansion-ccl-ventec-kunshan-laminate.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-18 23:15"
+  },
+  {
+    "title": "Compal takes Compal Broadband Networks private to fold networking into its edge AI stack",
+    "link": "https://www.digitimes.com/news/a20260919PD201/compal-compal-broadband-business-wireless-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-18 23:15"
   },
   {
     "title": "China’s crude imports are rising again. What will that mean for oil prices?",
@@ -334,6 +406,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-18 05:44"
+  },
+  {
+    "title": "Ant International launches AI-native finance tools",
+    "link": "https://www.techinasia.com/ant-international-launches-open-ai-payments-protocol",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-18 05:25"
   },
   {
     "title": "The AI economy is quietly exposing what organisations truly value about humans",
@@ -4718,85 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-10 08:32"
-  },
-  {
-    "title": "Taiwan quantum leap expands scope to drug and finance",
-    "link": "https://www.digitimes.com/news/a20260910PD227/taiwan-quantum-finance-team-infrastructure.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-10 08:29"
-  },
-  {
-    "title": "Bertelsmann leads $24m round in Indian food delivery startup",
-    "link": "https://www.techinasia.com/automating-messy-world-pharma-distribution",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-10 08:26"
-  },
-  {
-    "title": "Nanoprinting lithography shifts from round to square, increasing waveguide output",
-    "link": "https://www.digitimes.com/news/a20260910PD230/technology-nanoimprint-manufacturing-equipment-substrate.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-10 08:20"
-  },
-  {
-    "title": "Huachuang Xinguang sees MicroLED optical interconnects entering data centers in 3 to 5 years",
-    "link": "https://www.digitimes.com/news/a20260910PD232/data-communications-technology-shenzhen-transmission.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-10 08:20"
-  },
-  {
-    "title": "UBS pulls plug on fund sales on a wealth platform in China amid stiff competition",
-    "link": "https://www.scmp.com/business/banking-finance/article/3367034/ubs-pulls-plug-fund-sales-wealth-platform-china-amid-stiff-competition?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-10 08:12"
-  },
-  {
-    "title": "US Justice Department probes Nvidia-Groq deal over antitrust concerns",
-    "link": "https://www.digitimes.com/news/a20260910PD234/nvidia-antitrust-groq-probe-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-10 08:01"
-  },
-  {
-    "title": "Kyndryl, Krungsri renew 5-year core banking pact",
-    "link": "https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-10 07:58"
-  },
-  {
-    "title": "Billease doubles RCBC credit facility to $16m",
-    "link": "https://www.techinasia.com/players-spearheading-southeast-asias-bnpl-revival",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-10 07:56"
-  },
-  {
-    "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
-    "link": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-10 07:44"
-  },
-  {
-    "title": "ASE August revenue tops NT$80 billion record as AI packaging capacity stays sold out",
-    "link": "https://www.digitimes.com/news/a20260910PD228/ase-revenue-packaging-capacity-testing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-10 07:41"
   }
 ]
