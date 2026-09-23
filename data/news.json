@@ -248,6 +248,30 @@
     "published_at": "2026-09-23 06:30"
   },
   {
+    "title": "Taiwan's Master Bus scales 450 kW direct-drive motor for the intercity EV market",
+    "link": "https://www.digitimes.com/news/a20260923PD221/master-trans-taiwan-general-motors-production-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 06:27"
+  },
+  {
+    "title": "Taiwan tire maker Cheng Shin turns 'virtual tires' into an EV development weapon",
+    "link": "https://www.digitimes.com/news/a20260923PD218/development-taiwan-dassault-performance-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 06:24"
+  },
+  {
+    "title": "Hermes-Epitek eyes CPO test revenue in 2027",
+    "link": "https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 06:14"
+  },
+  {
     "title": "Chinese EV battery giant CATL starts trial production at Hungarian factory",
     "link": "https://www.scmp.com/business/china-business/article/3368463/chinese-ev-battery-giant-catl-starts-trial-production-hungarian-factory?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -256,12 +280,44 @@
     "published_at": "2026-09-23 06:00"
   },
   {
+    "title": "LG Energy enters Nvidia's ecosystem as it pivots batteries to data centers",
+    "link": "https://www.digitimes.com/news/a20260923VL213/lg-nvidia-data-market-certification.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 05:57"
+  },
+  {
+    "title": "DeepSeek, Moonshot, the hidden cost of routing China's AI through Claude",
+    "link": "https://www.digitimes.com/news/a20260923VL212/deepseek-claude-moonshot-data-anthropic.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 05:53"
+  },
+  {
+    "title": "Hygon takes China's CPU ambitions beyond servers, into physical AI",
+    "link": "https://www.digitimes.com/news/a20260923VL207/cpu-industrial-processor-data-embedded.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 05:48"
+  },
+  {
     "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
     "link": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-23 05:30"
+  },
+  {
+    "title": "Gigabyte's Giga Computing sets up AI factory in Taiwan to accelerate rack validation",
+    "link": "https://www.digitimes.com/news/a20260922PD232/gigabyte-ai-server-revenue-shipments-profit.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 05:25"
   },
   {
     "title": "Visa, Reap to launch stablecoin cards in 100 markets",
@@ -286,6 +342,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-23 05:16"
+  },
+  {
+    "title": "Nvidia's 800V power shift hands Taiwan's capacitor makers a new AI segment",
+    "link": "https://www.digitimes.com/news/a20260922PD237/demand-mlcc-holy-stone-prosperity-dielectrics-gpu.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-23 05:07"
   },
   {
     "title": "AI trade outlook brightens on falling oil and Meta’s Muse agent ahead of Xi-Trump meeting",
@@ -4734,69 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-15 08:00"
-  },
-  {
-    "title": "TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing",
-    "link": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 08:00"
-  },
-  {
-    "title": "Turning B2B customer calls into viral content",
-    "link": "https://www.techinasia.com/turning-b2b-customer-calls-viral-content",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 07:00"
-  },
-  {
-    "title": "Google Cloud opens Singapore engineering center",
-    "link": "https://www.techinasia.com/google-cloud-opens-new-region-in-bangkok-with-1b-investment",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 07:00"
-  },
-  {
-    "title": "Japan’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/japans-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 07:00"
-  },
-  {
-    "title": "Waymo, Go plan autonomous taxi service in Tokyo for 2027",
-    "link": "https://www.techinasia.com/waymo-targets-1-million-paid-weekly-robotaxi-rides-in-us-by-2026",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 06:58"
-  },
-  {
-    "title": "Unitree’s US$30 billion stock wipe-off spurs regulatory caution on humanoid robot IPOs",
-    "link": "https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-15 06:02"
-  },
-  {
-    "title": "Samsung backs Dutch AI chip startup Euclyd in $231m round",
-    "link": "https://www.techinasia.com/eu-ai-chip-startups-raise-funds-to-rival-nvidia-chips",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 05:58"
-  },
-  {
-    "title": "Global AI startup Flam raises $40m in series B",
-    "link": "https://www.techinasia.com/quickbytes-govtech-singapore-fighting-fire-fire-cybersecurity",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 05:41"
   }
 ]
