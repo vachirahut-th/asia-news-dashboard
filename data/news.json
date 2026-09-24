@@ -1,5 +1,253 @@
 [
   {
+    "title": "These are the most active investors in Vietnam’s startups",
+    "link": "https://www.techinasia.com/active-investors-vietnams-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 09:00"
+  },
+  {
+    "title": "Honda eyes Ohio hybrid plant amid pivot to North America",
+    "link": "https://www.digitimes.com/news/a20260924PD235/honda-plant-production-vehicle-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 08:55"
+  },
+  {
+    "title": "Grab turns Taiwan into a launchpad for Southeast Asia expansion",
+    "link": "https://www.digitimes.com/news/a20260924VL221/grab-taiwan-expansion-asia-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 08:51"
+  },
+  {
+    "title": "SEA startup funding jumps to US$7.25B, but most founders are still waiting",
+    "link": "https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 08:34"
+  },
+  {
+    "title": "Who has the upper hand in financial markets, the US or China?",
+    "link": "https://www.scmp.com/opinion/china-opinion/article/3368593/who-has-upper-hand-financial-markets-us-or-china?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 08:30"
+  },
+  {
+    "title": "ASRock Industrial revenue jumps 95% in 1H26 on North America deal",
+    "link": "https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 08:11"
+  },
+  {
+    "title": "Southeast Asian startups raise $7.25b in H1 2026: report",
+    "link": "https://www.techinasia.com/paths-goal-ai-fever-grips-seas-vcs",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 08:03"
+  },
+  {
+    "title": "Investors pivot to selective China bets in technology as property growth fades: DBS Bank",
+    "link": "https://www.scmp.com/business/china-business/article/3368626/investors-pivot-selective-china-bets-technology-property-growth-fades-dbs-bank?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 08:00"
+  },
+  {
+    "title": "Why AI video is fine (and how YouTube judges the output)",
+    "link": "https://www.techinasia.com/ai-video-fine-youtube-judges-output",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 08:00"
+  },
+  {
+    "title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
+    "link": "https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 07:55"
+  },
+  {
+    "title": "LG sharpens focus on data centers, robotics, chip materials",
+    "link": "https://www.digitimes.com/news/a20260923VL221/lg-data-materials-robotics-nvidia.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 07:43"
+  },
+  {
+    "title": "Skydiving, whale watching and a burst of bookings as holidays extend for millions in China",
+    "link": "https://www.scmp.com/economy/china-economy/article/3368623/skydiving-whale-watching-and-burst-bookings-holidays-extend-millions-china?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 07:33"
+  },
+  {
+    "title": "AI drives Episil GeSi, PMIC growth",
+    "link": "https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 07:14"
+  },
+  {
+    "title": "China AI's new moat: low-cost models meet a rapidly localising hardware stack",
+    "link": "https://www.digitimes.com/news/a20260924PD216/hardware-equipment-competition-2025-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 07:11"
+  },
+  {
+    "title": "ChinaAMC launches 3 Hong Kong ETFs as demand for targeted strategies grows",
+    "link": "https://www.scmp.com/business/china-business/article/3368617/chinaamc-launches-3-hong-kong-etfs-demand-targeted-strategies-grows?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 07:00"
+  },
+  {
+    "title": "Engaging Gen Z women through character quizzes",
+    "link": "https://www.techinasia.com/engaging-gen-women-character-quizzes",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 07:00"
+  },
+  {
+    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
+    "link": "https://www.techinasia.com/top-sea-investors-biotech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 07:00"
+  },
+  {
+    "title": "Peking University Dean's rare Intel China appearance hails AI-plus edge adoption",
+    "link": "https://www.digitimes.com/news/a20260924PD228/intel-development-industrial-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-24 06:57"
+  },
+  {
+    "title": "Tencent launches TenPayGo for WeChat Pay travelers",
+    "link": "https://www.techinasia.com/tencent-cloud-partners-simpaisa-saudi-push",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 06:53"
+  },
+  {
+    "title": "Gobi-backed Bitsmedia lays off 21 employees",
+    "link": "https://www.techinasia.com/gobibacked-bitsmedia-lays-21-employees",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 06:16"
+  },
+  {
+    "title": "Nadiem Makarim’s prison sentence cut to 9 years on appeal",
+    "link": "https://www.techinasia.com/nadiem-makarims-prison-sentence-cut-9-years-appeal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 06:09"
+  },
+  {
+    "title": "High office vacancy rates spur bid to rezone Kowloon East site for residential development",
+    "link": "https://www.scmp.com/business/article/3368602/high-office-vacancy-rates-spur-bid-rezone-kowloon-east-site-residential-development?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 06:00"
+  },
+  {
+    "title": "Tencent rolls out payment app for foreign travellers ahead of Apec summit",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3368544/tencent-rolls-out-payment-app-foreign-travellers-ahead-apec-summit?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 05:19"
+  },
+  {
+    "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
+    "link": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 05:05"
+  },
+  {
+    "title": "Morgan Stanley ‘fat finger’ leak of confidential deal pipeline sets off alarm bells",
+    "link": "https://www.scmp.com/business/banking-finance/article/3368599/morgan-stanley-fat-finger-leak-confidential-deal-pipeline-sets-alarm-bells?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 04:33"
+  },
+  {
+    "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
+    "link": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 04:30"
+  },
+  {
+    "title": "Can Asia’s ETF infrastructure keep pace with its growth?",
+    "link": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 04:30"
+  },
+  {
+    "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
+    "link": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 04:29"
+  },
+  {
+    "title": "1,700% share surge for Chinese state-owned compressor maker exposes risks of new listings",
+    "link": "https://www.scmp.com/business/china-business/article/3368595/1700-share-surge-chinese-state-owned-compressor-maker-exposes-risks-new-listings?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-24 04:02"
+  },
+  {
+    "title": "Why scaling across Southeast Asia means pricing in the cable you never see",
+    "link": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 04:00"
+  },
+  {
+    "title": "What building Bangladesh’s agency actually looks like from the inside – Part 1",
+    "link": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-1-20260923/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-24 04:00"
+  },
+  {
     "title": "Asian investors aren’t choosing between crypto and TradFi anymore",
     "link": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
     "source": "e27 (Startups)",
@@ -4550,253 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-16 02:55"
-  },
-  {
-    "title": "Sharp opens orders for Foxconn-built Nvidia AI servers, targeting JPY250 billion by fiscal 2030",
-    "link": "https://www.digitimes.com/news/a20260916VL204/sharp-nvidia-2030-foxconn-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:48"
-  },
-  {
-    "title": "Salesforce unveils AIforce for AI-powered CRM access",
-    "link": "https://www.techinasia.com/salesforces-anthropic-stake-worth-5b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:34"
-  },
-  {
-    "title": "Sequoia leads $180m round for AI marketing startup Profound",
-    "link": "https://www.techinasia.com/platform-turning-ai-search-measurable-roi",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:32"
-  },
-  {
-    "title": "Entering Taiwan: A practical resource map for foreign founders",
-    "link": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:30"
-  },
-  {
-    "title": "Huawei reportedly scales back AITO role as Seres takes greater control",
-    "link": "https://www.digitimes.com/news/a20260916PD218/huawei-seres-ev-brand-high-end-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:25"
-  },
-  {
-    "title": "Apple, Intel links sharpen focus on Lens Technology's next glass growth markets",
-    "link": "https://www.digitimes.com/news/a20260916VL202/growth-intel-apple-foldable-business.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:22"
-  },
-  {
-    "title": "US-based Teradyne opens Bengaluru office to support India's semiconductor push",
-    "link": "https://www.digitimes.com/news/a20260916PR200/teradyne-manufacturing-demand-government-india-semiconductor-mission.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:18"
-  },
-  {
-    "title": "Advanced processes have no ready-made answers, says TSMC's COO",
-    "link": "https://www.digitimes.com/news/a20260916PD200/tsmc-taiwan-chairman-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:09"
-  },
-  {
-    "title": "Interview: Forget transistors &mdash; speed is what's choking the chip supply chain, says Qnity exec",
-    "link": "https://www.digitimes.com/news/a20260915PD225/demand-materials-packaging-3d-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 02:09"
-  },
-  {
-    "title": "US Senate rejects motion to advance crypto market bill",
-    "link": "https://www.techinasia.com/us-lawmakers-crypto-leaders-push-bill-to-create-bitcoin-reserve",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:04"
-  },
-  {
-    "title": "GSK licenses Chinese firm’s cancer drug in US$750 million deal",
-    "link": "https://www.scmp.com/business/china-business/article/3367631/gsk-licenses-chinese-firms-cancer-drug-us750-million-deal?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-16 02:00"
-  },
-  {
-    "title": "These funds have not invested in SEA in the past year",
-    "link": "https://www.techinasia.com/funds-have-not-invested-in-sea-12-months",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:00"
-  },
-  {
-    "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
-    "link": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 02:00"
-  },
-  {
-    "title": "Commentary: China's US$4.5 trillion electronics target confronts the limits of manufacturing scale",
-    "link": "https://www.digitimes.com/news/a20260916PD212/electronics-manufacturing-growth-revenue-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-16 01:58"
-  },
-  {
-    "title": "Anthropic to open Singapore office, its 5th in APAC",
-    "link": "https://www.techinasia.com/anthropic-drop-30day-data-rule-enterprises",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 01:54"
-  },
-  {
-    "title": "Google launches Gemini 3.8 Live voice AI models",
-    "link": "https://www.techinasia.com/google-launches-gemini-38-flash-flash-cyber",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-16 01:46"
-  },
-  {
-    "title": "Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property",
-    "link": "https://www.scmp.com/business/article/3367610/southeast-asian-buyers-emerge-top-non-local-investors-hong-kong-commercial-property?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-16 00:00"
-  },
-  {
-    "title": "Hong Kong commercial property downturn to worsen amid tightening credit: agents",
-    "link": "https://www.scmp.com/business/banking-finance/article/3367633/hong-kong-commercial-property-downturn-worsen-amid-tightening-credit-agents?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-15 23:00"
-  },
-  {
-    "title": "AR glasses target 2 billion myopia users as China supply chain eyes doubling shipments",
-    "link": "https://www.digitimes.com/news/a20260915PD231/ar-glasses-supply-chain-shipments-market-smart-glasses.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 20:31"
-  },
-  {
-    "title": "Chip revenue heads to US$2.4 trillion on price, not volume, Yole says",
-    "link": "https://www.digitimes.com/news/a20260915VL208/yole-revenue-shipping-silicon-hbm.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 17:34"
-  },
-  {
-    "title": "AI data centers give idle EV battery capacity a second life",
-    "link": "https://www.digitimes.com/news/a20260914PD233/north-america-capacity-data-growth-automakers.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 17:32"
-  },
-  {
-    "title": "Research Insight: Google scales TPU systems to 1 million chips as power becomes the bottleneck",
-    "link": "https://www.digitimes.com/news/a20260915PD216/google-tpu-taiwan-2026-chips.html?chid=12",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 16:55"
-  },
-  {
-    "title": "Amodei's AI slowdown call is unlikely to dent chip demand, industry sources say",
-    "link": "https://www.digitimes.com/news/a20260915PD219/ceo-demand-anthropic-development-sam-altman.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 16:50"
-  },
-  {
-    "title": "iPhone Duo's identity shapes Apple's foldable strategy",
-    "link": "https://www.digitimes.com/news/a20260915PD203/foldable-apple-iphone-sales-mobile.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 16:30"
-  },
-  {
-    "title": "Charts: Memory has held six of the ten fastest-growing spots in Taiwan's chip sector for seven straight months",
-    "link": "https://www.digitimes.com/news/a20260915VL221/digitimes-2026-2021-asic-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 16:15"
-  },
-  {
-    "title": "DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies",
-    "link": "https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 16:15"
-  },
-  {
-    "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
-    "link": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 16:01"
-  },
-  {
-    "title": "Meta introduces Meta One subscription across its apps",
-    "link": "https://www.techinasia.com/meta-launches-ai-tools-small-businesses",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-15 15:00"
-  },
-  {
-    "title": "Astera Labs targets the KV cache bottleneck as agentic AI outgrows GPU memory",
-    "link": "https://www.digitimes.com/news/a20260915VL218/astera-labs-memory-controller-cpu-ai-inference-dram.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 13:30"
-  },
-  {
-    "title": "Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say",
-    "link": "https://www.scmp.com/business/banking-finance/article/3367616/tighter-scrutiny-hong-kong-ipos-could-slow-deal-flow-analysts-say?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-15 13:00"
-  },
-  {
-    "title": "Airbus weighs supplier stakes to relieve aerospace parts bottlenecks",
-    "link": "https://www.digitimes.com/news/a20260915PD242/airbus-supplier-production-plant-supply-chain.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-15 12:57"
   }
 ]
