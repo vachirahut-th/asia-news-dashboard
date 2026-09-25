@@ -1,5 +1,53 @@
 [
   {
+    "title": "Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut",
+    "link": "https://www.scmp.com/business/companies/article/3368834/chinese-risc-v-chipmaker-eswin-seeks-us300m-hong-kong-ipo-ahead-october-debut?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-25 10:49"
+  },
+  {
+    "title": "Why Hong Kong banks have shut down 40% of branches in recent years",
+    "link": "https://www.scmp.com/business/banking-finance/article/3368820/why-hong-kong-banks-have-shut-down-40-branches-recent-years?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-25 10:01"
+  },
+  {
+    "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+    "link": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-25 09:43"
+  },
+  {
+    "title": "Akamai plans US$5.5 billion cloud buildout after US$11.6 billion Anthropic deal",
+    "link": "https://www.digitimes.com/news/a20260925VL206/anthropic-infrastructure-hardware-revenue-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-25 09:20"
+  },
+  {
+    "title": "Singapore deepens chip R&amp;D ties with Applied Materials, KLA and GlobalFoundries",
+    "link": "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-25 09:15"
+  },
+  {
+    "title": "Dutch PM presses US to avoid tighter ASML China curbs",
+    "link": "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-25 09:13"
+  },
+  {
     "title": "These are the most active investors in Korea’s startups",
     "link": "https://www.techinasia.com/active-investors-koreas-startups",
     "source": "Tech in Asia",
@@ -366,6 +414,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-25 00:16"
+  },
+  {
+    "title": "Hot or not: What SEA investors are betting on and what they’re ignoring",
+    "link": "https://www.techinasia.com/visual-story/funding-overview",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-25 00:00"
   },
   {
     "title": "China’s EV and battery makers tussle over paying resumed lithium-ion tax: sources",
@@ -4742,61 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-17 01:58"
-  },
-  {
-    "title": "Bain Capital Ventures raises $1.6b for AI fund",
-    "link": "https://www.techinasia.com/us-ai-home-robot-startup-sunday-hits-1-2b-on-165m-series-b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 01:54"
-  },
-  {
-    "title": "Exclusive: China's CAS institute charts DUV route to 3nm GAA without EUV",
-    "link": "https://www.digitimes.com/news/a20260917PD204/china-3nm-duv-euv-gaa-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 01:50"
-  },
-  {
-    "title": "Hong Kong stocks decline after Fed raises interest rates and signals more to come",
-    "link": "https://www.scmp.com/business/china-business/article/3367790/hong-kong-stocks-decline-after-fed-raises-interest-rates-and-signals-more-come?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-17 01:47"
-  },
-  {
-    "title": "China's FAW may become GAC's second-largest shareholder, possibly restructuring the Toyota China model",
-    "link": "https://www.digitimes.com/news/a20260917PD209/gac-automotive-industry-automobile-vehicle-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 01:45"
-  },
-  {
-    "title": "Snap partners with Salesforce, Nvidia, AWS for Specs",
-    "link": "https://www.techinasia.com/snap-forms-ar-glasses-unit-in-competition-with-meta-google",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 01:33"
-  },
-  {
-    "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-    "link": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 01:30"
-  },
-  {
-    "title": "Foodpanda launches plugin for ChatGPT, Claude in Singapore",
-    "link": "https://www.techinasia.com/southeast-asia-food-delivery-gmv-jumps-18-to-22-7b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 01:26"
   }
 ]
