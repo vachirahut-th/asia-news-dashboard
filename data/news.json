@@ -1,5 +1,77 @@
 [
   {
+    "title": "These are the most active investors in Israel’s startups",
+    "link": "https://www.techinasia.com/active-investors-israels-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 09:00"
+  },
+  {
+    "title": "Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants",
+    "link": "https://www.scmp.com/business/china-evs/article/3368843/hong-kong-tycoon-backed-start-bets-new-battery-challenge-energy-storage-giants?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-26 08:00"
+  },
+  {
+    "title": "Meta adds safety warning to Muse after security flaw: report",
+    "link": "https://www.techinasia.com/meta-launches-muse-personal-ai-agent",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 07:42"
+  },
+  {
+    "title": "US and Chinese accounts of Xi's Washington visit agree on the framework, not the fine print",
+    "link": "https://www.digitimes.com/news/a20260926VL200/beijing-xi-jinping-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-26 07:41"
+  },
+  {
+    "title": "Trump-Xi summit yields few concessions but keeps the rivals talking",
+    "link": "https://www.digitimes.com/news/a20260926VL201/beijing-xi-jinping-competition.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-26 07:36"
+  },
+  {
+    "title": "Series SEA: Who’s investing in the region’s SaaS startups?",
+    "link": "https://www.techinasia.com/top-sea-investors-saas",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 07:00"
+  },
+  {
+    "title": "Citigroup targets more than $3b Banamex IPO",
+    "link": "https://www.techinasia.com/openai-discusses-ipo-roles-citi-jpmorgan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 05:12"
+  },
+  {
+    "title": "DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders",
+    "link": "https://www.digitimes.com/news/a20260924PD227/funding-digitimes-cxmt-ymtc-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-26 04:28"
+  },
+  {
+    "title": "US startup Crusoe drops $1.25b turbine deal for AI data centers",
+    "link": "https://www.techinasia.com/oracle-openai-drop-texas-ai-data-center-expansion-plan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 04:18"
+  },
+  {
     "title": "Circle CFO Jeremy Fox-Geen plans to step down",
     "link": "https://www.techinasia.com/circle-shares-drop-18-on-us-stablecoin-bill-concerns",
     "source": "Tech in Asia",
@@ -110,6 +182,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-26 01:00"
+  },
+  {
+    "title": "Move fast, don’t break things",
+    "link": "https://www.techinasia.com/move-fast-dont-break",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-26 00:30"
   },
   {
     "title": "Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut",
@@ -4718,85 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-17 05:25"
-  },
-  {
-    "title": "Wiwynn sees strong AI demand offsetting US data center pushback",
-    "link": "https://www.digitimes.com/news/a20260917PD207/wiwynn-demand-growth-revenue-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 05:14"
-  },
-  {
-    "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
-    "link": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 05:01"
-  },
-  {
-    "title": "Samsung Galaxy S27 series rumored to feature 4 models, reshaping flagship lineup with display and camera upgrades",
-    "link": "https://www.digitimes.com/news/a20260916PD239/samsung-galaxy-flagship-smartphone-camera-display.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 05:00"
-  },
-  {
-    "title": "Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off",
-    "link": "https://www.scmp.com/business/banking-finance/article/3367810/hong-kong-support-rocket-satellite-ipos-spacex-led-sector-takes?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-17 05:00"
-  },
-  {
-    "title": "China optical suppliers power smart glasses supply chain",
-    "link": "https://www.digitimes.com/news/a20260917PD216/smart-glasses-supply-chain-meta-market-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 04:45"
-  },
-  {
-    "title": "Samsung expands SRAM, IP to speed chip development",
-    "link": "https://www.digitimes.com/news/a20260917PD219/samsung-ip-development-sram-design.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 04:30"
-  },
-  {
-    "title": "Nobody gives you time to explain. That’s the real fundraising problem",
-    "link": "https://e27.co/nobody-gives-you-time-to-explain-thats-the-real-fundraising-problem-20260917/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 04:30"
-  },
-  {
-    "title": "AI's memory appetite is squeezing the electronics industry from the bottom up, Intel warns",
-    "link": "https://www.digitimes.com/news/a20260917VL205/production-electronics-infrastructure-demand-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 04:29"
-  },
-  {
-    "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-    "link": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 04:07"
-  },
-  {
-    "title": "US AI startup Plaud to invest $15.7m in Singapore",
-    "link": "https://www.techinasia.com/openai-anthropic-hiring-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 04:03"
   }
 ]
