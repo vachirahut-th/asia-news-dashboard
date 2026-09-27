@@ -1,5 +1,45 @@
 [
   {
+    "title": "How Asia-Pacific property markets are drawing fresh capital despite US rate uncertainty",
+    "link": "https://www.scmp.com/business/article/3368796/how-asia-pacific-property-markets-are-drawing-fresh-capital-despite-us-rate-uncertainty?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-27 03:00"
+  },
+  {
+    "title": "Who’s investing in India’s fintech startups?",
+    "link": "https://www.techinasia.com/whos-investing-indias-fintech-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-27 02:00"
+  },
+  {
+    "title": "TikTok settles Alabama safety case for at least $100m",
+    "link": "https://www.techinasia.com/tiktok-faces-uk-probe-child-safety-checks",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-27 01:04"
+  },
+  {
+    "title": "Citadel expands quant team, recruits from AI labs",
+    "link": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-27 00:40"
+  },
+  {
+    "title": "Southeast Asian startups that raised funds over 18 months ago",
+    "link": "https://www.techinasia.com/visual-story/southeast-asian-startups-raised-funds-18-months",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-27 00:00"
+  },
+  {
     "title": "These are the most active investors in Israel’s startups",
     "link": "https://www.techinasia.com/active-investors-israels-startups",
     "source": "Tech in Asia",
@@ -4758,45 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-17 06:20"
-  },
-  {
-    "title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
-    "link": "https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 06:15"
-  },
-  {
-    "title": "Tier IV open-sources self-driving AI chip design to challenge Nvidia",
-    "link": "https://www.digitimes.com/news/a20260916PD205/nvidia-autonomous-driving-ai-chip-design-chips.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 06:12"
-  },
-  {
-    "title": "Exchange Fund weighs bigger gold holdings to support Hong Kong’s trading hub plan",
-    "link": "https://www.scmp.com/business/banking-finance/article/3367814/exchange-fund-weighs-bigger-gold-holdings-support-hong-kongs-trading-hub-plan?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-17 06:00"
-  },
-  {
-    "title": "Huawei Connect 2026: OceanStor M900 turns PB-scale KV cache into Huawei's next AI infrastructure layer",
-    "link": "https://www.digitimes.com/news/a20260917VL217/huawei-infrastructure-2026-data-performance.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-17 05:49"
-  },
-  {
-    "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
-    "link": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-17 05:25"
   }
 ]
