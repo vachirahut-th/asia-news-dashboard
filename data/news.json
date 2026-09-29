@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets",
+    "link": "https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-29 23:00"
+  },
+  {
     "title": "Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers",
     "link": "https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -312,6 +320,14 @@
     "published_at": "2026-09-29 05:51"
   },
   {
+    "title": "MicroIP unveils AI drone and edge systems at Taiwan Expo USA",
+    "link": "https://www.digitimes.com/news/a20260929PD233/taiwan-usa-expo-asic-communications.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 05:48"
+  },
+  {
     "title": "Chinese brokerages get in line with Beijing’s crackdown on overseas stock trading",
     "link": "https://www.scmp.com/business/china-business/article/3369152/chinese-brokerages-get-line-beijings-crackdown-overseas-stock-trading?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -344,6 +360,22 @@
     "published_at": "2026-09-29 05:03"
   },
   {
+    "title": "Solidigm weighs US IPO as AI storage demand lifts valuation",
+    "link": "https://www.digitimes.com/news/a20260929PD232/solidigm-sk-hynix-demand-data-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 04:46"
+  },
+  {
+    "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
+    "link": "https://www.digitimes.com/news/a20260929PD231/semco-abf-substrate-nvidia-capacity-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 04:43"
+  },
+  {
     "title": "Wix’s Base44 launches Base Code for GitHub development",
     "link": "https://www.techinasia.com/wordpress-launches-ai-assistant-feature",
     "source": "Tech in Asia",
@@ -366,6 +398,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-29 04:26"
+  },
+  {
+    "title": "US, China eye US$60 billion in tariff relief, but chips stay off the table",
+    "link": "https://www.digitimes.com/news/a20260929VL204/chips-technology-semiconductors.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 04:25"
   },
   {
     "title": "SEA financials tracker: Glints’ net loss narrows 33%",
@@ -392,12 +432,76 @@
     "published_at": "2026-09-29 04:00"
   },
   {
+    "title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
+    "link": "https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 03:59"
+  },
+  {
+    "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+    "link": "https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 03:55"
+  },
+  {
     "title": "Shein drops 14% to record low after profit misses in first results since Hong Kong IPO",
     "link": "https://www.scmp.com/tech/article/3369136/shein-drops-14-record-low-after-profit-misses-first-results-hong-kong-ipo?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-09-29 03:53"
+  },
+  {
+    "title": "Cerebras to supply Gimlet Labs with 100 MW AI capacity",
+    "link": "https://www.techinasia.com/nvidia-rival-cerebras-hits-23b-after-tiger-global-led-1b-round",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 03:49"
+  },
+  {
+    "title": "Samsung bonus plan to lift South Korea talent race",
+    "link": "https://www.digitimes.com/news/a20260929PD222/samsung-talent-performance-management-sk-hynix.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 03:36"
+  },
+  {
+    "title": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
+    "link": "https://www.digitimes.com/news/a20260929PD215/globalfoundries-gan-tsmc-expansion-capacity-expansion.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-29 03:31"
+  },
+  {
+    "title": "Shein profit falls 67% as costs rise, Europe sales weaken",
+    "link": "https://www.techinasia.com/shein-posts-q1-loss-hong-kong-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 03:12"
+  },
+  {
+    "title": "Anthropic eyes $2t valuation as IPO filing reveals costs",
+    "link": "https://www.techinasia.com/anthropic-picks-nasdaq-october-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 03:09"
+  },
+  {
+    "title": "Franklin Templeton expands collateral program to Bybit",
+    "link": "https://www.techinasia.com/nouriel-roubini-cowrites-white-paper-usafi",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 03:03"
   },
   {
     "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
@@ -424,12 +528,44 @@
     "published_at": "2026-09-29 02:30"
   },
   {
+    "title": "OpenAI drops GPT-6.1 Astra release over safety concerns",
+    "link": "https://www.techinasia.com/openai-introduces-astra-law-legal-ai-tool",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 02:14"
+  },
+  {
+    "title": "Who’s investing in India’s health startups?",
+    "link": "https://www.techinasia.com/whos-investing-indias-health-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 02:00"
+  },
+  {
     "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
     "link": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-29 02:00"
+  },
+  {
+    "title": "Philippine fintech firm Skyro wins Malaysia license",
+    "link": "https://www.techinasia.com/seas-ai-buildout-caught-global-memory-squeeze",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 01:59"
+  },
+  {
+    "title": "GoTo shares fall 14% after Indonesia removes price floor",
+    "link": "https://www.techinasia.com/goto-appoints-hans-patuwo-as-ceo-replacing-patrick-walujo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 01:14"
   },
   {
     "title": "AI governance is moving from promises to proof",
@@ -4662,141 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-20 00:27"
-  },
-  {
-    "title": "India’s funding round sizes over the past 5 years",
-    "link": "https://www.techinasia.com/visual-story/indias-funding-sizes-5-years",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-20 00:00"
-  },
-  {
-    "title": "Mapping the key players in China’s ecommerce arena",
-    "link": "https://www.techinasia.com/visual-story/mapping-chinas-ecommerce-standouts",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 11:00"
-  },
-  {
-    "title": "These are the most active investors in Indonesia’s startups",
-    "link": "https://www.techinasia.com/active-investors-indonesias-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 09:00"
-  },
-  {
-    "title": "Focused ultrasound could be the next big cancer breakthrough for hard-to-treat tumours",
-    "link": "https://www.scmp.com/business/china-business/article/3368041/focused-ultrasound-could-be-next-big-cancer-breakthrough-hard-treat-tumours?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-19 08:00"
-  },
-  {
-    "title": "SK hynix weighs US NAND chip plant through Solidigm",
-    "link": "https://www.techinasia.com/sk-hynix-weighs-investor-3b-china-chip-site",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 07:05"
-  },
-  {
-    "title": "Israel’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/israels-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 07:00"
-  },
-  {
-    "title": "OpenAI expects $278b negative free cash flow by 2030",
-    "link": "https://www.techinasia.com/openai-samsung-deepen-nextgen-chip-ai-ties",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 03:46"
-  },
-  {
-    "title": "Yahoo Finance ends Polymarket partnership",
-    "link": "https://www.techinasia.com/polymarket-reviews-market-safeguards-after-rescue-bet-backlash",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 03:33"
-  },
-  {
-    "title": "Nvidia-backed AI startup Nscale files for US IPO",
-    "link": "https://www.techinasia.com/nvidia-nokia-join-1-1b-series-b-for-uk-ai-firm-nscale",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 03:23"
-  },
-  {
-    "title": "Oracle’s $18b data center debt trades below face value",
-    "link": "https://www.techinasia.com/oracle-credit-risk-climbs-ai-spending-grows",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 03:01"
-  },
-  {
-    "title": "Disney hires former Character.AI executive as first CTO",
-    "link": "https://www.techinasia.com/openai-reportedly-reaches-allstock-disney-license-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 02:05"
-  },
-  {
-    "title": "These funds have not invested in Singapore in the past year",
-    "link": "https://www.techinasia.com/funds-invested-singapore-year",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 02:00"
-  },
-  {
-    "title": "Nvidia commits $2b to Brookfield’s AI infrastructure fund",
-    "link": "https://www.techinasia.com/nvidiabacked-lambda-lands-1b-private-debt-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 01:54"
-  },
-  {
-    "title": "Apple Pay plans India launch with Axis Bank: sources",
-    "link": "https://www.techinasia.com/apple-sued-18m-app-store-crypto-scam",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 01:39"
-  },
-  {
-    "title": "Perfect Diary owner Yatsen doubles down on skincare, R&D after business overhaul",
-    "link": "https://www.scmp.com/business/china-business/article/3368008/perfect-diary-owner-yatsen-doubles-down-skincare-rd-after-business-overhaul?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-19 01:00"
-  },
-  {
-    "title": "AI after the hype",
-    "link": "https://www.techinasia.com/ai-after-the-hype",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 00:30"
-  },
-  {
-    "title": "Mapping India’s leading health startups",
-    "link": "https://www.techinasia.com/visual-story/india-health-landscape-map",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-19 00:00"
   }
 ]
