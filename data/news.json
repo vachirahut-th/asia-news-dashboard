@@ -1,5 +1,101 @@
 [
   {
+    "title": "Meta signs GPU capacity deal with AI firm Firmus",
+    "link": "https://www.techinasia.com/nvidiabacked-data-center-firm-firmus-raises-505m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 00:06"
+  },
+  {
+    "title": "Plan to turn Hong Kong office block into flats rejected amid high commercial vacancy rates",
+    "link": "https://www.scmp.com/business/china-business/article/3369122/plan-turn-hong-kong-office-block-flats-rejected-amid-high-commercial-vacancy-rates?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-29 00:01"
+  },
+  {
+    "title": "The hidden alliances between Southeast Asia’s VCs, uncovered",
+    "link": "https://www.techinasia.com/visual-story/dynamics-southeast-asias-coinvestment-alliance-vc-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-09-29 00:00"
+  },
+  {
+    "title": "Blade Hydrogen Green Technology targets waste hydrogen power for AIDC",
+    "link": "https://www.digitimes.com/news/a20260924PD211/electricity-blade-hydrogen-aidc-data-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:21"
+  },
+  {
+    "title": "Advantech's North America expansion signals a deeper shift toward local manufacturing, services",
+    "link": "https://www.digitimes.com/news/a20260924PD206/advantech-north-america-manufacturing-industrial-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:21"
+  },
+  {
+    "title": "Column: Beyond Zero Trust &ndash; why AI supply chain resilience needs a plan B",
+    "link": "https://www.digitimes.com/news/a20260924PD209/supply-chain-management-cybersecurity-data-security.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:20"
+  },
+  {
+    "title": "HAA free tuition enrollment draws Silicon Valley buzz",
+    "link": "https://www.digitimes.com/news/a20260924PD229/silicon-valley-ceo-education-openai-sam-altman.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:20"
+  },
+  {
+    "title": "Taiwan PCB output hits record high on AI demand, putting NT$1 trillion year within reach",
+    "link": "https://www.digitimes.com/news/a20260924PD230/pcb-demand-taiwan-ai-server-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:20"
+  },
+  {
+    "title": "DeepSeek paper says AI agents are learning reward hacking during training",
+    "link": "https://www.digitimes.com/news/a20260924PD231/deepseek-training-testing-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:19"
+  },
+  {
+    "title": "Global 2026 EV sales to grow just 6.5% as Chinese exports become primary driver",
+    "link": "https://www.digitimes.com/news/a20260924PD234/sales-2026-digitimes-exports-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:19"
+  },
+  {
+    "title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
+    "link": "https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-09-28 23:18"
+  },
+  {
+    "title": "JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues",
+    "link": "https://www.scmp.com/business/banking-finance/article/3369097/jpmorgans-jamie-dimon-how-growth-can-untangle-us-china-strife-thorny-global-issues?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-28 20:00"
+  },
+  {
     "title": "Nvidia adds a record US$150 billion to its stock buyback",
     "link": "https://www.digitimes.com/news/a20260928VL201/nvidia-sales-revenue-apple-2028.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -120,6 +216,14 @@
     "published_at": "2026-09-28 07:53"
   },
   {
+    "title": "Mainland Chinese stocks hit 13-month low on tech sell-off as Hong Kong market holds up",
+    "link": "https://www.scmp.com/business/china-business/article/3369040/mainland-chinese-stocks-hit-13-month-low-tech-sell-hong-kong-market-holds?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-28 07:34"
+  },
+  {
     "title": "Fixing the hidden $50k cost in Singapore’s home loan market",
     "link": "https://www.techinasia.com/fixing-hidden-50k-cost-singapores-home-loan-market",
     "source": "Tech in Asia",
@@ -158,6 +262,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-28 05:28"
+  },
+  {
+    "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
+    "link": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-28 05:14"
+  },
+  {
+    "title": "Asia’s safe harbour for wealth",
+    "link": "https://www.scmp.com/native/business/topics/strong-governance-wealth/article/3368657/asias-safe-harbour-wealth?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-09-28 05:00"
   },
   {
     "title": "Singapore insurtech firm Igloo revenue rises 46% to $63m",
@@ -4678,125 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-18 03:05"
-  },
-  {
-    "title": "ByteDance spin-off Anew Labs raises US$290m as AI drug developers enjoy fundraising boom",
-    "link": "https://www.scmp.com/business/china-business/article/3367926/bytedance-spin-anew-labs-raises-us290m-ai-drug-developers-enjoy-fundraising-boom?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-18 03:00"
-  },
-  {
-    "title": "ByteDance's second AI-agent phone drops forced automation for permission &mdash; yet app wall still up",
-    "link": "https://www.digitimes.com/news/a20260918VL209/bytedance-apps-zte-smartphone.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 02:50"
-  },
-  {
-    "title": "Mobile SoC battle for 2026 centers on NPUs",
-    "link": "https://www.digitimes.com/news/a20260918PD212/npu-2026-mobile-performance-apple.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 02:31"
-  },
-  {
-    "title": "Micron: AI memory crunch rewrites the market with long-term deals and custom designs",
-    "link": "https://www.digitimes.com/news/a20260918PD204/micron-market-data-demand-performance.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 02:24"
-  },
-  {
-    "title": "ByteDance builds strong supply chain force to master emerging hardware ecosystems beyond core demand",
-    "link": "https://www.digitimes.com/news/a20260918PD207/hardware-bytedance-supply-chain-smart-glasses-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 02:01"
-  },
-  {
-    "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-    "link": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-18 02:00"
-  },
-  {
-    "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
-    "link": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:56"
-  },
-  {
-    "title": "NCSIST showcases military tech at Taiwan Innotech Expo 2026",
-    "link": "https://www.digitimes.com/news/a20260917PD234/taiwan-2026-expo-technology-display.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:50"
-  },
-  {
-    "title": "Foldable smartphone panel shipments fall 13% in 1H26 as market shifts to in-fold designs",
-    "link": "https://www.digitimes.com/news/a20260918VL206/shipments-panel-foldable-smartphone-market-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:45"
-  },
-  {
-    "title": "Rumored Japan-US chip plant talks test whether two former chipmaking giants can rebuild at home",
-    "link": "https://www.digitimes.com/news/a20260918VL207/plant-investment-capacity-nikkei-globalfoundries.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:36"
-  },
-  {
-    "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
-    "link": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:35"
-  },
-  {
-    "title": "Nexperia, Tata partner to make power chips in India",
-    "link": "https://www.techinasia.com/nexperias-china-unit-resumes-chip-sales-after-export-ban",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-18 01:32"
-  },
-  {
-    "title": "Taiwan central bank keeps rates unchanged as inflation stays contained",
-    "link": "https://www.digitimes.com/news/a20260918PD201/taiwan-inflation-2026-2027-economy.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:19"
-  },
-  {
-    "title": "A 4-1 board vote has split Tata Sons from the charity that owns two-thirds of it",
-    "link": "https://www.digitimes.com/news/a20260918VL203/chairman-stock-market.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:19"
-  },
-  {
-    "title": "Taiwan central bank warns market stability hinges on AI monetization",
-    "link": "https://www.digitimes.com/news/a20260918PD200/taiwan-market-adoption-investment-inflation.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-18 01:17"
   }
 ]
