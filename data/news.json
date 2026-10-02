@@ -1,5 +1,61 @@
 [
   {
+    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
+    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "Head Office, Branches, and Overseas Offices",
+    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
+    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "Organization of Head office, Branches and Offices",
+    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "The Bank's Organizational Core Principles",
+    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "Medium-Term Strategic Plan",
+    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
+    "title": "Business Continuity Planning",
+    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-02 20:24"
+  },
+  {
     "title": "McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail",
     "link": "https://www.scmp.com/business/companies/article/3369587/mcdonalds-sells-hong-kong-shop-us153-million-old-money-returns-retail?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -96,6 +152,14 @@
     "published_at": "2026-10-02 09:10"
   },
   {
+    "title": "Amazon Now expands quick delivery to 120+ Indian cities",
+    "link": "https://www.techinasia.com/amazon-q2-net-sales-grow-20-2006b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-02 09:09"
+  },
+  {
     "title": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
     "link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -152,6 +216,70 @@
     "published_at": "2026-10-02 08:48"
   },
   {
+    "title": "Apple's Ternus pushes management cuts, faster hardware",
+    "link": "https://www.digitimes.com/news/a20261002PD242/apple-hardware-tim-cook-john-ternus-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:46"
+  },
+  {
+    "title": "OpenAI fires 3 safety researchers for sharing confidential information",
+    "link": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:45"
+  },
+  {
+    "title": "Huawei hikes flagship prices up to US$200 as memory shortages hit smartphone margins",
+    "link": "https://www.digitimes.com/news/a20261002PD233/huawei-smartphone-flagship-price-galaxy.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:45"
+  },
+  {
+    "title": "BMW to make 20% of senior management redundant with AI",
+    "link": "https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:44"
+  },
+  {
+    "title": "Japanese firms cut China presence 22.4% as trade risks mount",
+    "link": "https://www.digitimes.com/news/a20261002PD240/2026-production-sales-manufacturing-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:40"
+  },
+  {
+    "title": "ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform",
+    "link": "https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:34"
+  },
+  {
+    "title": "Stellantis to pause four French plants amid EV battery shortages",
+    "link": "https://www.digitimes.com/news/a20261002PD238/stellantis-france-plant-demand-vehicle.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:27"
+  },
+  {
+    "title": "Hitachi and Fanuc launch Physical AI partnership for factory automation",
+    "link": "https://www.digitimes.com/news/a20261002PD239/hitachi-fanuc-partnership-industrial-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:26"
+  },
+  {
     "title": "China’s AI compute ambitions demand innovation",
     "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -192,6 +320,14 @@
     "published_at": "2026-10-02 06:36"
   },
   {
+    "title": "Amazon explores $8b Nvidia chip sale to outside investors",
+    "link": "https://www.techinasia.com/amazon-microsoft-keep-ai-spending-plans-on-track",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-02 05:11"
+  },
+  {
     "title": "From stock losses to bond bets: 5 figures investors are watching in China",
     "link": "https://www.scmp.com/business/banking-finance/article/3369517/stock-losses-bond-bets-5-figures-investors-are-watching-china?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -214,6 +350,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-02 04:48"
+  },
+  {
+    "title": "GCash trims IPO ambitions to meet market realities",
+    "link": "https://www.techinasia.com/gcash-sets-ipo-price-php66-fair",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-02 04:39"
   },
   {
     "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
@@ -398,6 +542,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-02 00:30"
+  },
+  {
+    "title": "Nebius acquires Israeli AI startup Inferize in GPU deal",
+    "link": "https://www.techinasia.com/ai-infrastructure-firm-nebius-buys-eigen-ai-643m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-02 00:27"
+  },
+  {
+    "title": "SK hynix leads US IPO proceeds with $26.5b listing",
+    "link": "https://www.techinasia.com/sk-hynix-plans-286b-share-buyback",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-02 00:03"
   },
   {
     "title": "Could Northern Metropolis draw educational leasing from Hong Kong’s Grade A office sector?",
@@ -4638,165 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-23 00:00"
-  },
-  {
-    "title": "Animoca Brands pauses Currenc merger, delays IPO plans",
-    "link": "https://www.techinasia.com/true-global-ventures-scores-big-with-forge-animoca-deals",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 23:59"
-  },
-  {
-    "title": "Power, not chips, will decide where Asia’s AI gets built",
-    "link": "https://www.scmp.com/presented/business/topics/aesieap-ceo-conference-2026/article/3368225/power-not-chips-will-decide-where-asias-ai-gets-built?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 23:30"
-  },
-  {
-    "title": "As Buffett exits, can China win back Wall Street with own brand of his winning formula?",
-    "link": "https://www.scmp.com/business/banking-finance/article/3368414/buffett-exits-can-china-win-back-wall-street-own-brand-his-winning-formula?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 23:00"
-  },
-  {
-    "title": "NewsLatest news from the BOT",
-    "link": "https://www.bot.or.th/en/news-and-media/news.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
-    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
-    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
-    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "Monetary Policy Committee Meeting",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "Monetary Policy Publications",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 16:28"
-  },
-  {
-    "title": "185 Years of Private Banking Heritage, A Legacy of Forward-thinking Stewardship",
-    "link": "https://www.scmp.com/presented/business/topics/preserving-generational-wealth/article/3366739/185-years-private-banking-heritage-legacy-forward-thinking-stewardship?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 16:00"
-  },
-  {
-    "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 14:30"
-  },
-  {
-    "title": "Some family offices eyeing Chinese investments as US-China tensions ease: report",
-    "link": "https://www.scmp.com/business/money/article/3368416/some-family-offices-eyeing-chinese-investments-us-china-tensions-ease-report?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 12:31"
-  },
-  {
-    "title": "Binance invests $100m in Circle, expands USDC ties",
-    "link": "https://www.techinasia.com/binance-adds-prediction-markets-wallet-app",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 12:05"
-  },
-  {
-    "title": "China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 12:00"
-  },
-  {
-    "title": "Mapping the firms dominating Japan’s health sector",
-    "link": "https://www.techinasia.com/visual-story/mapping-firms-dominating-japans-health-sector",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 11:00"
-  },
-  {
-    "title": "Amazon and Shorea Capital deals underscore foreign interest in commercial property",
-    "link": "https://www.scmp.com/business/article/3368331/amazon-and-shorea-capital-deals-underscore-foreign-interest-commercial-property?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 10:00"
-  },
-  {
-    "title": "Hong Kong regulators to flesh out new yuan strategy after Beijing meetings",
-    "link": "https://www.scmp.com/business/banking-finance/article/3368367/hong-kong-regulators-flesh-out-new-yuan-strategy-after-beijing-meetings?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-22 09:30"
-  },
-  {
-    "title": "SiPearl delivers first homegrown server chips for Europe's exascale supercomputer",
-    "link": "https://www.digitimes.com/news/a20260922VL217/processor-cpu-europe-supercomputer-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-22 09:18"
-  },
-  {
-    "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
-    "link": "https://e27.co/bonbon-mobility-raises-us500k-to-digitise-vietnams-car-care-market-20260922/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-22 09:13"
   }
 ]
