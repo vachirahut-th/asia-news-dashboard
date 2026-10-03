@@ -1,5 +1,165 @@
 [
   {
+    "title": "NewsLatest news from the BOT",
+    "link": "https://www.bot.or.th/en/news-and-media/news.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
+    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
+    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Monetary Policy Committee Meeting",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Monetary Policy Publications",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 04:14"
+  },
+  {
+    "title": "Paramount, Warner Bros. to operate under Skydance name",
+    "link": "https://www.techinasia.com/paramount-higher-offer-warner-bros-sources",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 03:26"
+  },
+  {
+    "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+    "link": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-03 03:00"
+  },
+  {
+    "title": "Cerebras shares fall 20% as OpenAI turns to Nvidia",
+    "link": "https://www.techinasia.com/ai-chipmaker-cerebras-lifts-2026-outlook",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 02:06"
+  },
+  {
+    "title": "Glasswall: The things anonymous founders say about VCs",
+    "link": "https://www.techinasia.com/visual-story/glasswall-vc-investors-founders-reviews",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 02:00"
+  },
+  {
+    "title": "OpenClaw adds Tencent AI tool to security checks",
+    "link": "https://www.techinasia.com/chinas-openclaw-ai-sparks-security-warnings-startup-hype",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 01:52"
+  },
+  {
+    "title": "SK Group chairman to sell $703m in shares",
+    "link": "https://www.techinasia.com/samsung-sk-hynix-cash-reserves-rise-197b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 01:52"
+  },
+  {
+    "title": "Anthropic to invest $100m in AI engineer academy",
+    "link": "https://www.techinasia.com/anthropic-taps-accenture-independent-ai-model-tests",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 01:36"
+  },
+  {
+    "title": "BNY, Kraken parent Payward discuss digital asset partnership",
+    "link": "https://www.techinasia.com/a16z-crypto-leads-digital-assets-300m-raise",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 01:14"
+  },
+  {
+    "title": "Elon Musk, Jensen Huang see China closing lithography gap by 2030",
+    "link": "https://www.digitimes.com/news/a20261002PD247/asml-elon-musk-jensen-huang-2030-euv.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-03 00:31"
+  },
+  {
+    "title": "Synopsys reshapes EDA, IP business models as AI shifts revenue from seats to customer output",
+    "link": "https://www.digitimes.com/news/a20261002PD249/synopsys-revenue-ip-eda-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-03 00:31"
+  },
+  {
+    "title": "Interview: AI PCs reach 65% of Europe's notebook channel, but what brings buyers to the market?",
+    "link": "https://www.digitimes.com/news/a20261002VL211/ai-notebooks-sales-data-europe-hardware-pc.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-03 00:31"
+  },
+  {
+    "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
+    "link": "https://www.digitimes.com/news/a20261002VL212/gpu-biren-nvidia-production-roadmap.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-03 00:31"
+  },
+  {
+    "title": "Tales as old as time",
+    "link": "https://www.techinasia.com/tales-as-old-as-time",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-03 00:30"
+  },
+  {
     "title": "Location (Guide Map to Head Office) / Visiting the Bank",
     "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
     "source": "Bank of Japan (BOJ)",
@@ -278,6 +438,38 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-02 08:26"
+  },
+  {
+    "title": "Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors",
+    "link": "https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:25"
+  },
+  {
+    "title": "Inside Volantis's photonic bid to break AI's memory wall after US$88 million raise",
+    "link": "https://www.digitimes.com/news/a20261002PD236/startup-ai-inference-hardware-chips-funding.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:18"
+  },
+  {
+    "title": "Amazon weighs US$8B chip sale-leaseback to support credit rating",
+    "link": "https://www.digitimes.com/news/a20261002PD235/amazon-chips-vehicle-nvidia-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 08:08"
+  },
+  {
+    "title": "Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra",
+    "link": "https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 07:57"
   },
   {
     "title": "China’s AI compute ambitions demand innovation",
@@ -4606,197 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-23 03:30"
-  },
-  {
-    "title": "Build vs buy: Why custom tools are winning in 2026",
-    "link": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 03:00"
-  },
-  {
-    "title": "China’s gig economy",
-    "link": "https://www.scmp.com/plus/economy/article/3368452/chinas-gig-economy?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-23 02:50"
-  },
-  {
-    "title": "India's Dixon looks beyond smartphones to crack global EMS top 10",
-    "link": "https://www.digitimes.com/news/a20260923VL203/dixon-ems-hardware-manufacturing-bloomberg.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 02:40"
-  },
-  {
-    "title": "Commentary: Zhengfei Ren rumors expose a deeper chill across China's tech sector",
-    "link": "https://www.digitimes.com/news/a20260923PD212/huawei-technology-beijing-business.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 02:31"
-  },
-  {
-    "title": "Is fast fashion losing its fit?",
-    "link": "https://e27.co/is-fast-fashion-losing-its-fit-20260920/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 02:30"
-  },
-  {
-    "title": "Einride builds its next autonomous truck on Nvidia Hyperion as the gap between fleet, driverless fleet stays wide",
-    "link": "https://www.digitimes.com/news/a20260923VL201/nvidia-technology-revenue-sensor-training.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 02:10"
-  },
-  {
-    "title": "MediaTek, Qualcomm target Googlebook with Arm push",
-    "link": "https://www.digitimes.com/news/a20260923PD215/mediatek-qualcomm-arm-google-android.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 02:03"
-  },
-  {
-    "title": "Rising US scrutiny on clinical trials could threaten China’s biotech advantage: analysts",
-    "link": "https://www.scmp.com/business/markets/article/3368445/rising-us-scrutiny-clinical-trials-could-threaten-chinas-biotech-advantage-analysts?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-23 02:00"
-  },
-  {
-    "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
-    "link": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 02:00"
-  },
-  {
-    "title": "MSME development doesn’t need invention, only connection",
-    "link": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 02:00"
-  },
-  {
-    "title": "US energy storage faces a costly China battery exit",
-    "link": "https://www.digitimes.com/news/a20260923PD211/market-cost-manufacturing-capacity-policy.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 01:52"
-  },
-  {
-    "title": "Trump rejects global AI controls, urges US to press ahead with \"superintelligence\"",
-    "link": "https://www.digitimes.com/news/a20260923VL202/donald-trump-security-technology-xi-jinping-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 01:44"
-  },
-  {
-    "title": "China rare earth giant builds moat Western rivals struggle to cross",
-    "link": "https://www.digitimes.com/news/a20260923PD200/tesla-xi-jinping.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 01:33"
-  },
-  {
-    "title": "US-based Swarmer bets up to US$224M on Ukrainian combat robot maker Ratel",
-    "link": "https://www.digitimes.com/news/a20260923PD201/software-ukraine-2026-acquisition-austin.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 01:30"
-  },
-  {
-    "title": "Containerisation explains why AI investment may continue even without returns",
-    "link": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 01:30"
-  },
-  {
-    "title": "Foxconn, IAT launch joint venture to scale robot production",
-    "link": "https://www.techinasia.com/foxconn-intel-team-up-on-ai-infrastructure-projects",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 01:15"
-  },
-  {
-    "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
-    "link": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 01:00"
-  },
-  {
-    "title": "General Catalyst joins $340m round for AI health startup Heidi",
-    "link": "https://www.techinasia.com/fixing-doctor-burnout-ai-harder-sea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 00:57"
-  },
-  {
-    "title": "China’s cancer breakthrough on CAR-T cell therapy shows progress",
-    "link": "https://www.scmp.com/plus/news/china/science/article/3368352/chinas-cancer-breakthrough-car-t-cell-therapy-shows-progress?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-23 00:45"
-  },
-  {
-    "title": "Palo Alto Networks to launch AI cyber defense service",
-    "link": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 00:44"
-  },
-  {
-    "title": "PhonePe secures UAE approval to enter payments market",
-    "link": "https://www.techinasia.com/phonepe-mastercard-partner-launch-device-tokenization",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 00:30"
-  },
-  {
-    "title": "Lewis Ng on PropertyGuru’s next chapter",
-    "link": "https://www.techinasia.com/lewis-ng-on-propertygurus-next-chapter",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 00:30"
-  },
-  {
-    "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
-    "link": "https://www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-23 00:00"
-  },
-  {
-    "title": "Asia’s tech investors with the highest exit rates",
-    "link": "https://www.techinasia.com/asias-tech-investors-highest-exit-rate",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 00:00"
   }
 ]
