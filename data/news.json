@@ -1,5 +1,13 @@
 [
   {
+    "title": "Musk confirms talks with TSMC over his Texas chip factory project",
+    "link": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-03 14:36"
+  },
+  {
     "title": "25 rising startups in Thailand",
     "link": "https://www.techinasia.com/50-rising-startups-thailand",
     "source": "Tech in Asia",
@@ -632,6 +640,14 @@
     "published_at": "2026-10-02 05:47"
   },
   {
+    "title": "ASE stake, expansion open doors for Machvision",
+    "link": "https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 05:33"
+  },
+  {
     "title": "Amazon explores $8b Nvidia chip sale to outside investors",
     "link": "https://www.techinasia.com/amazon-microsoft-keep-ai-spending-plans-on-track",
     "source": "Tech in Asia",
@@ -670,6 +686,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-02 04:39"
+  },
+  {
+    "title": "AMD bets on AI demand by buying World Labs",
+    "link": "https://www.digitimes.com/news/a20261001PD243/amd-lisa-su-demand-nvidia-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-02 04:34"
   },
   {
     "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
@@ -4774,29 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-23 05:48"
-  },
-  {
-    "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
-    "link": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 05:30"
-  },
-  {
-    "title": "Gigabyte's Giga Computing sets up AI factory in Taiwan to accelerate rack validation",
-    "link": "https://www.digitimes.com/news/a20260922PD232/gigabyte-ai-server-revenue-shipments-profit.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 05:25"
-  },
-  {
-    "title": "Visa, Reap to launch stablecoin cards in 100 markets",
-    "link": "https://www.techinasia.com/kraken-parent-buys-hong-kong-fintech-reap-for-600m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 05:19"
   }
 ]
