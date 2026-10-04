@@ -1,5 +1,45 @@
 [
   {
+    "title": "25 rising startups in the Philippines",
+    "link": "https://www.techinasia.com/50-rising-startups-philippines",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 11:00"
+  },
+  {
+    "title": "Meet the 100 top-funded startups and tech companies in China",
+    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-china",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 09:00"
+  },
+  {
+    "title": "More Hong Kong homes sell at a loss despite signs prices have bottomed: agents",
+    "link": "https://www.scmp.com/property/article/3369600/more-hong-kong-homes-sell-loss-despite-signs-prices-have-bottomed-agents?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-04 08:00"
+  },
+  {
+    "title": "50 rising startups in China",
+    "link": "https://www.techinasia.com/50-rising-startups-china",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 07:00"
+  },
+  {
+    "title": "China’s RoboParty unveils RP1 humanoid robot for developers",
+    "link": "https://www.techinasia.com/foxconn-iat-launch-joint-venture-scale-robot-production",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 05:05"
+  },
+  {
     "title": "How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand",
     "link": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -4758,45 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-23 06:33"
-  },
-  {
-    "title": "Vast Data launches AI enclave in Singapore",
-    "link": "https://www.techinasia.com/nvidia-backed-ai-firm-vast-data-raises-1b-at-30b-valuation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 06:30"
-  },
-  {
-    "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
-    "link": "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-23 06:30"
-  },
-  {
-    "title": "Taiwan's Master Bus scales 450 kW direct-drive motor for the intercity EV market",
-    "link": "https://www.digitimes.com/news/a20260923PD221/master-trans-taiwan-general-motors-production-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 06:27"
-  },
-  {
-    "title": "Taiwan tire maker Cheng Shin turns 'virtual tires' into an EV development weapon",
-    "link": "https://www.digitimes.com/news/a20260923PD218/development-taiwan-dassault-performance-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 06:24"
-  },
-  {
-    "title": "Hermes-Epitek eyes CPO test revenue in 2027",
-    "link": "https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 06:14"
   }
 ]
