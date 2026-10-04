@@ -1,5 +1,37 @@
 [
   {
+    "title": "How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand",
+    "link": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-04 03:00"
+  },
+  {
+    "title": "General Motors sales fall 5.5% in Q3 as EV demand weakens",
+    "link": "https://www.techinasia.com/gm-to-lose-6b-due-to-ev-investment-cuts",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 02:07"
+  },
+  {
+    "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+    "link": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-04 02:00"
+  },
+  {
+    "title": "Mapping SEA’s leading cleantech players",
+    "link": "https://www.techinasia.com/visual-story/mapping-sea-cleantech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-04 00:00"
+  },
+  {
     "title": "Musk confirms talks with TSMC over his Texas chip factory project",
     "link": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -4766,37 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-23 06:14"
-  },
-  {
-    "title": "Chinese EV battery giant CATL starts trial production at Hungarian factory",
-    "link": "https://www.scmp.com/business/china-business/article/3368463/chinese-ev-battery-giant-catl-starts-trial-production-hungarian-factory?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-23 06:00"
-  },
-  {
-    "title": "LG Energy enters Nvidia's ecosystem as it pivots batteries to data centers",
-    "link": "https://www.digitimes.com/news/a20260923VL213/lg-nvidia-data-market-certification.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 05:57"
-  },
-  {
-    "title": "DeepSeek, Moonshot, the hidden cost of routing China's AI through Claude",
-    "link": "https://www.digitimes.com/news/a20260923VL212/deepseek-claude-moonshot-data-anthropic.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 05:53"
-  },
-  {
-    "title": "Hygon takes China's CPU ambitions beyond servers, into physical AI",
-    "link": "https://www.digitimes.com/news/a20260923VL207/cpu-industrial-processor-data-embedded.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-23 05:48"
   }
 ]
