@@ -1,5 +1,37 @@
 [
   {
+    "title": "Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high",
+    "link": "https://www.scmp.com/business/article/3369948/hong-kong-land-sale-stuns-market-hk43b-bid-hits-5-year-kowloon-high?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-06 13:13"
+  },
+  {
+    "title": "Singapore security firm V-Key takes stake in CloudsineAI",
+    "link": "https://www.techinasia.com/singapores-tower-capital-asia-takes-majority-stake-in-v-key",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 12:19"
+  },
+  {
+    "title": "Granite Asia, Google partner to invest up to $2m in AI startups",
+    "link": "https://www.techinasia.com/dbs-granite-asia-launch-110m-ai-ipo-fund-for-asian-firms",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 12:06"
+  },
+  {
+    "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
+    "link": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-06 12:00"
+  },
+  {
     "title": "ADATA posts record 3Q revenue as memory prices rise",
     "link": "https://www.digitimes.com/news/a20261006PD243/revenue-2026-dram-demand-memory-module.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -120,6 +152,46 @@
     "published_at": "2026-10-06 08:00"
   },
   {
+    "title": "South Korea keeps sovereign AI contest on track, adds KRW4.7T frontier program after hours of confusion",
+    "link": "https://www.digitimes.com/news/a20261006VL212/government-investment-budget-gpu-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 07:22"
+  },
+  {
+    "title": "China's 15th five-year plan elevates PCB role in AI supply chains",
+    "link": "https://www.digitimes.com/news/a20261006PD227/pcb-it-materials-electronics-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 07:12"
+  },
+  {
+    "title": "Samsung secures customer backing for US$5B substrate expansion",
+    "link": "https://www.digitimes.com/news/a20261006VL215/substrate-semco-expansion-capacity-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 07:05"
+  },
+  {
+    "title": "Taiwan bets on SiPh, CPO to tackle AI data center power bottlenecks",
+    "link": "https://www.digitimes.com/news/a20261006PD216/siph-cpo-academia-data-center-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 07:02"
+  },
+  {
+    "title": "TSMC tops global FDI ranking as AI infrastructure redraws overseas investment",
+    "link": "https://www.digitimes.com/news/a20261006PD234/investment-data-infrastructure-tsmc-2025.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 07:01"
+  },
+  {
     "title": "Ant International, HSBC complete UAE token payment pilot",
     "link": "https://www.techinasia.com/ant-international-raises-12b-series",
     "source": "Tech in Asia",
@@ -152,12 +224,52 @@
     "published_at": "2026-10-06 06:59"
   },
   {
+    "title": "Taiwan's NSTC seeks AI data center power tech to reduce grid impact of load spikes",
+    "link": "https://www.digitimes.com/news/a20261006PD232/taiwan-nstc-data-efficiency.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 06:20"
+  },
+  {
+    "title": "Apple, Qualcomm renew patent deal, iPhone modem shift deepens",
+    "link": "https://www.digitimes.com/news/a20261006PD229/qualcomm-apple-modem-patent-iphone.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 06:03"
+  },
+  {
     "title": "Hong Kong’s Hermitage Capital stays devoted to top-tier tech stocks amid jitters",
     "link": "https://www.scmp.com/tech/article/3369872/hong-kongs-hermitage-capital-stays-devoted-top-tier-tech-stocks-amid-jitters?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-06 06:00"
+  },
+  {
+    "title": "Revolut plans Philippines unit for digital banking",
+    "link": "https://www.techinasia.com/uk-fintech-revolut-plans-south-africa-launch-2028",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 05:54"
+  },
+  {
+    "title": "Drone share tops 10% as Calin Technology eyes LEO optics, auto growth",
+    "link": "https://www.digitimes.com/news/a20261006PD225/calin-leo-optics-drone-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-06 05:48"
+  },
+  {
+    "title": "Indonesia’s House passes data law covering AI, blockchain",
+    "link": "https://www.techinasia.com/taiwan-passes-new-ai-law-to-strengthen-governance-innovation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 05:34"
   },
   {
     "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
@@ -168,6 +280,14 @@
     "published_at": "2026-10-06 05:21"
   },
   {
+    "title": "Wise expands travel services with QR payments, eSIMs",
+    "link": "https://www.techinasia.com/aspire-unveils-international-payment-services-in-hong-kong",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 05:10"
+  },
+  {
     "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
     "link": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
     "source": "e27 (Startups)",
@@ -176,12 +296,36 @@
     "published_at": "2026-10-06 04:01"
   },
   {
+    "title": "Foreign VC flows in SEA: Who’s staying and who’s leaving?",
+    "link": "https://www.techinasia.com/visual-story/foreign-vc-flows-sea-staying-leaving",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 04:00"
+  },
+  {
     "title": "AI is starting to behave less like a tool and more like a teammate",
     "link": "https://e27.co/ai-is-starting-to-behave-less-like-a-tool-and-more-like-a-teammate-20261004/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-06 04:00"
+  },
+  {
+    "title": "MDI Ventures updates SEA focus to AI, blockchain",
+    "link": "https://www.techinasia.com/telkom-indonesia-weighs-sale-venture-arm-mdi-ventures",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 03:46"
+  },
+  {
+    "title": "Axiata CEO joins GSMA board for 2027-2028 term",
+    "link": "https://www.techinasia.com/tencent-cloud-completes-xl-smart-migration",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-06 03:36"
   },
   {
     "title": "Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000?",
@@ -4654,149 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-25 00:20"
-  },
-  {
-    "title": "Anthropic signs $11.6b cloud deal with Akamai",
-    "link": "https://www.techinasia.com/anthropic-signs-18b-computing-deal-akamai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-25 00:16"
-  },
-  {
-    "title": "Hot or not: What SEA investors are betting on and what they’re ignoring",
-    "link": "https://www.techinasia.com/visual-story/funding-overview",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-25 00:00"
-  },
-  {
-    "title": "China’s EV and battery makers tussle over paying resumed lithium-ion tax: sources",
-    "link": "https://www.scmp.com/business/china-evs/article/3368627/chinas-ev-and-battery-makers-tussle-over-paying-resumed-lithium-ion-tax-sources?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-25 00:00"
-  },
-  {
-    "title": "Blue Bottle bets that Chinese consumers will drink more premium coffee",
-    "link": "https://www.scmp.com/business/china-business/article/3368658/blue-bottle-bets-chinese-consumers-will-drink-more-premium-coffee?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-24 23:00"
-  },
-  {
-    "title": "The Live Conversation: family wealth enters new era",
-    "link": "https://www.scmp.com/presented/business/topics/remarketing/article/3368473/live-conversation-family-wealth-enters-new-era?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-24 23:00"
-  },
-  {
-    "title": "Grab insiders buy in as Uber overhang weighs on stock",
-    "link": "https://www.techinasia.com/grab-insiders-buy-uber-overhang-weighs-stock",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 11:49"
-  },
-  {
-    "title": "Seoul tops global AI implementation as Singapore enters top tier",
-    "link": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 10:45"
-  },
-  {
-    "title": "Hong Kong seeks up to $2.5b in digital green bonds",
-    "link": "https://www.techinasia.com/hsbc-hong-kong-scale-stablecoins",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 10:39"
-  },
-  {
-    "title": "Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks",
-    "link": "https://www.digitimes.com/news/a20260924VL223/microsoft-infrastructure-war-region-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-24 10:38"
-  },
-  {
-    "title": "US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious",
-    "link": "https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-24 10:05"
-  },
-  {
-    "title": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
-    "link": "https://www.digitimes.com/news/a20260924PD239/anduril-taiwan-2026-taiwan-supply-chain-unicorn.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-24 10:05"
-  },
-  {
-    "title": "From finishing tasks to driving ROI: A VC product guide",
-    "link": "https://www.techinasia.com/finishing-tasks-driving-roi-vc-product-guide",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 10:00"
-  },
-  {
-    "title": "Taiwan's homegrown trainer program ends with 66 Brave Eagles delivered",
-    "link": "https://www.digitimes.com/news/a20260924PD237/aidc-production-aircraft-taiwan-training.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-24 09:28"
-  },
-  {
-    "title": "The Ecosystem Edge: How Digital Leaders Win Through Partnerships",
-    "link": "https://www.techinasia.com/events/ecosystem-edge-digital-leaders-win-partnerships",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 09:15"
-  },
-  {
-    "title": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte",
-    "link": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-24 09:08"
-  },
-  {
-    "title": "These are the most active investors in Vietnam’s startups",
-    "link": "https://www.techinasia.com/active-investors-vietnams-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-24 09:00"
-  },
-  {
-    "title": "Honda eyes Ohio hybrid plant amid pivot to North America",
-    "link": "https://www.digitimes.com/news/a20260924PD235/honda-plant-production-vehicle-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-24 08:55"
-  },
-  {
-    "title": "Grab turns Taiwan into a launchpad for Southeast Asia expansion",
-    "link": "https://www.digitimes.com/news/a20260924VL221/grab-taiwan-expansion-asia-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-24 08:51"
   }
 ]
