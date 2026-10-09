@@ -360,6 +360,14 @@
     "published_at": "2026-10-09 01:12"
   },
   {
+    "title": "Inside Singapore’s government team that kills its own products",
+    "link": "https://www.techinasia.com/singapores-government-team-kills-products",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 01:00"
+  },
+  {
     "title": "Finance or gambling? Prediction-market players push for regulatory clarity in Asia",
     "link": "https://www.scmp.com/business/markets/article/3370249/finance-or-gambling-prediction-market-players-push-regulatory-clarity-asia?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -374,6 +382,62 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-09 01:00"
+  },
+  {
+    "title": "Alibaba AI cloud revenue seen up over 50%",
+    "link": "https://www.techinasia.com/alibaba-executives-buy-15m-shares-85-drop",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:58"
+  },
+  {
+    "title": "Standard Chartered plans Singapore digital-asset custody",
+    "link": "https://www.techinasia.com/capital-a-stanchart-to-explore-ringgit-stablecoin",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:47"
+  },
+  {
+    "title": "Google Cloud announces Gemini agent for work",
+    "link": "https://www.techinasia.com/google-cloud-spend-750m-ai-consultancy-push",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:45"
+  },
+  {
+    "title": "Uber, China’s Pony.ai to test robotaxis in London",
+    "link": "https://www.techinasia.com/uber-ponyai-plan-2000-robotaxis-europe",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:40"
+  },
+  {
+    "title": "Indian lifestyle-tech brand DailyObjects raises $34.4m",
+    "link": "https://www.techinasia.com/360-one-asset-leads-7-7m-pre-series-b-in-indias-home-essentials",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:38"
+  },
+  {
+    "title": "SCI Ecommerce’s troubles run deep",
+    "link": "https://www.techinasia.com/sci-ecommerces-troubles-run-deep",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:30"
+  },
+  {
+    "title": "Mapping India’s fintech key players",
+    "link": "https://www.techinasia.com/visual-story/india-fintech-landscape-map",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-09 00:00"
   },
   {
     "title": "Hong Kong’s AI Marketing Moment is Here. The Question is Whether Business Leaders are Moving Fast Enough",
@@ -4734,69 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-29 06:22"
-  },
-  {
-    "title": "Samsung affiliates to invest $1b in KKR’s Helix",
-    "link": "https://www.techinasia.com/kkr-launches-10b-ai-venture-with-nvidia-backing",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 06:21"
-  },
-  {
-    "title": "Why is JPMorgan expanding in China? CEO Dimon sees another decade of sharp growth",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369009/why-jpmorgan-expanding-china-ceo-dimon-sees-another-decade-sharp-growth?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 06:00"
-  },
-  {
-    "title": "AI boom sends China and Taiwan's PCB makers racing to HK for capital",
-    "link": "https://www.digitimes.com/news/a20260929PD224/pcb-investment-infrastructure-cross-strait-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 05:59"
-  },
-  {
-    "title": "Samsung Foundry nears 60% 2nm yield, shifts focus to power efficiency to win customers",
-    "link": "https://www.digitimes.com/news/a20260929PD234/samsung-2nm-business-efficiency-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 05:51"
-  },
-  {
-    "title": "MicroIP unveils AI drone and edge systems at Taiwan Expo USA",
-    "link": "https://www.digitimes.com/news/a20260929PD233/taiwan-usa-expo-asic-communications.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 05:48"
-  },
-  {
-    "title": "Chinese brokerages get in line with Beijing’s crackdown on overseas stock trading",
-    "link": "https://www.scmp.com/business/china-business/article/3369152/chinese-brokerages-get-line-beijings-crackdown-overseas-stock-trading?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 05:25"
-  },
-  {
-    "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
-    "link": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 05:24"
-  },
-  {
-    "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
-    "link": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 05:09"
   }
 ]
