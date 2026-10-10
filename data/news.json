@@ -1,5 +1,101 @@
 [
   {
+    "title": "Meet the 25 top-funded startups and tech companies in the Philippines",
+    "link": "https://www.techinasia.com/meet-25-topfunded-startups-tech-companies-philippines",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-10 11:00"
+  },
+  {
+    "title": "Better protection needed as violent cryptocurrency robberies surge",
+    "link": "https://www.scmp.com/opinion/world-opinion/article/3370088/better-protection-needed-violent-cryptocurrency-robberies-surge?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-10 08:30"
+  },
+  {
+    "title": "Southeast Asia’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/southeast-asias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-10 07:00"
+  },
+  {
+    "title": "Phison posts record September revenue as AI tops half of sales",
+    "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:30"
+  },
+  {
+    "title": "Trump awards science medal to Elon Musk, Jensen Huang",
+    "link": "https://www.digitimes.com/news/a20261008PD232/ceo-donald-trump-award-nvidia-dell.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:29"
+  },
+  {
+    "title": "Huawei faces price reset as memory costs surge",
+    "link": "https://www.digitimes.com/news/a20261008PD248/huawei-price-business-smartphone-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:29"
+  },
+  {
+    "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
+    "link": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:29"
+  },
+  {
+    "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
+    "link": "https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:27"
+  },
+  {
+    "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
+    "link": "https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:27"
+  },
+  {
+    "title": "Semco moves glass substrates to package-level testing",
+    "link": "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:27"
+  },
+  {
+    "title": "JNTC bets US$259 million on glass substrates ahead of 2028 ramp",
+    "link": "https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-10 06:27"
+  },
+  {
+    "title": "Gen Z overtakes older collectors as art market spending rebounds globally: report",
+    "link": "https://www.scmp.com/business/article/3370329/gen-z-overtakes-older-collectors-art-market-spending-rebounds-globally-report?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-10 06:00"
+  },
+  {
     "title": "Half the market will not take your money: The access problem for regulated startups",
     "link": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
     "source": "e27 (Startups)",
@@ -4702,101 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-09-29 08:57"
-  },
-  {
-    "title": "MY fintech firm AhaPay expands QR network with Share Commerce",
-    "link": "https://www.techinasia.com/malaysian-fintech-firm-ahapay-expands-with-directd",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 08:51"
-  },
-  {
-    "title": "Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5",
-    "link": "https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 08:19"
-  },
-  {
-    "title": "AIDC sees NT$30 billion military maintenance boost, eyes drones",
-    "link": "https://www.digitimes.com/news/a20260929PD240/aidc-military-production-development-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 08:12"
-  },
-  {
-    "title": "‘180-degree flip’ sees global investors turn to China for diversification: Pimco president",
-    "link": "https://www.scmp.com/business/china-business/article/3369148/180-degree-flip-sees-global-investors-turn-china-diversification-pimco-president?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 08:00"
-  },
-  {
-    "title": "Atlassian CEO on AI teams: why uniform goals destroy ROI",
-    "link": "https://www.techinasia.com/atlassian-ceo-ai-teams-uniform-goals-destroy-roi",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 08:00"
-  },
-  {
-    "title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
-    "link": "https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 07:38"
-  },
-  {
-    "title": "KPMG Singapore says governance gaps slow cloud RegTech: report",
-    "link": "https://www.techinasia.com/singapore-fintech-funding-drops-499m-h1-report",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 07:31"
-  },
-  {
-    "title": "Siemens, TSMC expand work on AI-powered chip design",
-    "link": "https://www.techinasia.com/huawei-supplier-sicarriers-unit-launches-chip-design-tools",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 07:30"
-  },
-  {
-    "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
-    "link": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 07:15"
-  },
-  {
-    "title": "Foxtron writes a new chapter in Taiwan auto history",
-    "link": "https://www.digitimes.com/news/a20260929PD236/taiwan-foxtron-market-brand-production.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 07:00"
-  },
-  {
-    "title": "Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369156/hong-kongs-ipo-revival-faces-test-three-new-stocks-stumble-debut?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 07:00"
-  },
-  {
-    "title": "How this AI bot closes sales for service firms within 5 minutes",
-    "link": "https://www.techinasia.com/ai-bot-closes-sales-service-firms-5-minutes",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 07:00"
   }
 ]
