@@ -1,5 +1,45 @@
 [
   {
+    "title": "Chinese brokers work to crack the final code: win clients on global stage",
+    "link": "https://www.scmp.com/business/markets/article/3370375/chinese-brokers-work-crack-final-code-win-clients-global-stage?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-11 14:00"
+  },
+  {
+    "title": "Apple’s Tim Cook kicks off China visit amid mixed signals on new iPhone demand",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3370500/apples-tim-cook-kicks-china-visit-amid-mixed-signals-new-iphone-demand?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-11 13:00"
+  },
+  {
+    "title": "Meet the 20 top-funded startups and tech companies in Hong Kong",
+    "link": "https://www.techinasia.com/meet-20-topfunded-startups-tech-companies-hong-kong",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 09:00"
+  },
+  {
+    "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
+    "link": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 07:37"
+  },
+  {
+    "title": "Singapore’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/singapores-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 07:00"
+  },
+  {
     "title": "New vs old: why new-builds are far outselling used homes in Hong Kong",
     "link": "https://www.scmp.com/business/markets/article/3370332/new-vs-old-why-new-builds-are-far-outselling-used-homes-hong-kong?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -4758,45 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-30 02:00"
-  },
-  {
-    "title": "MoneyHero investor urges board to consider potential sale",
-    "link": "https://www.techinasia.com/ai-agents-find-margin-risks-hit-balance-sheet",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 01:46"
-  },
-  {
-    "title": "Why AI could unbundle the beauty industry",
-    "link": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 01:30"
-  },
-  {
-    "title": "Tesla lines up $30b credit as AI spending accelerates",
-    "link": "https://www.techinasia.com/tesla-chinamade-ev-sales-rise-394",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 01:18"
-  },
-  {
-    "title": "The cross-border due diligence questions most founders cannot answer",
-    "link": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 01:00"
-  },
-  {
-    "title": "Green GSM expands electric taxi service in Philippines",
-    "link": "https://www.techinasia.com/gsm-debuts-ev-driver-platform-indonesia-philippines",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 00:47"
   }
 ]
