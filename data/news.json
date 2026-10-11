@@ -1,5 +1,125 @@
 [
   {
+    "title": "New vs old: why new-builds are far outselling used homes in Hong Kong",
+    "link": "https://www.scmp.com/business/markets/article/3370332/new-vs-old-why-new-builds-are-far-outselling-used-homes-hong-kong?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-11 04:00"
+  },
+  {
+    "title": "Mapping the startups setting the pace in Korea’s AI sector",
+    "link": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 04:00"
+  },
+  {
+    "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-11 03:04"
+  },
+  {
+    "title": "IPC makers expand US production as supply chains, tariffs shift",
+    "link": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:42"
+  },
+  {
+    "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
+    "link": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:41"
+  },
+  {
+    "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
+    "link": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:41"
+  },
+  {
+    "title": "Sysgration bets on battery backup, drones to hit US$314 million in sales by 2028",
+    "link": "https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:39"
+  },
+  {
+    "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
+    "link": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:39"
+  },
+  {
+    "title": "System integration emerges as Taiwan's next drone industry edge for defense scale-up",
+    "link": "https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:37"
+  },
+  {
+    "title": "Taiwan eases IFRS sustainability disclosure rules, cutting mandatory scope",
+    "link": "https://www.digitimes.com/news/a20261008PD206/taiwan-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:36"
+  },
+  {
+    "title": "Mobile and notebook slowdown boosts wearable sports tech demand",
+    "link": "https://www.digitimes.com/news/a20261008PD205/smartphone-2026-demand-wearable-shipments.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-11 02:36"
+  },
+  {
+    "title": "Cloudflare acquires software startup Deno to strengthen Workers",
+    "link": "https://www.techinasia.com/cloudflare-expands-developer-push-voidzero-deal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 01:15"
+  },
+  {
+    "title": "SoftBank-backed OPay secures $185m ahead of US IPO",
+    "link": "https://www.techinasia.com/nigeriafocused-fintech-opay-targets-4b-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 01:05"
+  },
+  {
+    "title": "As clock ticks on China’s commercial land leases, renewal plans allay investors’ concerns",
+    "link": "https://www.scmp.com/business/china-business/article/3370350/clock-ticks-chinas-commercial-land-leases-renewal-plans-allay-investors-concerns?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-11 01:00"
+  },
+  {
+    "title": "New and returning investors betting on SEA",
+    "link": "https://www.techinasia.com/returning-investors-betting-sea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-11 00:00"
+  },
+  {
     "title": "Meet the 25 top-funded startups and tech companies in the Philippines",
     "link": "https://www.techinasia.com/meet-25-topfunded-startups-tech-companies-philippines",
     "source": "Tech in Asia",
@@ -4678,125 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-09-30 00:47"
-  },
-  {
-    "title": "A SEA startup tracker worth bookmarking",
-    "link": "https://www.techinasia.com/a-sea-startup-tracker-worth-bookmarking",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 00:30"
-  },
-  {
-    "title": "These are Asia’s most active investors in AI",
-    "link": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-30 00:00"
-  },
-  {
-    "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
-    "link": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-30 00:00"
-  },
-  {
-    "title": "AI uptake sees wealth management headcounts in Hong Kong trail growth in assets",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 23:00"
-  },
-  {
-    "title": "Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers",
-    "link": "https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 15:01"
-  },
-  {
-    "title": "The Vertex developer hit with HK$770,000 fine over disclosure failures",
-    "link": "https://www.scmp.com/business/companies/article/3369241/vertex-developer-hit-hk770000-fine-over-disclosure-failures?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 14:12"
-  },
-  {
-    "title": "Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture",
-    "link": "https://www.scmp.com/tech/policy/article/3369205/hong-kong-firms-lag-mainland-china-ai-adoption-amid-legacy-system-burden-accenture?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 12:00"
-  },
-  {
-    "title": "Oracle adds Fusion Claw, expands agentic apps to 75",
-    "link": "https://www.techinasia.com/oracle-unveils-hr-ai-agents-fusion-cloud",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 12:00"
-  },
-  {
-    "title": "Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk",
-    "link": "https://e27.co/ecosystem-roundup-anthropics-ipo-filing-12x-revenue-us8b-loss-and-an-extinction-risk-20260929/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 11:00"
-  },
-  {
-    "title": "Eunis Chan, Angela Leong sell luxury Hong Kong properties as rate increases loom",
-    "link": "https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 10:00"
-  },
-  {
-    "title": "US AI recorder startup Plaud launches in Indonesia",
-    "link": "https://www.techinasia.com/openai-anthropic-hiring-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-09-29 09:45"
-  },
-  {
-    "title": "Mercedes-Benz and ProLogium expand solid-state battery testing partnership",
-    "link": "https://www.digitimes.com/news/a20260929PD247/mercedes-benz-testing-prologium-solid-state-battery-partnership.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 09:33"
-  },
-  {
-    "title": "China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-29 09:30"
-  },
-  {
-    "title": "Anthropic's US$2 trillion IPO bet comes with 80 pages of warnings",
-    "link": "https://www.digitimes.com/news/a20260929VL208/anthropic-ipo-infrastructure.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 09:29"
-  },
-  {
-    "title": "CXMT to spend US$5.2 billion on R&amp;D and testing as DRAM supply stays tight",
-    "link": "https://www.digitimes.com/news/a20260929VL207/cxmt-testing-dram-capacity-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-29 09:25"
   }
 ]
