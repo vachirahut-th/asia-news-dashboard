@@ -1,5 +1,21 @@
 [
   {
+    "title": "GameStop CEO raises stake to 9.1% with $22.8m purchase",
+    "link": "https://www.techinasia.com/video-game-retailer-gamestop-eyes-bid-ebay",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 23:36"
+  },
+  {
+    "title": "Hong Kong completes pilot schemes to trade green products with exchanges in mainland China",
+    "link": "https://www.scmp.com/business/climate-and-energy/article/3370720/hong-kong-completes-pilot-schemes-trade-green-products-exchanges-mainland-china?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-13 23:00"
+  },
+  {
     "title": "Engineering salaries deepen Taiwan's doctoral talent shortage",
     "link": "https://www.digitimes.com/news/a20261013PD256/taiwan-technology-communications-ntu-university.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -256,6 +272,30 @@
     "published_at": "2026-10-13 06:27"
   },
   {
+    "title": "ASML unveils Hyper NA EUV successor targeting 5nm single exposure",
+    "link": "https://www.digitimes.com/news/a20261013PD234/asml-euv-5nm-high-na-euv-commercial.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:26"
+  },
+  {
+    "title": "Stellantis rejects brand split, urges EU to reward local carmaking",
+    "link": "https://www.digitimes.com/news/a20261013PD233/stellantis-ceo-europe-automakers-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:15"
+  },
+  {
+    "title": "Taiwan seeks to produce more Nobel laureates",
+    "link": "https://www.digitimes.com/news/a20261013PD210/taiwan-ntu-talent-president-government.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:13"
+  },
+  {
     "title": "Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation",
     "link": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
     "source": "SCMP - Economy",
@@ -272,12 +312,44 @@
     "published_at": "2026-10-13 06:00"
   },
   {
+    "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
+    "link": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 05:59"
+  },
+  {
+    "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
+    "link": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 05:59"
+  },
+  {
     "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
     "link": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 05:51"
+  },
+  {
+    "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
+    "link": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 05:50"
+  },
+  {
+    "title": "China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers",
+    "link": "https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 05:44"
   },
   {
     "title": "Zenyum parent MakeO raises $10m for Asia expansion",
@@ -336,12 +408,36 @@
     "published_at": "2026-10-13 04:34"
   },
   {
+    "title": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030",
+    "link": "https://www.digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 04:29"
+  },
+  {
     "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
     "link": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 04:24"
+  },
+  {
+    "title": "Intel, Broadcom warn financing could constrain AI growth",
+    "link": "https://www.techinasia.com/broadcom-shares-slide-as-ai-target-stays-unchanged",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 04:19"
+  },
+  {
+    "title": "Mapping the players dominating China’s cleantech space",
+    "link": "https://www.techinasia.com/visual-story/mapping-chinas-leading-cleantech-players",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 04:00"
   },
   {
     "title": "King Fook expands with US$34 million Admiralty lease despite slow luxury sales: analysts",
@@ -384,12 +480,28 @@
     "published_at": "2026-10-13 03:35"
   },
   {
+    "title": "Meta launches Muse Wonder to rival OpenAI, Anthropic",
+    "link": "https://www.techinasia.com/meta-unveiled-charm-handheld-muse-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 03:11"
+  },
+  {
     "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
     "link": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 03:00"
+  },
+  {
+    "title": "Mapping the AI startups making waves in Japan",
+    "link": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 02:00"
   },
   {
     "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
@@ -406,6 +518,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-13 02:00"
+  },
+  {
+    "title": "Tracking IPOs: AI firms and chipmakers lead Asia listings",
+    "link": "https://www.techinasia.com/visual-story/tracking-ipos-ai-firms-chipmakers-lead-asia-listings",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 01:52"
   },
   {
     "title": "Chinese stocks an undervalued opportunity, says Charlie Munger disciple",
@@ -4678,125 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-02 02:35"
-  },
-  {
-    "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
-    "link": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 02:26"
-  },
-  {
-    "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 02:00"
-  },
-  {
-    "title": "Alphabet tests AI chips in orbit for space-based computing",
-    "link": "https://www.techinasia.com/alphabet-nears-nvidia-in-market-value-on-ai-demand",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 01:10"
-  },
-  {
-    "title": "Igloo CEO eyes global M&A: ‘We have an appetite to grow more’",
-    "link": "https://www.techinasia.com/igloo-ceo-eyes-global-ma-appetite-grow",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 01:00"
-  },
-  {
-    "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-    "link": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 01:00"
-  },
-  {
-    "title": "Temasek stays bullish on AI despite heavy infrastructure spending",
-    "link": "https://www.techinasia.com/temaseks-net-portfolio-grows-10-401b-fy26",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 00:58"
-  },
-  {
-    "title": "TikTok estimates $81b US economic impact in 2025: report",
-    "link": "https://www.techinasia.com/tiktok-agrees-settle-youth-suits-trial",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 00:52"
-  },
-  {
-    "title": "Ajaib’s valuation defies the market",
-    "link": "https://www.techinasia.com/ajaibs-valuation-defies-the-market",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 00:30"
-  },
-  {
-    "title": "Nebius acquires Israeli AI startup Inferize in GPU deal",
-    "link": "https://www.techinasia.com/ai-infrastructure-firm-nebius-buys-eigen-ai-643m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 00:27"
-  },
-  {
-    "title": "SK hynix leads US IPO proceeds with $26.5b listing",
-    "link": "https://www.techinasia.com/sk-hynix-plans-286b-share-buyback",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 00:03"
-  },
-  {
-    "title": "Could Northern Metropolis draw educational leasing from Hong Kong’s Grade A office sector?",
-    "link": "https://www.scmp.com/business/article/3369267/could-northern-metropolis-draw-educational-leasing-hong-kongs-grade-office-sector?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 00:00"
-  },
-  {
-    "title": "Indian lending tech firm Seeds Fincap raises $10.4m series B",
-    "link": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 10:12"
-  },
-  {
-    "title": "Infineon opens $114m semiconductor facility in Thailand",
-    "link": "https://www.techinasia.com/thailand-approves-chip-plan-targets-80b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 09:54"
-  },
-  {
-    "title": "Disney+, Vidio launch streaming bundle in Indonesia",
-    "link": "https://www.techinasia.com/turning-dramas-carts-vidios-ecommerce-playbook",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 09:41"
-  },
-  {
-    "title": "SoftBank completes final $10b OpenAI investment",
-    "link": "https://www.techinasia.com/softbank-nvidia-openaibacked-sb-energy-files-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 09:34"
   }
 ]
