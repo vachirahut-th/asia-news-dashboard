@@ -1,5 +1,109 @@
 [
   {
+    "title": "Chinese stocks an undervalued opportunity, says Charlie Munger disciple",
+    "link": "https://www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-13 01:00"
+  },
+  {
+    "title": "AI can generate a video in minutes. Making it usable is the hard part",
+    "link": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 01:00"
+  },
+  {
+    "title": "Inside OGP’s startup-style gov’t team",
+    "link": "https://www.techinasia.com/ogps-startupstyle-govt-team",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 00:30"
+  },
+  {
+    "title": "China's rare-earth concentrate prices stay 48% higher, but downstream demand remains weak",
+    "link": "https://www.digitimes.com/news/a20261012VL218/demand-price-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:16"
+  },
+  {
+    "title": "Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?",
+    "link": "https://www.digitimes.com/news/a20261012PD238/tsmc-intel-samsung-capacity-fab.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:14"
+  },
+  {
+    "title": "Terafab and beyond: Musk's push to fuse silicon, robotics, space into one AI system",
+    "link": "https://www.digitimes.com/news/a20261012VL208/silicon-robotics-tesla-spacex-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:10"
+  },
+  {
+    "title": "Foxconn partners on Taiwan-made battery storage systems for 2027 rollout",
+    "link": "https://www.digitimes.com/news/a20261012PD245/foxconn-2027-lithium-battery-taiwan-energy-management.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:09"
+  },
+  {
+    "title": "AUO enters next chapter as David Chang takes president role to reshape group operating model",
+    "link": "https://www.digitimes.com/news/a20261012PD230/auo-panel-market-demand-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:09"
+  },
+  {
+    "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+    "link": "https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:08"
+  },
+  {
+    "title": "Toyota rewires China JV structure as GAC takes control of FAW Toyota stake",
+    "link": "https://www.digitimes.com/news/a20261012VL228/toyota-gac-vehicle-automakers-alliance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:07"
+  },
+  {
+    "title": "China's AI revenue gap with US exposes deeper monetisation divide",
+    "link": "https://www.digitimes.com/news/a20261012VL229/revenue-commercial-bytedance-2026-alibaba.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 00:06"
+  },
+  {
+    "title": "The hidden alliances between India’s VCs, uncovered",
+    "link": "https://www.techinasia.com/visual-story/hidden-alliances-indias-vcs-uncovered",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 00:00"
+  },
+  {
+    "title": "Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high",
+    "link": "https://www.scmp.com/business/china-business/article/3370557/hong-kong-investors-are-warming-us-treasury-bonds-yields-hit-20-year-high?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-12 23:00"
+  },
+  {
     "title": "Interview: Microsoft's Maia GM on Maia 300, Taiwan and HBM supply",
     "link": "https://www.digitimes.com/news/a20261012VL216/microsoft-taiwan-hbm-chips-copilot.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -190,6 +294,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-12 06:00"
+  },
+  {
+    "title": "SoftBank Robotics, SJ Group partner on AI facilities management",
+    "link": "https://www.techinasia.com/temasek-leads-1-2m-round-in-singapore-healthtech-injewelme",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-12 05:44"
   },
   {
     "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-01 01:30"
-  },
-  {
-    "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
-    "link": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 01:20"
-  },
-  {
-    "title": "Why con artists get the meeting that honest founders can’t",
-    "link": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 01:10"
-  },
-  {
-    "title": "Micron forecasts revenue above estimates on AI demand",
-    "link": "https://www.techinasia.com/micron-reports-q2-revenue-of-23-9b-tops-estimates",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 00:58"
-  },
-  {
-    "title": "Grab’s real prize in the Atome deal",
-    "link": "https://www.techinasia.com/grabs-real-prize-in-the-atome-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 00:30"
-  },
-  {
-    "title": "OpenAI says Moonshot users tried to extract GPT reasoning data",
-    "link": "https://www.techinasia.com/openai-to-preview-gpt-6-cyber-launch-security-product-sources",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 00:17"
-  },
-  {
-    "title": "‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369330/chinas-warren-buffett-adds-moutai-shares-3rd-time-baijiu-sector-seeks-bottom?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-01 00:00"
-  },
-  {
-    "title": "Hong Kong banks set golden week lures for mainland Chinese visitors despite new levies",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369382/hong-kong-banks-set-golden-week-lures-mainland-chinese-visitors-despite-new-levies?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-30 15:39"
-  },
-  {
-    "title": "New World Development posts HK$26.8b loss after 11 Skies termination",
-    "link": "https://www.scmp.com/business/companies/article/3369377/new-world-development-posts-hk268b-loss-after-11-skies-termination?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-30 14:46"
-  },
-  {
-    "title": "DFI Retail sells stake in Maxim’s in return for Starbucks business, US$340m",
-    "link": "https://www.scmp.com/business/companies/article/3369371/dfi-retail-sells-stake-maxims-return-starbucks-business-us340m?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-30 14:00"
-  },
-  {
-    "title": "'I tell myself every day it'll ease': Phison CEO sees years of memory shortage",
-    "link": "https://www.digitimes.com/news/a20260930PD248/phison-ceo-demand-dram-acer.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-30 10:09"
-  },
-  {
-    "title": "Gold Circuit turns Amazon into a shareholder for Trainium servers",
-    "link": "https://www.digitimes.com/news/a20260930PD245/amazon-gce-pcb-aws-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-30 10:06"
-  },
-  {
-    "title": "Singapore beefs up rivalry with Hong Kong by picking 5 firms to boost equity market",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369308/singapore-beefs-rivalry-hong-kong-picking-5-firms-boost-equity-market?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-09-30 09:13"
-  },
-  {
-    "title": "Apple A20 Pro ditches PoP memory packaging for WMCM",
-    "link": "https://www.digitimes.com/news/a20260930PD242/apple-packaging-processor-gaa-tsmc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-30 09:13"
-  },
-  {
-    "title": "Taiwan backs TSMC's US push but insists core R&amp;D stays home",
-    "link": "https://www.digitimes.com/news/a20260930PD240/taiwan-tsmc-manufacturing-development-government.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-09-30 09:04"
   }
 ]
