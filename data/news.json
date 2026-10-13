@@ -1,5 +1,53 @@
 [
   {
+    "title": "Engineering salaries deepen Taiwan's doctoral talent shortage",
+    "link": "https://www.digitimes.com/news/a20261013PD256/taiwan-technology-communications-ntu-university.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 15:55"
+  },
+  {
+    "title": "OpenAI to add 200 Dublin jobs and launch applied AI laboratory",
+    "link": "https://www.digitimes.com/news/a20261013PD253/openai-2026-investment-technology-ireland.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 14:22"
+  },
+  {
+    "title": "Hong Kong and Japan expand air cargo capacity through multimodal logistics",
+    "link": "https://www.digitimes.com/news/a20261013PD255/logistics-shipments-2024-dongguan-efficiency.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 14:00"
+  },
+  {
+    "title": "TikTok says AI's long-term impact will outpace near-term gains",
+    "link": "https://www.digitimes.com/news/a20261013PD254/technology-cybersecurity-adoption-software-microsoft.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 13:21"
+  },
+  {
+    "title": "Uber consolidates Taiwan, HK and Macau operations under one GM",
+    "link": "https://www.digitimes.com/news/a20261013PD252/uber-taiwan-macau-market-transportation.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 12:20"
+  },
+  {
+    "title": "Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots",
+    "link": "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 11:32"
+  },
+  {
     "title": "These are the most active investors in Malaysia’s startups",
     "link": "https://www.techinasia.com/active-investors-malaysias-startups",
     "source": "Tech in Asia",
@@ -160,12 +208,52 @@
     "published_at": "2026-10-13 07:07"
   },
   {
+    "title": "This startup digitizes Thailand’s informal service economy",
+    "link": "https://www.techinasia.com/startup-digitizes-thailands-informal-service-economy",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 07:00"
+  },
+  {
+    "title": "China’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/chinas-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 07:00"
+  },
+  {
     "title": "Hong Kong watchdog orders suspension of third stock in a month",
     "link": "https://www.scmp.com/business/banking-finance/article/3370697/hong-kong-watchdog-orders-suspension-third-stock-month?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-13 07:00"
+  },
+  {
+    "title": "SK Hynix unveils low-power processor design for SSDs",
+    "link": "https://www.digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:59"
+  },
+  {
+    "title": "Samsung's US$9B chip expansion faces funding, supply hurdles",
+    "link": "https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:40"
+  },
+  {
+    "title": "ATE Energy revenue jumps 132% on Philippines energy projects",
+    "link": "https://www.digitimes.com/news/a20261013PD227/revenue-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-13 06:27"
   },
   {
     "title": "Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation",
@@ -192,12 +280,60 @@
     "published_at": "2026-10-13 05:51"
   },
   {
+    "title": "Zenyum parent MakeO raises $10m for Asia expansion",
+    "link": "https://www.techinasia.com/paypal-shares-sink-19-after-weak-q4-results-ceo-change",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 05:30"
+  },
+  {
+    "title": "VinFast offers dealers up to $60,000 to open EV showrooms",
+    "link": "https://www.techinasia.com/vinfast-launches-battery-swapping-e-motorcycles-in-indonesia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 05:21"
+  },
+  {
+    "title": "Nvidia, Cisco plan new optics format for AI data centers",
+    "link": "https://www.techinasia.com/nvidia-aolani-expand-sea-ai-factories",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 05:20"
+  },
+  {
+    "title": "US cybersecurity firm Zscaler adds Claude Mythos 5.1",
+    "link": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 05:10"
+  },
+  {
+    "title": "Salesforce acquires Israeli AI startup Loops for $30m",
+    "link": "https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 05:01"
+  },
+  {
     "title": "Vietnamese-founded Drylab raises US$3M to put autonomous AI scientists inside pharma labs",
     "link": "https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 05:00"
+  },
+  {
+    "title": "HCLTech, Anthropic partner on enterprise AI agents",
+    "link": "https://www.techinasia.com/anthropics-tool-triggers-slump-indian-stocks",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 04:34"
   },
   {
     "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
@@ -246,6 +382,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 03:35"
+  },
+  {
+    "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
+    "link": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 03:00"
+  },
+  {
+    "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
+    "link": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-13 02:00"
   },
   {
     "title": "Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge",
@@ -4646,157 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-01 09:34"
-  },
-  {
-    "title": "Charts: Micron earns its best margins from PCs, phones, not AI",
-    "link": "https://www.digitimes.com/news/a20261001VL218/micron-revenue-market-data-data-center.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 09:22"
-  },
-  {
-    "title": "Topco opens Fukuoka office to link Japan chip hubs",
-    "link": "https://www.digitimes.com/news/a20261001PD244/topco-kumamoto-subsidiary-expansion-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 09:02"
-  },
-  {
-    "title": "Meet the 80 top-funded startups and tech companies in Southeast Asia",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-southeast-asia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 09:00"
-  },
-  {
-    "title": "Taiwan aligns green certifications with Japan and EPEAT to speed electronics market entry",
-    "link": "https://www.digitimes.com/news/a20261001PD214/taiwan-electronics-market-certification-equipment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:55"
-  },
-  {
-    "title": "China ramps up Micro OLED capacity ahead of proven smart glasses demand",
-    "link": "https://www.digitimes.com/news/a20261001PD211/smart-glasses-capacity-demand-market-production.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:35"
-  },
-  {
-    "title": "ShopeePay CEO on BNPL: why relying on late fees will fail",
-    "link": "https://www.techinasia.com/shopeepay-ceo-bnpl-relying-late-fees-fail",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 08:30"
-  },
-  {
-    "title": "Infineon opens new backend chip plant in Thailand, eyes growth to up to five modules",
-    "link": "https://www.digitimes.com/news/a20261001VL217/infineon-manufacturing-plant-growth-bangkok.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:20"
-  },
-  {
-    "title": "ASE expands smart OSAT push with six university research partnerships",
-    "link": "https://www.digitimes.com/news/a20261001PD241/ase-osat-technology-equipment-automation.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:17"
-  },
-  {
-    "title": "Taiwan extends fuel freeze, seeks extra subsidies for CPC, Taipower",
-    "link": "https://www.digitimes.com/news/a20261001PD240/taiwan-taiwan-power-company-subsidies-fuel-2026.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:13"
-  },
-  {
-    "title": "Shinko Electric acquires JDI's Mobara Fab to expand AI packaging capacity",
-    "link": "https://www.digitimes.com/news/a20261001PR202/shinko-electric-jdi-capacity-packaging-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:07"
-  },
-  {
-    "title": "SiC substrate market shows signs of recovery, driven by demand from vehicles, energy and AI infrastructure",
-    "link": "https://www.digitimes.com/news/a20260929RS400/sic-substrate-market-demand-inverter.html?chid=2",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 08:02"
-  },
-  {
-    "title": "Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca",
-    "link": "https://www.scmp.com/business/article/3369144/hong-kong-needs-new-funding-model-draw-investment-global-drug-makers-astrazeneca?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-01 08:00"
-  },
-  {
-    "title": "50 rising startups in Southeast Asia",
-    "link": "https://www.techinasia.com/50-rising-startups-southeast-asia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 08:00"
-  },
-  {
-    "title": "DB HiTek raises foundry prices by up to 30% as Chinese demand strains 200mm capacity",
-    "link": "https://www.digitimes.com/news/a20261001VL216/capacity-demand-price-2026-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 07:34"
-  },
-  {
-    "title": "Ascend now ahead of Nvidia in China, with domestic supply driving AI chip substitution, says Huawei chairman",
-    "link": "https://www.digitimes.com/news/a20261001PD232/huawei-ascend-ai-chip-china-nvidia.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 07:22"
-  },
-  {
-    "title": "Meta's Muse lifts server CPU demand, with AMD EPYC orders extending into 2028",
-    "link": "https://www.digitimes.com/news/a20261001VL213/cpu-meta-demand-amd-2028.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-01 07:09"
-  },
-  {
-    "title": "Solid-state cooling materials tackle data center heat loads",
-    "link": "https://www.techinasia.com/solid-state-cooling-materials-tackle-data-center-heat-loads",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 07:00"
-  },
-  {
-    "title": "Voice AI startup Wiz.AI roars to US$3.9m profit in 2025",
-    "link": "https://www.techinasia.com/voice-ai-startup-wizai-roars-us39m-profit-2025",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 07:00"
-  },
-  {
-    "title": "Huawei launches new Kirin chips after $250b R&D investment",
-    "link": "https://www.techinasia.com/huawei-launches-mate-xt2-trifold-3k",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-01 06:46"
   }
 ]
