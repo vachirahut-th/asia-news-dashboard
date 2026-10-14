@@ -1,11 +1,83 @@
 [
   {
+    "title": "Energy Taiwan 2026 opens with record international participation",
+    "link": "https://www.digitimes.com/news/a20261014VL222/taiwan-2026-electricity-government-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 15:59"
+  },
+  {
+    "title": "What does the historic Bank of America fine mean for US-China capital streams?",
+    "link": "https://www.scmp.com/economy/china-economy/article/3370870/what-does-historic-bank-america-fine-mean-us-china-capital-streams?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 13:00"
+  },
+  {
+    "title": "Hesai launches 3D spatial camera as Chinese lidar maker expands into physical AI",
+    "link": "https://www.scmp.com/business/china-evs/article/3370897/hesai-launches-3d-spatial-camera-chinese-lidar-maker-expands-physical-ai?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 11:47"
+  },
+  {
+    "title": "Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report",
+    "link": "https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 11:00"
+  },
+  {
+    "title": "These are the most active investors in Thailand’s startups",
+    "link": "https://www.techinasia.com/active-investors-thailands-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 11:00"
+  },
+  {
+    "title": "Anthropic’s Singapore MOU bets on safety testing, not consumer reach",
+    "link": "https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 10:08"
+  },
+  {
+    "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
+    "link": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 09:18"
+  },
+  {
+    "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
+    "link": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 09:15"
+  },
+  {
     "title": "Samsung, US startup sign deal to fight deepfakes",
     "link": "https://www.techinasia.com/samsung-exynos-takes-9-smartphone-ap-market-q2",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-14 09:12"
+  },
+  {
+    "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
+    "link": "https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 09:11"
   },
   {
     "title": "Lenovo expands AI security offering in Singapore, APAC",
@@ -136,12 +208,52 @@
     "published_at": "2026-10-14 07:55"
   },
   {
+    "title": "China's smartphone slump: Can Apple's new lineup light a spark?",
+    "link": "https://www.digitimes.com/news/a20261014VL214/apple-iphone-china-smartphone-market-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:54"
+  },
+  {
+    "title": "Largan chairman casts doubt on Micro LED links for AI data centers",
+    "link": "https://www.digitimes.com/news/a20261014PD227/largan-precision-microled-transmission-data-center-communications.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:39"
+  },
+  {
+    "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+    "link": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:25"
+  },
+  {
+    "title": "Huawei's Kirin 9050 Pro delivers 53.5% density gain; tighter 3D bonding next for 2027",
+    "link": "https://www.digitimes.com/news/a20261014VL205/huawei-kirin-3d-transistor-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:23"
+  },
+  {
     "title": "Coins.ph denies gambling links following reports of BSP action",
     "link": "https://www.techinasia.com/ex-grab-execs-tashi-network-raises-funding-to-expand-its-network",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-14 07:19"
+  },
+  {
+    "title": "India’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/indias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 07:00"
   },
   {
     "title": "Hopes for stock support rise in China ahead of CSRC head Wu Qing’s speech",
@@ -168,12 +280,36 @@
     "published_at": "2026-10-14 07:00"
   },
   {
+    "title": "India’s Gupshup launches AI video avatars for customer service",
+    "link": "https://www.techinasia.com/indias-bharti-airtel-google-to-launch-advanced-chat-messaging",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 06:49"
+  },
+  {
     "title": "No rush to T+1: Hong Kong exchange won’t hurry settlement-time change, sources say",
     "link": "https://www.scmp.com/business/markets/article/3370813/no-rush-t1-hong-kong-exchange-wont-hurry-settlement-time-change-sources-say?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-14 06:00"
+  },
+  {
+    "title": "GoTo shareholders approve canceling 2.7% of shares",
+    "link": "https://www.techinasia.com/goto-appoints-hans-patuwo-as-ceo-replacing-patrick-walujo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 05:50"
+  },
+  {
+    "title": "Alipay+ partners with Malaysia on AI-powered tourism",
+    "link": "https://www.techinasia.com/ant-international-opens-development-center-malaysia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 05:50"
   },
   {
     "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
@@ -184,12 +320,36 @@
     "published_at": "2026-10-14 05:29"
   },
   {
+    "title": "Ex-Qoala execs’ AI firm Parallel Loop raises $6.6m",
+    "link": "https://www.techinasia.com/openais-codex-head-sees-incredible-adoption-across-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 05:00"
+  },
+  {
     "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
     "link": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-14 05:00"
+  },
+  {
+    "title": "Singapore’s IMDA announces agentic AI testing kit, safety push",
+    "link": "https://www.techinasia.com/sg-unveils-model-governance-framework-for-agentic-ai-at-wef",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 04:31"
+  },
+  {
+    "title": "Spacetech startup Aliena raises $5.5m to expand into Europe",
+    "link": "https://www.techinasia.com/sg-spacetech-startup-aliena-raises-55m-expand-europe",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 04:00"
   },
   {
     "title": "Sluggish Chinese demand weighs on LVMH, as Louis Vuitton’s Molly Tea case casts a shadow",
@@ -4638,165 +4798,5 @@
     "category": "Official Stats/Policy",
     "region": "East Asia",
     "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "Head Office, Branches, and Overseas Offices",
-    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
-    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "Organization of Head office, Branches and Offices",
-    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "The Bank's Organizational Core Principles",
-    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "Medium-Term Strategic Plan",
-    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "Business Continuity Planning",
-    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-10-02 20:24"
-  },
-  {
-    "title": "McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail",
-    "link": "https://www.scmp.com/business/companies/article/3369587/mcdonalds-sells-hong-kong-shop-us153-million-old-money-returns-retail?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 12:00"
-  },
-  {
-    "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
-    "link": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 11:17"
-  },
-  {
-    "title": "50 rising startups in Malaysia",
-    "link": "https://www.techinasia.com/50-rising-startups-malaysia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 11:00"
-  },
-  {
-    "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
-    "link": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 10:58"
-  },
-  {
-    "title": "Clara Chan retains helm at HKIC as HK$62b state fund aligns with city’s 5-year plan",
-    "link": "https://www.scmp.com/business/banking-finance/article/3369586/clara-chan-retains-helm-hkic-hk62b-state-fund-aligns-citys-5-year-plan?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 10:28"
-  },
-  {
-    "title": "Global annual AI server shipments, 2025-2026",
-    "link": "https://www.digitimes.com/news/a20261001RS400/high-end-ai-server-shipments-2026.html?chid=2",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 10:10"
-  },
-  {
-    "title": "Anthropic aims for mid-November IPO as it juggles relationship with Trump administration",
-    "link": "https://www.digitimes.com/news/a20261002VL214/anthropic-ipo-ai-regulation-usa-government.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 10:01"
-  },
-  {
-    "title": "OpenAI notified 100+ organizations over AI agent activity",
-    "link": "https://www.techinasia.com/openai-alerts-organizations-ai-model-testing-incidents",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 10:00"
-  },
-  {
-    "title": "Samsung's Galaxy Tab S12 taps MediaTek Dimensity 9500 as 2nm successor arrives",
-    "link": "https://www.digitimes.com/news/a20261002VL215/mediatek-dimensity-galaxy-tab-samsung-2nm.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 09:58"
-  },
-  {
-    "title": "LG Energy Solution and GM bet LMR can bridge the gap between LFP cost and high-nickel range",
-    "link": "https://www.digitimes.com/news/a20261001VL219/automakers-lges-general-motors-cost-affordable.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 09:35"
-  },
-  {
-    "title": "Developers vie to land plum HK$2 billion residential site in Ho Man Tin",
-    "link": "https://www.scmp.com/business/companies/article/3369572/developers-vie-land-plum-hk2-billion-residential-site-ho-man-tin?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 09:16"
-  },
-  {
-    "title": "Ryde hit by pump-and-dump class action, shareholder petition",
-    "link": "https://www.techinasia.com/ryde-hit-pumpanddump-class-action-shareholder-petition",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 09:10"
-  },
-  {
-    "title": "Amazon Now expands quick delivery to 120+ Indian cities",
-    "link": "https://www.techinasia.com/amazon-q2-net-sales-grow-20-2006b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 09:09"
-  },
-  {
-    "title": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
-    "link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 09:05"
   }
 ]
