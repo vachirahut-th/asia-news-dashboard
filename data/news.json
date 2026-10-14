@@ -1,5 +1,229 @@
 [
   {
+    "title": "Samsung, US startup sign deal to fight deepfakes",
+    "link": "https://www.techinasia.com/samsung-exynos-takes-9-smartphone-ap-market-q2",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 09:12"
+  },
+  {
+    "title": "Lenovo expands AI security offering in Singapore, APAC",
+    "link": "https://www.techinasia.com/lenovo-says-over-90-of-ai-pilots-fail-to-reach-deployment",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 09:06"
+  },
+  {
+    "title": "20 largest exits in Japan",
+    "link": "https://www.techinasia.com/20-largest-exits-japan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 09:00"
+  },
+  {
+    "title": "OpenAI engineer accused of planting office listening device",
+    "link": "https://www.techinasia.com/openai-moonshot-users-extract-gpt-reasoning-data",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 08:52"
+  },
+  {
+    "title": "Tata's flagship chip fab faces pressure from its own shareholders",
+    "link": "https://www.digitimes.com/news/a20261014VL218/tata-group-90nm-fab-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:50"
+  },
+  {
+    "title": "AI computing demand drives water management integration at Tianyi",
+    "link": "https://www.digitimes.com/news/a20261014PD229/demand-water-management-capacity-expansion-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:40"
+  },
+  {
+    "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
+    "link": "https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:38"
+  },
+  {
+    "title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
+    "link": "https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:38"
+  },
+  {
+    "title": "China chip exports jump 136% to US$45b as AI frenzy jacks up prices",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 08:30"
+  },
+  {
+    "title": "Tsang Yow's semiconductor revenue share reaches 12%",
+    "link": "https://www.digitimes.com/news/a20261014PD240/tsang-yow-revenue-equipment-2026-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:26"
+  },
+  {
+    "title": "Cerebras CEO reveals the capacity shortfall behind OpenAI's turn to Nvidia GPUs",
+    "link": "https://www.digitimes.com/news/a20261014PD230/cerebras-data-capacity-openai-nvidia.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 08:20"
+  },
+  {
+    "title": "JD Industrials signs AI cooperation deal with AMD",
+    "link": "https://www.techinasia.com/amd-helios-set-microsoft-azure-ai-inference",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 08:19"
+  },
+  {
+    "title": "Singapore’s next AI industry may be the people who check the agents",
+    "link": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 08:08"
+  },
+  {
+    "title": "China’s EV industry faces double blow from EU export quota, VAT rebate cut",
+    "link": "https://www.scmp.com/business/china-business/article/3370851/chinas-ev-industry-faces-double-blow-eu-export-quota-vat-rebate-cut?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 08:00"
+  },
+  {
+    "title": "Kingboard Laminates raises thin-cloth laminates, prepreg prices 15% in eighth hike of 2026",
+    "link": "https://www.digitimes.com/news/a20261014PD200/kingboard-ccl-pcb-price-increase-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:58"
+  },
+  {
+    "title": "China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads",
+    "link": "https://www.scmp.com/business/china-evs/article/3370855/chinas-carmakers-eye-record-sales-luxury-model-hits-regulatory-bump-7-ev-reads?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 07:57"
+  },
+  {
+    "title": "Ubiqconn satellite revenue jumps 175% as 3Q26 operations recover",
+    "link": "https://www.digitimes.com/news/a20261014PD239/revenue-ubiqconn-2026-market-shipments.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-14 07:55"
+  },
+  {
+    "title": "Coins.ph denies gambling links following reports of BSP action",
+    "link": "https://www.techinasia.com/ex-grab-execs-tashi-network-raises-funding-to-expand-its-network",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 07:19"
+  },
+  {
+    "title": "Hopes for stock support rise in China ahead of CSRC head Wu Qing’s speech",
+    "link": "https://www.scmp.com/business/china-business/article/3370827/hopes-stock-support-rise-china-ahead-csrc-head-wu-qings-speech?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 07:00"
+  },
+  {
+    "title": "Move over generic homework solvers, this AI tutor tracks mastery",
+    "link": "https://www.techinasia.com/move-generic-homework-solvers-ai-tutor-tracks-mastery",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 07:00"
+  },
+  {
+    "title": "50 rising AI startups in Asia",
+    "link": "https://www.techinasia.com/50-rising-ai-startups-in-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 07:00"
+  },
+  {
+    "title": "No rush to T+1: Hong Kong exchange won’t hurry settlement-time change, sources say",
+    "link": "https://www.scmp.com/business/markets/article/3370813/no-rush-t1-hong-kong-exchange-wont-hurry-settlement-time-change-sources-say?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 06:00"
+  },
+  {
+    "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+    "link": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 05:29"
+  },
+  {
+    "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
+    "link": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 05:00"
+  },
+  {
+    "title": "Sluggish Chinese demand weighs on LVMH, as Louis Vuitton’s Molly Tea case casts a shadow",
+    "link": "https://www.scmp.com/business/article/3370795/sluggish-chinese-demand-weighs-lvmh-louis-vuittons-molly-tea-case-casts-shadow?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 04:00"
+  },
+  {
+    "title": "Spotlight on Hong Kong as APEC finance ministers gather to discuss region’s economic future",
+    "link": "https://www.scmp.com/presented/business/topics/hong-kongs-financial-influence/article/3370536/spotlight-hong-kong-apec-finance-ministers-gather-discuss-regions-economic-future?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-14 04:00"
+  },
+  {
+    "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
+    "link": "https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 04:00"
+  },
+  {
+    "title": "85 per cent of Singapore employers expect staff to be always on. Half offer no help",
+    "link": "https://e27.co/85-per-cent-of-singapore-employers-expect-staff-to-be-always-on-half-offer-no-help-20261014/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-14 04:00"
+  },
+  {
     "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
     "link": "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/",
     "source": "e27 (Startups)",
@@ -4574,229 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-02 09:05"
-  },
-  {
-    "title": "Bull's France factory doubles capacity to capture growing orders as EU pushes AI sovereignty",
-    "link": "https://www.digitimes.com/news/a20261002VL213/capacity-france-eu-europe-supercomputer.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 09:03"
-  },
-  {
-    "title": "Climax Technology stays cautious on 2H26 as memory costs rise",
-    "link": "https://www.digitimes.com/news/a20261002PD241/2026-revenue-gross-margin-inventory-earnings.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 09:01"
-  },
-  {
-    "title": "VC tracker: Granite Asia launches US$50 million fund",
-    "link": "https://www.techinasia.com/visual-story/list-vc-funds-money-deploy",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 09:00"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in Singapore",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 09:00"
-  },
-  {
-    "title": "Meta to add Naver Map navigation to AI glasses in South Korea",
-    "link": "https://www.digitimes.com/news/a20261002PD246/meta-naver-2026-samsung-google.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:54"
-  },
-  {
-    "title": "iPhone 18 Pro lifts Apple to 33% China share",
-    "link": "https://www.digitimes.com/news/a20261002PD243/apple-iphone-sales-foldable-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:48"
-  },
-  {
-    "title": "Apple's Ternus pushes management cuts, faster hardware",
-    "link": "https://www.digitimes.com/news/a20261002PD242/apple-hardware-tim-cook-john-ternus-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:46"
-  },
-  {
-    "title": "OpenAI fires 3 safety researchers for sharing confidential information",
-    "link": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:45"
-  },
-  {
-    "title": "Huawei hikes flagship prices up to US$200 as memory shortages hit smartphone margins",
-    "link": "https://www.digitimes.com/news/a20261002PD233/huawei-smartphone-flagship-price-galaxy.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:45"
-  },
-  {
-    "title": "BMW to make 20% of senior management redundant with AI",
-    "link": "https://www.digitimes.com/news/a20261002PD244/bmw-management-layoffs-2028.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:44"
-  },
-  {
-    "title": "Japanese firms cut China presence 22.4% as trade risks mount",
-    "link": "https://www.digitimes.com/news/a20261002PD240/2026-production-sales-manufacturing-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:40"
-  },
-  {
-    "title": "ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform",
-    "link": "https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:34"
-  },
-  {
-    "title": "Stellantis to pause four French plants amid EV battery shortages",
-    "link": "https://www.digitimes.com/news/a20261002PD238/stellantis-france-plant-demand-vehicle.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:27"
-  },
-  {
-    "title": "Hitachi and Fanuc launch Physical AI partnership for factory automation",
-    "link": "https://www.digitimes.com/news/a20261002PD239/hitachi-fanuc-partnership-industrial-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:26"
-  },
-  {
-    "title": "Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors",
-    "link": "https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:25"
-  },
-  {
-    "title": "Inside Volantis's photonic bid to break AI's memory wall after US$88 million raise",
-    "link": "https://www.digitimes.com/news/a20261002PD236/startup-ai-inference-hardware-chips-funding.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:18"
-  },
-  {
-    "title": "Amazon weighs US$8B chip sale-leaseback to support credit rating",
-    "link": "https://www.digitimes.com/news/a20261002PD235/amazon-chips-vehicle-nvidia-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 08:08"
-  },
-  {
-    "title": "Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra",
-    "link": "https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 07:57"
-  },
-  {
-    "title": "Qbic expands edge AI on Arm, lifts smart access control above 60%",
-    "link": "https://www.digitimes.com/news/a20261002PD220/ipc-arm-market-2026-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 07:45"
-  },
-  {
-    "title": "Life after Meta: Manus regains independence, debuting Manus 2.0 and 'Cue' AI agent",
-    "link": "https://www.digitimes.com/news/a20261002PD226/startup-meta.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 07:35"
-  },
-  {
-    "title": "China turns to 3D packaging to push AI performance beyond front-end scaling limits",
-    "link": "https://www.digitimes.com/news/a20261002VL206/performance-3d-packaging-packaging-manufacturing-transistor.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 07:24"
-  },
-  {
-    "title": "China’s AI compute ambitions demand innovation",
-    "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 07:05"
-  },
-  {
-    "title": "Hong Kong ranks 7th globally in drawing next wealthy class – trailing Singapore: study",
-    "link": "https://www.scmp.com/business/article/3369536/hong-kong-ranks-7th-globally-drawing-next-wealthy-class-trailing-singapore-study?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-02 07:01"
-  },
-  {
-    "title": "Unifying India’s fragmented tax and wealth market",
-    "link": "https://www.techinasia.com/unifying-indias-fragmented-tax-wealth-market",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 07:00"
-  },
-  {
-    "title": "50 rising startups in Singapore",
-    "link": "https://www.techinasia.com/50-rising-startups-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 07:00"
-  },
-  {
-    "title": "Micron ramps up HBM capacity at Taiwan's four major sites",
-    "link": "https://www.digitimes.com/news/a20261002PD224/micron-taiwan-capacity-hbm-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 06:45"
-  },
-  {
-    "title": "Samsung Electro-Mechanics AI deals hit $2.6b",
-    "link": "https://www.techinasia.com/samsung-electro-mechanics-eyes-ai-chip-packaging-expansion",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-02 06:36"
-  },
-  {
-    "title": "Nidec impairment loss far exceeds estimates as auditor withholds opinion",
-    "link": "https://www.digitimes.com/news/a20261001PD246/nidec-electronic-components-loss-2025-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-02 06:34"
   }
 ]
