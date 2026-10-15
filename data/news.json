@@ -1,5 +1,125 @@
 [
   {
+    "title": "Anthropic targets low-conflict sites for Australian data centers",
+    "link": "https://www.digitimes.com/news/a20261015PD248/anthropic-data-australia-government-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 15:24"
+  },
+  {
+    "title": "Japan Mobility Show puts Physical AI and cross-sector partnerships in focus",
+    "link": "https://www.digitimes.com/news/a20261015PD249/physical-ai-2026-toyota-robot-robotics.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 14:24"
+  },
+  {
+    "title": "Toyota targets 1,000 e-Palette sales ahead of 2027 autonomous launch",
+    "link": "https://www.digitimes.com/news/a20261015PD250/toyota-2027-sales-vehicle-autonomous-driving.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 12:23"
+  },
+  {
+    "title": "Hong Kong plans just 2 land sales this quarter despite housing rebound",
+    "link": "https://www.scmp.com/business/article/3371042/hong-kong-plans-just-two-land-sales-next-quarter-despite-housing-rebound?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-15 12:14"
+  },
+  {
+    "title": "Luxnet posts record 3Q profit as capacity expansion fuels growth",
+    "link": "https://www.digitimes.com/news/a20261015PD236/profit-2026-communications-capacity-expansion-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 12:00"
+  },
+  {
+    "title": "These are the most active investors in Philippine startups",
+    "link": "https://www.techinasia.com/active-investors-philippines-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 11:00"
+  },
+  {
+    "title": "DayOne’s data center billings top 1GW as Johor expansion grows",
+    "link": "https://www.techinasia.com/sg-data-center-firm-dayone-seeks-increase-loan-7b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 09:40"
+  },
+  {
+    "title": "ZTE Hong Kong, LSCM sign MoU on AI, digital infrastructure",
+    "link": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 09:30"
+  },
+  {
+    "title": "TSMC bars capacity resale, aims to leave no AI money on the table",
+    "link": "https://www.digitimes.com/news/a20261015PD244/tsmc-capacity-demand-wafer-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 09:20"
+  },
+  {
+    "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+    "link": "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 09:15"
+  },
+  {
+    "title": "OpenAI pledges not to use Apple secrets, accuses ex-employee of taking files",
+    "link": "https://www.digitimes.com/news/a20261015PD247/apple-openai-lawsuit-hardware-investigation.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 09:13"
+  },
+  {
+    "title": "EU seeks China deal to lift ASML supplier sanctions amid rare-earth crisis",
+    "link": "https://www.digitimes.com/news/a20261015PD246/eu-asml-russia-business-beijing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-15 09:11"
+  },
+  {
+    "title": "China’s Hesai launches spatial camera for AI-powered robotics",
+    "link": "https://www.techinasia.com/robots-struggle-touch-sharpa-fix",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 09:09"
+  },
+  {
+    "title": "Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds",
+    "link": "https://www.scmp.com/business/article/3371004/hong-kong-ranks-third-globally-philanthropy-hub-behind-new-york-and-seoul-study-finds?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-15 09:00"
+  },
+  {
+    "title": "20 largest exits in Korea",
+    "link": "https://www.techinasia.com/20-largest-exits-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 09:00"
+  },
+  {
     "title": "NewsLatest news from the BOT",
     "link": "https://www.bot.or.th/en/news-and-media/news.html",
     "source": "Bank of Thailand (BOT)",
@@ -192,12 +312,36 @@
     "published_at": "2026-10-15 06:00"
   },
   {
+    "title": "Alibaba’s Taobao revamps cross-border shopping with AI tools",
+    "link": "https://www.techinasia.com/alibaba-integrates-1688-alibabacom-single-operation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 05:25"
+  },
+  {
+    "title": "Nexus Venture Partners backs Indian resale startup Circle",
+    "link": "https://www.techinasia.com/circle-q4-revenue-jumps-77-to-770m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 04:45"
+  },
+  {
     "title": "AI can increase productivity. It can’t increase human capacity",
     "link": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-15 04:30"
+  },
+  {
+    "title": "Applied Materials unveils AI chip hub with TSMC, Intel",
+    "link": "https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-15 04:04"
   },
   {
     "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
@@ -4654,149 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-05 23:00"
-  },
-  {
-    "title": "​​​​​​​Planning a Legacy for Lives that Keep Moving",
-    "link": "https://www.scmp.com/presented/business/topics/planning-wealth-generations/article/3369201/planning-legacy-lives-keep-moving?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-05 16:00"
-  },
-  {
-    "title": "Samsung opens Boston quantum design lab to expand US research push",
-    "link": "https://www.digitimes.com/news/a20261005PD245/samsung-design-quantum-quantum-computing-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 12:45"
-  },
-  {
-    "title": "Foxconn move smart long-term care pilot into real care settings",
-    "link": "https://www.digitimes.com/news/a20261005PD242/foxconn-data-taiwan-management-2025.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 12:21"
-  },
-  {
-    "title": "Amazon signs 20-year nuclear power deal with Constellation for AI demand",
-    "link": "https://www.digitimes.com/news/a20261005PD246/amazon-nuclear-demand-plant-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 11:38"
-  },
-  {
-    "title": "0G picks Singapore as global base, expands AI research into badminton",
-    "link": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 11:30"
-  },
-  {
-    "title": "Adrian Cheng, former scion of Hong Kong’s NWD, expands K11 brand in Xiamen",
-    "link": "https://www.scmp.com/business/china-business/article/3369814/adrian-cheng-former-scion-hong-kongs-nwd-expands-k11-brand-xiamen?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-05 11:08"
-  },
-  {
-    "title": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand",
-    "link": "https://www.digitimes.com/news/a20261005PD249/foxconn-revenue-demand-electronics-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 10:24"
-  },
-  {
-    "title": "Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production",
-    "link": "https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 10:08"
-  },
-  {
-    "title": "HKMA licenses Bakai Bank, city’s first from Central Asia",
-    "link": "https://www.scmp.com/business/banking-finance/article/3365704/hkma-licenses-bakai-bank-citys-first-central-asia?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-05 09:42"
-  },
-  {
-    "title": "Pegatron AI servers boost September revenue",
-    "link": "https://www.digitimes.com/news/a20261005PD248/pegatron-ai-server-business-revenue-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 09:35"
-  },
-  {
-    "title": "Foxconn revenue jumps 47% on strong AI server demand",
-    "link": "https://www.techinasia.com/foxconn-lifts-q2-outlook-on-strong-ai-server-demand",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 09:12"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in India",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-india",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 09:00"
-  },
-  {
-    "title": "Kyushu's chip expo expands as Japan adds a chip design focus",
-    "link": "https://www.digitimes.com/news/a20261005PD244/design-2026-taiwan-nikkei-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 08:40"
-  },
-  {
-    "title": "Japan’s Rapidus plans 17-firm alliance for advanced chip design",
-    "link": "https://www.techinasia.com/japan-to-invest-1-6b-in-rapidus-to-boost-semiconductor-production",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 08:39"
-  },
-  {
-    "title": "Deutsche Telekom targets US$2.8 billion in savings as AI business grows",
-    "link": "https://www.digitimes.com/news/a20261005VL210/business-revenue-telecom-automation-infrastructure.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-05 08:37"
-  },
-  {
-    "title": "SEA tech funding jumps 176% in Q1 to Q3: report",
-    "link": "https://www.techinasia.com/firmus-plans-allocate-ipo-existing-investors",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 08:20"
-  },
-  {
-    "title": "Indian AI firm AM Intelligence expands Vera Rubin buildout",
-    "link": "https://www.techinasia.com/how-openai-is-betting-on-one-powerful-brain-over-many-tools",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-05 08:08"
-  },
-  {
-    "title": "Hong Kong lawmakers say 5-year tax incentive too short to entice major innovative firms",
-    "link": "https://www.scmp.com/business/companies/article/3369781/hong-kong-lawmakers-say-5-year-tax-incentive-too-short-entice-major-innovative-firms?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-05 08:00"
   }
 ]
