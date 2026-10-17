@@ -1,5 +1,125 @@
 [
   {
+    "title": "US AI coding startup Replit ends work with Anthropic",
+    "link": "https://www.techinasia.com/sequoia-backs-ai-agent-tools-langchain-at-1-3b-valuation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 02:06"
+  },
+  {
+    "title": "Foreign banks trim China branch networks as low returns test strategy",
+    "link": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-17 02:00"
+  },
+  {
+    "title": "Anthropic pitches bill to regulate frontier AI risks",
+    "link": "https://www.techinasia.com/anthropic-releases-faster-cheaper-sonnet-55",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 01:53"
+  },
+  {
+    "title": "SoftBank weighs $18b Allied Universal deal to support AI push",
+    "link": "https://www.techinasia.com/softbankbacked-sb-energy-plans-500m-japan-sale",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 01:43"
+  },
+  {
+    "title": "CoreWeave stock, bonds slide as rate fears hit AI bets",
+    "link": "https://www.techinasia.com/coreweave-sweetens-2-6b-loan-to-win-investors",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 01:37"
+  },
+  {
+    "title": "OKX managing partner Rafique to leave by year-end",
+    "link": "https://www.techinasia.com/crypto-exchange-okx-adds-social-network-trading-app",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 01:30"
+  },
+  {
+    "title": "What’s next after a company’s Mega Evolution?",
+    "link": "https://www.techinasia.com/whats-next-after-a-companys-mega-evolution",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 00:30"
+  },
+  {
+    "title": "E Ink Kaleido 4 doubles color gamut, boosts contrast 50%",
+    "link": "https://www.digitimes.com/news/a20261016PD241/e-ink-color-e-paper-display-technology-hanvon.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:09"
+  },
+  {
+    "title": "CATL targets 70GWh in sodium-ion ESS orders with European push",
+    "link": "https://www.digitimes.com/news/a20261016PD243/sodium-ion-catl-market-technology-shipments.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:09"
+  },
+  {
+    "title": "Taiwan Mask targets Japan's Kyushu chip expansion with US$4.75 million TCK acquisition",
+    "link": "https://www.digitimes.com/news/a20261016PD244/taiwan-mask-acquisition-equipment-photomask-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:08"
+  },
+  {
+    "title": "XPeng's Paris push turns China's full-stack EV know-how into exportable AI engineering business",
+    "link": "https://www.digitimes.com/news/a20261016VL212/xpeng-technology-automotive-vehicle-automakers.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:07"
+  },
+  {
+    "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
+    "link": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:07"
+  },
+  {
+    "title": "Tesla Roadster turns SpaceX rocket tech into halo product for Musk's physical-AI empire",
+    "link": "https://www.digitimes.com/news/a20261016VL217/tesla-spacex-rocket-technology-vehicle.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:06"
+  },
+  {
+    "title": "TECO targets AI data center growth with energy storage, transformers",
+    "link": "https://www.digitimes.com/news/a20261015PD201/teco-data-center-ess-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-17 00:06"
+  },
+  {
+    "title": "Tracking startup closures across Southeast Asia",
+    "link": "https://www.techinasia.com/visual-story/startup-failures-closures-southeast-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 00:00"
+  },
+  {
     "title": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption",
     "link": "https://www.digitimes.com/news/a20261013VL211/singapore-ai-adoption-government-infrastructure.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -382,6 +502,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-16 03:58"
+  },
+  {
+    "title": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
+    "link": "https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-16 03:53"
   },
   {
     "title": "Employers are buying AI tools. Their managers are being left behind",
@@ -4670,133 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-07 03:38"
-  },
-  {
-    "title": "iRobot races to catch Chinese robot vacuum rivals after admitting innovation lag",
-    "link": "https://www.digitimes.com/news/a20261007PD223/robot-market-taiwan-bankruptcy-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:31"
-  },
-  {
-    "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
-    "link": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 03:28"
-  },
-  {
-    "title": "Robotaxis intensify charging infrastructure pressure, could drive over 35% of North American EV power demand by 2030",
-    "link": "https://www.digitimes.com/news/a20261007PD220/demand-autonomous-driving-technology-infrastructure-2030.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:22"
-  },
-  {
-    "title": "KT Cloud to build 50MW AI data center in South Korea",
-    "link": "https://www.techinasia.com/south-koreas-kt-microsoft-launch-enterprise-ai-hub",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 03:17"
-  },
-  {
-    "title": "Citigroup sees Meta’s Muse generating $27b a year by 2030",
-    "link": "https://www.techinasia.com/meta-introduces-meta-one-subscription-across-its-apps",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 03:13"
-  },
-  {
-    "title": "Commentary: Largan earnings call spotlight &mdash; CPO, expansion and 4Q26 order momentum",
-    "link": "https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:05"
-  },
-  {
-    "title": "Navigating the global AI regulatory divide: American safety debates, China's rapid deployment, Mistral's European push",
-    "link": "https://www.digitimes.com/news/a20261007VL210/ceo-silicon-valley-openai-regulation.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:02"
-  },
-  {
-    "title": "Europe’s trade truce with America has not restored trust in American business",
-    "link": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 03:00"
-  },
-  {
-    "title": "Opera-backed MiniPay adopts Sumsub reusable KYC",
-    "link": "https://www.techinasia.com/hk-crypto-platform-redotpay-nets-107m-series",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:47"
-  },
-  {
-    "title": "OpenAI publishes AI math results on GitHub",
-    "link": "https://www.techinasia.com/openai-launches-gpt61-sol-nears-astra",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:28"
-  },
-  {
-    "title": "DeepSeek seeks $11.9b in funding at $74.6b valuation: sources",
-    "link": "https://www.techinasia.com/deepseek-resumes-fundraising-74b-valuation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:21"
-  },
-  {
-    "title": "Google secures 3.6GW of power from Constellation Energy",
-    "link": "https://www.techinasia.com/googles-gemini-hacked-3-companies-security-tests",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:10"
-  },
-  {
-    "title": "Asia isn’t sold on ChatGPT ads yet",
-    "link": "https://www.techinasia.com/asia-isnt-sold-on-chatgpt-ads-yet",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:00"
-  },
-  {
-    "title": "A cheat sheet of M&As in Korea",
-    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-korea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 02:00"
-  },
-  {
-    "title": "AI could turn concierge medicine into the future interface to healthcare",
-    "link": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 01:30"
-  },
-  {
-    "title": "Mistral unveils Large 4 AI model ahead of wider release",
-    "link": "https://www.techinasia.com/mistral-ceo-warns-of-risks-from-ai-market-concentration",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 01:17"
   }
 ]
