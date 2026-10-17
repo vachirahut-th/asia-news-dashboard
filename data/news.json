@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Philippines’ top tech firms by funding in the last decade",
+    "link": "https://www.techinasia.com/visual-story/philippines-top-tech-firms-funding-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-17 07:00"
+  },
+  {
+    "title": "Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide",
+    "link": "https://www.scmp.com/business/china-business/article/3371073/hong-kongs-skiers-flock-mainland-indoor-slopes-mushroom-nationwide?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-17 06:00"
+  },
+  {
     "title": "US AI coding startup Replit ends work with Anthropic",
     "link": "https://www.techinasia.com/sequoia-backs-ai-agent-tools-langchain-at-1-3b-valuation",
     "source": "Tech in Asia",
@@ -510,6 +526,30 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-16 03:53"
+  },
+  {
+    "title": "LCD TV panel prices struggle to rise in 4Q26",
+    "link": "https://www.digitimes.com/news/a20261016PD223/lcd-tv-panel-panel-price-tv-lcd.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-16 03:48"
+  },
+  {
+    "title": "BOE's 24-layer glass substrates reach AI chip packaging trials, with mass production still ahead",
+    "link": "https://www.digitimes.com/news/a20261016PD228/boe-packaging-production-display-ai-chip.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-16 03:42"
+  },
+  {
+    "title": "Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics",
+    "link": "https://www.digitimes.com/news/a20261016PD226/taiwan-robotics-market-growth-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-16 03:36"
   },
   {
     "title": "Employers are buying AI tools. Their managers are being left behind",
@@ -4758,45 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-07 04:00"
-  },
-  {
-    "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
-    "link": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 04:00"
-  },
-  {
-    "title": "CloudMile flags AI cost pressure, risk governance as key",
-    "link": "https://www.digitimes.com/news/a20261007PD222/cloudmile-cost-governance-data-openai.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:48"
-  },
-  {
-    "title": "Apple Watch sensor demand and InP supply tightness lift TASC's 2H26 outlook",
-    "link": "https://www.digitimes.com/news/a20261007PD221/taiwan-asia-semiconductor-apple-watch-sensor-inp-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:44"
-  },
-  {
-    "title": "Light liquidations and flat funding: Is Bitcoin about to explode?",
-    "link": "https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-07 03:40"
-  },
-  {
-    "title": "AI server smuggling cases expose gap between export compliance and due diligence",
-    "link": "https://www.digitimes.com/news/a20261007VL209/ai-server-nvidia-chips-hardware-supermicro.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-07 03:38"
   }
 ]
