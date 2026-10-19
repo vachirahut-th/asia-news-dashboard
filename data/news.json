@@ -1,5 +1,53 @@
 [
   {
+    "title": "South Korea's FIX 2026 to feature robots from HD Hyundai, Doosan",
+    "link": "https://www.digitimes.com/news/a20261016VL211/hyundai-2026-hd-doosan-robot.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 16:15"
+  },
+  {
+    "title": "IT panel market struggles to pass on costs: monitors hold flat, notebooks slide",
+    "link": "https://www.digitimes.com/news/a20261019PD244/panel-brand-market-recovery-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 16:03"
+  },
+  {
+    "title": "OCP 2026 shifts AI competition from chips to rack-scale systems",
+    "link": "https://www.digitimes.com/news/a20261019PD241/ocp-2026-chips-infrastructure-competition-cooling.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 16:01"
+  },
+  {
+    "title": "China plans 18 active ETFs as regulator seeks to shore up stock market",
+    "link": "https://www.scmp.com/business/markets/article/3371410/china-plans-18-active-etfs-regulator-seeks-shore-stock-market?utm_source=rss_feed",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-19 12:51"
+  },
+  {
+    "title": "YouTrip restores services after vendor glitch causes outage",
+    "link": "https://www.techinasia.com/sg-fintech-group-features-10-influential-women",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 11:26"
+  },
+  {
+    "title": "Mapping the key players in China’s ecommerce arena",
+    "link": "https://www.techinasia.com/visual-story/mapping-chinas-ecommerce-standouts",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 11:00"
+  },
+  {
     "title": "China’s CXMT shares fall 7.8% despite profit forecast",
     "link": "https://www.techinasia.com/chinas-cxmt-posts-record-revenue-ai-boom-ipo",
     "source": "Tech in Asia",
@@ -14,6 +62,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 09:37"
+  },
+  {
+    "title": "DeepSeek updates V4.1 Flash to improve AI agent performance",
+    "link": "https://www.digitimes.com/news/a20261019PD246/deepseek-performance-api-software-opus.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 09:29"
   },
   {
     "title": "China’s iFlytek Q3 revenue grows 8% as AI spending rises",
@@ -136,12 +192,52 @@
     "published_at": "2026-10-19 07:38"
   },
   {
+    "title": "Canon Taiwan sees strong global camera demand in 2026 and 2027",
+    "link": "https://www.digitimes.com/news/a20261019PD240/canon-taiwan-camera-demand-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 07:33"
+  },
+  {
+    "title": "Solution Finders Part 1 of 2: the DARPA challenge behind TSMC's success",
+    "link": "https://www.digitimes.com/news/a20261019PD236/tsmc-launch-finfet-technology-patent.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 07:29"
+  },
+  {
+    "title": "Israel’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/israels-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 07:00"
+  },
+  {
     "title": "Turning orange peels into battery materials",
     "link": "https://www.techinasia.com/turning-orange-peels-battery-materials",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 07:00"
+  },
+  {
+    "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
+    "link": "https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 06:59"
+  },
+  {
+    "title": "SiC powering the future: market scaling meets IDM synergies",
+    "link": "https://www.digitimes.com/news/a20261019VL211/sic-silicon-market-data-center-industrial.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-19 06:59"
   },
   {
     "title": "Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax",
@@ -158,6 +254,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 06:00"
+  },
+  {
+    "title": "OpenAI, Moderna expand AI use in drug development",
+    "link": "https://www.techinasia.com/anthropic-buys-biotech-startup-coefficient-bio-400m",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 05:29"
   },
   {
     "title": "Singapore employers say they offer burnout support. Half their staff say they’ve never seen it",
@@ -190,6 +294,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 04:15"
+  },
+  {
+    "title": "Accenture considers $1.5b sale of China business: report",
+    "link": "https://www.techinasia.com/accenture-q1-revenue-ups-6-to-18-7b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 04:08"
+  },
+  {
+    "title": "Buying AI tools is easy – getting real value is much harder",
+    "link": "https://www.techinasia.com/buying-ai-tools-easy-real-harder",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 04:00"
   },
   {
     "title": "Philippine fintech firm Salmon Group secures $140m financing",
@@ -358,6 +478,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 01:00"
+  },
+  {
+    "title": "Nvidia-backed Nscale faces pushback on $30b IPO",
+    "link": "https://www.techinasia.com/nvidia-backed-uk-ai-firm-nscale-secures-2b-funding",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 00:31"
+  },
+  {
+    "title": "Anthropic to commit 5% of shares to public benefit fund",
+    "link": "https://www.techinasia.com/anthropic-targets-midnovember-ipo-delay",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-19 00:01"
   },
   {
     "title": "Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real",
@@ -4662,141 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-08 09:53"
-  },
-  {
-    "title": "TSMC Q3 sales hit record, beating forecasts",
-    "link": "https://www.techinasia.com/tsmc-lifts-2026-revenue-outlook-ai-chip-demand",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 09:40"
-  },
-  {
-    "title": "Uniqlo sees profits soar in China despite Beijing-Tokyo tensions",
-    "link": "https://www.scmp.com/business/china-business/article/3370187/uniqlo-sees-profits-soar-china-despite-beijing-tokyo-tensions?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-08 09:15"
-  },
-  {
-    "title": "Meet the 50 top-funded startups and tech companies in Korea",
-    "link": "https://www.techinasia.com/meet-50-topfunded-startups-tech-companies-korea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 09:00"
-  },
-  {
-    "title": "Largan Precision posts over 10% revenue growth in the first nine months of 2026",
-    "link": "https://www.digitimes.com/news/a20261008PD245/largan-precision-revenue-2026-growth-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 08:32"
-  },
-  {
-    "title": "DeepX raises $11m from Samsung Securities, SVIC",
-    "link": "https://www.techinasia.com/south-korean-ai-chip-startup-deepx-raises-293m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 08:28"
-  },
-  {
-    "title": "Anthropic launches Claude Haiku 5.5 at 75% lower cost",
-    "link": "https://www.techinasia.com/anthropic-unveils-claude-opus-55-pricing",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 08:23"
-  },
-  {
-    "title": "Hong Kong IPO boom at risk as cornerstone backers get cold feet, sources say",
-    "link": "https://www.scmp.com/business/banking-finance/article/3370173/hong-kong-ipo-boom-risk-cornerstone-backers-get-cold-feet-sources-say?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-08 08:11"
-  },
-  {
-    "title": "Lam Research launches South Korea chip fund after 15,000-chamber milestone",
-    "link": "https://www.digitimes.com/news/a20261008VL222/lam-research-manufacturing-equipment-technology-investment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 07:42"
-  },
-  {
-    "title": "SpaceX pursues US$40 billion Nvidia chip financing while Terafab charts path to AI compute independence",
-    "link": "https://www.digitimes.com/news/a20261008PD235/spacex-financing-infrastructure-nvidia.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 07:37"
-  },
-  {
-    "title": "Hong Kong fintech firm Reap to test AI purchasing setup",
-    "link": "https://www.techinasia.com/kraken-parent-buys-hong-kong-fintech-reap-for-600m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 07:36"
-  },
-  {
-    "title": "Indonesia caps ride-hailing commissions at 8% under new rule",
-    "link": "https://www.techinasia.com/gojek-founder-nadiem-denies-receiving-485m-chromebook-case",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 07:25"
-  },
-  {
-    "title": "Ledlink hits record revenue as automotive optics and AI server components fuel growth",
-    "link": "https://www.digitimes.com/news/a20261008PD225/automotive-revenue-growth-ledlink-optics-lighting.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 07:17"
-  },
-  {
-    "title": "Manus maker Butterfly Effect lands over $500m funding",
-    "link": "https://www.techinasia.com/china-blocks-metas-manus-acquisition",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 07:10"
-  },
-  {
-    "title": "Bloom Energy SOFC system to support AOI's Taiwan expansion",
-    "link": "https://www.digitimes.com/news/a20261008VL221/aoi-fuel-cell-expansion-demand-taiwan.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 07:05"
-  },
-  {
-    "title": "The platform helping academics cite 250m real research papers",
-    "link": "https://www.techinasia.com/platform-helping-academics-cite-250m-real-research-papers",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 07:00"
-  },
-  {
-    "title": "50 rising startups in Korea",
-    "link": "https://www.techinasia.com/top-50-rising-startups-korea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-08 07:00"
-  },
-  {
-    "title": "LG to test five commercial components in space aboard South Korea's fifth Nuri launch",
-    "link": "https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-08 06:58"
   }
 ]
