@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI infrastructure faces four hurdles: Power, construction, technology, funding",
+    "link": "https://www.digitimes.com/news/a20261020PD238/funding-semicon-west-2026-infrastructure-outlook.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 17:01"
+  },
+  {
+    "title": "Musk and Anthropic test rival models for sharing AI wealth with the public",
+    "link": "https://www.digitimes.com/news/a20261020VL217/anthropic-spacex-technology-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 16:01"
+  },
+  {
     "title": "Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow",
     "link": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
     "source": "SCMP - Economy",
@@ -256,12 +272,52 @@
     "published_at": "2026-10-20 06:35"
   },
   {
+    "title": "Daeduck Electronics targets 2029 ceramic substrates for AI packaging",
+    "link": "https://www.digitimes.com/news/a20261020PD235/substrate-packaging-development-production-performance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:33"
+  },
+  {
+    "title": "Genius Electronic Optical partners with 3M on EBO development",
+    "link": "https://www.digitimes.com/news/a20261020PD236/3m-gseo-partnership-production-optical-components.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:31"
+  },
+  {
+    "title": "Hygon's revenue jumps 58% on AI chip demand, but growth slows amid 51% stock slump",
+    "link": "https://www.digitimes.com/news/a20261020VL213/revenue-ai-chip-demand-earnings-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:21"
+  },
+  {
     "title": "China’s tax authority issues final call for wealthy citizens to declare offshore trust gains",
     "link": "https://www.scmp.com/business/china-business/article/3371463/chinas-tax-authority-issues-final-call-wealthy-citizens-declare-offshore-trust-gains",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-20 06:12"
+  },
+  {
+    "title": "Powertip Technology transitions into a solutions provider as demand and costs rise",
+    "link": "https://www.digitimes.com/news/a20261020PD233/powertip-technology-design-demand-manufacturing-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:06"
+  },
+  {
+    "title": "South Korea's US$1.66 billion humanoid robot push puts auto suppliers in focus",
+    "link": "https://www.digitimes.com/news/a20261020VL215/south-korea-humanoid-robot-investment-automotive-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:00"
   },
   {
     "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
@@ -294,6 +350,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-20 04:35"
+  },
+  {
+    "title": "DeepSeek-Huawei chip co-design could shift AI training away from Nvidia",
+    "link": "https://www.digitimes.com/news/a20261020VL214/deepseek-huawei-ascend-ai-chip-training.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 04:32"
   },
   {
     "title": "TikTok Shop tops Shopee in Thailand Q2 GMV share: report",
@@ -536,6 +600,14 @@
     "published_at": "2026-10-20 01:18"
   },
   {
+    "title": "Behind SBI’s bid to build a digital asset empire in SEA",
+    "link": "https://www.techinasia.com/behind-sbis-bid-to-build-a-digital-asset-empire-in-sea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 01:00"
+  },
+  {
     "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
     "link": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
     "source": "e27 (Startups)",
@@ -550,6 +622,38 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-20 01:00"
+  },
+  {
+    "title": "Foxconn to buy 50% stake in Mitsubishi EV unit for $727m",
+    "link": "https://www.techinasia.com/foxconn-q2-revenue-jumps-398-ai-demand",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 00:31"
+  },
+  {
+    "title": "Korea’s robots face a tough probation",
+    "link": "https://www.techinasia.com/koreas-robots-face-a-tough-probation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 00:30"
+  },
+  {
+    "title": "Samsung, Checkout.com expand digital payments partnership",
+    "link": "https://www.techinasia.com/samsung-electronics-q2-profit-soaring-ai-memory",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 00:16"
+  },
+  {
+    "title": "US software firm Boomi acquires Israeli data startup for $45m",
+    "link": "https://www.techinasia.com/databricks-rolls-ai-agent-orchestration-layer",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 00:10"
   },
   {
     "title": "Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers",
@@ -1249,6 +1353,14 @@
   },
   {
     "title": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 09:36"
+  },
+  {
+    "title": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
     "link": "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -1262,6 +1374,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-18 09:00"
+  },
+  {
+    "title": "Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry",
+    "link": "https://www.scmp.com/economy/global-economy/article/3371261/germany-france-tighten-made-europe-stance-pressuring-chinas-auto-industry",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 07:00"
   },
   {
     "title": "Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry",
@@ -1281,6 +1401,14 @@
   },
   {
     "title": "For investors, there are now just 2 kinds of offices: the best and the rest",
+    "link": "https://www.scmp.com/business/article/3371225/investors-there-are-now-just-2-kinds-offices-best-and-rest",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 06:00"
+  },
+  {
+    "title": "For investors, there are now just 2 kinds of offices: the best and the rest",
     "link": "https://www.scmp.com/business/article/3371225/investors-there-are-now-just-2-kinds-offices-best-and-rest?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -1294,6 +1422,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-18 04:00"
+  },
+  {
+    "title": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
+    "link": "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 03:00"
   },
   {
     "title": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
@@ -1361,6 +1497,14 @@
   },
   {
     "title": "AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption",
+    "link": "https://www.scmp.com/economy/china-economy/article/3370754/ai-glasses-travel-guides-cheaper-china-technical-hitches-slow-adoption",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-17 13:00"
+  },
+  {
+    "title": "AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption",
     "link": "https://www.scmp.com/economy/china-economy/article/3370754/ai-glasses-travel-guides-cheaper-china-technical-hitches-slow-adoption?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -1401,6 +1545,14 @@
   },
   {
     "title": "Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide",
+    "link": "https://www.scmp.com/business/china-business/article/3371073/hong-kongs-skiers-flock-mainland-indoor-slopes-mushroom-nationwide",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-17 06:00"
+  },
+  {
+    "title": "Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide",
     "link": "https://www.scmp.com/business/china-business/article/3371073/hong-kongs-skiers-flock-mainland-indoor-slopes-mushroom-nationwide?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -1414,6 +1566,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-17 02:06"
+  },
+  {
+    "title": "Foreign banks trim China branch networks as low returns test strategy",
+    "link": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-17 02:00"
   },
   {
     "title": "Foreign banks trim China branch networks as low returns test strategy",
@@ -1550,6 +1710,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-16 12:00"
+  },
+  {
+    "title": "HKEX pushes back T+1 trade settlement to 2028 after brokers request more prep time",
+    "link": "https://www.scmp.com/business/markets/article/3371176/hkex-pushes-back-t1-trade-settlement-2028-after-brokers-request-more-prep-time",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-16 10:19"
   },
   {
     "title": "HKEX pushes back T+1 trade settlement to 2028 after brokers request more prep time",
@@ -4630,173 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-11 23:00"
-  },
-  {
-    "title": "Turning AI Ambition into Real-World Advantage",
-    "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3369896/turning-ai-ambition-real-world-advantage?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 21:00"
-  },
-  {
-    "title": "Chinese brokers work to crack the final code: win clients on global stage",
-    "link": "https://www.scmp.com/business/markets/article/3370375/chinese-brokers-work-crack-final-code-win-clients-global-stage?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 14:00"
-  },
-  {
-    "title": "Apple’s Tim Cook kicks off China visit amid mixed signals on new iPhone demand",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3370500/apples-tim-cook-kicks-china-visit-amid-mixed-signals-new-iphone-demand?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 13:00"
-  },
-  {
-    "title": "Meet the 20 top-funded startups and tech companies in Hong Kong",
-    "link": "https://www.techinasia.com/meet-20-topfunded-startups-tech-companies-hong-kong",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 09:00"
-  },
-  {
-    "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
-    "link": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 07:37"
-  },
-  {
-    "title": "Singapore’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/singapores-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 07:00"
-  },
-  {
-    "title": "New vs old: why new-builds are far outselling used homes in Hong Kong",
-    "link": "https://www.scmp.com/business/markets/article/3370332/new-vs-old-why-new-builds-are-far-outselling-used-homes-hong-kong?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 04:00"
-  },
-  {
-    "title": "Mapping the startups setting the pace in Korea’s AI sector",
-    "link": "https://www.techinasia.com/visual-story/mapping-koreas-leading-ai-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 04:00"
-  },
-  {
-    "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 03:04"
-  },
-  {
-    "title": "IPC makers expand US production as supply chains, tariffs shift",
-    "link": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:42"
-  },
-  {
-    "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
-    "link": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:41"
-  },
-  {
-    "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
-    "link": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:41"
-  },
-  {
-    "title": "Sysgration bets on battery backup, drones to hit US$314 million in sales by 2028",
-    "link": "https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:39"
-  },
-  {
-    "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
-    "link": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:39"
-  },
-  {
-    "title": "System integration emerges as Taiwan's next drone industry edge for defense scale-up",
-    "link": "https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:37"
-  },
-  {
-    "title": "Taiwan eases IFRS sustainability disclosure rules, cutting mandatory scope",
-    "link": "https://www.digitimes.com/news/a20261008PD206/taiwan-market.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:36"
-  },
-  {
-    "title": "Mobile and notebook slowdown boosts wearable sports tech demand",
-    "link": "https://www.digitimes.com/news/a20261008PD205/smartphone-2026-demand-wearable-shipments.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-11 02:36"
-  },
-  {
-    "title": "Cloudflare acquires software startup Deno to strengthen Workers",
-    "link": "https://www.techinasia.com/cloudflare-expands-developer-push-voidzero-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 01:15"
-  },
-  {
-    "title": "SoftBank-backed OPay secures $185m ahead of US IPO",
-    "link": "https://www.techinasia.com/nigeriafocused-fintech-opay-targets-4b-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 01:05"
-  },
-  {
-    "title": "As clock ticks on China’s commercial land leases, renewal plans allay investors’ concerns",
-    "link": "https://www.scmp.com/business/china-business/article/3370350/clock-ticks-chinas-commercial-land-leases-renewal-plans-allay-investors-concerns?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-11 01:00"
-  },
-  {
-    "title": "New and returning investors betting on SEA",
-    "link": "https://www.techinasia.com/returning-investors-betting-sea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-11 00:00"
   }
 ]
