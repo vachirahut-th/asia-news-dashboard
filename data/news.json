@@ -1,5 +1,85 @@
 [
   {
+    "title": "Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow",
+    "link": "https://www.scmp.com/business/china-business/article/3371545/chinese-battery-giant-catl-hit-profit-slowdown-ev-headwind-fears-grow",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-20 12:56"
+  },
+  {
+    "title": "Mapping China’s biotech titans",
+    "link": "https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 11:00"
+  },
+  {
+    "title": "HKMA to swap jobs of 2 deputy heads as part of succession planning: sources",
+    "link": "https://www.scmp.com/business/banking-finance/article/3371524/hkma-swap-jobs-2-deputy-heads-part-succession-planning-sources",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-20 10:25"
+  },
+  {
+    "title": "Unimicron chairman sees substrate sizes reaching 14x current scale by 2030",
+    "link": "https://www.digitimes.com/news/a20261020PD247/unimicron-substrate-tpca-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 10:09"
+  },
+  {
+    "title": "Bitget plans to buy Thai crypto exchange GMO-Z.com",
+    "link": "https://www.techinasia.com/bitget-adds-usdt-qr-payments-sea-latin-america",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 10:00"
+  },
+  {
+    "title": "Jensen Huang urges Germany to embrace physical AI at Berlin summit",
+    "link": "https://www.digitimes.com/news/a20261020PD246/nvidia-germany-jensen-huang-berlin-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 09:22"
+  },
+  {
+    "title": "GoTo’s 27B model speaks Batak, but the real test is who can afford to run it",
+    "link": "https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 09:17"
+  },
+  {
+    "title": "Samsung eyes six foldables for 2027, including a rollable phone",
+    "link": "https://www.digitimes.com/news/a20261020PD245/samsung-galaxy-2027-foldable-smartphone-foldable.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 09:09"
+  },
+  {
+    "title": "Japan's MMX mission launches successfully, gains edge over China in race for first Mars system sample return",
+    "link": "https://www.digitimes.com/news/a20261020PD234/jaxa-rocket-launch.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 09:05"
+  },
+  {
+    "title": "Global Tek's new Thailand plant enters trial production in 3Q26, targeting AI liquid cooling and aerospace opportunities",
+    "link": "https://www.digitimes.com/news/a20261020PD244/production-liquid-cooling-2026-plant-growth.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 09:05"
+  },
+  {
     "title": "These are the most active investors in China’s startups",
     "link": "https://www.techinasia.com/active-investors-chinas-startups",
     "source": "Tech in Asia",
@@ -152,6 +232,30 @@
     "published_at": "2026-10-20 06:59"
   },
   {
+    "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+    "link": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:45"
+  },
+  {
+    "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+    "link": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:40"
+  },
+  {
+    "title": "BYD's China EV battery market share slips as overseas installations surge 66.5%",
+    "link": "https://www.digitimes.com/news/a20261020PD229/byd-market-share-ev-battery-power-battery-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-20 06:35"
+  },
+  {
     "title": "China’s tax authority issues final call for wealthy citizens to declare offshore trust gains",
     "link": "https://www.scmp.com/business/china-business/article/3371463/chinas-tax-authority-issues-final-call-wealthy-citizens-declare-offshore-trust-gains",
     "source": "SCMP - Economy",
@@ -192,6 +296,14 @@
     "published_at": "2026-10-20 04:35"
   },
   {
+    "title": "TikTok Shop tops Shopee in Thailand Q2 GMV share: report",
+    "link": "https://www.techinasia.com/southeast-asia-drives-tiktok-shop-gmv-to-45b-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 04:23"
+  },
+  {
     "title": "Hong Kong ranks second in Asian pension systems, behind Singapore, as ageing tests retirement",
     "link": "https://www.scmp.com/business/article/3371439/hong-kong-ranks-2nd-asian-pension-systems-behind-singapore-ageing-tests-retirement",
     "source": "SCMP - Economy",
@@ -200,12 +312,36 @@
     "published_at": "2026-10-20 04:01"
   },
   {
+    "title": "The truth about AI language models: No one wants to pay for them",
+    "link": "https://www.techinasia.com/truth-ai-language-models-pay",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 04:00"
+  },
+  {
+    "title": "Japan’s startup funding, as explained in charts",
+    "link": "https://www.techinasia.com/visual-story/capital-japan-japans-funding-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 04:00"
+  },
+  {
     "title": "The consumer is still human. The gatekeeper isn’t",
     "link": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-20 04:00"
+  },
+  {
+    "title": "Cloudflare expands AI workspace integrations for enterprises",
+    "link": "https://www.techinasia.com/cloudflare-teams-google-clouds-wiz-ai-security",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 03:58"
   },
   {
     "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
@@ -368,6 +504,14 @@
     "published_at": "2026-10-20 01:45"
   },
   {
+    "title": "US AI chip startup Tenstorrent raises $1.5b to scale hardware",
+    "link": "https://www.techinasia.com/ai-chip-startup-taalas-raises-169m-rival-nvidia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 01:36"
+  },
+  {
     "title": "Succession? Survey finds 66% of ultra-rich’s young heirs not ready to take over",
     "link": "https://www.scmp.com/business/money/wealth/article/3371367/succession-survey-finds-66-cent-ultra-richs-young-heirs-not-ready-take-over",
     "source": "SCMP - Economy",
@@ -382,6 +526,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-20 01:30"
+  },
+  {
+    "title": "MiniMax launches M3.1 Flash for coding, agentic tasks",
+    "link": "https://www.techinasia.com/chinas-minimax-develops-openweight-ai-model-source",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-20 01:18"
   },
   {
     "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
@@ -601,6 +753,14 @@
   },
   {
     "title": "From English courses to furniture, actor Daniel Wu expands his business interests in China",
+    "link": "https://www.scmp.com/business/article/3371356/english-courses-furniture-actor-daniel-wu-expands-his-business-interests-china",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-19 08:00"
+  },
+  {
+    "title": "From English courses to furniture, actor Daniel Wu expands his business interests in China",
     "link": "https://www.scmp.com/business/article/3371356/english-courses-furniture-actor-daniel-wu-expands-his-business-interests-china?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -734,6 +894,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-19 06:01"
+  },
+  {
+    "title": "Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax",
+    "link": "https://www.scmp.com/business/markets/article/3371345/why-mainland-chinese-still-drive-hong-kongs-housing-market-despite-beijings-20-tax",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-19 06:00"
   },
   {
     "title": "Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax",
@@ -961,6 +1129,14 @@
   },
   {
     "title": "China’s investors flock to dividend stocks as returns double those of state bonds",
+    "link": "https://www.scmp.com/business/china-business/article/3371315/chinas-investors-flock-dividend-stocks-returns-double-those-state-bonds",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-19 01:00"
+  },
+  {
+    "title": "China’s investors flock to dividend stocks as returns double those of state bonds",
     "link": "https://www.scmp.com/business/china-business/article/3371315/chinas-investors-flock-dividend-stocks-returns-double-those-state-bonds?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -1017,11 +1193,27 @@
   },
   {
     "title": "Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real",
+    "link": "https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 23:00"
+  },
+  {
+    "title": "Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real",
     "link": "https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-18 23:00"
+  },
+  {
+    "title": "The AI promise was automation. The reality? Managing digital workers",
+    "link": "https://www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 14:00"
   },
   {
     "title": "The AI promise was automation. The reality? Managing digital workers",
@@ -1038,6 +1230,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-18 11:00"
+  },
+  {
+    "title": "Hong Kong’s primary residential market sees wave of launches, successful sales",
+    "link": "https://www.scmp.com/business/article/3371302/hong-kongs-primary-residential-market-sees-wave-launches-successful-sales",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-18 10:01"
   },
   {
     "title": "Hong Kong’s primary residential market sees wave of launches, successful sales",
@@ -4598,205 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-11 00:00"
-  },
-  {
-    "title": "Meet the 25 top-funded startups and tech companies in the Philippines",
-    "link": "https://www.techinasia.com/meet-25-topfunded-startups-tech-companies-philippines",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 11:00"
-  },
-  {
-    "title": "Better protection needed as violent cryptocurrency robberies surge",
-    "link": "https://www.scmp.com/opinion/world-opinion/article/3370088/better-protection-needed-violent-cryptocurrency-robberies-surge?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-10 08:30"
-  },
-  {
-    "title": "Southeast Asia’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/southeast-asias-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 07:00"
-  },
-  {
-    "title": "Phison posts record September revenue as AI tops half of sales",
-    "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:30"
-  },
-  {
-    "title": "Trump awards science medal to Elon Musk, Jensen Huang",
-    "link": "https://www.digitimes.com/news/a20261008PD232/ceo-donald-trump-award-nvidia-dell.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:29"
-  },
-  {
-    "title": "Huawei faces price reset as memory costs surge",
-    "link": "https://www.digitimes.com/news/a20261008PD248/huawei-price-business-smartphone-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:29"
-  },
-  {
-    "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
-    "link": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:29"
-  },
-  {
-    "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
-    "link": "https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:27"
-  },
-  {
-    "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
-    "link": "https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:27"
-  },
-  {
-    "title": "Semco moves glass substrates to package-level testing",
-    "link": "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:27"
-  },
-  {
-    "title": "JNTC bets US$259 million on glass substrates ahead of 2028 ramp",
-    "link": "https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:27"
-  },
-  {
-    "title": "US plans for 'Autowarcom' deepen military's focus on autonomous weapons",
-    "link": "https://www.digitimes.com/news/a20261008VL224/military-war-manufacturing-low-cost-ukraine.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:26"
-  },
-  {
-    "title": "SK Hynix sends memory chips into orbit for testing",
-    "link": "https://www.digitimes.com/news/a20261008VL225/sk-hynix-testing-dram-ufs-launch.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:26"
-  },
-  {
-    "title": "Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst",
-    "link": "https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:26"
-  },
-  {
-    "title": "China's GW satellite network clears dual-polar test, signaling broader push toward sovereign LEO communications",
-    "link": "https://www.digitimes.com/news/a20261008VL227/china-leo-satellite-communications.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:26"
-  },
-  {
-    "title": "AI headphones expose audio market's missing platform",
-    "link": "https://www.digitimes.com/news/a20261007PD241/audio-ic-ai-demand-voice-assistant.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-10 06:25"
-  },
-  {
-    "title": "Gen Z overtakes older collectors as art market spending rebounds globally: report",
-    "link": "https://www.scmp.com/business/article/3370329/gen-z-overtakes-older-collectors-art-market-spending-rebounds-globally-report?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-10 06:00"
-  },
-  {
-    "title": "Half the market will not take your money: The access problem for regulated startups",
-    "link": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 03:00"
-  },
-  {
-    "title": "Panorama JTB, Spun form Indonesia visa venture",
-    "link": "https://www.techinasia.com/antler-backs-1-8m-round-in-indonesian-travel-startup-spun",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 01:29"
-  },
-  {
-    "title": "Thrive Capital leads $1.85b round for US fintech firm Ramp",
-    "link": "https://www.techinasia.com/openai-ramps-global-ai-infrastructure-with-new-exec",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 01:15"
-  },
-  {
-    "title": "Singapore data center operator DayOne explores $500m bond",
-    "link": "https://www.techinasia.com/sg-data-center-firm-dayone-line-banks-5b-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 01:05"
-  },
-  {
-    "title": "From backend to bedtime",
-    "link": "https://www.techinasia.com/from-backend-to-bedtime",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 00:30"
-  },
-  {
-    "title": "China wants 5 innovative drugs with US$1 billion returns by 2030. Which might they be?",
-    "link": "https://www.scmp.com/business/china-business/article/3370340/china-wants-5-innovative-drugs-us1-billion-returns-2030-which-might-they-be?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-10 00:00"
-  },
-  {
-    "title": "Surviving the funding game: how timing can make or break your startup",
-    "link": "https://www.techinasia.com/visual-story/time-between-funding-stages",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-10 00:00"
-  },
-  {
-    "title": "K&K offers extra warranty to One Stanley homebuyers amid building defects furore",
-    "link": "https://www.scmp.com/business/article/3370397/kk-offers-extra-warranty-one-stanley-homebuyers-amid-building-defects-furore?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-09 13:50"
   }
 ]
