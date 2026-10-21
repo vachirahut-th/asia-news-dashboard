@@ -1,5 +1,13 @@
 [
   {
+    "title": "Could Hong Kong’s student housing boom lure property giants off the sidelines?",
+    "link": "https://www.scmp.com/business/article/3371634/could-hong-kongs-student-housing-boom-lure-property-giants-sidelines",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-21 23:00"
+  },
+  {
     "title": "Tesla signs deal to integrate Alipay into its cars as China competition heats up",
     "link": "https://www.scmp.com/tech/big-tech/article/3371668/tesla-signs-deal-integrate-alipay-its-cars-china-competition-heats",
     "source": "SCMP - Economy",
@@ -296,6 +304,14 @@
     "published_at": "2026-10-21 06:35"
   },
   {
+    "title": "Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity",
+    "link": "https://www.digitimes.com/news/a20261021PD205/taiwan-pcb-2026-tpca-materials.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 06:23"
+  },
+  {
     "title": "Toku launches visual tool to build speech AI",
     "link": "https://www.techinasia.com/startups-turning-southeast-asias-ai-hype-working-agents",
     "source": "Tech in Asia",
@@ -328,12 +344,28 @@
     "published_at": "2026-10-21 06:00"
   },
   {
+    "title": "Qualcomm plans global performance-based layoffs from November",
+    "link": "https://www.digitimes.com/news/a20261021PD233/qualcomm-layoffs-ceo-business-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 05:58"
+  },
+  {
     "title": "DeepSeek open-sources tool to cut AI costs",
     "link": "https://www.techinasia.com/deepseek-raise-v4-ai-prices-add-peak-rates",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-21 05:58"
+  },
+  {
+    "title": "US sanctions five Chinese entities over trade secret theft tied to ex-Google engineer",
+    "link": "https://www.digitimes.com/news/a20261021VL210/google-ai-software-security-legal-usa-beijing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 05:54"
   },
   {
     "title": "Spark Capital leads $325m round for AI aviation startup ASI",
@@ -350,6 +382,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-21 05:27"
+  },
+  {
+    "title": "Micron funds critical minerals processing at Indium Corporation's New York facility",
+    "link": "https://www.digitimes.com/news/a20261021VL207.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 05:13"
   },
   {
     "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
@@ -376,12 +416,68 @@
     "published_at": "2026-10-21 05:00"
   },
   {
+    "title": "Visa partners with Bill, Billtrust on AI agent payments",
+    "link": "https://www.techinasia.com/visa-updates-singapore-security-plan-ai-threats-grow",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-21 04:53"
+  },
+  {
+    "title": "CXMT's next DRAM milestone: 4F&sup2; server memory with hybrid bonding by end-2026",
+    "link": "https://www.digitimes.com/news/a20261021PD220/cxmt-dram-manufacturing-management-transistor.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 04:41"
+  },
+  {
+    "title": "DayOne considers delaying, shrinking planned US IPO",
+    "link": "https://www.techinasia.com/sg-data-center-firm-dayone-line-banks-5b-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-21 04:41"
+  },
+  {
+    "title": "81% of Singaporeans plan to use AI for gifts: Klaviyo",
+    "link": "https://www.techinasia.com/israeli-ai-platform-humanz-nets-15m-expands-via-acquisitions",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-21 04:38"
+  },
+  {
+    "title": "CATL's profit growth slows, sharpening focus on 50% energy-storage revenue target",
+    "link": "https://www.digitimes.com/news/a20261021VL209/catl-battery-revenue-profit-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 04:32"
+  },
+  {
+    "title": "AMD: Physical AI demands more than TOPS",
+    "link": "https://www.digitimes.com/news/a20261021PD207/physical-ai-performance-amd-president-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 04:22"
+  },
+  {
     "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
     "link": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-21 04:19"
+  },
+  {
+    "title": "DIGITIMES Insights: AI server PCB upgrades drive explosive demand for advanced backdrilling equipment",
+    "link": "https://www.digitimes.com/news/a20261021PD236/pcb-equipment-transmission-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-21 04:08"
   },
   {
     "title": "Surveyors say presales at Pak Shing Kok residential project could begin in 2028",
@@ -3065,6 +3161,14 @@
   },
   {
     "title": "Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds",
+    "link": "https://www.scmp.com/business/article/3371004/hong-kong-ranks-third-globally-philanthropy-hub-behind-new-york-and-seoul-study-finds",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-15 09:00"
+  },
+  {
+    "title": "Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds",
     "link": "https://www.scmp.com/business/article/3371004/hong-kong-ranks-third-globally-philanthropy-hub-behind-new-york-and-seoul-study-finds?utm_source=rss_feed",
     "source": "SCMP - Economy",
     "category": "Economy",
@@ -4694,109 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-13 06:00"
-  },
-  {
-    "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
-    "link": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-13 05:59"
-  },
-  {
-    "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
-    "link": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-13 05:59"
-  },
-  {
-    "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
-    "link": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:51"
-  },
-  {
-    "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
-    "link": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-13 05:50"
-  },
-  {
-    "title": "China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers",
-    "link": "https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-13 05:44"
-  },
-  {
-    "title": "Zenyum parent MakeO raises $10m for Asia expansion",
-    "link": "https://www.techinasia.com/paypal-shares-sink-19-after-weak-q4-results-ceo-change",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:30"
-  },
-  {
-    "title": "VinFast offers dealers up to $60,000 to open EV showrooms",
-    "link": "https://www.techinasia.com/vinfast-launches-battery-swapping-e-motorcycles-in-indonesia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:21"
-  },
-  {
-    "title": "Nvidia, Cisco plan new optics format for AI data centers",
-    "link": "https://www.techinasia.com/nvidia-aolani-expand-sea-ai-factories",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:20"
-  },
-  {
-    "title": "US cybersecurity firm Zscaler adds Claude Mythos 5.1",
-    "link": "https://www.techinasia.com/palo-alto-to-acquire-israeli-ai-security-firm-koi",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:10"
-  },
-  {
-    "title": "Salesforce acquires Israeli AI startup Loops for $30m",
-    "link": "https://www.techinasia.com/salesforce-agrees-buy-fin-36b-boost-ai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:01"
-  },
-  {
-    "title": "Vietnamese-founded Drylab raises US$3M to put autonomous AI scientists inside pharma labs",
-    "link": "https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 05:00"
-  },
-  {
-    "title": "HCLTech, Anthropic partner on enterprise AI agents",
-    "link": "https://www.techinasia.com/anthropics-tool-triggers-slump-indian-stocks",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-13 04:34"
-  },
-  {
-    "title": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030",
-    "link": "https://www.digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-13 04:29"
   }
 ]
