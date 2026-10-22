@@ -1,5 +1,21 @@
 [
   {
+    "title": "HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong",
+    "link": "https://www.scmp.com/business/cryptocurrency/article/3371805/hsbc-redcoin-stablecoin-launches-33-million-payme-users-hong-kong",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-22 23:00"
+  },
+  {
+    "title": "Embracing the Experience Economy",
+    "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3371715/embracing-experience-economy",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-22 21:00"
+  },
+  {
     "title": "Micron overhauls pay in Taiwan as unions push for profit sharing",
     "link": "https://www.digitimes.com/news/a20261022VL223/micron-taiwan-labor-staff-samsung.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -352,6 +368,30 @@
     "published_at": "2026-10-22 04:07"
   },
   {
+    "title": "Why Terafab approached South Korean suppliers first",
+    "link": "https://www.digitimes.com/news/a20261022PD229/elon-musk-equipment-tesla-materials-spacex.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 04:06"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio to advance AI drug development",
+    "link": "https://www.digitimes.com/news/a20261022PD203/openai-biotech-acquisition-medical-startup.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 04:03"
+  },
+  {
+    "title": "A list of fundraising startups from Asia and beyond (Updated)",
+    "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-22 04:00"
+  },
+  {
     "title": "Starbucks China rolls out buy-before-seating rule after reversing open-door policy in US",
     "link": "https://www.scmp.com/business/companies/article/3371721/starbucks-china-rolls-out-buy-seating-rule-after-reversing-open-door-policy-us",
     "source": "SCMP - Economy",
@@ -368,12 +408,76 @@
     "published_at": "2026-10-22 04:00"
   },
   {
+    "title": "Unitree showcases H2-X as China's humanoid robot output tops 100,000",
+    "link": "https://www.digitimes.com/news/a20261022PD234/robot-production-miit-security-vehicle.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:57"
+  },
+  {
+    "title": "US database firm Couchbase adds Amazon Bedrock integration",
+    "link": "https://www.techinasia.com/indian-software-startup-reo-dev-raises-11-3m-in-series-a",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-22 03:54"
+  },
+  {
+    "title": "Inside Nvidia DSX POD: How a factory-built AI data center could go live in 14 days",
+    "link": "https://www.digitimes.com/news/a20261022PD232/nvidia-data-center-gtc-berlin-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:53"
+  },
+  {
+    "title": "Siemens taps Nvidia AI to cut board inspection prep",
+    "link": "https://www.techinasia.com/nvidia-synopsys-siemens-adopt-cudax-chipmaking",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-22 03:53"
+  },
+  {
     "title": "Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason",
     "link": "https://e27.co/taiwan-kills-grabs-us600m-foodpanda-deal-and-ubers-shadow-is-the-reason-20261022/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-22 03:52"
+  },
+  {
+    "title": "Japan sets execution plan for 17 growth strategies",
+    "link": "https://www.digitimes.com/news/a20261022PD233/investment-government-growth-2026-semiconductors.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:51"
+  },
+  {
+    "title": "BOS, LG, and HANA Micron team up on Korean automotive chiplets",
+    "link": "https://www.digitimes.com/news/a20261022VL211/micron-automotive-bos-lg-electronics-lg.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:50"
+  },
+  {
+    "title": "Racing Electric Instrument expands across drone systems",
+    "link": "https://www.digitimes.com/news/a20261022PD225/development-taiwan-manufacturing-robotics-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:46"
+  },
+  {
+    "title": "Amazon backs 960MW nuclear project for AI power",
+    "link": "https://www.digitimes.com/news/a20261022PD212/amazon-nuclear-data-technology-power-plant.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-22 03:37"
   },
   {
     "title": "Hong Kong stocks head for 4-month low as chance of strong stimulus from Beijing shrinks",
@@ -4694,109 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-14 05:50"
-  },
-  {
-    "title": "GoTo shareholders approve canceling 2.7% of shares",
-    "link": "https://www.techinasia.com/goto-appoints-hans-patuwo-as-ceo-replacing-patrick-walujo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 05:50"
-  },
-  {
-    "title": "Alipay+ partners with Malaysia on AI-powered tourism",
-    "link": "https://www.techinasia.com/ant-international-opens-development-center-malaysia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 05:50"
-  },
-  {
-    "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
-    "link": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 05:29"
-  },
-  {
-    "title": "JCET redirects Korean factories towards AI to counter weak smartphone growth",
-    "link": "https://www.digitimes.com/news/a20261014VL207/jcet-packaging-growth-2026-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-14 05:17"
-  },
-  {
-    "title": "Ex-Qoala execs’ AI firm Parallel Loop raises $6.6m",
-    "link": "https://www.techinasia.com/openais-codex-head-sees-incredible-adoption-across-asia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 05:00"
-  },
-  {
-    "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
-    "link": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 05:00"
-  },
-  {
-    "title": "Google unveils Gemini 4 Argon, balancing frontier capabilities with rigorous safety standards",
-    "link": "https://www.digitimes.com/news/a20261014VL206/google-gemini-ai-agent-cybersecurity-launch.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-14 04:44"
-  },
-  {
-    "title": "OpenAI in talks to buy cybersecurity firm Trail of Bits, report says",
-    "link": "https://www.digitimes.com/news/a20261014VL209/openai-cybersecurity-acquisition-software.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-14 04:34"
-  },
-  {
-    "title": "Singapore’s IMDA announces agentic AI testing kit, safety push",
-    "link": "https://www.techinasia.com/sg-unveils-model-governance-framework-for-agentic-ai-at-wef",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 04:31"
-  },
-  {
-    "title": "China’s startup funding, as explained in charts",
-    "link": "https://www.techinasia.com/visual-story/capital-china-chinas-funding-landscape",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 04:00"
-  },
-  {
-    "title": "Spacetech startup Aliena raises $5.5m to expand into Europe",
-    "link": "https://www.techinasia.com/sg-spacetech-startup-aliena-raises-55m-expand-europe",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-14 04:00"
-  },
-  {
-    "title": "Sluggish Chinese demand weighs on LVMH, as Louis Vuitton’s Molly Tea case casts a shadow",
-    "link": "https://www.scmp.com/business/article/3370795/sluggish-chinese-demand-weighs-lvmh-louis-vuittons-molly-tea-case-casts-shadow?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-14 04:00"
-  },
-  {
-    "title": "Spotlight on Hong Kong as APEC finance ministers gather to discuss region’s economic future",
-    "link": "https://www.scmp.com/presented/business/topics/hong-kongs-financial-influence/article/3370536/spotlight-hong-kong-apec-finance-ministers-gather-discuss-regions-economic-future?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-14 04:00"
   }
 ]
