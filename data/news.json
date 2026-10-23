@@ -1,5 +1,21 @@
 [
   {
+    "title": "Monetary Policy Publications",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-23 22:56"
+  },
+  {
+    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
+    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-10-23 22:56"
+  },
+  {
     "title": "Head Office, Branches, and Overseas Offices",
     "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
     "source": "Bank of Japan (BOJ)",
@@ -384,6 +400,30 @@
     "published_at": "2026-10-23 04:00"
   },
   {
+    "title": "China's weak car market squeezes automakers, suppliers and dealers",
+    "link": "https://www.digitimes.com/news/a20261023PD206/market-automakers-sales-2026-supplier.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:59"
+  },
+  {
+    "title": "Analysis: Nvidia's Vera CPU takes on Intel and AMD with a platform play",
+    "link": "https://www.digitimes.com/news/a20261023PD219/nvidia-cpu-intel-amd-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:58"
+  },
+  {
+    "title": "JCET's AI profit surge sets up US$2.73 billion advanced packaging expansion",
+    "link": "https://www.digitimes.com/news/a20261023VL213/jcet-advanced-packaging-expansion-revenue-profit.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:57"
+  },
+  {
     "title": "Fomo Pay, PantherTrade enable compliant digital asset transfers",
     "link": "https://www.techinasia.com/stablecoins-quietly-shaking-asias-financial-foundations",
     "source": "Tech in Asia",
@@ -392,12 +432,52 @@
     "published_at": "2026-10-23 03:57"
   },
   {
+    "title": "US signs up to US$389 million in CHIPS R&amp;D deals for power chips and fusion",
+    "link": "https://www.digitimes.com/news/a20261023PR201/materials-electronics-semiconductors-development-quartz.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:56"
+  },
+  {
+    "title": "Anthropic launches Claude Duet to automate cross-app tasks",
+    "link": "https://www.digitimes.com/news/a20261023PD202/claude-anthropic-meta-software-apps.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:51"
+  },
+  {
+    "title": "DIGITIMES Insight: BCI grasping reaches market; implant stability and chip heat keep advanced uses beyond 2030",
+    "link": "https://www.digitimes.com/news/a20261023PD212/digitimes-2030-market-commercial-chips.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:50"
+  },
+  {
+    "title": "Tesla, Nvidia reportedly invest KRW3.7 trillion to secure Samsung Electro-Mechanics ABF capacity",
+    "link": "https://www.digitimes.com/news/a20261023PD226/tesla-nvidia-semco-production-abf-substrate.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:44"
+  },
+  {
     "title": "Red Hat opens Asia Pacific AI hub in Singapore",
     "link": "https://www.techinasia.com/openclaw-foundation-launches-open-source-ai-agent-platform",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-23 03:43"
+  },
+  {
+    "title": "Taiwan sits out global chip selloff, thanks to typhoon",
+    "link": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:37"
   },
   {
     "title": "MiniMax shares fall below IPO price as AI competition grows",
@@ -606,6 +686,38 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-23 00:30"
+  },
+  {
+    "title": "Unitree Robotics develops humanoid coding system",
+    "link": "https://www.techinasia.com/chinas-unitree-debuts-humanoid-robot-app-store",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-23 00:05"
+  },
+  {
+    "title": "Flipkart backs Indian travel startup TravClan in $5m round",
+    "link": "https://www.techinasia.com/flipkart-takes-stake-indian-travel-platform-travclan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-23 00:04"
+  },
+  {
+    "title": "China’s Zhipu co-launches $150m AI fund",
+    "link": "https://www.techinasia.com/zhipu-ai-seeks-shanghai-listing-after-blockbuster-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-23 00:01"
+  },
+  {
+    "title": "Asia’s tech investors with the highest exit rates",
+    "link": "https://www.techinasia.com/asias-tech-investors-highest-exit-rate",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-23 00:00"
   },
   {
     "title": "Wall Street piles into Hong Kong’s dim sum bonds despite fading yuan funding edge: BofA",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-15 07:00"
-  },
-  {
-    "title": "SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips",
-    "link": "https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 06:46"
-  },
-  {
-    "title": "China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion",
-    "link": "https://www.scmp.com/economy/china-economy/article/3370970/chinas-cxmt-gets-pledge-support-provincial-party-chief-vows-chip-industry-expansion?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 06:18"
-  },
-  {
-    "title": "AI job losses set to rein in office demand in developed Asia-Pacific economies: report",
-    "link": "https://www.scmp.com/business/article/3370934/ai-job-losses-set-rein-office-demand-developed-asia-pacific-economies-report?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 06:00"
-  },
-  {
-    "title": "Alibaba’s Taobao revamps cross-border shopping with AI tools",
-    "link": "https://www.techinasia.com/alibaba-integrates-1688-alibabacom-single-operation",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 05:25"
-  },
-  {
-    "title": "Nexus Venture Partners backs Indian resale startup Circle",
-    "link": "https://www.techinasia.com/circle-q4-revenue-jumps-77-to-770m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 04:45"
-  },
-  {
-    "title": "AI can increase productivity. It can’t increase human capacity",
-    "link": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 04:30"
-  },
-  {
-    "title": "Applied Materials unveils AI chip hub with TSMC, Intel",
-    "link": "https://www.techinasia.com/meta-broadcom-back-125m-ai-chip-hub-at-ucla",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 04:04"
-  },
-  {
-    "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
-    "link": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 04:00"
-  },
-  {
-    "title": "Human rights: Lost in the “S” of ESG?",
-    "link": "https://e27.co/human-rights-lost-in-the-s-of-esg-20261012/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 04:00"
-  },
-  {
-    "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
-    "link": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 03:53"
-  },
-  {
-    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
-    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 03:37"
-  },
-  {
-    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
-    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 03:37"
-  },
-  {
-    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 03:37"
-  },
-  {
-    "title": "Monetary Policy Committee Meeting",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 03:37"
   }
 ]
