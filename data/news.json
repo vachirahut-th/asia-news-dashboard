@@ -1,5 +1,61 @@
 [
   {
+    "title": "Israeli fintech firm Fireblocks plans to cut 7% of workforce",
+    "link": "https://www.techinasia.com/moneygram-launches-mgusd-stablecoin",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 08:20"
+  },
+  {
+    "title": "China’s Moonshot AI unveils Kimi K3.1 Pro model",
+    "link": "https://www.techinasia.com/moonshot-ais-kimi-k3-escapes-test-environment-report",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 08:10"
+  },
+  {
+    "title": "OpenAI resumes AI training without internet access",
+    "link": "https://www.techinasia.com/openai-tool-cuts-sentinelone-malware-analysis-8-hours",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 07:52"
+  },
+  {
+    "title": "Bukalapak hits positive Q3 adjusted EBITDA in digital pivot",
+    "link": "https://www.techinasia.com/indonesias-biggest-issue-lack-founders-achmad-zaky",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 07:44"
+  },
+  {
+    "title": "Series SEA: Who’s investing in the region’s biotech startups?",
+    "link": "https://www.techinasia.com/top-sea-investors-biotech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 07:00"
+  },
+  {
+    "title": "HSBC to open new wealth centre in Abu Dhabi despite regional conflict",
+    "link": "https://www.scmp.com/business/article/3371958/hsbc-open-new-wealth-centre-abu-dhabi-despite-regional-conflict",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-24 06:00"
+  },
+  {
+    "title": "The 50 top-funded greentech companies in Asia",
+    "link": "https://www.techinasia.com/50-topfunded-cleantech-companies-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 04:00"
+  },
+  {
     "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
     "link": "https://www.bot.or.th/en/news-and-media/activities.html",
     "source": "Bank of Thailand (BOT)",
@@ -600,12 +656,28 @@
     "published_at": "2026-10-23 03:22"
   },
   {
+    "title": "ChainSea Information Integration lists, targets AI revenue growth by 2027",
+    "link": "https://www.digitimes.com/news/a20261023PD200/revenue-growth-2027-business-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:11"
+  },
+  {
     "title": "Toku rolls out customer service system for Glovo in 21 markets",
     "link": "https://www.techinasia.com/toku-files-preliminary-prospectus-proposed-ipo",
     "source": "Tech in Asia",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-23 03:09"
+  },
+  {
+    "title": "Analysis: Nvidia's DSX POD reshapes AI factory supply chains",
+    "link": "https://www.digitimes.com/news/a20261023PD217/nvidia-ai-server-equipment-cooling.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:02"
   },
   {
     "title": "How AI became my sparring partner",
@@ -4726,77 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-15 08:39"
-  },
-  {
-    "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan",
-    "link": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 08:37"
-  },
-  {
-    "title": "Trump says Taiwan will buy 30% of LNG output from Alaska project; Taipei confirms plans but not final terms",
-    "link": "https://www.digitimes.com/news/a20261015VL223/taiwan-donald-trump-government-investment-commercial.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:32"
-  },
-  {
-    "title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
-    "link": "https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:25"
-  },
-  {
-    "title": "AI server tracker: AIC accelerates as Taiwan's connector and chassis suppliers post uneven growth",
-    "link": "https://www.digitimes.com/news/a20261014VL219/taiwan-revenue-connector-aic-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:20"
-  },
-  {
-    "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
-    "link": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 08:19"
-  },
-  {
-    "title": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
-    "link": "https://www.digitimes.com/news/a20261015PD240/tsmc-high-na-euv-adoption-2030.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:14"
-  },
-  {
-    "title": "SEA ecommerce could near $400b by 2031: Xendit",
-    "link": "https://www.techinasia.com/indonesia-court-clears-way-for-alt-payments-on-google-play",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 08:14"
-  },
-  {
-    "title": "SK Hynix reportedly ties US NAND fab plan to approval for chip equipment exports to China",
-    "link": "https://www.digitimes.com/news/a20261015VL222/sk-hynix-equipment-nand-exports-solidigm.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:11"
-  },
-  {
-    "title": "AI server tracker: Taiwanese ODM/EMS players post NT$2.18T in September 2026, up 56% YoY",
-    "link": "https://www.digitimes.com/news/a20261015VL220/2026-revenue-demand-gross-margin-earnings.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:10"
   }
 ]
