@@ -1,5 +1,93 @@
 [
   {
+    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
+    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 03:40"
+  },
+  {
+    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
+    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 03:40"
+  },
+  {
+    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 03:40"
+  },
+  {
+    "title": "Monetary Policy Committee Meeting",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 03:40"
+  },
+  {
+    "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+    "link": "https://www.digitimes.com/news/a20261023PD243/nvidia-cxmt-demand-technology-market.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-24 01:44"
+  },
+  {
+    "title": "SpaceX's 80,000-site push turns Starlink from satellite overlay into full mobile challenger",
+    "link": "https://www.digitimes.com/news/a20261023VL221/spacex-starlink-mobile-infrastructure.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-24 01:44"
+  },
+  {
+    "title": "Bosch to spin off automotive business as Asian rivals intensify pressure",
+    "link": "https://www.digitimes.com/news/a20261023PD244/bosch-business-automotive-subsidiary-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-24 01:43"
+  },
+  {
+    "title": "AIDC launches Taiwan's largest industrial microgrid with 9MW/54MWh energy storage capacity",
+    "link": "https://www.digitimes.com/news/a20261023PD221/aidc-industrial-taiwan-electricity-management.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-24 01:43"
+  },
+  {
+    "title": "LGES Poland plant nears breakeven as utilization rebounds",
+    "link": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-24 01:36"
+  },
+  {
+    "title": "The future’s here, delivering parcels",
+    "link": "https://www.techinasia.com/the-futures-here-delivering-parcels",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 00:30"
+  },
+  {
+    "title": "Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion",
+    "link": "https://www.scmp.com/business/china-business/article/3371469/good-morning-vietnam-chinese-brokers-eye-neighbouring-springboard-overseas-expansion",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-23 23:00"
+  },
+  {
     "title": "Monetary Policy Publications",
     "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
     "source": "Bank of Thailand (BOT)",
@@ -478,6 +566,30 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-23 03:37"
+  },
+  {
+    "title": "Care robots need AI modeling, physics simulation to understand humans",
+    "link": "https://www.digitimes.com/news/a20261023PD201/taiwan-labor-robot.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:33"
+  },
+  {
+    "title": "Mounting R&amp;D and memory costs push Huawei to borrow US$2.3B from six Chinese banks",
+    "link": "https://www.digitimes.com/news/a20261023VL211/huawei-harmonyos-loan-chips-financing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:29"
+  },
+  {
+    "title": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry",
+    "link": "https://www.digitimes.com/news/a20261023VL216/legal-tsmc-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-23 03:24"
   },
   {
     "title": "MiniMax shares fall below IPO price as AI competition grows",
@@ -4686,117 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-15 08:10"
-  },
-  {
-    "title": "Applied Materials CEO says agentic AI drives wafer demand",
-    "link": "https://www.digitimes.com/news/a20261015PD231/applied-materials-demand-wafer-ceo-equipment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 08:02"
-  },
-  {
-    "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
-    "link": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 08:00"
-  },
-  {
-    "title": "India's RRP Electronics opens advanced wafer-level packaging facility in Navi Mumbai",
-    "link": "https://www.digitimes.com/news/a20261014VL217/rrp-electronics-mumbai-packaging-chairman-testing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 07:59"
-  },
-  {
-    "title": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-    "link": "https://www.digitimes.com/news/a20261015PD239/tsmc-elon-musk-terafab-capacity-expansion.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 07:50"
-  },
-  {
-    "title": "Ubisoft to cut 70 Singapore jobs after $1.7b annual loss",
-    "link": "https://www.techinasia.com/game-industry-could-gain-22b-from-ai-cost-cuts-report",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:46"
-  },
-  {
-    "title": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
-    "link": "https://www.digitimes.com/news/a20261015VL221/tsmc-revenue-2nm-demand-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 07:31"
-  },
-  {
-    "title": "China's AMEC targets 60% of high-end chip equipment market with US$1.94 billion R&amp;D plan",
-    "link": "https://www.digitimes.com/news/a20261015VL211/equipment-amec-high-end-market-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 07:24"
-  },
-  {
-    "title": "Samsung reportedly completes 4F&sup2; DRAM development as China's CXMT targets year-end launch",
-    "link": "https://www.digitimes.com/news/a20261015VL219/samsung-dram-development-cxmt.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 07:16"
-  },
-  {
-    "title": "Sea partners with Google AI fund to explore new applications",
-    "link": "https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:14"
-  },
-  {
-    "title": "On‑demand services lift Line Man Wongnai’s 2025 revenue to $544m",
-    "link": "https://www.techinasia.com/ondemand-services-lift-line-man-wongnais-2025-revenue-544m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:11"
-  },
-  {
-    "title": "WhatsApp to add guest calling for non-users",
-    "link": "https://www.techinasia.com/meta-adds-calls-whatsapp-web-gradual-rollout",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:04"
-  },
-  {
-    "title": "Hong Kong firm, Qatar bank to launch Chinese equity fund to lure Middle East capital",
-    "link": "https://www.scmp.com/business/banking-finance/article/3370965/hong-kong-firm-qatar-bank-launch-chinese-equity-fund-lure-middle-east-capital?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 07:00"
-  },
-  {
-    "title": "Protecting creator voices from unauthorized AI training",
-    "link": "https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:00"
-  },
-  {
-    "title": "Japan’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/japans-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 07:00"
   }
 ]
