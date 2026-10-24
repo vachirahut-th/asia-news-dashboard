@@ -1,5 +1,13 @@
 [
   {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-24 18:37"
+  },
+  {
     "title": "Mapping the trailblazing startups in Australia’s AI sector",
     "link": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector",
     "source": "Tech in Asia",
@@ -4790,13 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-15 09:00"
-  },
-  {
-    "title": "NewsLatest news from the BOT",
-    "link": "https://www.bot.or.th/en/news-and-media/news.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-15 08:56"
   }
 ]
