@@ -1,5 +1,45 @@
 [
   {
+    "title": "BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs",
+    "link": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-25 08:00"
+  },
+  {
+    "title": "Series SEA: Who’s investing in the region’s health startups?",
+    "link": "https://www.techinasia.com/top-sea-investors-health",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-25 07:00"
+  },
+  {
+    "title": "What’s next for Hong Kong developers in mainland China?",
+    "link": "https://www.scmp.com/property/article/3371965/whats-next-hong-kong-developers-mainland-china",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-25 06:00"
+  },
+  {
+    "title": "India to require active SIMs for WhatsApp, Telegram in 2027",
+    "link": "https://www.techinasia.com/meta-adds-calls-whatsapp-web-gradual-rollout",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-25 04:20"
+  },
+  {
+    "title": "Instacart reportedly explores sale talks with DoorDash, Uber",
+    "link": "https://www.techinasia.com/openai-instacart-roll-out-in-chat-grocery-shopping-feature",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-25 03:53"
+  },
+  {
     "title": "AWS sells out cloud capacity through 2027 as AI demand grows",
     "link": "https://www.techinasia.com/amazon-openai-partner-conversational-ads-chatgpt",
     "source": "Tech in Asia",
@@ -94,6 +134,38 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-25 00:42"
+  },
+  {
+    "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+    "link": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-25 00:41"
+  },
+  {
+    "title": "Moonshot's Singapore hiring shows how China's open-model labs plan to get paid abroad",
+    "link": "https://www.digitimes.com/news/a20261023VL209/moonshot-sales-revenue-business-cloud.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-25 00:41"
+  },
+  {
+    "title": "Tesla-SpaceX merger tests whether Musk's technology empire is worth more together",
+    "link": "https://www.digitimes.com/news/a20261023VL217/tesla-technology-merger-spacex-elon-musk.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-25 00:41"
+  },
+  {
+    "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
+    "link": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-25 00:40"
   },
   {
     "title": "Hot or not: What SEA investors are betting on and what they’re ignoring",
@@ -4726,77 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-16 00:50"
-  },
-  {
-    "title": "Line Man builds on food delivery lead",
-    "link": "https://www.techinasia.com/line-man-builds-on-food-delivery-lead",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-16 00:30"
-  },
-  {
-    "title": "Google updates AI Overviews, AI Mode to surface more links",
-    "link": "https://www.techinasia.com/google-gemini-antom-offer-free-ai-trials",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-16 00:30"
-  },
-  {
-    "title": "Visa stablecoin prefunding moves to commercial use",
-    "link": "https://www.techinasia.com/visa-nium-join-masled-project-bloom-stablecoin-pilot",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-16 00:18"
-  },
-  {
-    "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
-    "link": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 23:00"
-  },
-  {
-    "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
-    "link": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 23:00"
-  },
-  {
-    "title": "Anthropic targets low-conflict sites for Australian data centers",
-    "link": "https://www.digitimes.com/news/a20261015PD248/anthropic-data-australia-government-capacity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 15:24"
-  },
-  {
-    "title": "Japan Mobility Show puts Physical AI and cross-sector partnerships in focus",
-    "link": "https://www.digitimes.com/news/a20261015PD249/physical-ai-2026-toyota-robot-robotics.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 14:24"
-  },
-  {
-    "title": "Toyota targets 1,000 e-Palette sales ahead of 2027 autonomous launch",
-    "link": "https://www.digitimes.com/news/a20261015PD250/toyota-2027-sales-vehicle-autonomous-driving.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-15 12:23"
-  },
-  {
-    "title": "Hong Kong plans just 2 land sales this quarter despite housing rebound",
-    "link": "https://www.scmp.com/business/article/3371042/hong-kong-plans-just-two-land-sales-next-quarter-despite-housing-rebound",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-15 12:14"
   }
 ]
