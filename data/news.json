@@ -1,5 +1,77 @@
 [
   {
+    "title": "China’s tax offices issue disclosure orders as offshore asset grace period ends",
+    "link": "https://www.scmp.com/economy/china-economy/article/3372178/chinas-tax-offices-issue-disclosure-orders-offshore-asset-grace-period-ends",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-26 13:30"
+  },
+  {
+    "title": "Anthropic files for Nasdaq IPO",
+    "link": "https://www.techinasia.com/anthropic-opens-singapore-office-signs-ai-safety-pact",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 13:30"
+  },
+  {
+    "title": "Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge",
+    "link": "https://www.scmp.com/business/china-business/article/3372199/chinese-biotech-giant-wuxi-apptec-raises-2026-outlook-after-profit-surge",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-26 13:04"
+  },
+  {
+    "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+    "link": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 12:36"
+  },
+  {
+    "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
+    "link": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 11:30"
+  },
+  {
+    "title": "Vietnam’s $1.3b chip plant may miss 2027 trial target",
+    "link": "https://www.techinasia.com/hcm-city-plans-2-1b-ai-data-center-investment",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 10:09"
+  },
+  {
+    "title": "In a global first, Hong Kong opens secondary trading for tokenised public funds",
+    "link": "https://www.scmp.com/business/banking-finance/article/3372176/global-first-hong-kong-opens-secondary-trading-tokenised-public-funds",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-26 10:01"
+  },
+  {
+    "title": "India’s Tata Communications plans $450m AI fiber investment",
+    "link": "https://www.techinasia.com/india-taps-six-firms-for-government-ai-rollout",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 10:01"
+  },
+  {
+    "title": "70% of Asia Pacific travelers open to AI handling work: survey",
+    "link": "https://www.techinasia.com/openai-plans-broader-chatgpt-app-redesign",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 09:58"
+  },
+  {
     "title": "Maybank, DBS join $6b Johor renewable energy project",
     "link": "https://www.techinasia.com/kkr-singtel-near-3-9b-deal-to-buy-sg-data-center-firm-sources",
     "source": "Tech in Asia",
@@ -88,12 +160,28 @@
     "published_at": "2026-10-26 05:55"
   },
   {
+    "title": "SG telehealth provider Care adopts Tencent Cloud’s RTC",
+    "link": "https://www.techinasia.com/tencent-cloud-expands-ai-agent-suite-indonesia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 05:30"
+  },
+  {
     "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
     "link": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-26 04:17"
+  },
+  {
+    "title": "What a failed first build taught me about bootstrapping abroad",
+    "link": "https://www.techinasia.com/failed-build-taught-bootstrapping",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-26 04:00"
   },
   {
     "title": "China’s bearish stock market faces more pressure from weak earnings growth forecast",
@@ -4710,93 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-16 06:57"
-  },
-  {
-    "title": "Delta says AI power gap will drive standalone microgrids",
-    "link": "https://www.digitimes.com/news/a20261016PD238/delta-electronics-electricity-micro-grid-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-16 06:31"
-  },
-  {
-    "title": "Taiwan forecasts 6.04% growth in 2027 on AI-driven exports",
-    "link": "https://www.digitimes.com/news/a20261016PD201/taiwan-growth-forecast-2027-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-16 06:20"
-  },
-  {
-    "title": "FICG eyes 4x optical communications capacity by 2027",
-    "link": "https://www.digitimes.com/news/a20261016PD231/fic-global-optical-communications-capacity-johor-production-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-16 06:08"
-  },
-  {
-    "title": "Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms",
-    "link": "https://www.scmp.com/business/china-business/article/3371102/beijing-enlists-multiple-regulators-probe-ev-safety-issue-raised-quality-alarms",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-16 06:00"
-  },
-  {
-    "title": "Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms",
-    "link": "https://www.scmp.com/business/china-business/article/3371102/beijing-enlists-multiple-regulators-probe-ev-safety-issue-raised-quality-alarms?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-16 06:00"
-  },
-  {
-    "title": "Volvo Cars and Nvidia expand partnership on automated driving",
-    "link": "https://www.digitimes.com/news/a20261016PR201/volvo-nvidia-autonomous-driving-partnership-vehicle.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-16 05:57"
-  },
-  {
-    "title": "Samsung's chip and device chiefs head to Tokyo during Lee's visit",
-    "link": "https://www.digitimes.com/news/a20261016VL210/samsung-japan-packaging-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-16 05:52"
-  },
-  {
-    "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
-    "link": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-16 05:41"
-  },
-  {
-    "title": "ByteDance’s Seed AI launches global AI safety hiring drive",
-    "link": "https://www.techinasia.com/bytedance-launches-seedrealtime-audiovisual-ai-model",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-16 05:31"
-  },
-  {
-    "title": "‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market",
-    "link": "https://www.scmp.com/business/article/3371103/father-lan-kwai-fong-allan-zeman-pivots-hong-kongs-luxury-home-market",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-16 05:00"
-  },
-  {
-    "title": "‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market",
-    "link": "https://www.scmp.com/business/article/3371103/father-lan-kwai-fong-allan-zeman-pivots-hong-kongs-luxury-home-market?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-16 05:00"
   }
 ]
