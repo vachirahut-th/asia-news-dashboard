@@ -184,6 +184,30 @@
     "published_at": "2026-10-27 08:58"
   },
   {
+    "title": "Travis Kalanick’s Atoms raises $1.7b for robotics expansion",
+    "link": "https://www.techinasia.com/uk-quantum-startup-raises-100m-expands-singapore",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 08:54"
+  },
+  {
+    "title": "Nasdaq adds APAC fintech leadership in Singapore",
+    "link": "https://www.techinasia.com/anthropic-files-nasdaq-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 08:14"
+  },
+  {
+    "title": "Sarvam signs AI framework with Indian defense forces",
+    "link": "https://www.techinasia.com/indian-ai-startup-sarvam-launches-22-local-language-models",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 08:04"
+  },
+  {
     "title": "JIMTOF 2026 draws 94 Taiwan machine tool exhibitors",
     "link": "https://www.digitimes.com/news/a20261027PD228/taiwan-manufacturing-2026-automation-technology.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -192,12 +216,92 @@
     "published_at": "2026-10-27 07:56"
   },
   {
+    "title": "Anthropic IPO filing shows the US govt is trying to be frontier AI's customer and gatekeeper",
+    "link": "https://www.digitimes.com/news/a20261027VL220/anthropic-ipo-commercial-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 07:20"
+  },
+  {
+    "title": "Connecting fragmented health data into actionable plans",
+    "link": "https://www.techinasia.com/connecting-fragmented-health-data-actionable-plans",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 07:00"
+  },
+  {
+    "title": "The 50 top-funded AI startups in Asia",
+    "link": "https://www.techinasia.com/the-50-top-funded-ai-startups-in-asia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 07:00"
+  },
+  {
     "title": "‘Depth and breadth’, strong liquidity anchor China stock outlook: JPMAM",
     "link": "https://www.scmp.com/business/companies/article/3372245/depth-and-breadth-strong-liquidity-anchor-china-stock-outlook-jpmam",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-27 07:00"
+  },
+  {
+    "title": "AI spending surges, Microsoft opens exit door to 60,000 employees",
+    "link": "https://www.digitimes.com/news/a20261027PD223/microsoft-workforce-investment-business-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 06:54"
+  },
+  {
+    "title": "SoftBank eyes US$50B Malaysia AI data-center expansion",
+    "link": "https://www.digitimes.com/news/a20261027PD222/investment-ceo-infrastructure-technology-masayoshi-son.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 06:51"
+  },
+  {
+    "title": "AI data centers drive cooling, power, modular infrastructure demand",
+    "link": "https://www.digitimes.com/news/a20261027VL218/data-center-infrastructure-cooling-ai-server-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 06:46"
+  },
+  {
+    "title": "Anthropic IPO filing exposes massive compute buildout spanning TPUs, GPUs, and dedicated data centers",
+    "link": "https://www.digitimes.com/news/a20261027VL217/anthropic-ipo-data-infrastructure-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 06:33"
+  },
+  {
+    "title": "GitHub rival Entire launches code hosting for AI agents",
+    "link": "https://www.techinasia.com/baidu-launches-duclaw-zero-deployment-openclaw-ai-service",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 06:25"
+  },
+  {
+    "title": "China stock sell-off could erase another 15% in value, Morgan Stanley says",
+    "link": "https://www.scmp.com/business/china-business/article/3372246/china-stock-sell-could-erase-another-15-value-morgan-stanley-says",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-27 06:00"
+  },
+  {
+    "title": "PSMC capacity crunch holds back Jeju Semiconductor's growth",
+    "link": "https://www.digitimes.com/news/a20261027VL221/capacity-psmc-growth-manufacturing-wafer.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 06:00"
   },
   {
     "title": "Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens",
@@ -216,6 +320,22 @@
     "published_at": "2026-10-27 06:00"
   },
   {
+    "title": "Server CPU shipments to exceed 50 million units in 2027; AMD's server CPU revenue will surpass Intel",
+    "link": "https://www.digitimes.com/news/a20261021RS400/ai-server-cpu-shipments-2027-intel-amd-arm-architecture.html?chid=2",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 05:56"
+  },
+  {
+    "title": "Broadcom, financial firms agree on US$63 billion funding for Anthropic chip purchases",
+    "link": "https://www.digitimes.com/news/a20261027VL222/broadcom-anthropic-funding-financing-finance.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-27 05:56"
+  },
+  {
     "title": "3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance",
     "link": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
     "source": "e27 (Startups)",
@@ -230,6 +350,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-27 04:54"
+  },
+  {
+    "title": "HSBC shares drop 5.6% despite strong third-quarter profit, US$1b share buy-back",
+    "link": "https://www.scmp.com/business/companies/article/3372244/hsbc-reports-32-increase-third-quarter-pre-tax-profits-announces-us1b-share-buy-back",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-27 04:27"
   },
   {
     "title": "Paytm’s Q2 profit jumps to $24m as revenue grows",
@@ -360,6 +488,14 @@
     "published_at": "2026-10-27 02:08"
   },
   {
+    "title": "Who’s investing in India’s fintech startups?",
+    "link": "https://www.techinasia.com/whos-investing-indias-fintech-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 02:00"
+  },
+  {
     "title": "Hong Kong market faces fundraising test after fourth IPO pulled since midyear",
     "link": "https://www.scmp.com/business/banking-finance/article/3372196/hong-kong-market-faces-fundraising-test-after-fourth-ipo-pulled-midyear",
     "source": "SCMP - Economy",
@@ -398,6 +534,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-27 02:00"
+  },
+  {
+    "title": "Microsoft offers buyouts to 60,000 staff as AI spending rises",
+    "link": "https://www.techinasia.com/microsoft-cuts-carbon-removal-buys-ai-spending-rises",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-27 01:53"
   },
   {
     "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
@@ -4654,149 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-18 10:01"
-  },
-  {
-    "title": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 09:36"
-  },
-  {
-    "title": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 09:36"
-  },
-  {
-    "title": "These are the most active investors in Singapore’s startups",
-    "link": "https://www.techinasia.com/active-investors-singapores-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 09:00"
-  },
-  {
-    "title": "Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry",
-    "link": "https://www.scmp.com/economy/global-economy/article/3371261/germany-france-tighten-made-europe-stance-pressuring-chinas-auto-industry",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 07:00"
-  },
-  {
-    "title": "Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry",
-    "link": "https://www.scmp.com/economy/global-economy/article/3371261/germany-france-tighten-made-europe-stance-pressuring-chinas-auto-industry?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 07:00"
-  },
-  {
-    "title": "Vietnam’s top-funded tech companies in the last decade",
-    "link": "https://www.techinasia.com/visual-story/vietnams-topfunded-tech-companies-decade",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 07:00"
-  },
-  {
-    "title": "For investors, there are now just 2 kinds of offices: the best and the rest",
-    "link": "https://www.scmp.com/business/article/3371225/investors-there-are-now-just-2-kinds-offices-best-and-rest",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 06:00"
-  },
-  {
-    "title": "For investors, there are now just 2 kinds of offices: the best and the rest",
-    "link": "https://www.scmp.com/business/article/3371225/investors-there-are-now-just-2-kinds-offices-best-and-rest?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 06:00"
-  },
-  {
-    "title": "India’s startup funding, as explained in charts",
-    "link": "https://www.techinasia.com/visual-story/capital-india-indias-funding-landscape",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 04:00"
-  },
-  {
-    "title": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
-    "link": "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 03:00"
-  },
-  {
-    "title": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
-    "link": "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-18 03:00"
-  },
-  {
-    "title": "China Mobile Hong Kong trials U6G for next-gen networks",
-    "link": "https://www.techinasia.com/singapore-ecommerce-tech-group-synagie-launches-geene-20",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 02:50"
-  },
-  {
-    "title": "China’s CXMT expects up to $8.2b Q3 profit on AI demand",
-    "link": "https://www.techinasia.com/chinas-cxmt-reportedly-eyes-42b-ipo-in-2026",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 01:23"
-  },
-  {
-    "title": "Meta drops wording on business sites for AI training",
-    "link": "https://www.techinasia.com/meta-signs-gpu-capacity-deal-ai-firm-firmus",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 00:50"
-  },
-  {
-    "title": "Green SM, Elife sign deal to expand global ride access",
-    "link": "https://www.techinasia.com/vietnams-green-sm-launches-electric-taxi-driver-rental-plan",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 00:21"
-  },
-  {
-    "title": "DeepSeek rolls out V4.1-Flash update with faster outputs",
-    "link": "https://www.techinasia.com/deepseek-opens-v4flash-api-public",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 00:09"
-  },
-  {
-    "title": "Mapping India’s cleantech key players",
-    "link": "https://www.techinasia.com/visual-story/india-clean-tech-landscape-map",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-18 00:00"
-  },
-  {
-    "title": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-    "link": "https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-17 18:39"
   }
 ]
