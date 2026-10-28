@@ -1,5 +1,21 @@
 [
   {
+    "title": "SK Hynix says customers want more than twice the HBM it can supply",
+    "link": "https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 15:18"
+  },
+  {
+    "title": "UMC utilization tops 90% in 2H26 as AI demand drives expansion",
+    "link": "https://www.digitimes.com/news/a20261028PD247/umc-demand-expansion-capacity-wafer.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 15:08"
+  },
+  {
     "title": "Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit",
     "link": "https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit",
     "source": "SCMP - Economy",
@@ -120,6 +136,14 @@
     "published_at": "2026-10-28 08:00"
   },
   {
+    "title": "TikTok launches brand safety, AI ad guides in Singapore",
+    "link": "https://www.techinasia.com/tiktok-pay-400m-settle-child-privacy-claims",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 07:57"
+  },
+  {
     "title": "China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads",
     "link": "https://www.scmp.com/business/china-evs/article/3372399/chinas-hybrid-car-exports-eu-200-response-teslas-flying-car-7-ev-reads",
     "source": "SCMP - Economy",
@@ -152,6 +176,22 @@
     "published_at": "2026-10-28 07:04"
   },
   {
+    "title": "This startup detects nerve damage quickly",
+    "link": "https://www.techinasia.com/this-startup-detects-nerve-damage-quickly",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 07:00"
+  },
+  {
+    "title": "20 largest exits in SEA",
+    "link": "https://www.techinasia.com/20-largest-exits-sea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 07:00"
+  },
+  {
     "title": "JPMAM plans more active ETFs in China after debut fund hits US$300 million cap on day one",
     "link": "https://www.scmp.com/business/companies/article/3372384/jpmam-plans-more-active-etfs-china-after-debut-fund-hits-us300-million-cap-day-one",
     "source": "SCMP - Economy",
@@ -166,6 +206,22 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-28 06:25"
+  },
+  {
+    "title": "Maybank adds Alipay+ QR payments in 5 new markets",
+    "link": "https://www.techinasia.com/ant-international-cimb-partner-crossborder-payments-malaysia",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 06:06"
+  },
+  {
+    "title": "Of leaky buckets, managing costs, and SME growth",
+    "link": "https://www.techinasia.com/leaky-buckets-managing-costs-sme-growth",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 06:00"
   },
   {
     "title": "China’s stock slide can’t be reversed by massive state buying, analysts warn",
@@ -184,12 +240,44 @@
     "published_at": "2026-10-28 05:57"
   },
   {
+    "title": "Mirae Asset taps Solana for HK institutional note issuance",
+    "link": "https://www.techinasia.com/alibaba-jpmorgan-chip-designer-montages-hk-listing",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 05:48"
+  },
+  {
+    "title": "TGM, Enterprise Singapore team up on startup expansion",
+    "link": "https://www.techinasia.com/singapore-extends-lead-in-southeast-asia-startup-funding",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 05:46"
+  },
+  {
+    "title": "Nvidia-backed Zankore seeks $3.1b loan for Indonesia AI factory",
+    "link": "https://www.techinasia.com/indosat-nvidia-launch-ai-infrastructure-venture",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-28 05:41"
+  },
+  {
     "title": "Meta’s Muse lands in Singapore with a guest list Amazon never got",
     "link": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-28 05:30"
+  },
+  {
+    "title": "Why Hong Kong developer CK Asset sold a mall at an ‘exceptionally cheap’ price",
+    "link": "https://www.scmp.com/business/article/3372389/why-hong-kong-developer-ck-asset-sold-mall-exceptionally-cheap-price",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-28 05:00"
   },
   {
     "title": "Standard Chartered beats forecast as wealth business powers third-quarter profit",
@@ -352,12 +440,60 @@
     "published_at": "2026-10-28 02:59"
   },
   {
+    "title": "SK Hynix's Solidigm ties US$45B US NAND fab to Washington nod on China tool upgrade",
+    "link": "https://www.digitimes.com/news/a20261028VL210/solidigm-sk-hynix-equipment-nand-fab.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:58"
+  },
+  {
     "title": "AMD to invest US$1 billion in Meta's stock sale as Helios racks enter testing",
     "link": "https://www.digitimes.com/news/a20261028VL215/amd-meta-chips-2026-nvidia.html",
     "source": "Digitimes (Tech/Semicon)",
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-28 02:58"
+  },
+  {
+    "title": "SK Hynix's next bet goes beyond memory chips",
+    "link": "https://www.digitimes.com/news/a20261027PD248/sk-hynix-chips-hbm-supplier-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:57"
+  },
+  {
+    "title": "Fujifilm to boost magnetic tape capacity 5x as AI data storage demand grows",
+    "link": "https://www.digitimes.com/news/a20261028VL214/fujifilm-data-storage-demand-data-production-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:55"
+  },
+  {
+    "title": "SK Hynix looks beyond IPO to fund Solidigm's US expansion",
+    "link": "https://www.digitimes.com/news/a20261028VL211/sk-hynix-solidigm-ipo-funding-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:45"
+  },
+  {
+    "title": "Google TPUs land Oracle, with OpenAI reportedly next",
+    "link": "https://www.digitimes.com/news/a20261028VL213/google-tpu-openai-oracle-chips.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:42"
+  },
+  {
+    "title": "SK Hynix's next AI memory bet isn't HBM",
+    "link": "https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-28 02:38"
   },
   {
     "title": "Anthropic IPO to open to Australian retail investors",
@@ -4662,141 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-19 09:37"
-  },
-  {
-    "title": "DeepSeek updates V4.1 Flash to improve AI agent performance",
-    "link": "https://www.digitimes.com/news/a20261019PD246/deepseek-performance-api-software-opus.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 09:29"
-  },
-  {
-    "title": "China’s iFlytek Q3 revenue grows 8% as AI spending rises",
-    "link": "https://www.techinasia.com/china-launches-global-ai-education-platform",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 09:29"
-  },
-  {
-    "title": "These are the most active investors in Indonesia’s startups",
-    "link": "https://www.techinasia.com/active-investors-indonesias-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 09:00"
-  },
-  {
-    "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
-    "link": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 08:55"
-  },
-  {
-    "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
-    "link": "https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 08:55"
-  },
-  {
-    "title": "YouTrip reports major service outage, most operations down",
-    "link": "https://www.techinasia.com/youtrip-reports-major-service-outage-operations",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 08:53"
-  },
-  {
-    "title": "Anthropic offers Blackstone more than 10% return in US$60 billion AI chip financing deal",
-    "link": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 08:47"
-  },
-  {
-    "title": "Unitree Robotics shares jump 17%, market value hits $30b",
-    "link": "https://www.techinasia.com/chinese-robotics-firm-unitree-finishes-preipo-preparations",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 08:45"
-  },
-  {
-    "title": "Tracking AI hiring in Singapore: OpenAI, Anthropic, and more",
-    "link": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 08:22"
-  },
-  {
-    "title": "The road not taken Part 2 of 2: TSMC's first CTO said no to Intel twice but still wonders what if",
-    "link": "https://www.digitimes.com/news/a20261019PD218/intel-taiwan-academia-sinica-tsmc-electronics.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 08:20"
-  },
-  {
-    "title": "From English courses to furniture, actor Daniel Wu expands his business interests in China",
-    "link": "https://www.scmp.com/business/article/3371356/english-courses-furniture-actor-daniel-wu-expands-his-business-interests-china",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-19 08:00"
-  },
-  {
-    "title": "From English courses to furniture, actor Daniel Wu expands his business interests in China",
-    "link": "https://www.scmp.com/business/article/3371356/english-courses-furniture-actor-daniel-wu-expands-his-business-interests-china?utm_source=rss_feed",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-19 08:00"
-  },
-  {
-    "title": "Khosla Ventures leads $50m round in India’s Even Healthcare",
-    "link": "https://www.techinasia.com/indian-healthcare-fintech-firm-carefi-nets-8m-series",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-19 08:00"
-  },
-  {
-    "title": "Weblink International secures AvePoint agency rights to expand AI governance",
-    "link": "https://www.digitimes.com/news/a20261019PD242/weblink-acer-governance-subsidiary-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 07:54"
-  },
-  {
-    "title": "Action cameras gain momentum as camera demand fragments",
-    "link": "https://www.digitimes.com/news/a20261019PD239/market-camera-recovery-growth-shipments.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 07:45"
-  },
-  {
-    "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
-    "link": "https://www.digitimes.com/news/a20261019VL210/elon-musk-dram-tesla-2028-samsung.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 07:43"
-  },
-  {
-    "title": "ACM Research bets on panel-level packaging and overseas growth as adoption risks persist",
-    "link": "https://www.digitimes.com/news/a20261019PD231/acm-packaging-equipment-adoption-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-19 07:38"
   }
 ]
