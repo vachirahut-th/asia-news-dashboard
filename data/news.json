@@ -1,5 +1,21 @@
 [
   {
+    "title": "DIGITIMES Insight: Arm extends from IP licensing to server CPU products, with strong growth potential in China",
+    "link": "https://www.digitimes.com/news/a20261029PD227/ai-server-cpu-arm-ip-licensing-digitimes.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 18:59"
+  },
+  {
+    "title": "Interview: Why this Taiwan mmWave maker chose to sidestep SpaceX and look to niche markets for demand",
+    "link": "https://www.digitimes.com/news/a20261027PD227/communications-mmwave-market-demand-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 16:41"
+  },
+  {
     "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
     "link": "https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -110,6 +126,54 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-30 09:00"
+  },
+  {
+    "title": "Eutelsat eyes EUR10B revenue from IRIS2 as EU seeks homegrown answer to Starlink",
+    "link": "https://www.digitimes.com/news/a20261030VL226/revenue-eu-starlink-leo-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:58"
+  },
+  {
+    "title": "Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments",
+    "link": "https://www.digitimes.com/news/a20261029PD243/taiwan-shipments-national-development-council-2026-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:55"
+  },
+  {
+    "title": "C Sun Mfg invests in Nemstek to expand advanced packaging equipment",
+    "link": "https://www.digitimes.com/news/a20261030PD235/equipment-packaging-investment-automation-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:55"
+  },
+  {
+    "title": "SK Hynix taps HBM veteran to lead new American unit",
+    "link": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:48"
+  },
+  {
+    "title": "Google, Foxconn aims to cut AI infrastructure deployment to six months",
+    "link": "https://www.digitimes.com/news/a20261030PD242/google-foxconn-infrastructure-partnership-manufacturing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:37"
+  },
+  {
+    "title": "HHTD 26: Foxconn unveils three new EVs, expanding Model A and K platforms",
+    "link": "https://www.digitimes.com/news/a20261030PD232/foxconn-2026-vehicle-design-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:35"
   },
   {
     "title": "How Malaysia-based Labuan IBFC provides the framework and fintech for global expansion",
@@ -422,6 +486,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-30 00:18"
+  },
+  {
+    "title": "Blockchain Capital leads $40m round in HK fintech firm PhotonPay",
+    "link": "https://www.techinasia.com/clearbank-partners-singapores-tazapay-for-uk-payments",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-30 00:11"
+  },
+  {
+    "title": "These are Asia’s most active investors in AI",
+    "link": "https://www.techinasia.com/these-are-asias-most-active-investors-in-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-30 00:00"
   },
   {
     "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
@@ -4718,85 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-21 06:03"
-  },
-  {
-    "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
-    "link": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:00"
-  },
-  {
-    "title": "Qualcomm plans global performance-based layoffs from November",
-    "link": "https://www.digitimes.com/news/a20261021PD233/qualcomm-layoffs-ceo-business-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 05:58"
-  },
-  {
-    "title": "DeepSeek open-sources tool to cut AI costs",
-    "link": "https://www.techinasia.com/deepseek-raise-v4-ai-prices-add-peak-rates",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 05:58"
-  },
-  {
-    "title": "US sanctions five Chinese entities over trade secret theft tied to ex-Google engineer",
-    "link": "https://www.digitimes.com/news/a20261021VL210/google-ai-software-security-legal-usa-beijing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 05:54"
-  },
-  {
-    "title": "Spark Capital leads $325m round for AI aviation startup ASI",
-    "link": "https://www.techinasia.com/courtroom-chaos-silicon-valley-ai-losing-asia",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 05:54"
-  },
-  {
-    "title": "Salesforce to acquire marketing software firm for $5.6b",
-    "link": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 05:27"
-  },
-  {
-    "title": "Micron funds critical minerals processing at Indium Corporation's New York facility",
-    "link": "https://www.digitimes.com/news/a20261021VL207.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 05:13"
-  },
-  {
-    "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
-    "link": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 05:08"
-  },
-  {
-    "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
-    "link": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-21 05:03"
-  },
-  {
-    "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
-    "link": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 05:00"
   }
 ]
