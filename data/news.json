@@ -1,5 +1,37 @@
 [
   {
+    "title": "Can battery swapping and energy storage power CATL’s next phase of growth?",
+    "link": "https://www.scmp.com/business/climate-and-energy/article/3372711/can-battery-swapping-and-energy-storage-power-catls-next-phase-growth",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-31 08:00"
+  },
+  {
+    "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
+    "link": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-31 05:00"
+  },
+  {
+    "title": "US AI inference startup Baseten targets $30b valuation",
+    "link": "https://www.techinasia.com/real-money-ai-models",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 04:47"
+  },
+  {
+    "title": "OpenAI cuts fundraising target to $20b as valuation falls",
+    "link": "https://www.techinasia.com/openai-nears-12t-valuation-uaecoatue",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 04:42"
+  },
+  {
     "title": "Amazon arranges $80b supplier financing facility for AI push",
     "link": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors",
     "source": "Tech in Asia",
@@ -72,6 +104,30 @@
     "published_at": "2026-10-31 02:03"
   },
   {
+    "title": "Mapping the AI startups making waves in Japan",
+    "link": "https://www.techinasia.com/visual-story/mapping-japans-leading-ai-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:00"
+  },
+  {
+    "title": "Malaysian investment firm 10 Cents Capital raises $20m",
+    "link": "https://www.techinasia.com/built-ai-agents-whatsapp-meta-entered-chat",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 01:51"
+  },
+  {
+    "title": "Week of the rising chip",
+    "link": "https://www.techinasia.com/week-rising-chip",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 00:30"
+  },
+  {
     "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
     "link": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -128,12 +184,60 @@
     "published_at": "2026-10-30 23:31"
   },
   {
+    "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+    "link": "https://www.digitimes.com/news/a20261030PD245/revenue-mediatek-asic-outlook-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:30"
+  },
+  {
+    "title": "TSIA 30: AI is breaking the sequential supply chain &mdash; Taiwan may be built for what comes next",
+    "link": "https://www.digitimes.com/news/a20261030VL220/taiwan-supply-chain-tsia-hardware-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:30"
+  },
+  {
     "title": "Global smartphone shipments fall 14% as brands launch more 5G models",
     "link": "https://www.digitimes.com/news/a20261030PD228/smartphone-shipments-5g-2026-demand.html",
     "source": "Digitimes (Tech/Semicon)",
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-30 23:30"
+  },
+  {
+    "title": "Compeq plans sustained investment as AI infrastructure, LEO satellite demand grows",
+    "link": "https://www.digitimes.com/news/a20261030PD230/compeq-manufacturing-demand-infrastructure-revenue-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:29"
+  },
+  {
+    "title": "Ibiden expands AI packaging substrate capacity for Intel from 2029",
+    "link": "https://www.digitimes.com/news/a20261030PD223/ibiden-substrate-packaging-2026-capacity.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:29"
+  },
+  {
+    "title": "Renesas expands AI data center capacity, targets 33.2% margin in 2026",
+    "link": "https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:28"
+  },
+  {
+    "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
+    "link": "https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:28"
   },
   {
     "title": "DIGITIMES Insight: Arm extends from IP licensing to server CPU products, with strong growth potential in China",
@@ -310,6 +414,22 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-30 08:35"
+  },
+  {
+    "title": "Foxconn, TECO showcase factory-built infrastructure for AI data center expansion",
+    "link": "https://www.digitimes.com/news/a20261030PD224/teco-foxconn-data-center-infrastructure-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:30"
+  },
+  {
+    "title": "Foxconn argues it is more than a box mover in AI hardware",
+    "link": "https://www.digitimes.com/news/a20261030PD225/foxconn-design-chairman-manufacturing-young-liu.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 08:25"
   },
   {
     "title": "How Malaysia-based Labuan IBFC provides the framework and fintech for global expansion",
@@ -4678,125 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-10-21 10:00"
-  },
-  {
-    "title": "Airwallex extends McLaren deal with AI finance partnership",
-    "link": "https://www.techinasia.com/airwallex-redefining-founders-finance",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 09:55"
-  },
-  {
-    "title": "Li Auto chip subsidiary Mahe Xin raises CNY1.6 billion in equity financing as automakers aim to become chipmakers",
-    "link": "https://www.digitimes.com/news/a20261021VL215/li-auto-subsidiary-chipmakers-financing-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 09:19"
-  },
-  {
-    "title": "Hong Kong sees last-minute IPO cancellations amid increased regulatory checks, weak market",
-    "link": "https://www.scmp.com/business/banking-finance/article/3371641/hong-kong-sees-last-minute-ipo-cancellations-amid-increased-regulatory-checks-weak-market",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-21 09:01"
-  },
-  {
-    "title": "These are the most active investors in India’s startups",
-    "link": "https://www.techinasia.com/active-investors-indias-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 09:00"
-  },
-  {
-    "title": "Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI",
-    "link": "https://www.digitimes.com/news/a20261021PD226/cloud-ai-demand-growth-taiwan-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 08:56"
-  },
-  {
-    "title": "Ex-PropertyGuru CEO’s Genie Health raises US$3M to make sense of your scattered health data",
-    "link": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 08:56"
-  },
-  {
-    "title": "Infineon, Wolfspeed pivot to 8-inch SiC to cut costs and meet rising AI power demand",
-    "link": "https://www.digitimes.com/news/a20261021PD239/infineon-wolfspeed-sic-silicon-demand.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 08:18"
-  },
-  {
-    "title": "OCBC to offer ringgit to Singapore savers from 2026",
-    "link": "https://www.techinasia.com/belgian-fintech-network-swift-starts-blockchain-pilot",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 08:16"
-  },
-  {
-    "title": "Sony keeps chip unit as imaging sensors, TSMC partnership drive strategy",
-    "link": "https://www.digitimes.com/news/a20261021PD237/sony-tsmc-production-business-partnership.html?chid=10",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 08:05"
-  },
-  {
-    "title": "Samsung shifts M2800 modem to 2nm, frees 4nm capacity for HBM base dies",
-    "link": "https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 08:04"
-  },
-  {
-    "title": "Samsung Display accelerates MPO and inkjet OLED development for laptops and monitors",
-    "link": "https://www.digitimes.com/news/a20261021PD247/sdc-oled-panel-production-visionox-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 08:03"
-  },
-  {
-    "title": "Apec finance ministers reach consensus on AI, digital financing in Hong Kong",
-    "link": "https://www.scmp.com/business/article/3371628/apec-finance-ministers-reach-consensus-ai-digital-financing-hong-kong",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-21 08:00"
-  },
-  {
-    "title": "HD Hyundai Robotics unveils dual-arm robot as FIX 2026 opens",
-    "link": "https://www.digitimes.com/news/a20261021VL213/hyundai-doosan-2026-hd-industrial.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:58"
-  },
-  {
-    "title": "Samsung, SK Hynix reportedly upgrading China NAND fabs to fend off YMTC amid softening US stance",
-    "link": "https://www.digitimes.com/news/a20261021VL214/samsung-sk-hynix-nand-ymtc-chips.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:57"
-  },
-  {
-    "title": "AMD and Intel align PyTorch CPU optimizations around oneDNN",
-    "link": "https://www.digitimes.com/news/a20261021VL211/amd-intel-x86-cpu-software.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:56"
   }
 ]
