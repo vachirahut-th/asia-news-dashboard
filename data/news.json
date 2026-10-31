@@ -1,5 +1,141 @@
 [
   {
+    "title": "Amazon arranges $80b supplier financing facility for AI push",
+    "link": "https://www.techinasia.com/amazon-explores-8b-nvidia-chip-sale-to-outside-investors",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 04:02"
+  },
+  {
+    "title": "Apple, Alibaba to roll out Qwen-powered AI features in China",
+    "link": "https://www.techinasia.com/apple-john-ternus-ceo-ai-top-priority",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 03:54"
+  },
+  {
+    "title": "Salesforce to buy military AI startup Rune for $375m",
+    "link": "https://www.techinasia.com/salesforce-anthropic-expand-claudeforce-partnership",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 03:07"
+  },
+  {
+    "title": "Scary deals? What makes Hong Kong shun death-linked homes while France embraces the risk",
+    "link": "https://www.scmp.com/business/article/3372257/scary-deals-what-makes-hong-kong-shun-death-linked-homes-while-france-embraces-risk",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-10-31 03:00"
+  },
+  {
+    "title": "Indonesia’s Blibli owner posts 46% revenue growth in Q3",
+    "link": "https://www.techinasia.com/blibli-h1-revenue-surges-55-retail-growth",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:54"
+  },
+  {
+    "title": "Hong Kong fintech firm IBS plans $71.7m AI chip acquisition",
+    "link": "https://www.techinasia.com/thunes-revenue-rises-33-2024-expands-stablecoins",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:38"
+  },
+  {
+    "title": "TCL Technology’s 9-month profit rises 68% to $769m",
+    "link": "https://www.techinasia.com/tech-firms-push-global-open-source-ai-cooperation-at-ces-2026",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:29"
+  },
+  {
+    "title": "China’s CXMT reports $8.17b profit as memory demand cools",
+    "link": "https://www.techinasia.com/chinas-cxmt-revenue-jumps-10x-ai-lifts-memory-prices",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:20"
+  },
+  {
+    "title": "Delhivery Q2 revenue rises 20% as profit hits $4.3m",
+    "link": "https://www.techinasia.com/vc-firm-nexus-sells-57m-stake-in-delhivery",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-10-31 02:03"
+  },
+  {
+    "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+    "link": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:35"
+  },
+  {
+    "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+    "link": "https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:34"
+  },
+  {
+    "title": "TSIA 30: Taiwan builds the AI backbone &mdash; but can it capture the AI economy?",
+    "link": "https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:34"
+  },
+  {
+    "title": "Marvell-Lumentum talks put optical supply chain in focus",
+    "link": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:33"
+  },
+  {
+    "title": "Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production",
+    "link": "https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:32"
+  },
+  {
+    "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
+    "link": "https://www.digitimes.com/news/a20261030PD233/auo-revenue-communications-packaging-transmission.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:32"
+  },
+  {
+    "title": "Analysis: Elon Musk, Jensen Huang clash over neocloud survival",
+    "link": "https://www.digitimes.com/news/a20261030PD229/elon-musk-jensen-huang-outlook-demand-ceo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:31"
+  },
+  {
+    "title": "Global smartphone shipments fall 14% as brands launch more 5G models",
+    "link": "https://www.digitimes.com/news/a20261030PD228/smartphone-shipments-5g-2026-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-10-30 23:30"
+  },
+  {
     "title": "DIGITIMES Insight: Arm extends from IP licensing to server CPU products, with strong growth potential in China",
     "link": "https://www.digitimes.com/news/a20261029PD227/ai-server-cpu-arm-ip-licensing-digitimes.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -4662,141 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-21 07:56"
-  },
-  {
-    "title": "Micron's Taichung union deal eases Taiwan DRAM strike risk; Taoyuan dispute remains unresolved",
-    "link": "https://www.digitimes.com/news/a20261021PD250/micron-taiwan-strike-dram-management.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:53"
-  },
-  {
-    "title": "Homage turns its in-house care software into a business as Singapore turns super-aged",
-    "link": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 07:52"
-  },
-  {
-    "title": "DBS PayLah! expands QR payments to Taiwan",
-    "link": "https://www.techinasia.com/dbs-hits-fintech-firms-large-fee-hikes-custodian-service",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 07:28"
-  },
-  {
-    "title": "Qisda integrates four companies to build scalable rack-scale AI solutions",
-    "link": "https://www.digitimes.com/news/a20261021PD202/qisda-ai-solutions-liquid-cooling-data-design.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:25"
-  },
-  {
-    "title": "A 2027 turning point? Goldman, Citi see stabilising signs in China’s housing market",
-    "link": "https://www.scmp.com/business/article/3371618/2027-turning-point-goldman-citi-see-stabilising-signs-chinas-housing-market",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-21 07:15"
-  },
-  {
-    "title": "Anthropic's IPO spotlight falls on its potential US$750 billion AI compute tab",
-    "link": "https://www.digitimes.com/news/a20261021VL212/anthropic-ipo-revenue-ai-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:03"
-  },
-  {
-    "title": "Murata develops world's smallest NTC thermistor, targets 2027 mass production",
-    "link": "https://www.digitimes.com/news/a20261021PD246/murata-production-2027-component-performance.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 07:02"
-  },
-  {
-    "title": "Building a smarter workflow for short-form video creators",
-    "link": "https://www.techinasia.com/building-smarter-workflow-shortform-video-creators",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 07:00"
-  },
-  {
-    "title": "China launches state-owned data group as market-facing arm of its AI infrastructure push",
-    "link": "https://www.digitimes.com/news/a20261021PD244/beijing-infrastructure-data-technology-telecom.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 06:51"
-  },
-  {
-    "title": "PCB material shortages persist as capacity expansion extends beyond 2029",
-    "link": "https://www.digitimes.com/news/a20261021PD229/pcb-materials-capacity-expansion-hpc-ccl.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 06:41"
-  },
-  {
-    "title": "Anthropic could spend $750b on computing power: report",
-    "link": "https://www.techinasia.com/anthropic-launches-claude-haiku-5-5-at-75-lower-cost",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:41"
-  },
-  {
-    "title": "Singapore health AI startup Genie Health raises $3m seed",
-    "link": "https://www.techinasia.com/carro-switches-gears-indonesia-focus-shifts-cars",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:40"
-  },
-  {
-    "title": "Zoom plans AI controls, compliance tools for enterprises",
-    "link": "https://www.techinasia.com/zoom-rolls-free-ai-tools-meetings-documents",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:35"
-  },
-  {
-    "title": "Taiwan PCB output set to top NT$1 trillion as VP touts AI opportunity",
-    "link": "https://www.digitimes.com/news/a20261021PD205/taiwan-pcb-2026-tpca-materials.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-21 06:23"
-  },
-  {
-    "title": "Toku launches visual tool to build speech AI",
-    "link": "https://www.techinasia.com/startups-turning-southeast-asias-ai-hype-working-agents",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:08"
-  },
-  {
-    "title": "Qualcomm to cut jobs worldwide after annual reviews",
-    "link": "https://www.techinasia.com/qualcomm-meta-sign-multigen-data-center-cpu-deal",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-21 06:03"
-  },
-  {
-    "title": "China eases uncertainty over offshore trust taxes before grace period ends",
-    "link": "https://www.scmp.com/business/money/wealth/article/3371606/china-eases-uncertainty-over-offshore-trust-taxes-grace-period-ends",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-21 06:03"
   }
 ]
