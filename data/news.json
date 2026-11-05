@@ -1,5 +1,93 @@
 [
   {
+    "title": "NewsLatest news from the BOT",
+    "link": "https://www.bot.or.th/en/news-and-media/news.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-05 00:45"
+  },
+  {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-05 00:45"
+  },
+  {
+    "title": "GlobalFoundries revenue rises 13% as data center demand offsets mobile decline",
+    "link": "https://www.digitimes.com/news/a20261105VL202/globalfoundries-revenue-mobile-demand-data-center.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:46"
+  },
+  {
+    "title": "Qualcomm's September-quarter revenue falls 8% as handset slump outweighs automotive gains",
+    "link": "https://www.digitimes.com/news/a20261105VL200/qualcomm-revenue-automotive-business-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:45"
+  },
+  {
+    "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
+    "link": "https://www.digitimes.com/news/a20261105VL201/arm-revenue-licensing-demand-smartphone.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:44"
+  },
+  {
+    "title": "Taiwan-Netherlands launch four photonics R&amp;D partnerships",
+    "link": "https://www.digitimes.com/news/a20261104PD255/taiwan-netherlands-photonics-technology-development.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:43"
+  },
+  {
+    "title": "oToBrite and Yuan build robot vision chain for Nvidia platform",
+    "link": "https://www.digitimes.com/news/a20261104PD252/otobrite-vehicle-3d-camera-module-transmission.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:42"
+  },
+  {
+    "title": "Chicony Power profit hit by notebooks in Q3 2026",
+    "link": "https://www.digitimes.com/news/a20261104PD248/chicony-power-2026-profit-revenue-leo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:41"
+  },
+  {
+    "title": "Airoha targets multibillion growth as 100G ramps, 200G tapes out",
+    "link": "https://www.digitimes.com/news/a20261104PD224/airoha-growth-business-communications-mediatek.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:40"
+  },
+  {
+    "title": "Empyrean's EDA acquisitions could give Korean chip designers cheaper tools&mdash;and stronger Chinese rivals",
+    "link": "https://www.digitimes.com/news/a20261104VL217/design-empyrean-technology-eda-software-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-04 23:40"
+  },
+  {
+    "title": "Could Shanghai project smooth indebted New World’s path to cash?",
+    "link": "https://www.scmp.com/business/companies/article/3373251/could-shanghai-project-smooth-indebted-new-worlds-path-cash",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-04 23:00"
+  },
+  {
     "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
     "link": "https://www.bot.or.th/en/news-and-media/activities.html",
     "source": "Bank of Thailand (BOT)",
@@ -4710,93 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-26 02:00"
-  },
-  {
-    "title": "Xendit’s building payment infrastructure for SEA – and beyond",
-    "link": "https://www.techinasia.com/xendits-building-payment-infrastructure-sea",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 02:00"
-  },
-  {
-    "title": "Who’s investing in India’s AI startups?",
-    "link": "https://www.techinasia.com/whos-investing-indias-ai-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 02:00"
-  },
-  {
-    "title": "Japan’s innovation problem is execution, and Southeast Asian startups are built for it",
-    "link": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 02:00"
-  },
-  {
-    "title": "Founders are buying gold, not Lamborghinis, after the exit",
-    "link": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 02:00"
-  },
-  {
-    "title": "Musk says SpaceX closes $40b debt deal for Nvidia AI chips",
-    "link": "https://www.techinasia.com/spacex-beats-revenue-estimates-shares-fall-5-hours",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 01:39"
-  },
-  {
-    "title": "Hong Kong to tighten burgeoning premium financing market as red flags, risks emerge",
-    "link": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-26 01:00"
-  },
-  {
-    "title": "Tin Men Capital leads $7.4m round for vision AI startup Ailytics",
-    "link": "https://www.techinasia.com/aipowered-tools-clearing-constructions-data-debris",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 01:00"
-  },
-  {
-    "title": "Thirty climate tech startups in Southeast Asia that would rather build than pledge",
-    "link": "https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 01:00"
-  },
-  {
-    "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
-    "link": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 01:00"
-  },
-  {
-    "title": "SoftBank eyes $50b AI investment in Malaysia",
-    "link": "https://www.techinasia.com/softbank-completes-final-10b-openai-investment",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-26 00:35"
-  },
-  {
-    "title": "Goldman Sachs steps up Asia hiring as wealthy clients eye US assets for diversification",
-    "link": "https://www.scmp.com/business/china-business/article/3372055/goldman-sachs-steps-asia-hiring-wealthy-clients-eye-us-assets-diversification",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-26 00:00"
   }
 ]
