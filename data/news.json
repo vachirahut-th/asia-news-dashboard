@@ -1,5 +1,37 @@
 [
   {
+    "title": "A list of fundraising startups from Asia and beyond (Updated)",
+    "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-08 04:00"
+  },
+  {
+    "title": "A cheat sheet of M&As in China",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-china",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-08 02:00"
+  },
+  {
+    "title": "Nvidia-backed Groq seeks $8b valuation in new round",
+    "link": "https://www.techinasia.com/nvidia-ai-chip-startup-groq-35b-valuation",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-08 01:23"
+  },
+  {
+    "title": "Beijing’s latest property stimulus falls short in lower-tier-cities",
+    "link": "https://www.scmp.com/business/china-business/article/3373497/beijings-latest-property-stimulus-falls-short-lower-tier-cities",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-08 01:00"
+  },
+  {
     "title": "US-China trade truce gains breathing room as BIS extends 50% Affiliates Rule suspension into 2027",
     "link": "https://www.digitimes.com/news/a20261106PD237/2027-beijing-2025-technology.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -4766,37 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-29 01:00"
-  },
-  {
-    "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
-    "link": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-29 01:00"
-  },
-  {
-    "title": "Veteran investor snaps up 2 Hong Kong street shops as values remain well below peaks",
-    "link": "https://www.scmp.com/business/article/3372456/veteran-investor-snaps-2-hong-kong-street-shops-values-remain-well-below-peaks",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-29 01:00"
-  },
-  {
-    "title": "HKMA warns of uncertainties, weaker Hong Kong dollar, after holding base rate at 4.25%",
-    "link": "https://www.scmp.com/business/banking-finance/article/3372495/hong-kong-holds-base-rate-425-after-us-federal-reserve-decision",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-28 23:09"
-  },
-  {
-    "title": "Beijing wants Hong Kong to sow the seeds for the digital yuan. Will its plans bear fruit?",
-    "link": "https://www.scmp.com/business/banking-finance/article/3372448/beijing-wants-hong-kong-sow-seeds-digital-yuan-will-its-plans-bear-fruit",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-28 22:00"
   }
 ]
