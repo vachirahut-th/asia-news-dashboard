@@ -1,5 +1,13 @@
 [
   {
+    "title": "While AI speeds up SMEs, delivery remains hard to automate",
+    "link": "https://www.scmp.com/presented/business/topics/scale-fast-demand-logistics/article/3373245/while-ai-speeds-smes-delivery-remains-hard-automate",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-08 16:00"
+  },
+  {
     "title": "China to enter Brazil’s cement market as Huaxin agrees to buy CSN Cimentos",
     "link": "https://www.scmp.com/business/companies/article/3373706/china-enter-brazils-cement-market-huaxin-agrees-buy-csn-cimentos",
     "source": "SCMP - Economy",
@@ -174,6 +182,14 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-11-07 03:00"
+  },
+  {
+    "title": "Microsoft winds down Oracle deal for AI computing capacity",
+    "link": "https://www.techinasia.com/microsofts-aienabled-hyderabad-cloud-region-live",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-07 02:42"
   },
   {
     "title": "A cheat sheet of M&As in Korea",
@@ -4782,21 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-10-29 02:10"
-  },
-  {
-    "title": "PhysicsWallah partners with India’s DPIIT to back rural startups",
-    "link": "https://www.techinasia.com/blume-ventures-leads-4-15m-series-a-in-hunar-ai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-29 02:01"
-  },
-  {
-    "title": "How to use AI in marketing without opening a single dashboard",
-    "link": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-29 02:00"
   }
 ]
