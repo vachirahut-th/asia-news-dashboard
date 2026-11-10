@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alibaba chip unit T-Head files Hong Kong IPO plan amid China’s AI self-sufficiency drive",
+    "link": "https://www.scmp.com/business/companies/article/3373974/alibaba-chip-unit-t-head-files-hong-kong-ipo-plan-amid-chinas-ai-self-sufficiency-drive",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-10 13:20"
+  },
+  {
+    "title": "On the right track: Beijing, Ottawa ramp up trade ties as CEOs plan China trip for Apec",
+    "link": "https://www.scmp.com/economy/policy/article/3373917/right-track-beijing-ottawa-ramp-trade-ties-ceos-plan-china-trip-apec",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-10 12:30"
+  },
+  {
     "title": "Sea’s Q3 revenue jumps 43% on Shopee, Monee",
     "link": "https://www.techinasia.com/sea-set-se-asia-adopt-nvidias-vera-rubin",
     "source": "Tech in Asia",
@@ -120,6 +136,14 @@
     "published_at": "2026-11-10 08:43"
   },
   {
+    "title": "Red Hat launches OpenShift 5 with AI troubleshooting tools",
+    "link": "https://www.techinasia.com/ibm-commits-5b-secure-opensource-software-ai",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 08:41"
+  },
+  {
     "title": "SoftBank Group, Grab, PETROS commit US$1.85 billion to Malaysian AI infrastructure",
     "link": "https://www.digitimes.com/news/a20261110PR202/grab-infrastructure-asia-development-2030.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -168,6 +192,46 @@
     "published_at": "2026-11-10 07:44"
   },
   {
+    "title": "Ericsson CEO bets on AI and in-house RAN chips as 6G, satellite competition loom",
+    "link": "https://www.digitimes.com/news/a20261110PD238/ericsson-ceo-chips-6g-telecom.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 07:31"
+  },
+  {
+    "title": "ByteDance launches Seedream 5.5 with 100-round image editing",
+    "link": "https://www.techinasia.com/bytedance-fold-trae-coze-doubao-china-sources",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 07:22"
+  },
+  {
+    "title": "Yageo posts record October sales as China holiday weighs on Walsin's revenue",
+    "link": "https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 07:04"
+  },
+  {
+    "title": "This startup helps enterprises adopt AI safely",
+    "link": "https://www.techinasia.com/startup-helps-enterprises-adopt-ai-safely",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 07:00"
+  },
+  {
+    "title": "Southeast Asia’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/southeast-asias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 07:00"
+  },
+  {
     "title": "FedEx adds new US-China cargo flights ahead of Xi-Trump meeting",
     "link": "https://www.scmp.com/business/companies/article/3373903/fedex-adds-new-us-china-cargo-flights-ahead-xi-trump-meeting",
     "source": "SCMP - Economy",
@@ -184,6 +248,54 @@
     "published_at": "2026-11-10 07:00"
   },
   {
+    "title": "Nvidia showcases factory AI at Seoul event; Jensen Huang's daughter absent",
+    "link": "https://www.digitimes.com/news/a20261110PD221/nvidia-industrial-manufacturing-robot-testing-south-korea.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:56"
+  },
+  {
+    "title": "Tesla to add production shift to meet Cybertruck backlog before its phase-out",
+    "link": "https://www.digitimes.com/news/a20261109VL230/tesla-cybertruck-production-elon-musk.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:40"
+  },
+  {
+    "title": "Nvidia legal chief accused of interfering in Megaspeed probe",
+    "link": "https://www.digitimes.com/news/a20261110PD242/nvidia-probe-jensen-huang-investigation-ceo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:33"
+  },
+  {
+    "title": "TSMC October 2026 revenue surges 59.7% on strong AI chip demand",
+    "link": "https://www.digitimes.com/news/a20261110VL212/tsmc-revenue-demand-2026-growth.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:27"
+  },
+  {
+    "title": "Nvidia could face more scrutiny by new Congress in wake of spy probe",
+    "link": "https://www.digitimes.com/news/a20261110VL210/nvidia-jensen-huang-chips-sales-china-usa.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:15"
+  },
+  {
+    "title": "Three workers die at Tata iPhone parts plant, reviving scrutiny of Apple's India supply chain",
+    "link": "https://www.digitimes.com/news/a20261110VL211/apple-plant-iphone-supplier-production.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-10 06:14"
+  },
+  {
     "title": "Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec",
     "link": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
     "source": "e27 (Startups)",
@@ -198,6 +310,22 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-10 05:56"
+  },
+  {
+    "title": "Igloo, M Lhuillier offer calamity insurance in the Philippines",
+    "link": "https://www.techinasia.com/sg-insurtech-firm-igloo-buys-eazy-digital-for-regional-push",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 05:35"
+  },
+  {
+    "title": "India’s Zoho adds AI agents and data layers to Analytics",
+    "link": "https://www.techinasia.com/war-exposes-risks-gulfs-ai-infrastructure-push",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 05:18"
   },
   {
     "title": "As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week",
@@ -224,12 +352,36 @@
     "published_at": "2026-11-10 04:30"
   },
   {
+    "title": "BMW signs battery supply deals with Samsung SDI, LG Energy",
+    "link": "https://www.techinasia.com/catl-nio-team-develop-longerlasting-ev-batteries",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 04:06"
+  },
+  {
     "title": "Bitcoin is bruised, not broken: Why the crypto sector is holding its ground",
     "link": "https://e27.co/bitcoin-is-bruised-not-broken-why-the-crypto-sector-is-holding-its-ground-20261110/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-10 04:06"
+  },
+  {
+    "title": "UK talent connect with Hong Kong and mainland China employers at London career showcase",
+    "link": "https://www.scmp.com/native/business/topics/hong-kong-global-hub-talent/article/3373483/uk-talent-connect-hong-kong-and-mainland-china-employers-london-career-showcase",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-10 04:00"
+  },
+  {
+    "title": "How much is AI really selling this Singles’ Day in China?",
+    "link": "https://www.techinasia.com/ai-selling-singles-day",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-10 04:00"
   },
   {
     "title": "Chinese biotech giant WuXi AppTec’s shares gain after Pentagon blacklist reversal",
@@ -246,6 +398,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-10 03:15"
+  },
+  {
+    "title": "Taiwanese lender moves to West Kowloon as financial firms lead Hong Kong office leasing",
+    "link": "https://www.scmp.com/business/article/3373858/taiwanese-lender-moves-west-kowloon-financial-firms-lead-hong-kong-office-leasing",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-10 03:00"
   },
   {
     "title": "Your AI strategy is your 2015 strategy, only cheaper",
@@ -4638,165 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-10-30 14:00"
-  },
-  {
-    "title": "Binance to cover $6.3b hack losses: co-CEO Teng",
-    "link": "https://www.techinasia.com/binance-launches-withdrawal-lock-prevent-crypto-attacks",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-30 10:47"
-  },
-  {
-    "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
-    "link": "https://www.digitimes.com/news/a20261030PD241/honda-2027-2030-autonomous-driving-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:59"
-  },
-  {
-    "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
-    "link": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-30 09:44"
-  },
-  {
-    "title": "Micron says 700-plus Taiwan fab workers earned five years' salary in a single year",
-    "link": "https://www.digitimes.com/news/a20261030VL229/micron-taiwan-salary-fab-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:34"
-  },
-  {
-    "title": "Realtek targets 30% AI revenue share by 2030",
-    "link": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:29"
-  },
-  {
-    "title": "HHTD 26: Mitsubishi Electric Mobility to join Foxconn in 2027, targeting JPY1T revenue by 2030",
-    "link": "https://www.digitimes.com/news/a20261030PD243/mitsubishi-electric-foxconn-2027-revenue-cybersecurity.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:25"
-  },
-  {
-    "title": "Holtek lands major server cooling contract, AI thermal demand soars",
-    "link": "https://www.digitimes.com/news/a20261030PD234/holtek-server-cooling-demand-mcu-shipments.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:15"
-  },
-  {
-    "title": "Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it’s trust",
-    "link": "https://e27.co/roblox-hands-fave-founder-joel-neoh-the-keys-to-sea-his-first-job-isnt-growth-its-trust-20261030/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-30 09:15"
-  },
-  {
-    "title": "Coda, TikTok Gaming drive digital goods sales in 5 markets",
-    "link": "https://www.techinasia.com/the-future-of-treasury-starts-with-one-unified-view-of-cash",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-30 09:12"
-  },
-  {
-    "title": "China smartphone market and industry, 3Q 2026",
-    "link": "https://www.digitimes.com/news/a20261029RS400/china-market-smartphone-shipments-digitimes-2026.html?chid=2",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:10"
-  },
-  {
-    "title": "HHTD 26: The year robots share the stage with AI infrastructure",
-    "link": "https://www.digitimes.com/news/a20261030PD237/infrastructure-robotics-2026-tdk-robot.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 09:05"
-  },
-  {
-    "title": "North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the shortlist",
-    "link": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-10-30 09:04"
-  },
-  {
-    "title": "Chinese flying cars more commercially viable than Tesla’s Roadster, says Xpeng executive",
-    "link": "https://www.scmp.com/business/china-evs/article/3372694/chinese-flying-cars-more-commercially-viable-teslas-roadster-says-xpeng-executive",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-10-30 09:00"
-  },
-  {
-    "title": "Eutelsat eyes EUR10B revenue from IRIS2 as EU seeks homegrown answer to Starlink",
-    "link": "https://www.digitimes.com/news/a20261030VL226/revenue-eu-starlink-leo-2027.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:58"
-  },
-  {
-    "title": "Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments",
-    "link": "https://www.digitimes.com/news/a20261029PD243/taiwan-shipments-national-development-council-2026-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:55"
-  },
-  {
-    "title": "C Sun Mfg invests in Nemstek to expand advanced packaging equipment",
-    "link": "https://www.digitimes.com/news/a20261030PD235/equipment-packaging-investment-automation-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:55"
-  },
-  {
-    "title": "SK Hynix taps HBM veteran to lead new American unit",
-    "link": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:48"
-  },
-  {
-    "title": "Google, Foxconn aims to cut AI infrastructure deployment to six months",
-    "link": "https://www.digitimes.com/news/a20261030PD242/google-foxconn-infrastructure-partnership-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:37"
-  },
-  {
-    "title": "HHTD 26: Foxconn unveils three new EVs, expanding Model A and K platforms",
-    "link": "https://www.digitimes.com/news/a20261030PD232/foxconn-2026-vehicle-design-investment.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:35"
-  },
-  {
-    "title": "Foxconn, TECO showcase factory-built infrastructure for AI data center expansion",
-    "link": "https://www.digitimes.com/news/a20261030PD224/teco-foxconn-data-center-infrastructure-2026.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-10-30 08:30"
   }
 ]
