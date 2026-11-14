@@ -1,5 +1,157 @@
 [
   {
+    "title": "Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom",
+    "link": "https://www.scmp.com/economy/global-economy/article/3374338/expanding-sino-foreign-postgrad-degrees-lure-working-professionals-back-classroom",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-14 11:00"
+  },
+  {
+    "title": "These are the most active investors in Thailand’s startups",
+    "link": "https://www.techinasia.com/active-investors-thailands-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 11:00"
+  },
+  {
+    "title": "A reporter's perspective: The Jensen Huang I have known for more than 20 years",
+    "link": "https://www.digitimes.com/news/a20261114VL201/jensen-huang-nvidia-technology-digitimes-taiwan.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 10:17"
+  },
+  {
+    "title": "20 largest exits in Japan",
+    "link": "https://www.techinasia.com/20-largest-exits-japan",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 09:00"
+  },
+  {
+    "title": "SG tech firm To The New joins SpaceX AI partner network",
+    "link": "https://www.techinasia.com/mythos-quest-sea-fighting-ai-threats-obsolete-security",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 08:41"
+  },
+  {
+    "title": "Indonesia’s Privy signs digital trust partnership in Australia",
+    "link": "https://www.techinasia.com/stripe-valuation-jumps-74-159b",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 08:40"
+  },
+  {
+    "title": "China should share its renewable energy expertise",
+    "link": "https://www.scmp.com/opinion/china-opinion/article/3374104/china-should-share-its-renewable-energy-expertise",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-14 08:30"
+  },
+  {
+    "title": "SoftBank sells $200m stake in Indian ecommerce firm Meesho",
+    "link": "https://www.techinasia.com/meesho-shares-fall-5-as-lock-in-period-ends",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 07:10"
+  },
+  {
+    "title": "China’s battery giant CATL faces tough choices after epic US$130b sell-off",
+    "link": "https://www.scmp.com/business/climate-and-energy/article/3374346/chinas-battery-giant-catl-faces-tough-choices-after-epic-us130b-sell",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-14 07:00"
+  },
+  {
+    "title": "India’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/indias-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 07:00"
+  },
+  {
+    "title": "China’s startup funding, as explained in charts",
+    "link": "https://www.techinasia.com/visual-story/capital-china-chinas-funding-landscape",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 04:00"
+  },
+  {
+    "title": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge",
+    "link": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:41"
+  },
+  {
+    "title": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says",
+    "link": "https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:40"
+  },
+  {
+    "title": "Jensen Huang&rsquo;s exit threatens to upend Nvidia&rsquo;s global AI funding network",
+    "link": "https://www.digitimes.com/news/a20261113PD239/nvidia-jensen-huang-funding-ceo-investment.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:40"
+  },
+  {
+    "title": "UK steel city's deep-tech push faces mass-production and talent hurdles",
+    "link": "https://www.digitimes.com/news/a20261113PD232/uk-manufacturing-development-startup-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:40"
+  },
+  {
+    "title": "AI lifts Foxconn profits as ROE targets 12%",
+    "link": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:40"
+  },
+  {
+    "title": "Jensen Huang's Nvidia era may be over. But Taiwan isn't ready to say goodbye.",
+    "link": "https://www.digitimes.com/news/a20261114VL200/nvidia-taiwan-2022-jensen-huang-taipei.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 03:39"
+  },
+  {
+    "title": "OpenAI unveils ChatGPT Wallet for AI agent purchases",
+    "link": "https://www.techinasia.com/openai-taps-ai-security-startup-hacktron-test-systems",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 02:04"
+  },
+  {
+    "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+    "link": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+    "source": "e27 (Startups)",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 01:50"
+  },
+  {
     "title": "Samsung to produce DeepX’s next-generation AI chip",
     "link": "https://www.techinasia.com/hyundai-motor-unveils-on-device-ai-chip-for-robots",
     "source": "Tech in Asia",
@@ -422,6 +574,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-11-13 04:53"
+  },
+  {
+    "title": "Nvidia's 14-point GPU checks tighten AI server supply; full prepayment and 2027 price hikes loom",
+    "link": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-13 04:40"
   },
   {
     "title": "India’s Zoho rebuilds marketing tool with WhatsApp, AI agents",
@@ -4638,165 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-11-04 10:43"
-  },
-  {
-    "title": "‘The race is on’: Swiss bankers nod to Hong Kong’s prowess as wealth hub",
-    "link": "https://www.scmp.com/business/china-business/article/3373250/race-swiss-bankers-nod-hong-kongs-prowess-wealth-hub",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 10:00"
-  },
-  {
-    "title": "Revolut completes funding round at $115b valuation",
-    "link": "https://www.techinasia.com/uk-fintech-firm-revolut-eyes-115b-secondary-sale",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 09:50"
-  },
-  {
-    "title": "US midterm blue tsunami jolts Asian markets as tighter AI, fiscal scrutiny looms",
-    "link": "https://www.scmp.com/business/markets/article/3373266/us-midterms-blue-wave-jolts-asian-markets-tighter-ai-fiscal-scrutiny-looms",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 09:43"
-  },
-  {
-    "title": "Waymo fleet crowds San Diego chargers, straining EV access",
-    "link": "https://www.digitimes.com/news/a20261104PD211/waymo-alphabet-vehicle-2026-california.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 09:29"
-  },
-  {
-    "title": "BharatPe taps 21-year wealth veteran as head of investments",
-    "link": "https://www.techinasia.com/sg-finserve-launches-merchant-loans-bharatpe-money",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 09:28"
-  },
-  {
-    "title": "Amazon's US$2 billion Ohio data center plan faces new hurdle as voters approve ban",
-    "link": "https://www.digitimes.com/news/a20261104VL223/data-center-ban-amazon-data-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 09:27"
-  },
-  {
-    "title": "Carousell live-selling GMV up about 6x after regional push",
-    "link": "https://www.techinasia.com/secondhand-sales-surge-pushes-carousell-ebitda-profit-2025",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 09:25"
-  },
-  {
-    "title": "US election previews shift toward AI oversight and data center regulation",
-    "link": "https://www.digitimes.com/news/a20261104VL224/data-center-regulation-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 09:24"
-  },
-  {
-    "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
-    "link": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 09:16"
-  },
-  {
-    "title": "Meet the 100 top-funded startups and tech companies in China",
-    "link": "https://www.techinasia.com/top-funded-startups-tech-companies-china",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 09:00"
-  },
-  {
-    "title": "Innodisk advances AI data center push with eSSD, DDR5 products",
-    "link": "https://www.digitimes.com/news/a20261104PD249/innodisk-data-center-ddr5-ssd-memory-module.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:56"
-  },
-  {
-    "title": "Raydium faces 4Q26 slowdown after AI capacity fears fuel customer stockpiling",
-    "link": "https://www.digitimes.com/news/a20261104PD244/driver-ic-raydium-demand-capacity-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:54"
-  },
-  {
-    "title": "Broadcom loses final appeal over Samsung chip supply deal",
-    "link": "https://www.digitimes.com/news/a20261104VL221/samsung-broadcom-supreme-smartphone-2023.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:53"
-  },
-  {
-    "title": "Onsemi to buy Ferric for US$600M to strengthen AI processor power delivery",
-    "link": "https://www.digitimes.com/news/a20261104PR201/onsemi-processor-technology-revenue-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:47"
-  },
-  {
-    "title": "Weblink International posts record 3Q26 profit on AI demand",
-    "link": "https://www.digitimes.com/news/a20261104PD250/weblink-profit-demand-2026-sales.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:45"
-  },
-  {
-    "title": "Databricks opens new office, plans $350m Singapore investment",
-    "link": "https://www.techinasia.com/databricks-annualized-revenue-rises-80-69b",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 08:39"
-  },
-  {
-    "title": "Pegatron chairman says AI crisis fears after Democratic midterm win are overblown",
-    "link": "https://www.digitimes.com/news/a20261104PD251/taiwan-growth-pegatron-technology-tsmc.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:32"
-  },
-  {
-    "title": "Wingtech rejects Nexperia restructuring, cites ‘discrimination’ towards Chinese investors",
-    "link": "https://www.scmp.com/tech/tech-war/article/3373244/wingtech-rejects-nexperia-restructuring-cites-discrimination-towards-chinese-investors",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 08:30"
-  },
-  {
-    "title": "Global chip sales top US$500 billion in a single quarter for first time",
-    "link": "https://www.digitimes.com/news/a20261104VL222/revenue-sales-2026-growth-data.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 08:15"
-  },
-  {
-    "title": "Startup cuts complex hardware prototyping cycles using AI",
-    "link": "https://www.techinasia.com/startup-cuts-complex-hardware-prototyping-cycles-ai",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 08:15"
   }
 ]
