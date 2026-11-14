@@ -1,5 +1,53 @@
 [
   {
+    "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
+    "link": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:00"
+  },
+  {
+    "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
+    "link": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellite-ai-server-edge-computing-revenue-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:00"
+  },
+  {
+    "title": "Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates",
+    "link": "https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 13:01"
+  },
+  {
+    "title": "Gemtek returns to profitability on direct-supply expansion, eyes AI infrastructure and optical module growth in 2027",
+    "link": "https://www.digitimes.com/news/a20261112PD222/gemtek-networking-ic-equipment-business-growth-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 13:01"
+  },
+  {
+    "title": "Etron plans strategic stake in Powerchip Innovation Investment",
+    "link": "https://www.digitimes.com/news/a20261112PD224/etron-ic-2026-revenue-demand.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 13:00"
+  },
+  {
+    "title": "Pegatron sees networking recovery in 2027 as consumer electronics growth eases after peak",
+    "link": "https://www.digitimes.com/news/a20261112PD249/pegatron-electronics-growth-2027-recovery.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 12:58"
+  },
+  {
     "title": "Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom",
     "link": "https://www.scmp.com/economy/global-economy/article/3374338/expanding-sino-foreign-postgrad-degrees-lure-working-professionals-back-classroom",
     "source": "SCMP - Economy",
@@ -136,6 +184,14 @@
     "published_at": "2026-11-14 03:39"
   },
   {
+    "title": "Amazon eyes product data graph to strengthen AI shopping tools",
+    "link": "https://www.techinasia.com/amazon-invest-19b-delivery-expand-ai-tools",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 02:04"
+  },
+  {
     "title": "OpenAI unveils ChatGPT Wallet for AI agent purchases",
     "link": "https://www.techinasia.com/openai-taps-ai-security-startup-hacktron-test-systems",
     "source": "Tech in Asia",
@@ -144,12 +200,52 @@
     "published_at": "2026-11-14 02:04"
   },
   {
+    "title": "Mapping the players sweeping Korea’s cleantech space",
+    "link": "https://www.techinasia.com/visual-story/mapping-koreas-notable-cleantech-players",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 02:00"
+  },
+  {
+    "title": "Chinese investors face limits on Anthropic’s $1.4t IPO",
+    "link": "https://www.techinasia.com/anthropic-eyes-35b-japanese-investors-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 01:54"
+  },
+  {
     "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
     "link": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
     "source": "e27 (Startups)",
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-14 01:50"
+  },
+  {
+    "title": "DeepSeek expands developer access with new AI APIs",
+    "link": "https://www.techinasia.com/deepseek-rolls-v41flash-update-faster-outputs",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 01:39"
+  },
+  {
+    "title": "CapitalG leads $300m round for AI agent startup LangChain",
+    "link": "https://www.techinasia.com/musks-openai-lawsuit-heads-to-jury-trial-in-march-us-judge-says",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 00:54"
+  },
+  {
+    "title": "ByteDance plans up to $6b share buyback at $400b valuation",
+    "link": "https://www.techinasia.com/bytedance-founder-zhang-yiming-asias-richest",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 00:45"
   },
   {
     "title": "Samsung to produce DeepX’s next-generation AI chip",
@@ -4702,101 +4798,5 @@
     "category": "Official Stats/Policy",
     "region": "East Asia",
     "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "The Bank's Organizational Core Principles",
-    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Medium-Term Strategic Plan",
-    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Business Continuity Planning",
-    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Latest award confirms EuroEyes International as market leader",
-    "link": "https://www.scmp.com/presented/business/banking-finance/topics/euroeyes-vision-future/article/3372973/latest-award-confirms-euroeyes-international-market-leader",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 16:00"
-  },
-  {
-    "title": "Democrats’ midterm triumph sends US stocks soaring, but Tesla, SpaceX fall",
-    "link": "https://www.scmp.com/business/companies/article/3373309/democrats-midterm-triumph-sends-us-stocks-soaring-tesla-spacex-fall",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 15:06"
-  },
-  {
-    "title": "How Democratic sweep could slow AI growth in US – and help China’s ambitions",
-    "link": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 15:00"
-  },
-  {
-    "title": "SG AI startup Featherless to add MiniMax M3.1 Flash for coding",
-    "link": "https://www.techinasia.com/paths-goal-ai-fever-grips-seas-vcs",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 13:00"
-  },
-  {
-    "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
-    "link": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 11:24"
-  },
-  {
-    "title": "Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus",
-    "link": "https://www.scmp.com/economy/policy/article/3373263/chinese-exporters-see-respite-beijing-curbs-yuan-rise-amid-looming-record-surplus",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 11:00"
-  },
-  {
-    "title": "25 rising startups in the Philippines",
-    "link": "https://www.techinasia.com/50-rising-startups-philippines",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 11:00"
-  },
-  {
-    "title": "Grab’s Q3 shows a superapp quietly turning into a lender",
-    "link": "https://e27.co/grabs-q3-shows-a-superapp-quietly-turning-into-a-lender-20261104/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 10:45"
-  },
-  {
-    "title": "Former Intel packaging chief Navid Shahriari joins MediaTek as senior vice president",
-    "link": "https://www.digitimes.com/news/a20261104VL227/mediatek-packaging-intel-data-center-manufacturing.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 10:43"
   }
 ]
