@@ -1,5 +1,85 @@
 [
   {
+    "title": "The Bank's Organizational Core Principles",
+    "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-14 23:42"
+  },
+  {
+    "title": "Medium-Term Strategic Plan",
+    "link": "https://www.boj.or.jp/en/about/activities/strategy/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-14 23:42"
+  },
+  {
+    "title": "Business Continuity Planning",
+    "link": "https://www.boj.or.jp/en/about/bcp/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-14 23:42"
+  },
+  {
+    "title": "Synopsys sees AI accelerating EDA as chip-specific models divide work",
+    "link": "https://www.digitimes.com/news/a20261112PD239/synopsys-eda-openai-development-design.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 18:59"
+  },
+  {
+    "title": "AUO Mobility Solutions to showcase next-gen smart cockpit at CES 2027",
+    "link": "https://www.digitimes.com/news/a20261112PD246/auo-smart-cockpit-2027-ces-subsidiary.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:59"
+  },
+  {
+    "title": "Foxconn targets automotive chiplets with 5&mu;m fan-out RDL packaging",
+    "link": "https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:59"
+  },
+  {
+    "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+    "link": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:59"
+  },
+  {
+    "title": "MetaX-UBTech robot chip venture Xilect raises CNY500 million to take on Nvidia Thor",
+    "link": "https://www.digitimes.com/news/a20261112VL205/robot-nvidia-metax-gpu-software.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:58"
+  },
+  {
+    "title": "Hoya reportedly unable to meet Samsung's full 2027 EUV mask blank request",
+    "link": "https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:57"
+  },
+  {
+    "title": "Why a North Dakota town backed AI data center development",
+    "link": "https://www.digitimes.com/news/a20261112PD212/data-center-development-2026-data.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:01"
+  },
+  {
     "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
     "link": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -4718,85 +4798,5 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-11-04 23:40"
-  },
-  {
-    "title": "Could Shanghai project smooth indebted New World’s path to cash?",
-    "link": "https://www.scmp.com/business/companies/article/3373251/could-shanghai-project-smooth-indebted-new-worlds-path-cash",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-04 23:00"
-  },
-  {
-    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
-    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
-    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Monetary Policy Committee Meeting",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Monetary Policy Publications",
-    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
-    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Head Office, Branches, and Overseas Offices",
-    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
-    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
-  },
-  {
-    "title": "Organization of Head office, Branches and Offices",
-    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
-    "source": "Bank of Japan (BOJ)",
-    "category": "Official Stats/Policy",
-    "region": "East Asia",
-    "published_at": "2026-11-04 19:28"
   }
 ]
