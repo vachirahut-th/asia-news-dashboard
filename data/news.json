@@ -1,5 +1,101 @@
 [
   {
+    "title": "NewsLatest news from the BOT",
+    "link": "https://www.bot.or.th/en/news-and-media/news.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 15:25"
+  },
+  {
+    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
+    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 15:25"
+  },
+  {
+    "title": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
+    "link": "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 14:00"
+  },
+  {
+    "title": "Indebted Hong Kong developer New World offers shares at 81% discount in US$3.2b cash call",
+    "link": "https://www.scmp.com/business/companies/article/3374507/indebted-hong-kong-developer-new-world-offers-shares-81-discount-us32b-cash-call",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 13:57"
+  },
+  {
+    "title": "‘Black swans’ and ‘grey rhinos’: China’s regulator warns of risks amid global turmoil",
+    "link": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 13:45"
+  },
+  {
+    "title": "Interview: Nvidia backs UK quantum startup Riverlane to solve latency, computing bottlenecks",
+    "link": "https://www.digitimes.com/news/a20261110PD233/uk-nvidia-technology-startup-quantum-computing.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-15 12:57"
+  },
+  {
+    "title": "These are the most active investors in Philippine startups",
+    "link": "https://www.techinasia.com/active-investors-philippines-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 11:00"
+  },
+  {
+    "title": "Megaspeed rejects claims over supply chain as Nvidia-linked scrutiny intensifies",
+    "link": "https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 10:10"
+  },
+  {
+    "title": "20 largest exits in Korea",
+    "link": "https://www.techinasia.com/20-largest-exits-korea",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 09:00"
+  },
+  {
+    "title": "Over 100 Fortune Global 500 firms head to Shenzhen as Apec spotlight turns to CEO Summit",
+    "link": "https://www.scmp.com/economy/global-economy/article/3374487/over-100-fortune-global-500-firms-head-shenzhen-apec-spotlight-turns-ceo-summit",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 08:51"
+  },
+  {
+    "title": "Dubai, Abu Dhabi property markets could gain if Trump’s midterm losses help end Iran war",
+    "link": "https://www.scmp.com/business/article/3374377/dubai-abu-dhabi-property-markets-could-gain-if-trumps-midterm-losses-help-end-iran-war",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 07:00"
+  },
+  {
+    "title": "Japan’s top-funded tech companies in the last decade",
+    "link": "https://www.techinasia.com/visual-story/japans-topfunded-tech-companies-decade",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 07:00"
+  },
+  {
     "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
     "link": "https://www.bot.or.th/en/news-and-media/activities.html",
     "source": "Bank of Thailand (BOT)",
@@ -160,6 +256,14 @@
     "published_at": "2026-11-14 18:59"
   },
   {
+    "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+    "link": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:59"
+  },
+  {
     "title": "AUO Mobility Solutions to showcase next-gen smart cockpit at CES 2027",
     "link": "https://www.digitimes.com/news/a20261112PD246/auo-smart-cockpit-2027-ces-subsidiary.html",
     "source": "Digitimes (Tech/Semicon)",
@@ -206,6 +310,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-11-14 17:01"
+  },
+  {
+    "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
+    "link": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellites--leo-ai-server-edge-computing-revenue-business.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-14 17:00"
   },
   {
     "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
@@ -566,6 +678,14 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-13 08:51"
+  },
+  {
+    "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
+    "link": "https://www.digitimes.com/news/a20261113VL234/2035-nvidia-jensen-huang-outlook.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-13 08:35"
   },
   {
     "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
@@ -4678,125 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-11-05 06:00"
-  },
-  {
-    "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
-    "link": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 05:45"
-  },
-  {
-    "title": "Meta acquires AI coding startup Conductor",
-    "link": "https://www.techinasia.com/meta-launches-muse-rival-openai-anthropic",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:41"
-  },
-  {
-    "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
-    "link": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:35"
-  },
-  {
-    "title": "AI meets laptop refurbishment in this startup’s facility",
-    "link": "https://www.techinasia.com/ai-meets-laptop-refurbishment-startups-facility",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:30"
-  },
-  {
-    "title": "Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?",
-    "link": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:12"
-  },
-  {
-    "title": "Mapping Japan’s prominent cleantech startups",
-    "link": "https://www.techinasia.com/visual-story/mapping-japans-prominent-cleantech-startups",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:00"
-  },
-  {
-    "title": "The step zero problem of the startup ecosystem",
-    "link": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 04:00"
-  },
-  {
-    "title": "Zerodha’s Rainmatter backs agri-waste startup AltM’s $10.3m",
-    "link": "https://www.techinasia.com/sam-altman-backed-transit-tech-startup-glydways-seeks-250m",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:17"
-  },
-  {
-    "title": "China stocks extend rebound on state support, US midterm results",
-    "link": "https://www.scmp.com/business/china-business/article/3373336/china-stocks-extend-rebound-state-support-us-midterm-results",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 03:17"
-  },
-  {
-    "title": "Nykaa’s Q2 net profit jumps 206% to $10.7m",
-    "link": "https://www.techinasia.com/indias-nykaa-targets-high20-gmv-growth-q4",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:08"
-  },
-  {
-    "title": "Visa opens six global hubs in Singapore for AI, stablecoins",
-    "link": "https://www.techinasia.com/visa-nium-join-masled-project-bloom-stablecoin-pilot",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:06"
-  },
-  {
-    "title": "Indian edtech firm PhysicsWallah swings to $15m profit",
-    "link": "https://www.techinasia.com/indian-edtech-firm-physicswallah-eyes-3-6b-valuation-in-ipo",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:04"
-  },
-  {
-    "title": "OpenAI launches Images 2.6 with GIFs, 50% faster generation",
-    "link": "https://www.techinasia.com/openai-launches-gpt61-terra-50-api-prices",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:01"
-  },
-  {
-    "title": "Physiotherapist’s clinical mindset shapes approach to managing business and wealth across borders",
-    "link": "https://www.scmp.com/native/business/banking-finance/topics/wealth-across-borders/article/3373058/physiotherapists-clinical-mindset-shapes-approach-managing-business-and-wealth-across-borders",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 03:00"
-  },
-  {
-    "title": "Why global expansion demands a different mindset today",
-    "link": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 03:00"
   }
 ]
