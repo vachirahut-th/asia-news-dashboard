@@ -1,5 +1,133 @@
 [
   {
+    "title": "Activities and EventsEvents/Activities held by the BOT to strengthen relationships with stakeholders",
+    "link": "https://www.bot.or.th/en/news-and-media/activities.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Financial Institutions HolidayList of holidays for financial institutions and specialized financial institutions",
+    "link": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Monetary PolicyMaintaining the price levels not to fluctuate too quickly in order to support the nation's sustainable economic development",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Monetary Policy Committee Meeting",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Monetary Policy Publications",
+    "link": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-publication.html",
+    "source": "Bank of Thailand (BOT)",
+    "category": "Official Stats/Policy",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Location (Guide Map to Head Office) / Visiting the Bank",
+    "link": "https://www.boj.or.jp/en/about/outline/location/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Head Office, Branches, and Overseas Offices",
+    "link": "https://www.boj.or.jp/en/about/outline/location/map.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Responsibilities of the Governor, Deputy Governors, and Executive Directors",
+    "link": "https://www.boj.or.jp/en/about/organization/tanto.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "Organization of Head office, Branches and Offices",
+    "link": "https://www.boj.or.jp/en/about/organization/chart/index.htm",
+    "source": "Bank of Japan (BOJ)",
+    "category": "Official Stats/Policy",
+    "region": "East Asia",
+    "published_at": "2026-11-15 05:19"
+  },
+  {
+    "title": "OpenAI folds standalone robotics team into main units",
+    "link": "https://www.techinasia.com/openai-raises-11b-125t-valuation-funding",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 05:11"
+  },
+  {
+    "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+    "link": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 05:00"
+  },
+  {
+    "title": "UBS unveils new West Kowloon hub to tap Greater Bay Area wealth",
+    "link": "https://www.scmp.com/business/companies/article/3374426/ubs-unveils-new-west-kowloon-hub-tap-greater-bay-area-wealth",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 03:00"
+  },
+  {
+    "title": "Blackstone-backed AirTrunk files $11b India data center plan",
+    "link": "https://www.techinasia.com/airtrunk-enters-india-with-lumina-cloudinfra-deal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 00:29"
+  },
+  {
+    "title": "Strong office rental growth keeps US investors in Japan despite rate increases",
+    "link": "https://www.scmp.com/property/international/article/3374432/strong-office-rental-growth-keeps-us-investors-japan-despite-rate-increases",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-15 00:00"
+  },
+  {
+    "title": "A cheat sheet of M&As in India",
+    "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-india",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-15 00:00"
+  },
+  {
+    "title": "UK, Singapore, Thailand test cross-border FX settlement",
+    "link": "https://www.techinasia.com/european-central-bank-launches-blockchain-platform-markets",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-14 23:48"
+  },
+  {
     "title": "The Bank's Organizational Core Principles",
     "link": "https://www.boj.or.jp/en/about/activities/principle.htm",
     "source": "Bank of Japan (BOJ)",
@@ -4670,133 +4798,5 @@
     "category": "Technology",
     "region": "Southeast Asia",
     "published_at": "2026-11-05 03:00"
-  },
-  {
-    "title": "Redefining Investment Advisory in the Age of AI",
-    "link": "https://www.scmp.com/presented/business/topics/ai-wealth-management/article/3373210/redefining-investment-advisory-age-ai",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 02:55"
-  },
-  {
-    "title": "Chinese banks explore local e-CNY wallets for foreign firms via upgraded platform",
-    "link": "https://www.scmp.com/business/banking-finance/article/3373264/chinese-banks-explore-local-e-cny-wallets-foreign-firms-upgraded-platform",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 02:00"
-  },
-  {
-    "title": "Diversification and flexibility key to investment in challenging times",
-    "link": "https://www.scmp.com/native/business/topics/achieving-long-term-wealth-growth/article/3367387/diversification-and-flexibility-key-investment-challenging-times",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 02:00"
-  },
-  {
-    "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
-    "link": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 02:00"
-  },
-  {
-    "title": "Why Hong Kong wealth managers want broader access to mainland China’s Nasdaq-style markets",
-    "link": "https://www.scmp.com/business/banking-finance/article/3373269/why-hong-kong-wealth-managers-want-broader-access-mainland-chinas-nasdaq-style-markets",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-05 01:00"
-  },
-  {
-    "title": "AI might be the final boss for your best ideas",
-    "link": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 01:00"
-  },
-  {
-    "title": "NewsLatest news from the BOT",
-    "link": "https://www.bot.or.th/en/news-and-media/news.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 00:45"
-  },
-  {
-    "title": "SpeechesLatest Speeches of Governor, Deputy Governors and BOT Executive",
-    "link": "https://www.bot.or.th/en/news-and-media/speeches.html",
-    "source": "Bank of Thailand (BOT)",
-    "category": "Official Stats/Policy",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-05 00:45"
-  },
-  {
-    "title": "GlobalFoundries revenue rises 13% as data center demand offsets mobile decline",
-    "link": "https://www.digitimes.com/news/a20261105VL202/globalfoundries-revenue-mobile-demand-data-center.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:46"
-  },
-  {
-    "title": "Qualcomm's September-quarter revenue falls 8% as handset slump outweighs automotive gains",
-    "link": "https://www.digitimes.com/news/a20261105VL200/qualcomm-revenue-automotive-business-growth.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:45"
-  },
-  {
-    "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
-    "link": "https://www.digitimes.com/news/a20261105VL201/arm-revenue-licensing-demand-smartphone.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:44"
-  },
-  {
-    "title": "Taiwan-Netherlands launch four photonics R&amp;D partnerships",
-    "link": "https://www.digitimes.com/news/a20261104PD255/taiwan-netherlands-photonics-technology-development.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:43"
-  },
-  {
-    "title": "oToBrite and Yuan build robot vision chain for Nvidia platform",
-    "link": "https://www.digitimes.com/news/a20261104PD252/otobrite-vehicle-3d-camera-module-transmission.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:42"
-  },
-  {
-    "title": "Chicony Power profit hit by notebooks in Q3 2026",
-    "link": "https://www.digitimes.com/news/a20261104PD248/chicony-power-2026-profit-revenue-leo.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:41"
-  },
-  {
-    "title": "Airoha targets multibillion growth as 100G ramps, 200G tapes out",
-    "link": "https://www.digitimes.com/news/a20261104PD224/airoha-growth-business-communications-mediatek.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:40"
-  },
-  {
-    "title": "Empyrean's EDA acquisitions could give Korean chip designers cheaper tools&mdash;and stronger Chinese rivals",
-    "link": "https://www.digitimes.com/news/a20261104VL217/design-empyrean-technology-eda-software-revenue.html",
-    "source": "Digitimes (Tech/Semicon)",
-    "category": "Technology",
-    "region": "East Asia",
-    "published_at": "2026-11-04 23:40"
   }
 ]
