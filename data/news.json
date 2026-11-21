@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+    "link": "https://www.digitimes.com/news/a20261120PD247/tesla-shanghai-elon-musk-manufacturing-ceo.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-21 14:14"
+  },
+  {
+    "title": "Trump says Jensen Huang should apologize and return to Nvidia",
+    "link": "https://www.digitimes.com/news/a20261121VL200/nvidia-donald-trump-jensen-huang-taiwan-taipei.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-21 14:14"
+  },
+  {
     "title": "Mapping the dominant players in Israel’s AI field",
     "link": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field",
     "source": "Tech in Asia",
@@ -128,12 +144,52 @@
     "published_at": "2026-11-21 03:01"
   },
   {
+    "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
+    "link": "https://www.techinasia.com/spacex-acquires-cursor-60b-stock-deal",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-21 02:35"
+  },
+  {
     "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
     "link": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
     "source": "SCMP - Economy",
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-11-21 02:30"
+  },
+  {
+    "title": "These funds have not invested in India in the past year",
+    "link": "https://www.techinasia.com/funds-invested-india-year",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-21 02:00"
+  },
+  {
+    "title": "Chinese robotaxi firm WeRide’s Q3 revenue jumps 88%",
+    "link": "https://www.techinasia.com/uber-weride-launch-driverless-taxis-abu-dhabi",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-21 01:58"
+  },
+  {
+    "title": "ByteDance data center supplier DayOne pauses $5b US IPO",
+    "link": "https://www.techinasia.com/singapore-data-center-operator-dayone-files-ipo",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-21 01:32"
+  },
+  {
+    "title": "Bitcoin drops below $60,000 as investors retreat from risk",
+    "link": "https://www.techinasia.com/nvidias-jensen-huang-resigns-ceo-effective-immediately",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-21 01:31"
   },
   {
     "title": "It’s a post-Anthropic IPO world",
@@ -590,6 +646,14 @@
     "category": "Technology",
     "region": "East Asia",
     "published_at": "2026-11-20 04:01"
+  },
+  {
+    "title": "SK Hynix pitches memory-centric AI rack system at SC26 as rivals close in",
+    "link": "https://www.digitimes.com/news/a20261120VL211/sk-hynix-hbm-2026-dram-samsung.html",
+    "source": "Digitimes (Tech/Semicon)",
+    "category": "Technology",
+    "region": "East Asia",
+    "published_at": "2026-11-20 04:00"
   },
   {
     "title": "Japan’s startup funding, as explained in charts",
@@ -4734,69 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-11-12 00:00"
-  },
-  {
-    "title": "A Chinese Maserati? Huawei-backed EV firm nears pact with Italian marque, sources say",
-    "link": "https://www.scmp.com/business/china-evs/article/3374072/chinese-maserati-huawei-backed-ev-firm-nears-pact-italian-marque-sources-say",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 23:00"
-  },
-  {
-    "title": "China’s Huawei to roll out new smartphone brand Osta, 6 years after giving up Honor",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3374099/chinas-huawei-roll-out-new-smartphone-brand-osta-6-years-after-giving-honor",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 12:30"
-  },
-  {
-    "title": "BYD apologises for wheel-rim error as China cracks down on car quality issues",
-    "link": "https://www.scmp.com/business/china-evs/article/3374098/byd-apologises-wheel-rim-error-china-cracks-down-car-quality-issues",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 11:32"
-  },
-  {
-    "title": "Swire Properties and Thai partner bank on Upper House brand in Bangkok",
-    "link": "https://www.scmp.com/business/article/3374093/swire-properties-and-thai-partner-bank-upper-house-brand-bangkok",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 11:00"
-  },
-  {
-    "title": "Singapore fan app Huddle raises $1.3m seed round",
-    "link": "https://www.techinasia.com/indian-healthcare-startup-oncare-raises-2-9m-series-a",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-11 10:10"
-  },
-  {
-    "title": "Tata Motors, Turno partner on electric vehicle financing",
-    "link": "https://www.techinasia.com/indian-electric-platform-drivn-secures-up-to-80m-from-nomuraindian-ev-leasing-startup-drivn-secures-80m-nomura",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-11 09:51"
-  },
-  {
-    "title": "Next-gen ultrasound cancer treatment advances: does the evidence match commercial hype?",
-    "link": "https://www.scmp.com/business/companies/article/3374076/next-gen-ultrasound-cancer-treatment-advances-does-evidence-match-commercial-hype",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 09:30"
-  },
-  {
-    "title": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
-    "link": "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-11 09:19"
   }
 ]
