@@ -1,5 +1,37 @@
 [
   {
+    "title": "Mapping the firms dominating Japan’s health sector",
+    "link": "https://www.techinasia.com/visual-story/mapping-firms-dominating-japans-health-sector",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-22 11:00"
+  },
+  {
+    "title": "These are the most active investors in Japan’s startups",
+    "link": "https://www.techinasia.com/active-investors-japans-startups",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-22 09:00"
+  },
+  {
+    "title": "Series SEA: Who’s investing in the region’s fintech startups?",
+    "link": "https://www.techinasia.com/top-sea-investors-fintech",
+    "source": "Tech in Asia",
+    "category": "Technology",
+    "region": "Southeast Asia",
+    "published_at": "2026-11-22 07:00"
+  },
+  {
+    "title": "What tools does New World have to slash debts after its HK$24.9 billion rights issue?",
+    "link": "https://www.scmp.com/business/banking-finance/article/3375322/what-tools-does-new-world-have-slash-debts-after-its-hk249-billion-rights-issue",
+    "source": "SCMP - Economy",
+    "category": "Economy",
+    "region": "China/East Asia",
+    "published_at": "2026-11-22 06:00"
+  },
+  {
     "title": "A list of fundraising startups from Asia and beyond (Updated)",
     "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
     "source": "Tech in Asia",
@@ -4766,37 +4798,5 @@
     "category": "Economy",
     "region": "China/East Asia",
     "published_at": "2026-11-12 04:00"
-  },
-  {
-    "title": "South Korea’s startup funding, as explained in charts",
-    "link": "https://www.techinasia.com/visual-story/capital-south-korea-south-koreas-funding-landscape",
-    "source": "Tech in Asia",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-12 04:00"
-  },
-  {
-    "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
-    "link": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-12 04:00"
-  },
-  {
-    "title": "AI agents can hand over working code and still lose the decision that made it right",
-    "link": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
-    "source": "e27 (Startups)",
-    "category": "Technology",
-    "region": "Southeast Asia",
-    "published_at": "2026-11-12 03:00"
-  },
-  {
-    "title": "Losing steam? Hong Kong hit by run of lacklustre IPOs amid tepid investor demand",
-    "link": "https://www.scmp.com/business/markets/article/3374132/losing-steam-hong-kong-hit-run-lacklustre-ipos-amid-tepid-investor-demand",
-    "source": "SCMP - Economy",
-    "category": "Economy",
-    "region": "China/East Asia",
-    "published_at": "2026-11-12 02:01"
   }
 ]
